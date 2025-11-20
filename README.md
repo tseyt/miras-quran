@@ -35,8 +35,17 @@ The project separates data from logic. The source of truth is data/quran\_data.y
 
 Open data/quran\_data.yaml and add a new entry under surahs:
 
-```json
-- id: 114    title: "An-Nas"    english: "Mankind"    type: "Meccan"    total_verses: 6    content:      - verse: 1        segments:          arabic: ...          english: ...
+```yaml
+  - id: 114
+    title: "An-Nas"
+    english: "Mankind"
+    type: "Meccan"
+    total_verses: 6
+    content:
+      - verse: 1
+        segments:
+          arabic: ...
+          english: ...
 ```
 
 ### 
