@@ -61,4 +61,4 @@ def validate_and_build(yaml_path, json_output_path):
     print("Build complete.")
 
 if __name__ == "__main__":
-    validate_and_build('quran_data.yaml', 'quran_data.json')
+    validate_and_build('data/quran_data.yaml', 'src/quran_data.json')
