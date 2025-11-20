@@ -35,19 +35,40 @@ The project separates data from logic. The source of truth is data/quran\_data.y
 
 Open data/quran\_data.yaml and add a new entry under surahs:
 
-  \- id: 114  
-    title: "An-Nas"  
-    english: "Mankind"  
-    type: "Meccan"  
-    total\_verses: 6  
-    content:  
-      \- verse: 1  
-        segments:  
-          arabic: ...  
-          english: ...
+```json
+- id: 114    title: "An-Nas"    english: "Mankind"    type: "Meccan"    total_verses: 6    content:      - verse: 1        segments:          arabic: ...          english: ...
+```
+
+### 
 
 ### **2\. Adding a New Language**
 
 1. Add the language metadata to the meta.languages list in quran\_data.yaml.  
 2. Add the segments to every verse in content.  
-3. Update src/QuranHighlighter.jsx to render the new language block (look for the THEMES object 
+3. Update QuranHighlighter.jsx component to render the new language block (look for the THEMES object and the render loop).
+
+### **3\. Compiling Data**
+
+After editing the YAML, compile it to JSON for the React app to consume.
+
+```
+python3 scripts/build_data.py
+```
+
+This script performs validation to ensure that every Concept ID (CID) used in a translation actually exists in the Arabic source text.
+
+## **Architecture**
+
+* **QuranHighlighter.jsx**: The main React component. It handles the view state, density calculations, and rendering.  
+* **quran\_data.yaml**: The database.  
+* **build\_data.py**: The ETL pipeline.
+
+## **Credits**
+
+* **Crimean Tatar Translation:** Sait Dizen & Zakir Qurtnezir  
+* **English Translation:** M.A.S. Abdel Haleem (Oxford World's Classics)  
+* **Turkish Translation:** Elmalılı Hamdi Yazır
+
+## **License**
+
+MIT License. Use this code to build your own Quranic tools.
