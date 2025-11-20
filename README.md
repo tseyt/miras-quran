@@ -1,6 +1,6 @@
 # **Miras Quran \- Semantic Syntax Mapping**
 
-**Miras Quran** is a modern, React-based Quranic study tool designed to bridge the linguistic gap between the source Arabic and translations using **Semantic Concept Mapping**.
+**Miras Quran** is a modern, React-based Quranic language study tool designed to bridge the linguistic gap between the source Arabic and translations using **Semantic Concept Mapping**.
 
 Unlike traditional word-by-word translations that often break under the weight of different grammar rules (like SVO vs SOV languages), Miras assigns a **Concept ID (CID)** to semantic chunks. This allows us to map "The Master of the Day of Judgment" (English) to "Ceza kunüniñ saibidir" (Crimean Tatar) accurately, even though the word order is completely reversed.
 
