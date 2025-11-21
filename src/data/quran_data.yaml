@@ -72,6 +72,7 @@ surahs:
             - { text: "ismiyle.", cid: 1 }
 
       - verse: 2
+        context_mapped: true
         segments:
           arabic:
             - { text: "ٱلْحَمْدُ", cid: 1 }
@@ -107,6 +108,7 @@ surahs:
             - { text: "Rabbi,", cid: 3 }
 
       - verse: 3
+        context_mapped: true
         segments:
           arabic:
             - { text: "ٱلرَّحْمَٰنِ", cid: 1 }
@@ -130,6 +132,7 @@ surahs:
             - { text: "Rahim,", cid: 2 }
 
       - verse: 4
+        context_mapped: true
         segments:
           arabic:
             - { text: "مَٰلِكِ", cid: 1 }
@@ -162,6 +165,7 @@ surahs:
             - { text: "Allah'ın.", cid: 4 }
 
       - verse: 5
+        context_mapped: true
         segments:
           arabic:
             - { text: "إِيَّاكَ", cid: 1 }
@@ -199,6 +203,7 @@ surahs:
             - { text: " (Ya Rab!).", cid: 0 }
 
       - verse: 6
+        context_mapped: true
         segments:
           arabic:
             - { text: "ٱهْدِنَا", cid: 1 }
@@ -230,6 +235,7 @@ surahs:
             - { text: "yola,", cid: 2 }
 
       - verse: 7
+        context_mapped: true
         segments:
           arabic:
             - { text: "صِرَٰطَ", cid: 1 }

@@ -29,6 +29,6 @@ export const LAYOUT_STYLES = {
     footer: "text-center text-slate-400 text-sm py-8 border-t border-slate-200 dark:border-slate-800 mt-8",
 
     // VerseCard specific
-    card: "bg-white dark:bg-slate-900 rounded-none sm:rounded-xl shadow-sm border-y sm:border border-slate-200 dark:border-slate-800 overflow-hidden transition-colors duration-300 flex flex-row",
-    gutter: "w-10 sm:w-12 shrink-0 bg-slate-50 dark:bg-slate-800/50 border-r border-slate-100 dark:border-slate-800 flex flex-col items-center gap-1 relative",
+    card: "bg-white dark:bg-slate-900 rounded-none sm:rounded-xl shadow-sm border-y sm:border border-slate-200 dark:border-slate-800 overflow-hidden transition-colors duration-300 flex flex-col relative",
+    // gutter style removed as it is no longer used
 };

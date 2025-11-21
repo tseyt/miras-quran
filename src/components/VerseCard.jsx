@@ -62,18 +62,24 @@ export default function VerseCard({
         <div
             className={LAYOUT_STYLES.card}
         >
-            {/* Left Gutter - Absolute positioned ID to prevent height expansion */}
-            <div
-                className={LAYOUT_STYLES.gutter}
-                style={{ paddingTop: `${spacingUnit}px`, paddingBottom: `${spacingUnit}px` }}
-            >
-                <span className="text-xs font-bold text-slate-400">{verse.verse}</span>
-                <span className="absolute bottom-1 right-1 text-[10px] font-mono text-emerald-500/70">
+            {/* Verse ID - Top Left */}
+            <div className="absolute top-2 left-2 z-10 flex items-center gap-1">
+                <span className="text-xs font-bold text-slate-400 bg-slate-50 dark:bg-slate-800 px-1.5 py-0.5 rounded">
+                    {verse.verse}
+                </span>
+                {verse.context_mapped && (
+                    <span className="w-2 h-2 rounded-full bg-emerald-500" title="Context Mapped"></span>
+                )}
+            </div>
+
+            {/* Concept ID - Bottom Right */}
+            <div className="absolute bottom-1 right-1 z-10">
+                <span className="text-[10px] font-mono text-emerald-500/70 bg-slate-50/80 dark:bg-slate-800/80 px-1 rounded">
                     {activeSegment.verseId === verse.id && activeSegment.cid ? activeSegment.cid : ""}
                 </span>
             </div>
 
-            <div className="flex-1 min-w-0" style={{ padding: `${spacingUnit}px` }}>
+            <div className="flex-1 min-w-0" style={{ padding: `${spacingUnit}px`, paddingTop: `${spacingUnit + 10}px` }}>
 
                 <div style={{ display: 'flex', flexDirection: 'column', gap: `${internalVerticalGap}px` }}>
 
@@ -98,9 +104,6 @@ export default function VerseCard({
                                         {seg.text}
                                     </span>
                                 ))}
-                                <span className="text-emerald-600 font-sans mr-2 text-[0.6em] inline-flex items-center justify-center border border-emerald-600 rounded-full w-[1.2em] h-[1.2em] leading-none align-middle select-none opacity-70">
-                                    {verse.verse}
-                                </span>
                             </p>
                         </div>
                     )}
