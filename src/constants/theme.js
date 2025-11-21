@@ -20,10 +20,10 @@ export const THEMES = {
 
 export const LAYOUT_STYLES = {
     pageWrapper: "flex flex-col h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-300 font-sans overflow-hidden",
-    header: "flex flex-col shrink-0 z-30 shadow-sm bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800",
+    header: "flex flex-col shrink-0 z-30 shadow-sm bg-white dark:bg-slate-900",
     headerContent: "px-6 py-3 flex justify-between items-center",
     controls: "border-t border-slate-100 dark:border-slate-800 bg-white dark:bg-slate-900 px-6 py-4 animate-in fade-in slide-in-from-top-1 duration-200",
-    navigation: "bg-slate-50 dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800 px-6 py-3 flex flex-col md:flex-row gap-4 justify-between items-center",
+    navigation: "bg-slate-50 dark:bg-slate-950 border-b border-slate-200 dark:border-slate-800 px-6 py-3 flex flex-col md:flex-row gap-4 justify-between items-center",
     main: "flex-1 overflow-y-auto bg-slate-50 dark:bg-slate-950 p-0 sm:p-4 scroll-smooth",
     container: "max-w-4xl mx-auto",
     footer: "text-center text-slate-400 text-sm py-8 border-t border-slate-200 dark:border-slate-800 mt-8",
