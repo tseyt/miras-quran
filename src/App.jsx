@@ -22,10 +22,13 @@ export default function App() {
 
     const [baseFontSize, setBaseFontSize] = useState(18);
 
-    const spacingUnit = Math.max(8, baseFontSize - 6);
+    const spacingUnit = Math.max(8, baseFontSize * 0.8);
     const panelGap = Math.max(0, (baseFontSize - 14) * 2);
     const horizontalGap = Math.max(8, (baseFontSize - 14) + 8);
     const internalVerticalGap = Math.max(0, (baseFontSize - 14) * 1.5);
+
+    // Dynamic container width: scales from 1280px (5xl) to 1600px (6xl) as font size increases
+    const containerMaxWidth = Math.min(1600, 1280 + (baseFontSize - 18) * 25);
 
     const currentSurah = SURAH_LIST.find(s => s.id === activeSurahId) || SURAH_LIST[0];
     const surahContent = QURAN_CONTENT[activeSurahId] || [];
@@ -59,7 +62,7 @@ export default function App() {
             />
 
             <main className={LAYOUT_STYLES.main}>
-                <div className={LAYOUT_STYLES.container}>
+                <div className={LAYOUT_STYLES.container} style={{ maxWidth: `${containerMaxWidth}px` }}>
 
                     <div className="flex flex-col py-4 sm:py-8" style={{ gap: `${panelGap}px` }}>
                         {surahContent.length > 0 ? (
