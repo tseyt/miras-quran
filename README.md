@@ -27,13 +27,13 @@ Unlike traditional word-by-word translations that often break under the weight o
 3. Run the development server:  
    npm run dev
 
-## **Data Pipeline**
+## **Contributing Data**
 
-The project separates data from logic. The source of truth is data/quran\_data.yaml.
+The project separates data from logic. The source of truth is `src/data/quran_data.yaml`.
 
-### **1\. Adding a New Surah**
+### **1. Adding a New Surah**
 
-Open data/quran\_data.yaml and add a new entry under surahs:
+Open `src/data/quran_data.yaml` and add a new entry under `surahs`:
 
 ```yaml
   - id: 114
@@ -48,29 +48,35 @@ Open data/quran\_data.yaml and add a new entry under surahs:
           english: ...
 ```
 
-### 
+### **2. Adding a New Language**
 
-### **2\. Adding a New Language**
+1. Add the language metadata to the `meta.languages` list in `src/data/quran_data.yaml`.
+2. Add the segments to every verse in `content`.
+3. Update `src/components/VerseCard.jsx` and `src/constants/theme.js` to render the new language block.
 
-1. Add the language metadata to the meta.languages list in quran\_data.yaml.  
-2. Add the segments to every verse in content.  
-3. Update QuranHighlighter.jsx component to render the new language block (look for the THEMES object and the render loop).
+### **3. Context Mapping (Concept IDs)**
 
-### **3\. Compiling Data**
+Miras uses **Concept IDs (CIDs)** to map semantic chunks across languages.
+- `cid: 0` is used for particles or words that don't map directly to a core concept in the other language.
+- `cid: >0` represents a unique semantic concept within that verse.
 
-After editing the YAML, compile it to JSON for the React app to consume.
+**Rule:** A CID used in a translation MUST exist in the Arabic source.
 
+### **4. Validation**
+
+After editing the YAML, run the validation script to ensure data integrity:
+
+```bash
+python3 scripts/validate_data.py
 ```
-python3 scripts/build_data.py
-```
 
-This script performs validation to ensure that every Concept ID (CID) used in a translation actually exists in the Arabic source text.
+This script checks that every Concept ID (CID) used in a translation actually exists in the Arabic source text.
 
 ## **Architecture**
 
-* **QuranHighlighter.jsx**: The main React component. It handles the view state, density calculations, and rendering.  
-* **quran\_data.yaml**: The database.  
-* **build\_data.py**: The ETL pipeline.
+* **VerseCard.jsx**: The main React component for displaying verses.
+* **src/data/quran_data.yaml**: The single source of truth for Quranic data.
+* **scripts/validate_data.py**: The data integrity validation tool.
 
 ## **Credits**
 
