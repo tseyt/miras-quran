@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BookOpen, Heart } from 'lucide-react';
+import { BookOpen, Heart, Github, Flag } from 'lucide-react';
 import Header from './components/Header';
 import Controls from './components/Controls';
 import Navigation from './components/Navigation';
@@ -94,6 +94,17 @@ export default function App() {
                             Made with <Heart className="w-3 h-3 text-rose-500 fill-rose-500" /> for the Ümmet
                         </p>
                         <p className="mt-2 text-xs opacity-75">Credits: Sait Dizen & Zakir Qurtnezir (CRH), Abdel Haleem (EN), Elmalılı (TR)</p>
+
+                        <div className="flex items-center justify-center gap-4 mt-4">
+                            <a href="https://github.com/tseyt/miras-quran" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs text-slate-400 hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
+                                <Github className="w-3 h-3" />
+                                <span>GitHub</span>
+                            </a>
+                            <a href="https://github.com/tseyt/miras-quran/issues" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs text-slate-400 hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
+                                <Flag className="w-3 h-3" />
+                                <span>Report Issue</span>
+                            </a>
+                        </div>
                     </footer>
 
                 </div>
