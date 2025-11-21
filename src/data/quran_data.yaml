@@ -20,6 +20,11 @@ meta:
       name: "Turkish"
       translator: "Elmalılı Hamdi Yazır"
       direction: "ltr"
+  contexts:
+    1: "Divine Name"
+    2: "Attribute of Mercy"
+    3: "Attribute of Lordship"
+    4: "Attribute of Judgment"
 
 surahs:
   - id: 1
@@ -29,6 +34,7 @@ surahs:
     total_verses: 7
     content:
       - verse: 1
+        context_mapped: true
         segments:
           arabic:
             - { text: "بِسْمِ", cid: 1 }
