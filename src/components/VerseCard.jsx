@@ -80,7 +80,7 @@ export default function VerseCard({
                             if (langCode === 'ar') {
                                 return (
                                     <div key={langCode} className="text-right pl-2" dir="rtl" style={{ marginBottom: isFirst && activeLangEntries.length > 1 ? `${internalVerticalGap}px` : '0px' }}>
-                                        <p className="font-serif text-slate-800 dark:text-slate-100" style={{ fontSize: `${baseFontSize * 2.0}px`, lineHeight: '1.7' }}>
+                                        <p className="font-serif text-slate-800 dark:text-slate-100 break-words" style={{ fontSize: `${baseFontSize * 2.0}px`, lineHeight: '1.7' }}>
                                             {segments.map((seg, idx) => (
                                                 <span key={idx} onMouseEnter={() => handleMouseEnter(verse.id, seg.cid)} onMouseLeave={handleMouseLeave} className={getSegmentClass(verse.id, seg.cid)}>{seg.text}</span>
                                             ))}
@@ -92,8 +92,8 @@ export default function VerseCard({
                             return (
                                 <div key={langCode} className="flex items-start border-slate-50 dark:border-slate-800/50" style={getStackStyle(isFirst)}>
                                     <LangBadge code={lang.label} colorClass={theme} />
-                                    <div style={{ fontSize: `${baseFontSize}px` }} className="w-full">
-                                        <p className={`${langCode === 'ar-lat' ? 'font-mono' : 'font-sans'} text-slate-700 dark:text-slate-200 leading-relaxed`}>
+                                    <div style={{ fontSize: `${baseFontSize}px` }} className="flex-1 min-w-0">
+                                        <p className={`${langCode === 'ar-lat' ? 'font-mono' : 'font-sans'} text-slate-700 dark:text-slate-200 leading-relaxed break-words`}>
                                             {segments.map((seg, idx) => (
                                                 <span key={idx} onMouseEnter={() => handleMouseEnter(verse.id, seg.cid)} onMouseLeave={handleMouseLeave} className={getSegmentClass(verse.id, seg.cid)}>{seg.text}</span>
                                             ))}
@@ -118,8 +118,8 @@ export default function VerseCard({
                                 return (
                                     <div key={`${langCode}-${authorId}`} className="flex items-start border-slate-50 dark:border-slate-800/50" style={getStackStyle(isFirst)}>
                                         <LangBadge code={lang.label} colorClass={theme} tooltip={authorLabel} />
-                                        <div style={{ fontSize: `${baseFontSize}px` }} className="w-full">
-                                            <p className="font-sans text-slate-700 dark:text-slate-200 leading-relaxed">
+                                        <div style={{ fontSize: `${baseFontSize}px` }} className="flex-1 min-w-0">
+                                            <p className="font-sans text-slate-700 dark:text-slate-200 leading-relaxed break-words">
                                                 {segments.map((seg, idx) => {
                                                     const text = isLatin && (langCode === 'ru' || langCode === 'ua')
                                                         ? transliterate(seg.text, langCode)
