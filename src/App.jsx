@@ -1,118 +1,142 @@
-import React, { useState } from 'react';
-import { BookOpen, Heart, Github, Flag } from 'lucide-react';
+import React, { useState, useEffect, useMemo } from 'react';
 import Header from './components/Header';
 import Controls from './components/Controls';
-import Navigation from './components/Navigation';
 import VerseCard from './components/VerseCard';
-import { SURAH_LIST, QURAN_CONTENT } from './data/quranData';
-import { LAYOUT_STYLES } from './constants/theme';
+import SurahSelector from './components/SurahSelector';
+import Footer from './components/Footer';
+import { SURAH_LIST, QURAN_CONTENT, loadTranslations } from './data/quranData';
+import { LANGUAGES, DEFAULT_AUTHORS } from './constants/languages';
 
-export default function App() {
+function App() {
     const [activeSegment, setActiveSegment] = useState({ verseId: null, cid: null });
-    const [isDarkMode, setIsDarkMode] = useState(false);
+    const [isDarkMode, setIsDarkMode] = useState(true);
     const [activeSurahId, setActiveSurahId] = useState(1);
-    const [showControls, setShowControls] = useState(true);
-    const [searchQuery, setSearchQuery] = useState("");
+    const [showControls, setShowControls] = useState(true); // Default to true as it is inline now
+    const [baseFontSize, setBaseFontSize] = useState(20);
+    const [spacingUnit, setSpacingUnit] = useState(1);
+    const [isLatin, setIsLatin] = useState(false);
 
-    const [showArabic, setShowArabic] = useState(true);
-    const [showTranslit, setShowTranslit] = useState(true);
-    const [showEnglish, setShowEnglish] = useState(true);
-    const [showCrh, setShowCrh] = useState(true);
-    const [showTurkish, setShowTurkish] = useState(true);
+    // Modular Translation State
+    const [activeLanguages, setActiveLanguages] = useState(new Set(['ar', 'ar-lat', 'en', 'crh']));
+    const [selectedAuthors, setSelectedAuthors] = useState(DEFAULT_AUTHORS);
+    const [loadedTranslations, setLoadedTranslations] = useState({});
 
-    const [baseFontSize, setBaseFontSize] = useState(18);
+    useEffect(() => {
+        if (isDarkMode) {
+            document.documentElement.classList.add('dark');
+        } else {
+            document.documentElement.classList.remove('dark');
+        }
+    }, [isDarkMode]);
 
-    const spacingUnit = Math.max(8, baseFontSize * 0.8);
-    const panelGap = Math.max(0, (baseFontSize - 14) * 2);
-    const horizontalGap = Math.max(8, (baseFontSize - 14) + 8);
-    const internalVerticalGap = Math.max(0, (baseFontSize - 14) * 1.5);
+    // Load translations when surah or active languages/authors change
+    useEffect(() => {
+        const fetchTranslations = async () => {
+            const trans = await loadTranslations(activeSurahId, Array.from(activeLanguages), selectedAuthors);
+            setLoadedTranslations(trans);
+        };
+        fetchTranslations();
+    }, [activeSurahId, activeLanguages, selectedAuthors]);
 
-    // Dynamic container width: scales from 1280px (5xl) to 1600px (6xl) as font size increases
-    const containerMaxWidth = Math.min(1600, 1280 + (baseFontSize - 18) * 25);
+    const activeSurah = useMemo(() =>
+        SURAH_LIST.find(s => s.id === activeSurahId),
+        [activeSurahId]);
 
-    const currentSurah = SURAH_LIST.find(s => s.id === activeSurahId) || SURAH_LIST[0];
-    const surahContent = QURAN_CONTENT[activeSurahId] || [];
+    const verses = useMemo(() => {
+        return QURAN_CONTENT[activeSurahId] || [];
+    }, [activeSurahId]);
+
+    const toggleLanguage = (langCode) => {
+        setActiveLanguages(prev => {
+            const next = new Set(prev);
+            if (next.has(langCode)) {
+                if (next.size > 1) next.delete(langCode);
+            } else {
+                next.add(langCode);
+            }
+            return next;
+        });
+    };
+
+    const toggleAuthor = (langCode, authorId) => {
+        setSelectedAuthors(prev => {
+            const current = prev[langCode] || [];
+            let next;
+            if (current.includes(authorId)) {
+                // Remove, but keep at least one
+                if (current.length > 1) {
+                    next = current.filter(id => id !== authorId);
+                } else {
+                    next = current;
+                }
+            } else {
+                next = [...current, authorId];
+            }
+            return { ...prev, [langCode]: next };
+        });
+    };
 
     return (
-        <div className={`${isDarkMode ? 'dark' : ''} ${LAYOUT_STYLES.pageWrapper}`}>
-
-            <Header
-                showControls={showControls}
-                setShowControls={setShowControls}
-                isDarkMode={isDarkMode}
-                setIsDarkMode={setIsDarkMode}
-            />
-
-            {showControls && (
-                <Controls
-                    showArabic={showArabic} setShowArabic={setShowArabic}
-                    showTranslit={showTranslit} setShowTranslit={setShowTranslit}
-                    showEnglish={showEnglish} setShowEnglish={setShowEnglish}
-                    showCrh={showCrh} setShowCrh={setShowCrh}
-                    showTurkish={showTurkish} setShowTurkish={setShowTurkish}
-                    baseFontSize={baseFontSize} setBaseFontSize={setBaseFontSize}
+        <div className="min-h-screen bg-slate-50 dark:bg-slate-950 transition-colors duration-300 poly-grid">
+            <header className="sticky top-0 z-40 bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-800 shadow-sm">
+                <Header
+                    showControls={showControls}
+                    setShowControls={setShowControls}
+                    isDarkMode={isDarkMode}
+                    setIsDarkMode={setIsDarkMode}
                 />
-            )}
 
-            <Navigation
-                activeSurahId={activeSurahId}
-                setActiveSurahId={setActiveSurahId}
-                searchQuery={searchQuery}
-                setSearchQuery={setSearchQuery}
-            />
+                <div className="px-6 py-3 border-t border-slate-100 dark:border-slate-800/50 flex flex-col md:flex-row gap-4 items-center justify-between max-w-7xl mx-auto">
+                    <SurahSelector
+                        surahList={SURAH_LIST}
+                        activeSurahId={activeSurahId}
+                        setActiveSurahId={setActiveSurahId}
+                    />
 
-            <main className={LAYOUT_STYLES.main}>
-                <div className={LAYOUT_STYLES.container} style={{ maxWidth: `${containerMaxWidth}px` }}>
+                    <Controls
+                        isOpen={showControls}
+                        activeLanguages={activeLanguages}
+                        toggleLanguage={toggleLanguage}
+                        selectedAuthors={selectedAuthors}
+                        toggleAuthor={toggleAuthor}
+                        baseFontSize={baseFontSize}
+                        setBaseFontSize={setBaseFontSize}
+                        spacingUnit={spacingUnit}
+                        setSpacingUnit={setSpacingUnit}
+                        isLatin={isLatin}
+                        setIsLatin={setIsLatin}
+                    />
+                </div>
+            </header>
 
-                    <div className="flex flex-col py-4 sm:py-8" style={{ gap: `${panelGap}px` }}>
-                        {surahContent.length > 0 ? (
-                            surahContent.map((verse) => (
-                                <VerseCard
-                                    key={verse.id}
-                                    verse={verse}
-                                    activeSegment={activeSegment}
-                                    setActiveSegment={setActiveSegment}
-                                    showArabic={showArabic}
-                                    showTranslit={showTranslit}
-                                    showEnglish={showEnglish}
-                                    showCrh={showCrh}
-                                    showTurkish={showTurkish}
-                                    baseFontSize={baseFontSize}
-                                    spacingUnit={spacingUnit}
-                                    internalVerticalGap={internalVerticalGap}
-                                    horizontalGap={horizontalGap}
-                                />
-                            ))
-                        ) : (
-                            <div className="text-center py-20">
-                                <BookOpen className="w-12 h-12 text-slate-300 dark:text-slate-700 mx-auto mb-4" />
-                                <p className="text-slate-400 dark:text-slate-500 text-lg font-medium">Content for {currentSurah.title} is coming soon.</p>
-                                <p className="text-slate-400 dark:text-slate-500 text-sm mt-2">Select another surah from the menu above.</p>
-                            </div>
-                        )}
-                    </div>
-
-                    <footer className={LAYOUT_STYLES.footer}>
-                        <p className="font-medium text-slate-500 dark:text-slate-400 flex items-center justify-center gap-1">
-                            Made with <Heart className="w-3 h-3 text-rose-500 fill-rose-500" /> for the Ümmet
-                        </p>
-                        <p className="mt-2 text-xs opacity-75">Credits: Sait Dizen & Zakir Qurtnezir (CRH), Abdel Haleem (EN), Elmalılı (TR)</p>
-
-                        <div className="flex items-center justify-center gap-4 mt-4">
-                            <a href="https://github.com/tseyt/miras-quran" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs text-slate-400 hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
-                                <Github className="w-3 h-3" />
-                                <span>GitHub</span>
-                            </a>
-                            <a href="https://github.com/tseyt/miras-quran/issues" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs text-slate-400 hover:text-slate-600 dark:hover:text-slate-300 transition-colors">
-                                <Flag className="w-3 h-3" />
-                                <span>Report Issue</span>
-                            </a>
-                        </div>
-                    </footer>
-
+            <main
+                className="container mx-auto px-4 py-4 min-h-screen transition-all duration-300"
+                style={{ maxWidth: `${Math.max(896, 1200 + (baseFontSize - 14) * 35)}px` }}
+            >
+                <div
+                    className="flex flex-col pb-4"
+                    style={{ gap: `${Math.max(0, (baseFontSize - 14) * 2.0) * spacingUnit}px` }}
+                >
+                    {verses.map(v => (
+                        <VerseCard
+                            key={v.id}
+                            verse={v}
+                            activeSegment={activeSegment}
+                            setActiveSegment={setActiveSegment}
+                            activeLanguages={activeLanguages}
+                            selectedAuthors={selectedAuthors}
+                            loadedTranslations={loadedTranslations}
+                            baseFontSize={baseFontSize}
+                            spacingUnit={spacingUnit}
+                            isLatin={isLatin}
+                        />
+                    ))}
                 </div>
             </main>
 
+            <Footer />
         </div>
     );
 }
+
+export default App;
