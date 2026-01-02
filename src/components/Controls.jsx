@@ -1,51 +1,87 @@
-import React from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { Type } from 'lucide-react';
 import Toggle from './Toggle';
-import { THEMES, LAYOUT_STYLES } from '../constants/theme';
+import TranslationSelector from './TranslationSelector';
+import { THEMES } from '../constants/theme';
+import { LANGUAGES } from '../constants/languages';
 
 export default function Controls({
-    showArabic, setShowArabic,
-    showTranslit, setShowTranslit,
-    showEnglish, setShowEnglish,
-    showCrh, setShowCrh,
-    showTurkish, setShowTurkish,
-    baseFontSize, setBaseFontSize
+    isOpen,
+    activeLanguages,
+    toggleLanguage,
+    selectedAuthors,
+    toggleAuthor,
+    baseFontSize,
+    setBaseFontSize,
+    isLatin,
+    setIsLatin
 }) {
+    const [openMenu, setOpenMenu] = useState(null);
+    const containerRef = useRef(null);
+
+    useEffect(() => {
+        function handleClickOutside(event) {
+            if (containerRef.current && !containerRef.current.contains(event.target)) {
+                setOpenMenu(null);
+            }
+        }
+        document.addEventListener("mousedown", handleClickOutside);
+        return () => document.removeEventListener("mousedown", handleClickOutside);
+    }, []);
+
+    if (!isOpen) return null;
+
     return (
-        <div className={LAYOUT_STYLES.controls}>
-            <div className="flex flex-col md:flex-row md:items-center gap-6 max-w-3xl mx-auto">
-                <div className="flex flex-col gap-2 flex-1">
-                    <div className="flex items-center gap-2 text-[10px] uppercase tracking-wider font-bold text-slate-400">
-                        Visibility
-                    </div>
-                    <div className="flex gap-2 flex-wrap">
-                        <Toggle label="Arabic" active={showArabic} onClick={() => setShowArabic(!showArabic)} colorTheme={THEMES.arabic} />
-                        <Toggle label="Transliteration" active={showTranslit} onClick={() => setShowTranslit(!showTranslit)} colorTheme={THEMES.translit} />
-                        <Toggle label="English" active={showEnglish} onClick={() => setShowEnglish(!showEnglish)} colorTheme={THEMES.english} />
-                        <Toggle label="Crimean Tatar" active={showCrh} onClick={() => setShowCrh(!showCrh)} colorTheme={THEMES.crh} />
-                        <Toggle label="Turkish" active={showTurkish} onClick={() => setShowTurkish(!showTurkish)} colorTheme={THEMES.turkish} />
-                    </div>
-                </div>
-                <div className="hidden md:block w-px h-12 bg-slate-200 dark:bg-slate-700"></div>
-                <div className="flex flex-col gap-2 w-full md:w-64">
-                    <div className="flex items-center justify-between text-[10px] uppercase tracking-wider font-bold text-slate-400">
-                        <div className="flex items-center gap-2"><Type className="w-3 h-3" /> Text Size</div>
-                        <span>{baseFontSize}px</span>
-                    </div>
-                    <div className="flex items-center gap-3">
-                        <span className="text-xs text-slate-400 font-medium">A</span>
-                        <input
-                            type="range"
-                            min="14"
-                            max="32"
-                            step="1"
-                            value={baseFontSize}
-                            onChange={(e) => setBaseFontSize(parseInt(e.target.value))}
-                            className="w-full h-2 bg-slate-200 dark:bg-slate-700 rounded-lg appearance-none cursor-pointer accent-emerald-500"
+        <div ref={containerRef} className="flex flex-wrap items-center gap-3">
+            <div className="flex flex-wrap items-center gap-1.5 p-1 bg-slate-100/50 dark:bg-slate-800/50 rounded-xl border border-slate-200/50 dark:border-slate-700/50">
+                {Object.entries(LANGUAGES).map(([code, lang]) => (
+                    <div key={code} className="relative">
+                        <Toggle
+                            label={lang.label}
+                            active={activeLanguages.has(code)}
+                            onClick={() => toggleLanguage(code)}
+                            colorTheme={THEMES[lang.themeKey]}
+                            hasOptions={lang.translations && lang.translations.length > 0}
+                            onOptionsClick={(e) => {
+                                e.stopPropagation();
+                                setOpenMenu(openMenu === code ? null : code);
+                            }}
+                            optionsOpen={openMenu === code}
                         />
-                        <span className="text-xl text-slate-600 dark:text-slate-300 font-medium">A</span>
+                        {openMenu === code && (
+                            <TranslationSelector
+                                langCode={code}
+                                selectedAuthors={selectedAuthors[code] || []}
+                                onToggle={toggleAuthor}
+                            />
+                        )}
                     </div>
-                </div>
+                ))}
+            </div>
+
+            <div className="h-6 w-px bg-slate-200 dark:bg-slate-800 mx-1"></div>
+
+            <div className="flex items-center gap-3 bg-slate-100/50 dark:bg-slate-800/50 px-3 py-1.5 rounded-xl border border-slate-200/50 dark:border-slate-700/50">
+                <Type className="w-3.5 h-3.5 text-slate-400" />
+                <input
+                    type="range"
+                    min="14"
+                    max="32"
+                    step="1"
+                    value={baseFontSize}
+                    onChange={(e) => setBaseFontSize(parseInt(e.target.value))}
+                    className="w-24 h-1 bg-slate-200 dark:bg-slate-700 rounded-lg appearance-none cursor-pointer accent-emerald-500"
+                />
+                <span className="text-[10px] font-bold text-slate-500 w-6">{baseFontSize}</span>
+            </div>
+
+            <div className="flex items-center gap-1.5 p-1 bg-slate-100/50 dark:bg-slate-800/50 rounded-xl border border-slate-200/50 dark:border-slate-700/50">
+                <Toggle
+                    label="LATIN"
+                    active={isLatin}
+                    onClick={() => setIsLatin(!isLatin)}
+                    colorTheme={THEMES.translit}
+                />
             </div>
         </div>
     );
