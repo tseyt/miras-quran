@@ -1,0 +1,190 @@
+id: 99
+title: "Az-Zalzalah"
+english: The Earthquake
+type: Madinah
+total_verses: 8
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِذَا"
+          cid: 1
+        - text: "زُلْزِلَتِ"
+          cid: 2
+        - text: "ٱلْأَرْضُ"
+          cid: 3
+        - text: "زِلْزَالَهَا"
+          cid: 4
+      ar-lat:
+        - text: "idhā"
+          cid: 1
+        - text: "zulzilati"
+          cid: 2
+        - text: "l-arḍu"
+          cid: 3
+        - text: "zilzālahā"
+          cid: 4
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَأَخْرَجَتِ"
+          cid: 1
+        - text: "ٱلْأَرْضُ"
+          cid: 2
+        - text: "أَثْقَالَهَا"
+          cid: 3
+      ar-lat:
+        - text: "wa-akhrajati"
+          cid: 1
+        - text: "l-arḍu"
+          cid: 2
+        - text: "athqālahā"
+          cid: 3
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَقَالَ"
+          cid: 1
+        - text: "ٱلْإِنسَـٰنُ"
+          cid: 2
+        - text: "مَا"
+          cid: 3
+        - text: "لَهَا"
+          cid: 4
+      ar-lat:
+        - text: "waqāla"
+          cid: 1
+        - text: "l-insānu"
+          cid: 2
+        - text: "mā"
+          cid: 3
+        - text: "lahā"
+          cid: 4
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "يَوْمَئِذٍۢ"
+          cid: 1
+        - text: "تُحَدِّثُ"
+          cid: 2
+        - text: "أَخْبَارَهَا"
+          cid: 3
+      ar-lat:
+        - text: "yawma-idhin"
+          cid: 1
+        - text: "tuḥaddithu"
+          cid: 2
+        - text: "akhbārahā"
+          cid: 3
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "بِأَنَّ"
+          cid: 1
+        - text: "رَبَّكَ"
+          cid: 2
+        - text: "أَوْحَىٰ"
+          cid: 3
+        - text: "لَهَا"
+          cid: 4
+      ar-lat:
+        - text: "bi-anna"
+          cid: 1
+        - text: "rabbaka"
+          cid: 2
+        - text: "awḥā"
+          cid: 3
+        - text: "lahā"
+          cid: 4
+  - verse: 6
+    context_mapped: true
+    segments:
+      ar:
+        - text: "يَوْمَئِذٍۢ"
+          cid: 1
+        - text: "يَصْدُرُ"
+          cid: 2
+        - text: "ٱلنَّاسُ"
+          cid: 3
+        - text: "أَشْتَاتًۭا"
+          cid: 4
+        - text: "لِّيُرَوْا۟"
+          cid: 5
+        - text: "أَعْمَـٰلَهُمْ"
+          cid: 6
+      ar-lat:
+        - text: "yawma-idhin"
+          cid: 1
+        - text: "yaṣduru"
+          cid: 2
+        - text: "l-nāsu"
+          cid: 3
+        - text: "ashtātan"
+          cid: 4
+        - text: "liyuraw"
+          cid: 5
+        - text: "aʿmālahum"
+          cid: 6
+  - verse: 7
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَمَن"
+          cid: 1
+        - text: "يَعْمَلْ"
+          cid: 2
+        - text: "مِثْقَالَ"
+          cid: 3
+        - text: "ذَرَّةٍ"
+          cid: 4
+        - text: "خَيْرًۭا"
+          cid: 5
+        - text: "يَرَهُۥ"
+          cid: 6
+      ar-lat:
+        - text: "faman"
+          cid: 1
+        - text: "yaʿmal"
+          cid: 2
+        - text: "mithqāla"
+          cid: 3
+        - text: "dharratin"
+          cid: 4
+        - text: "khayran"
+          cid: 5
+        - text: "yarahu"
+          cid: 6
+  - verse: 8
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَمَن"
+          cid: 1
+        - text: "يَعْمَلْ"
+          cid: 2
+        - text: "مِثْقَالَ"
+          cid: 3
+        - text: "ذَرَّةٍۢ"
+          cid: 4
+        - text: "شَرًّۭا"
+          cid: 5
+        - text: "يَرَهُۥ"
+          cid: 6
+      ar-lat:
+        - text: "waman"
+          cid: 1
+        - text: "yaʿmal"
+          cid: 2
+        - text: "mithqāla"
+          cid: 3
+        - text: "dharratin"
+          cid: 4
+        - text: "sharran"
+          cid: 5
+        - text: "yarahu"
+          cid: 6

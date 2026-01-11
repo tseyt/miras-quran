@@ -1,0 +1,151 @@
+id: 97
+title: "Al-Qadr"
+english: The Power
+type: Makkah
+total_verses: 5
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِنَّآ"
+          cid: 1
+        - text: "أَنزَلْنَـٰهُ"
+          cid: 2
+        - text: "فِى"
+          cid: 3
+        - text: "لَيْلَةِ"
+          cid: 4
+        - text: "ٱلْقَدْرِ"
+          cid: 5
+      ar-lat:
+        - text: "innā"
+          cid: 1
+        - text: "anzalnāhu"
+          cid: 2
+        - text: "fī"
+          cid: 3
+        - text: "laylati"
+          cid: 4
+        - text: "l-qadri"
+          cid: 5
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَمَآ"
+          cid: 1
+        - text: "أَدْرَىٰكَ"
+          cid: 2
+        - text: "مَا"
+          cid: 3
+        - text: "لَيْلَةُ"
+          cid: 4
+        - text: "ٱلْقَدْرِ"
+          cid: 5
+      ar-lat:
+        - text: "wamā"
+          cid: 1
+        - text: "adrāka"
+          cid: 2
+        - text: "mā"
+          cid: 3
+        - text: "laylatu"
+          cid: 4
+        - text: "l-qadri"
+          cid: 5
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لَيْلَةُ"
+          cid: 1
+        - text: "ٱلْقَدْرِ"
+          cid: 2
+        - text: "خَيْرٌۭ"
+          cid: 3
+        - text: "مِّنْ"
+          cid: 4
+        - text: "أَلْفِ"
+          cid: 5
+        - text: "شَهْرٍۢ"
+          cid: 6
+      ar-lat:
+        - text: "laylatu"
+          cid: 1
+        - text: "l-qadri"
+          cid: 2
+        - text: "khayrun"
+          cid: 3
+        - text: "min"
+          cid: 4
+        - text: "alfi"
+          cid: 5
+        - text: "shahrin"
+          cid: 6
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "تَنَزَّلُ"
+          cid: 1
+        - text: "ٱلْمَلَـٰٓئِكَةُ"
+          cid: 2
+        - text: "وَٱلرُّوحُ"
+          cid: 3
+        - text: "فِيهَا"
+          cid: 4
+        - text: "بِإِذْنِ"
+          cid: 5
+        - text: "رَبِّهِم"
+          cid: 6
+        - text: "مِّن"
+          cid: 7
+        - text: "كُلِّ"
+          cid: 8
+        - text: "أَمْرٍۢ"
+          cid: 9
+      ar-lat:
+        - text: "tanazzalu"
+          cid: 1
+        - text: "l-malāikatu"
+          cid: 2
+        - text: "wal-rūḥu"
+          cid: 3
+        - text: "fīhā"
+          cid: 4
+        - text: "bi-idhni"
+          cid: 5
+        - text: "rabbihim"
+          cid: 6
+        - text: "min"
+          cid: 7
+        - text: "kulli"
+          cid: 8
+        - text: "amrin"
+          cid: 9
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "سَلَـٰمٌ"
+          cid: 1
+        - text: "هِىَ"
+          cid: 2
+        - text: "حَتَّىٰ"
+          cid: 3
+        - text: "مَطْلَعِ"
+          cid: 4
+        - text: "ٱلْفَجْرِ"
+          cid: 5
+      ar-lat:
+        - text: "salāmun"
+          cid: 1
+        - text: "hiya"
+          cid: 2
+        - text: "ḥattā"
+          cid: 3
+        - text: "maṭlaʿi"
+          cid: 4
+        - text: "l-fajri"
+          cid: 5

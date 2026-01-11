@@ -1,0 +1,61 @@
+id: 108
+title: "Al-Kawthar"
+english: The Abundance
+type: Makkah
+total_verses: 3
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِنَّآ"
+          cid: 1
+        - text: "أَعْطَيْنَـٰكَ"
+          cid: 2
+        - text: "ٱلْكَوْثَرَ"
+          cid: 3
+      ar-lat:
+        - text: "innā"
+          cid: 1
+        - text: "aʿṭaynāka"
+          cid: 2
+        - text: "l-kawthara"
+          cid: 3
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَصَلِّ"
+          cid: 1
+        - text: "لِرَبِّكَ"
+          cid: 2
+        - text: "وَٱنْحَرْ"
+          cid: 3
+      ar-lat:
+        - text: "faṣalli"
+          cid: 1
+        - text: "lirabbika"
+          cid: 2
+        - text: "wa-inḥar"
+          cid: 3
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِنَّ"
+          cid: 1
+        - text: "شَانِئَكَ"
+          cid: 2
+        - text: "هُوَ"
+          cid: 3
+        - text: "ٱلْأَبْتَرُ"
+          cid: 4
+      ar-lat:
+        - text: "inna"
+          cid: 1
+        - text: "shāni-aka"
+          cid: 2
+        - text: "huwa"
+          cid: 3
+        - text: "l-abtaru"
+          cid: 4

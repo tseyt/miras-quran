@@ -1,0 +1,157 @@
+id: 1
+title: "Al-Fatihah"
+english: The Opener
+type: Makkah
+total_verses: 7
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "بِسْمِ"
+          cid: 1
+        - text: "ٱللَّهِ"
+          cid: 2
+        - text: "ٱلرَّحْمَـٰنِ"
+          cid: 3
+        - text: "ٱلرَّحِيمِ"
+          cid: 4
+      ar-lat:
+        - text: "bismi"
+          cid: 1
+        - text: "l-lahi"
+          cid: 2
+        - text: "l-raḥmāni"
+          cid: 3
+        - text: "l-raḥīmi"
+          cid: 4
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ٱلْحَمْدُ"
+          cid: 1
+        - text: "لِلَّهِ"
+          cid: 2
+        - text: "رَبِّ"
+          cid: 3
+        - text: "ٱلْعَـٰلَمِينَ"
+          cid: 4
+      ar-lat:
+        - text: "al-ḥamdu"
+          cid: 1
+        - text: "lillahi"
+          cid: 2
+        - text: "rabbi"
+          cid: 3
+        - text: "l-ʿālamīna"
+          cid: 4
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ٱلرَّحْمَـٰنِ"
+          cid: 1
+        - text: "ٱلرَّحِيمِ"
+          cid: 2
+      ar-lat:
+        - text: "al-raḥmāni"
+          cid: 1
+        - text: "l-raḥīmi"
+          cid: 2
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "مَـٰلِكِ"
+          cid: 1
+        - text: "يَوْمِ"
+          cid: 2
+        - text: "ٱلدِّينِ"
+          cid: 3
+      ar-lat:
+        - text: "māliki"
+          cid: 1
+        - text: "yawmi"
+          cid: 2
+        - text: "l-dīni"
+          cid: 3
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِيَّاكَ"
+          cid: 1
+        - text: "نَعْبُدُ"
+          cid: 2
+        - text: "وَإِيَّاكَ"
+          cid: 3
+        - text: "نَسْتَعِينُ"
+          cid: 4
+      ar-lat:
+        - text: "iyyāka"
+          cid: 1
+        - text: "naʿbudu"
+          cid: 2
+        - text: "wa-iyyāka"
+          cid: 3
+        - text: "nastaʿīnu"
+          cid: 4
+  - verse: 6
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ٱهْدِنَا"
+          cid: 1
+        - text: "ٱلصِّرَٰطَ"
+          cid: 2
+        - text: "ٱلْمُسْتَقِيمَ"
+          cid: 3
+      ar-lat:
+        - text: "ihdinā"
+          cid: 1
+        - text: "l-ṣirāṭa"
+          cid: 2
+        - text: "l-mustaqīma"
+          cid: 3
+  - verse: 7
+    context_mapped: true
+    segments:
+      ar:
+        - text: "صِرَٰطَ"
+          cid: 1
+        - text: "ٱلَّذِينَ"
+          cid: 2
+        - text: "أَنْعَمْتَ"
+          cid: 3
+        - text: "عَلَيْهِمْ"
+          cid: 4
+        - text: "غَيْرِ"
+          cid: 5
+        - text: "ٱلْمَغْضُوبِ"
+          cid: 6
+        - text: "عَلَيْهِمْ"
+          cid: 7
+        - text: "وَلَا"
+          cid: 8
+        - text: "ٱلضَّآلِّينَ"
+          cid: 9
+      ar-lat:
+        - text: "ṣirāṭa"
+          cid: 1
+        - text: "alladhīna"
+          cid: 2
+        - text: "anʿamta"
+          cid: 3
+        - text: "ʿalayhim"
+          cid: 4
+        - text: "ghayri"
+          cid: 5
+        - text: "l-maghḍūbi"
+          cid: 6
+        - text: "ʿalayhim"
+          cid: 7
+        - text: "walā"
+          cid: 8
+        - text: "l-ḍālīna"
+          cid: 9

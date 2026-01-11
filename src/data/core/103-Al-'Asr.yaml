@@ -1,0 +1,77 @@
+id: 103
+title: "Al-Asr"
+english: The Declining Day
+type: Makkah
+total_verses: 3
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَٱلْعَصْرِ"
+          cid: 1
+      ar-lat:
+        - text: "wal-ʿaṣri"
+          cid: 1
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِنَّ"
+          cid: 1
+        - text: "ٱلْإِنسَـٰنَ"
+          cid: 2
+        - text: "لَفِى"
+          cid: 3
+        - text: "خُسْرٍ"
+          cid: 4
+      ar-lat:
+        - text: "inna"
+          cid: 1
+        - text: "l-insāna"
+          cid: 2
+        - text: "lafī"
+          cid: 3
+        - text: "khusrin"
+          cid: 4
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِلَّا"
+          cid: 1
+        - text: "ٱلَّذِينَ"
+          cid: 2
+        - text: "ءَامَنُوا۟"
+          cid: 3
+        - text: "وَعَمِلُوا۟"
+          cid: 4
+        - text: "ٱلصَّـٰلِحَـٰتِ"
+          cid: 5
+        - text: "وَتَوَاصَوْا۟"
+          cid: 6
+        - text: "بِٱلْحَقِّ"
+          cid: 7
+        - text: "وَتَوَاصَوْا۟"
+          cid: 8
+        - text: "بِٱلصَّبْرِ"
+          cid: 9
+      ar-lat:
+        - text: "illā"
+          cid: 1
+        - text: "alladhīna"
+          cid: 2
+        - text: "āmanū"
+          cid: 3
+        - text: "waʿamilū"
+          cid: 4
+        - text: "l-ṣāliḥāti"
+          cid: 5
+        - text: "watawāṣaw"
+          cid: 6
+        - text: "bil-ḥaqi"
+          cid: 7
+        - text: "watawāṣaw"
+          cid: 8
+        - text: "bil-ṣabri"
+          cid: 9

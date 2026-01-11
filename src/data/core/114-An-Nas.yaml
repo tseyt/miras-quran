@@ -1,0 +1,116 @@
+id: 114
+title: "An-Nas"
+english: Mankind
+type: Makkah
+total_verses: 6
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "قُلْ"
+          cid: 1
+        - text: "أَعُوذُ"
+          cid: 2
+        - text: "بِرَبِّ"
+          cid: 3
+        - text: "ٱلنَّاسِ"
+          cid: 4
+      ar-lat:
+        - text: "qul"
+          cid: 1
+        - text: "aʿūdhu"
+          cid: 2
+        - text: "birabbi"
+          cid: 3
+        - text: "l-nāsi"
+          cid: 4
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "مَلِكِ"
+          cid: 1
+        - text: "ٱلنَّاسِ"
+          cid: 2
+      ar-lat:
+        - text: "maliki"
+          cid: 1
+        - text: "l-nāsi"
+          cid: 2
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِلَـٰهِ"
+          cid: 1
+        - text: "ٱلنَّاسِ"
+          cid: 2
+      ar-lat:
+        - text: "ilāhi"
+          cid: 1
+        - text: "l-nāsi"
+          cid: 2
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "مِن"
+          cid: 1
+        - text: "شَرِّ"
+          cid: 2
+        - text: "ٱلْوَسْوَاسِ"
+          cid: 3
+        - text: "ٱلْخَنَّاسِ"
+          cid: 4
+      ar-lat:
+        - text: "min"
+          cid: 1
+        - text: "sharri"
+          cid: 2
+        - text: "l-waswāsi"
+          cid: 3
+        - text: "l-khanāsi"
+          cid: 4
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ٱلَّذِى"
+          cid: 1
+        - text: "يُوَسْوِسُ"
+          cid: 2
+        - text: "فِى"
+          cid: 3
+        - text: "صُدُورِ"
+          cid: 4
+        - text: "ٱلنَّاسِ"
+          cid: 5
+      ar-lat:
+        - text: "alladhī"
+          cid: 1
+        - text: "yuwaswisu"
+          cid: 2
+        - text: "fī"
+          cid: 3
+        - text: "ṣudūri"
+          cid: 4
+        - text: "l-nāsi"
+          cid: 5
+  - verse: 6
+    context_mapped: true
+    segments:
+      ar:
+        - text: "مِنَ"
+          cid: 1
+        - text: "ٱلْجِنَّةِ"
+          cid: 2
+        - text: "وَٱلنَّاسِ"
+          cid: 3
+      ar-lat:
+        - text: "mina"
+          cid: 1
+        - text: "l-jinati"
+          cid: 2
+        - text: "wal-nāsi"
+          cid: 3

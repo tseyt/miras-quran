@@ -1,0 +1,86 @@
+id: 112
+title: "Al-Ikhlas"
+english: The Sincerity
+type: Makkah
+total_verses: 4
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "قُلْ"
+          cid: 1
+        - text: "هُوَ"
+          cid: 2
+        - text: "ٱللَّهُ"
+          cid: 3
+        - text: "أَحَدٌ"
+          cid: 4
+      ar-lat:
+        - text: "qul"
+          cid: 1
+        - text: "huwa"
+          cid: 2
+        - text: "l-lahu"
+          cid: 3
+        - text: "aḥadun"
+          cid: 4
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ٱللَّهُ"
+          cid: 1
+        - text: "ٱلصَّمَدُ"
+          cid: 2
+      ar-lat:
+        - text: "al-lahu"
+          cid: 1
+        - text: "l-ṣamadu"
+          cid: 2
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لَمْ"
+          cid: 1
+        - text: "يَلِدْ"
+          cid: 2
+        - text: "وَلَمْ"
+          cid: 3
+        - text: "يُولَدْ"
+          cid: 4
+      ar-lat:
+        - text: "lam"
+          cid: 1
+        - text: "yalid"
+          cid: 2
+        - text: "walam"
+          cid: 3
+        - text: "yūlad"
+          cid: 4
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَلَمْ"
+          cid: 1
+        - text: "يَكُن"
+          cid: 2
+        - text: "لَّهُۥ"
+          cid: 3
+        - text: "كُفُوًا"
+          cid: 4
+        - text: "أَحَدٌۢ"
+          cid: 5
+      ar-lat:
+        - text: "walam"
+          cid: 1
+        - text: "yakun"
+          cid: 2
+        - text: "lahu"
+          cid: 3
+        - text: "kufuwan"
+          cid: 4
+        - text: "aḥadun"
+          cid: 5

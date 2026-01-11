@@ -1,0 +1,140 @@
+id: 109
+title: "Al-Kafirun"
+english: The Disbelievers
+type: Makkah
+total_verses: 6
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "قُلْ"
+          cid: 1
+        - text: "يَـٰٓأَيُّهَا"
+          cid: 2
+        - text: "ٱلْكَـٰفِرُونَ"
+          cid: 3
+      ar-lat:
+        - text: "qul"
+          cid: 1
+        - text: "yāayyuhā"
+          cid: 2
+        - text: "l-kāfirūna"
+          cid: 3
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لَآ"
+          cid: 1
+        - text: "أَعْبُدُ"
+          cid: 2
+        - text: "مَا"
+          cid: 3
+        - text: "تَعْبُدُونَ"
+          cid: 4
+      ar-lat:
+        - text: "lā"
+          cid: 1
+        - text: "aʿbudu"
+          cid: 2
+        - text: "mā"
+          cid: 3
+        - text: "taʿbudūna"
+          cid: 4
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَلَآ"
+          cid: 1
+        - text: "أَنتُمْ"
+          cid: 2
+        - text: "عَـٰبِدُونَ"
+          cid: 3
+        - text: "مَآ"
+          cid: 4
+        - text: "أَعْبُدُ"
+          cid: 5
+      ar-lat:
+        - text: "walā"
+          cid: 1
+        - text: "antum"
+          cid: 2
+        - text: "ʿābidūna"
+          cid: 3
+        - text: "mā"
+          cid: 4
+        - text: "aʿbudu"
+          cid: 5
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَلَآ"
+          cid: 1
+        - text: "أَنَا۠"
+          cid: 2
+        - text: "عَابِدٌۭ"
+          cid: 3
+        - text: "مَّا"
+          cid: 4
+        - text: "عَبَدتُّمْ"
+          cid: 5
+      ar-lat:
+        - text: "walā"
+          cid: 1
+        - text: "anā"
+          cid: 2
+        - text: "ʿābidun"
+          cid: 3
+        - text: "mā"
+          cid: 4
+        - text: "ʿabadttum"
+          cid: 5
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَلَآ"
+          cid: 1
+        - text: "أَنتُمْ"
+          cid: 2
+        - text: "عَـٰبِدُونَ"
+          cid: 3
+        - text: "مَآ"
+          cid: 4
+        - text: "أَعْبُدُ"
+          cid: 5
+      ar-lat:
+        - text: "walā"
+          cid: 1
+        - text: "antum"
+          cid: 2
+        - text: "ʿābidūna"
+          cid: 3
+        - text: "mā"
+          cid: 4
+        - text: "aʿbudu"
+          cid: 5
+  - verse: 6
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لَكُمْ"
+          cid: 1
+        - text: "دِينُكُمْ"
+          cid: 2
+        - text: "وَلِىَ"
+          cid: 3
+        - text: "دِينِ"
+          cid: 4
+      ar-lat:
+        - text: "lakum"
+          cid: 1
+        - text: "dīnukum"
+          cid: 2
+        - text: "waliya"
+          cid: 3
+        - text: "dīni"
+          cid: 4

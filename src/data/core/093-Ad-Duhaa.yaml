@@ -1,0 +1,221 @@
+id: 93
+title: "Ad-Duhaa"
+english: The Morning Hours
+type: Makkah
+total_verses: 11
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَٱلضُّحَىٰ"
+          cid: 1
+      ar-lat:
+        - text: "wal-ḍuḥā"
+          cid: 1
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَٱلَّيْلِ"
+          cid: 1
+        - text: "إِذَا"
+          cid: 2
+        - text: "سَجَىٰ"
+          cid: 3
+      ar-lat:
+        - text: "wa-al-layli"
+          cid: 1
+        - text: "idhā"
+          cid: 2
+        - text: "sajā"
+          cid: 3
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "مَا"
+          cid: 1
+        - text: "وَدَّعَكَ"
+          cid: 2
+        - text: "رَبُّكَ"
+          cid: 3
+        - text: "وَمَا"
+          cid: 4
+        - text: "قَلَىٰ"
+          cid: 5
+      ar-lat:
+        - text: "mā"
+          cid: 1
+        - text: "waddaʿaka"
+          cid: 2
+        - text: "rabbuka"
+          cid: 3
+        - text: "wamā"
+          cid: 4
+        - text: "qalā"
+          cid: 5
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَلَلْـَٔاخِرَةُ"
+          cid: 1
+        - text: "خَيْرٌۭ"
+          cid: 2
+        - text: "لَّكَ"
+          cid: 3
+        - text: "مِنَ"
+          cid: 4
+        - text: "ٱلْأُولَىٰ"
+          cid: 5
+      ar-lat:
+        - text: "walalākhiratu"
+          cid: 1
+        - text: "khayrun"
+          cid: 2
+        - text: "laka"
+          cid: 3
+        - text: "mina"
+          cid: 4
+        - text: "l-ūlā"
+          cid: 5
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَلَسَوْفَ"
+          cid: 1
+        - text: "يُعْطِيكَ"
+          cid: 2
+        - text: "رَبُّكَ"
+          cid: 3
+        - text: "فَتَرْضَىٰٓ"
+          cid: 4
+      ar-lat:
+        - text: "walasawfa"
+          cid: 1
+        - text: "yuʿṭīka"
+          cid: 2
+        - text: "rabbuka"
+          cid: 3
+        - text: "fatarḍā"
+          cid: 4
+  - verse: 6
+    context_mapped: true
+    segments:
+      ar:
+        - text: "أَلَمْ"
+          cid: 1
+        - text: "يَجِدْكَ"
+          cid: 2
+        - text: "يَتِيمًۭا"
+          cid: 3
+        - text: "فَـَٔاوَىٰ"
+          cid: 4
+      ar-lat:
+        - text: "alam"
+          cid: 1
+        - text: "yajidka"
+          cid: 2
+        - text: "yatīman"
+          cid: 3
+        - text: "faāwā"
+          cid: 4
+  - verse: 7
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَوَجَدَكَ"
+          cid: 1
+        - text: "ضَآلًّۭا"
+          cid: 2
+        - text: "فَهَدَىٰ"
+          cid: 3
+      ar-lat:
+        - text: "wawajadaka"
+          cid: 1
+        - text: "ḍāllan"
+          cid: 2
+        - text: "fahadā"
+          cid: 3
+  - verse: 8
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَوَجَدَكَ"
+          cid: 1
+        - text: "عَآئِلًۭا"
+          cid: 2
+        - text: "فَأَغْنَىٰ"
+          cid: 3
+      ar-lat:
+        - text: "wawajadaka"
+          cid: 1
+        - text: "ʿāilan"
+          cid: 2
+        - text: "fa-aghnā"
+          cid: 3
+  - verse: 9
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَأَمَّا"
+          cid: 1
+        - text: "ٱلْيَتِيمَ"
+          cid: 2
+        - text: "فَلَا"
+          cid: 3
+        - text: "تَقْهَرْ"
+          cid: 4
+      ar-lat:
+        - text: "fa-ammā"
+          cid: 1
+        - text: "l-yatīma"
+          cid: 2
+        - text: "falā"
+          cid: 3
+        - text: "taqhar"
+          cid: 4
+  - verse: 10
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَأَمَّا"
+          cid: 1
+        - text: "ٱلسَّآئِلَ"
+          cid: 2
+        - text: "فَلَا"
+          cid: 3
+        - text: "تَنْهَرْ"
+          cid: 4
+      ar-lat:
+        - text: "wa-ammā"
+          cid: 1
+        - text: "l-sāila"
+          cid: 2
+        - text: "falā"
+          cid: 3
+        - text: "tanhar"
+          cid: 4
+  - verse: 11
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَأَمَّا"
+          cid: 1
+        - text: "بِنِعْمَةِ"
+          cid: 2
+        - text: "رَبِّكَ"
+          cid: 3
+        - text: "فَحَدِّثْ"
+          cid: 4
+      ar-lat:
+        - text: "wa-ammā"
+          cid: 1
+        - text: "biniʿmati"
+          cid: 2
+        - text: "rabbika"
+          cid: 3
+        - text: "faḥaddith"
+          cid: 4

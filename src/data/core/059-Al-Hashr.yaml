@@ -1,0 +1,1906 @@
+id: 59
+title: "Al-Hashr"
+english: The Exile
+type: Madinah
+total_verses: 24
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "سَبَّحَ"
+          cid: 1
+        - text: "لِلَّهِ"
+          cid: 2
+        - text: "مَا"
+          cid: 3
+        - text: "فِى"
+          cid: 4
+        - text: "ٱلسَّمَـٰوَٰتِ"
+          cid: 5
+        - text: "وَمَا"
+          cid: 6
+        - text: "فِى"
+          cid: 7
+        - text: "ٱلْأَرْضِ ۖ"
+          cid: 8
+        - text: "وَهُوَ"
+          cid: 9
+        - text: "ٱلْعَزِيزُ"
+          cid: 10
+        - text: "ٱلْحَكِيمُ"
+          cid: 11
+      ar-lat:
+        - text: "sabbaḥa"
+          cid: 1
+        - text: "lillahi"
+          cid: 2
+        - text: "mā"
+          cid: 3
+        - text: "fī"
+          cid: 4
+        - text: "l-samāwāti"
+          cid: 5
+        - text: "wamā"
+          cid: 6
+        - text: "fī"
+          cid: 7
+        - text: "l-arḍi"
+          cid: 8
+        - text: "wahuwa"
+          cid: 9
+        - text: "l-ʿazīzu"
+          cid: 10
+        - text: "l-ḥakīmu"
+          cid: 11
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "هُوَ"
+          cid: 1
+        - text: "ٱلَّذِىٓ"
+          cid: 2
+        - text: "أَخْرَجَ"
+          cid: 3
+        - text: "ٱلَّذِينَ"
+          cid: 4
+        - text: "كَفَرُوا۟"
+          cid: 5
+        - text: "مِنْ"
+          cid: 6
+        - text: "أَهْلِ"
+          cid: 7
+        - text: "ٱلْكِتَـٰبِ"
+          cid: 8
+        - text: "مِن"
+          cid: 9
+        - text: "دِيَـٰرِهِمْ"
+          cid: 10
+        - text: "لِأَوَّلِ"
+          cid: 11
+        - text: "ٱلْحَشْرِ ۚ"
+          cid: 12
+        - text: "مَا"
+          cid: 13
+        - text: "ظَنَنتُمْ"
+          cid: 14
+        - text: "أَن"
+          cid: 15
+        - text: "يَخْرُجُوا۟ ۖ"
+          cid: 16
+        - text: "وَظَنُّوٓا۟"
+          cid: 17
+        - text: "أَنَّهُم"
+          cid: 18
+        - text: "مَّانِعَتُهُمْ"
+          cid: 19
+        - text: "حُصُونُهُم"
+          cid: 20
+        - text: "مِّنَ"
+          cid: 21
+        - text: "ٱللَّهِ"
+          cid: 22
+        - text: "فَأَتَىٰهُمُ"
+          cid: 23
+        - text: "ٱللَّهُ"
+          cid: 24
+        - text: "مِنْ"
+          cid: 25
+        - text: "حَيْثُ"
+          cid: 26
+        - text: "لَمْ"
+          cid: 27
+        - text: "يَحْتَسِبُوا۟ ۖ"
+          cid: 28
+        - text: "وَقَذَفَ"
+          cid: 29
+        - text: "فِى"
+          cid: 30
+        - text: "قُلُوبِهِمُ"
+          cid: 31
+        - text: "ٱلرُّعْبَ ۚ"
+          cid: 32
+        - text: "يُخْرِبُونَ"
+          cid: 33
+        - text: "بُيُوتَهُم"
+          cid: 34
+        - text: "بِأَيْدِيهِمْ"
+          cid: 35
+        - text: "وَأَيْدِى"
+          cid: 36
+        - text: "ٱلْمُؤْمِنِينَ"
+          cid: 37
+        - text: "فَٱعْتَبِرُوا۟"
+          cid: 38
+        - text: "يَـٰٓأُو۟لِى"
+          cid: 39
+        - text: "ٱلْأَبْصَـٰرِ"
+          cid: 40
+      ar-lat:
+        - text: "huwa"
+          cid: 1
+        - text: "alladhī"
+          cid: 2
+        - text: "akhraja"
+          cid: 3
+        - text: "alladhīna"
+          cid: 4
+        - text: "kafarū"
+          cid: 5
+        - text: "min"
+          cid: 6
+        - text: "ahli"
+          cid: 7
+        - text: "l-kitābi"
+          cid: 8
+        - text: "min"
+          cid: 9
+        - text: "diyārihim"
+          cid: 10
+        - text: "li-awwali"
+          cid: 11
+        - text: "l-ḥashri"
+          cid: 12
+        - text: "mā"
+          cid: 13
+        - text: "ẓanantum"
+          cid: 14
+        - text: "an"
+          cid: 15
+        - text: "yakhrujū"
+          cid: 16
+        - text: "waẓannū"
+          cid: 17
+        - text: "annahum"
+          cid: 18
+        - text: "māniʿatuhum"
+          cid: 19
+        - text: "ḥuṣūnuhum"
+          cid: 20
+        - text: "mina"
+          cid: 21
+        - text: "l-lahi"
+          cid: 22
+        - text: "fa-atāhumu"
+          cid: 23
+        - text: "l-lahu"
+          cid: 24
+        - text: "min"
+          cid: 25
+        - text: "ḥaythu"
+          cid: 26
+        - text: "lam"
+          cid: 27
+        - text: "yaḥtasibū"
+          cid: 28
+        - text: "waqadhafa"
+          cid: 29
+        - text: "fī"
+          cid: 30
+        - text: "qulūbihimu"
+          cid: 31
+        - text: "l-ruʿba"
+          cid: 32
+        - text: "yukhribūna"
+          cid: 33
+        - text: "buyūtahum"
+          cid: 34
+        - text: "bi-aydīhim"
+          cid: 35
+        - text: "wa-aydī"
+          cid: 36
+        - text: "l-muminīna"
+          cid: 37
+        - text: "fa-iʿtabirū"
+          cid: 38
+        - text: "yāulī"
+          cid: 39
+        - text: "l-abṣāri"
+          cid: 40
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَلَوْلَآ"
+          cid: 1
+        - text: "أَن"
+          cid: 2
+        - text: "كَتَبَ"
+          cid: 3
+        - text: "ٱللَّهُ"
+          cid: 4
+        - text: "عَلَيْهِمُ"
+          cid: 5
+        - text: "ٱلْجَلَآءَ"
+          cid: 6
+        - text: "لَعَذَّبَهُمْ"
+          cid: 7
+        - text: "فِى"
+          cid: 8
+        - text: "ٱلدُّنْيَا ۖ"
+          cid: 9
+        - text: "وَلَهُمْ"
+          cid: 10
+        - text: "فِى"
+          cid: 11
+        - text: "ٱلْـَٔاخِرَةِ"
+          cid: 12
+        - text: "عَذَابُ"
+          cid: 13
+        - text: "ٱلنَّارِ"
+          cid: 14
+      ar-lat:
+        - text: "walawlā"
+          cid: 1
+        - text: "an"
+          cid: 2
+        - text: "kataba"
+          cid: 3
+        - text: "l-lahu"
+          cid: 4
+        - text: "ʿalayhimu"
+          cid: 5
+        - text: "l-jalāa"
+          cid: 6
+        - text: "laʿadhabahum"
+          cid: 7
+        - text: "fī"
+          cid: 8
+        - text: "l-dunyā"
+          cid: 9
+        - text: "walahum"
+          cid: 10
+        - text: "fī"
+          cid: 11
+        - text: "l-ākhirati"
+          cid: 12
+        - text: "ʿadhābu"
+          cid: 13
+        - text: "l-nāri"
+          cid: 14
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ذَٰلِكَ"
+          cid: 1
+        - text: "بِأَنَّهُمْ"
+          cid: 2
+        - text: "شَآقُّوا۟"
+          cid: 3
+        - text: "ٱللَّهَ"
+          cid: 4
+        - text: "وَرَسُولَهُۥ ۖ"
+          cid: 5
+        - text: "وَمَن"
+          cid: 6
+        - text: "يُشَآقِّ"
+          cid: 7
+        - text: "ٱللَّهَ"
+          cid: 8
+        - text: "فَإِنَّ"
+          cid: 9
+        - text: "ٱللَّهَ"
+          cid: 10
+        - text: "شَدِيدُ"
+          cid: 11
+        - text: "ٱلْعِقَابِ"
+          cid: 12
+      ar-lat:
+        - text: "dhālika"
+          cid: 1
+        - text: "bi-annahum"
+          cid: 2
+        - text: "shāqqū"
+          cid: 3
+        - text: "l-laha"
+          cid: 4
+        - text: "warasūlahu"
+          cid: 5
+        - text: "waman"
+          cid: 6
+        - text: "yushāqqi"
+          cid: 7
+        - text: "l-laha"
+          cid: 8
+        - text: "fa-inna"
+          cid: 9
+        - text: "l-laha"
+          cid: 10
+        - text: "shadīdu"
+          cid: 11
+        - text: "l-ʿiqābi"
+          cid: 12
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "مَا"
+          cid: 1
+        - text: "قَطَعْتُم"
+          cid: 2
+        - text: "مِّن"
+          cid: 3
+        - text: "لِّينَةٍ"
+          cid: 4
+        - text: "أَوْ"
+          cid: 5
+        - text: "تَرَكْتُمُوهَا"
+          cid: 6
+        - text: "قَآئِمَةً"
+          cid: 7
+        - text: "عَلَىٰٓ"
+          cid: 8
+        - text: "أُصُولِهَا"
+          cid: 9
+        - text: "فَبِإِذْنِ"
+          cid: 10
+        - text: "ٱللَّهِ"
+          cid: 11
+        - text: "وَلِيُخْزِىَ"
+          cid: 12
+        - text: "ٱلْفَـٰسِقِينَ"
+          cid: 13
+      ar-lat:
+        - text: "mā"
+          cid: 1
+        - text: "qaṭaʿtum"
+          cid: 2
+        - text: "min"
+          cid: 3
+        - text: "līnatin"
+          cid: 4
+        - text: "aw"
+          cid: 5
+        - text: "taraktumūhā"
+          cid: 6
+        - text: "qāimatan"
+          cid: 7
+        - text: "ʿalā"
+          cid: 8
+        - text: "uṣūlihā"
+          cid: 9
+        - text: "fabi-idhni"
+          cid: 10
+        - text: "l-lahi"
+          cid: 11
+        - text: "waliyukhziya"
+          cid: 12
+        - text: "l-fāsiqīna"
+          cid: 13
+  - verse: 6
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَمَآ"
+          cid: 1
+        - text: "أَفَآءَ"
+          cid: 2
+        - text: "ٱللَّهُ"
+          cid: 3
+        - text: "عَلَىٰ"
+          cid: 4
+        - text: "رَسُولِهِۦ"
+          cid: 5
+        - text: "مِنْهُمْ"
+          cid: 6
+        - text: "فَمَآ"
+          cid: 7
+        - text: "أَوْجَفْتُمْ"
+          cid: 8
+        - text: "عَلَيْهِ"
+          cid: 9
+        - text: "مِنْ"
+          cid: 10
+        - text: "خَيْلٍۢ"
+          cid: 11
+        - text: "وَلَا"
+          cid: 12
+        - text: "رِكَابٍۢ"
+          cid: 13
+        - text: "وَلَـٰكِنَّ"
+          cid: 14
+        - text: "ٱللَّهَ"
+          cid: 15
+        - text: "يُسَلِّطُ"
+          cid: 16
+        - text: "رُسُلَهُۥ"
+          cid: 17
+        - text: "عَلَىٰ"
+          cid: 18
+        - text: "مَن"
+          cid: 19
+        - text: "يَشَآءُ ۚ"
+          cid: 20
+        - text: "وَٱللَّهُ"
+          cid: 21
+        - text: "عَلَىٰ"
+          cid: 22
+        - text: "كُلِّ"
+          cid: 23
+        - text: "شَىْءٍۢ"
+          cid: 24
+        - text: "قَدِيرٌۭ"
+          cid: 25
+      ar-lat:
+        - text: "wamā"
+          cid: 1
+        - text: "afāa"
+          cid: 2
+        - text: "l-lahu"
+          cid: 3
+        - text: "ʿalā"
+          cid: 4
+        - text: "rasūlihi"
+          cid: 5
+        - text: "minhum"
+          cid: 6
+        - text: "famā"
+          cid: 7
+        - text: "awjaftum"
+          cid: 8
+        - text: "ʿalayhi"
+          cid: 9
+        - text: "min"
+          cid: 10
+        - text: "khaylin"
+          cid: 11
+        - text: "walā"
+          cid: 12
+        - text: "rikābin"
+          cid: 13
+        - text: "walākinna"
+          cid: 14
+        - text: "l-laha"
+          cid: 15
+        - text: "yusalliṭu"
+          cid: 16
+        - text: "rusulahu"
+          cid: 17
+        - text: "ʿalā"
+          cid: 18
+        - text: "man"
+          cid: 19
+        - text: "yashāu"
+          cid: 20
+        - text: "wal-lahu"
+          cid: 21
+        - text: "ʿalā"
+          cid: 22
+        - text: "kulli"
+          cid: 23
+        - text: "shayin"
+          cid: 24
+        - text: "qadīrun"
+          cid: 25
+  - verse: 7
+    context_mapped: true
+    segments:
+      ar:
+        - text: "مَّآ"
+          cid: 1
+        - text: "أَفَآءَ"
+          cid: 2
+        - text: "ٱللَّهُ"
+          cid: 3
+        - text: "عَلَىٰ"
+          cid: 4
+        - text: "رَسُولِهِۦ"
+          cid: 5
+        - text: "مِنْ"
+          cid: 6
+        - text: "أَهْلِ"
+          cid: 7
+        - text: "ٱلْقُرَىٰ"
+          cid: 8
+        - text: "فَلِلَّهِ"
+          cid: 9
+        - text: "وَلِلرَّسُولِ"
+          cid: 10
+        - text: "وَلِذِى"
+          cid: 11
+        - text: "ٱلْقُرْبَىٰ"
+          cid: 12
+        - text: "وَٱلْيَتَـٰمَىٰ"
+          cid: 13
+        - text: "وَٱلْمَسَـٰكِينِ"
+          cid: 14
+        - text: "وَٱبْنِ"
+          cid: 15
+        - text: "ٱلسَّبِيلِ"
+          cid: 16
+        - text: "كَىْ"
+          cid: 17
+        - text: "لَا"
+          cid: 18
+        - text: "يَكُونَ"
+          cid: 19
+        - text: "دُولَةًۢ"
+          cid: 20
+        - text: "بَيْنَ"
+          cid: 21
+        - text: "ٱلْأَغْنِيَآءِ"
+          cid: 22
+        - text: "مِنكُمْ ۚ"
+          cid: 23
+        - text: "وَمَآ"
+          cid: 24
+        - text: "ءَاتَىٰكُمُ"
+          cid: 25
+        - text: "ٱلرَّسُولُ"
+          cid: 26
+        - text: "فَخُذُوهُ"
+          cid: 27
+        - text: "وَمَا"
+          cid: 28
+        - text: "نَهَىٰكُمْ"
+          cid: 29
+        - text: "عَنْهُ"
+          cid: 30
+        - text: "فَٱنتَهُوا۟ ۚ"
+          cid: 31
+        - text: "وَٱتَّقُوا۟"
+          cid: 32
+        - text: "ٱللَّهَ ۖ"
+          cid: 33
+        - text: "إِنَّ"
+          cid: 34
+        - text: "ٱللَّهَ"
+          cid: 35
+        - text: "شَدِيدُ"
+          cid: 36
+        - text: "ٱلْعِقَابِ"
+          cid: 37
+      ar-lat:
+        - text: "mā"
+          cid: 1
+        - text: "afāa"
+          cid: 2
+        - text: "l-lahu"
+          cid: 3
+        - text: "ʿalā"
+          cid: 4
+        - text: "rasūlihi"
+          cid: 5
+        - text: "min"
+          cid: 6
+        - text: "ahli"
+          cid: 7
+        - text: "l-qurā"
+          cid: 8
+        - text: "falillahi"
+          cid: 9
+        - text: "walilrrasūli"
+          cid: 10
+        - text: "walidhī"
+          cid: 11
+        - text: "l-qurbā"
+          cid: 12
+        - text: "wal-yatāmā"
+          cid: 13
+        - text: "wal-masākīni"
+          cid: 14
+        - text: "wa-ibni"
+          cid: 15
+        - text: "l-sabīli"
+          cid: 16
+        - text: "kay"
+          cid: 17
+        - text: "lā"
+          cid: 18
+        - text: "yakūna"
+          cid: 19
+        - text: "dūlatan"
+          cid: 20
+        - text: "bayna"
+          cid: 21
+        - text: "l-aghniyāi"
+          cid: 22
+        - text: "minkum"
+          cid: 23
+        - text: "wamā"
+          cid: 24
+        - text: "ātākumu"
+          cid: 25
+        - text: "l-rasūlu"
+          cid: 26
+        - text: "fakhudhūhu"
+          cid: 27
+        - text: "wamā"
+          cid: 28
+        - text: "nahākum"
+          cid: 29
+        - text: "ʿanhu"
+          cid: 30
+        - text: "fa-intahū"
+          cid: 31
+        - text: "wa-ittaqū"
+          cid: 32
+        - text: "l-laha"
+          cid: 33
+        - text: "inna"
+          cid: 34
+        - text: "l-laha"
+          cid: 35
+        - text: "shadīdu"
+          cid: 36
+        - text: "l-ʿiqābi"
+          cid: 37
+  - verse: 8
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لِلْفُقَرَآءِ"
+          cid: 1
+        - text: "ٱلْمُهَـٰجِرِينَ"
+          cid: 2
+        - text: "ٱلَّذِينَ"
+          cid: 3
+        - text: "أُخْرِجُوا۟"
+          cid: 4
+        - text: "مِن"
+          cid: 5
+        - text: "دِيَـٰرِهِمْ"
+          cid: 6
+        - text: "وَأَمْوَٰلِهِمْ"
+          cid: 7
+        - text: "يَبْتَغُونَ"
+          cid: 8
+        - text: "فَضْلًۭا"
+          cid: 9
+        - text: "مِّنَ"
+          cid: 10
+        - text: "ٱللَّهِ"
+          cid: 11
+        - text: "وَرِضْوَٰنًۭا"
+          cid: 12
+        - text: "وَيَنصُرُونَ"
+          cid: 13
+        - text: "ٱللَّهَ"
+          cid: 14
+        - text: "وَرَسُولَهُۥٓ ۚ"
+          cid: 15
+        - text: "أُو۟لَـٰٓئِكَ"
+          cid: 16
+        - text: "هُمُ"
+          cid: 17
+        - text: "ٱلصَّـٰدِقُونَ"
+          cid: 18
+      ar-lat:
+        - text: "lilfuqarāi"
+          cid: 1
+        - text: "l-muhājirīna"
+          cid: 2
+        - text: "alladhīna"
+          cid: 3
+        - text: "ukhrijū"
+          cid: 4
+        - text: "min"
+          cid: 5
+        - text: "diyārihim"
+          cid: 6
+        - text: "wa-amwālihim"
+          cid: 7
+        - text: "yabtaghūna"
+          cid: 8
+        - text: "faḍlan"
+          cid: 9
+        - text: "mina"
+          cid: 10
+        - text: "l-lahi"
+          cid: 11
+        - text: "wariḍwānan"
+          cid: 12
+        - text: "wayanṣurūna"
+          cid: 13
+        - text: "l-laha"
+          cid: 14
+        - text: "warasūlahu"
+          cid: 15
+        - text: "ulāika"
+          cid: 16
+        - text: "humu"
+          cid: 17
+        - text: "l-ṣādiqūna"
+          cid: 18
+  - verse: 9
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَٱلَّذِينَ"
+          cid: 1
+        - text: "تَبَوَّءُو"
+          cid: 2
+        - text: "ٱلدَّارَ"
+          cid: 3
+        - text: "وَٱلْإِيمَـٰنَ"
+          cid: 4
+        - text: "مِن"
+          cid: 5
+        - text: "قَبْلِهِمْ"
+          cid: 6
+        - text: "يُحِبُّونَ"
+          cid: 7
+        - text: "مَنْ"
+          cid: 8
+        - text: "هَاجَرَ"
+          cid: 9
+        - text: "إِلَيْهِمْ"
+          cid: 10
+        - text: "وَلَا"
+          cid: 11
+        - text: "يَجِدُونَ"
+          cid: 12
+        - text: "فِى"
+          cid: 13
+        - text: "صُدُورِهِمْ"
+          cid: 14
+        - text: "حَاجَةًۭ"
+          cid: 15
+        - text: "مِّمَّآ"
+          cid: 16
+        - text: "أُوتُوا۟"
+          cid: 17
+        - text: "وَيُؤْثِرُونَ"
+          cid: 18
+        - text: "عَلَىٰٓ"
+          cid: 19
+        - text: "أَنفُسِهِمْ"
+          cid: 20
+        - text: "وَلَوْ"
+          cid: 21
+        - text: "كَانَ"
+          cid: 22
+        - text: "بِهِمْ"
+          cid: 23
+        - text: "خَصَاصَةٌۭ ۚ"
+          cid: 24
+        - text: "وَمَن"
+          cid: 25
+        - text: "يُوقَ"
+          cid: 26
+        - text: "شُحَّ"
+          cid: 27
+        - text: "نَفْسِهِۦ"
+          cid: 28
+        - text: "فَأُو۟لَـٰٓئِكَ"
+          cid: 29
+        - text: "هُمُ"
+          cid: 30
+        - text: "ٱلْمُفْلِحُونَ"
+          cid: 31
+      ar-lat:
+        - text: "wa-alladhīna"
+          cid: 1
+        - text: "tabawwaū"
+          cid: 2
+        - text: "l-dāra"
+          cid: 3
+        - text: "wal-īmāna"
+          cid: 4
+        - text: "min"
+          cid: 5
+        - text: "qablihim"
+          cid: 6
+        - text: "yuḥibbūna"
+          cid: 7
+        - text: "man"
+          cid: 8
+        - text: "hājara"
+          cid: 9
+        - text: "ilayhim"
+          cid: 10
+        - text: "walā"
+          cid: 11
+        - text: "yajidūna"
+          cid: 12
+        - text: "fī"
+          cid: 13
+        - text: "ṣudūrihim"
+          cid: 14
+        - text: "ḥājatan"
+          cid: 15
+        - text: "mimmā"
+          cid: 16
+        - text: "ūtū"
+          cid: 17
+        - text: "wayuthirūna"
+          cid: 18
+        - text: "ʿalā"
+          cid: 19
+        - text: "anfusihim"
+          cid: 20
+        - text: "walaw"
+          cid: 21
+        - text: "kāna"
+          cid: 22
+        - text: "bihim"
+          cid: 23
+        - text: "khaṣāṣatun"
+          cid: 24
+        - text: "waman"
+          cid: 25
+        - text: "yūqa"
+          cid: 26
+        - text: "shuḥḥa"
+          cid: 27
+        - text: "nafsihi"
+          cid: 28
+        - text: "fa-ulāika"
+          cid: 29
+        - text: "humu"
+          cid: 30
+        - text: "l-mufliḥūna"
+          cid: 31
+  - verse: 10
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَٱلَّذِينَ"
+          cid: 1
+        - text: "جَآءُو"
+          cid: 2
+        - text: "مِنۢ"
+          cid: 3
+        - text: "بَعْدِهِمْ"
+          cid: 4
+        - text: "يَقُولُونَ"
+          cid: 5
+        - text: "رَبَّنَا"
+          cid: 6
+        - text: "ٱغْفِرْ"
+          cid: 7
+        - text: "لَنَا"
+          cid: 8
+        - text: "وَلِإِخْوَٰنِنَا"
+          cid: 9
+        - text: "ٱلَّذِينَ"
+          cid: 10
+        - text: "سَبَقُونَا"
+          cid: 11
+        - text: "بِٱلْإِيمَـٰنِ"
+          cid: 12
+        - text: "وَلَا"
+          cid: 13
+        - text: "تَجْعَلْ"
+          cid: 14
+        - text: "فِى"
+          cid: 15
+        - text: "قُلُوبِنَا"
+          cid: 16
+        - text: "غِلًّۭا"
+          cid: 17
+        - text: "لِّلَّذِينَ"
+          cid: 18
+        - text: "ءَامَنُوا۟"
+          cid: 19
+        - text: "رَبَّنَآ"
+          cid: 20
+        - text: "إِنَّكَ"
+          cid: 21
+        - text: "رَءُوفٌۭ"
+          cid: 22
+        - text: "رَّحِيمٌ"
+          cid: 23
+      ar-lat:
+        - text: "wa-alladhīna"
+          cid: 1
+        - text: "jāū"
+          cid: 2
+        - text: "min"
+          cid: 3
+        - text: "baʿdihim"
+          cid: 4
+        - text: "yaqūlūna"
+          cid: 5
+        - text: "rabbanā"
+          cid: 6
+        - text: "ighfir"
+          cid: 7
+        - text: "lanā"
+          cid: 8
+        - text: "wali-ikhwāninā"
+          cid: 9
+        - text: "alladhīna"
+          cid: 10
+        - text: "sabaqūnā"
+          cid: 11
+        - text: "bil-īmāni"
+          cid: 12
+        - text: "walā"
+          cid: 13
+        - text: "tajʿal"
+          cid: 14
+        - text: "fī"
+          cid: 15
+        - text: "qulūbinā"
+          cid: 16
+        - text: "ghillan"
+          cid: 17
+        - text: "lilladhīna"
+          cid: 18
+        - text: "āmanū"
+          cid: 19
+        - text: "rabbanā"
+          cid: 20
+        - text: "innaka"
+          cid: 21
+        - text: "raūfun"
+          cid: 22
+        - text: "raḥīmun"
+          cid: 23
+  - verse: 11
+    context_mapped: true
+    segments:
+      ar:
+        - text: "۞ أَلَمْ"
+          cid: 1
+        - text: "تَرَ"
+          cid: 2
+        - text: "إِلَى"
+          cid: 3
+        - text: "ٱلَّذِينَ"
+          cid: 4
+        - text: "نَافَقُوا۟"
+          cid: 5
+        - text: "يَقُولُونَ"
+          cid: 6
+        - text: "لِإِخْوَٰنِهِمُ"
+          cid: 7
+        - text: "ٱلَّذِينَ"
+          cid: 8
+        - text: "كَفَرُوا۟"
+          cid: 9
+        - text: "مِنْ"
+          cid: 10
+        - text: "أَهْلِ"
+          cid: 11
+        - text: "ٱلْكِتَـٰبِ"
+          cid: 12
+        - text: "لَئِنْ"
+          cid: 13
+        - text: "أُخْرِجْتُمْ"
+          cid: 14
+        - text: "لَنَخْرُجَنَّ"
+          cid: 15
+        - text: "مَعَكُمْ"
+          cid: 16
+        - text: "وَلَا"
+          cid: 17
+        - text: "نُطِيعُ"
+          cid: 18
+        - text: "فِيكُمْ"
+          cid: 19
+        - text: "أَحَدًا"
+          cid: 20
+        - text: "أَبَدًۭا"
+          cid: 21
+        - text: "وَإِن"
+          cid: 22
+        - text: "قُوتِلْتُمْ"
+          cid: 23
+        - text: "لَنَنصُرَنَّكُمْ"
+          cid: 24
+        - text: "وَٱللَّهُ"
+          cid: 25
+        - text: "يَشْهَدُ"
+          cid: 26
+        - text: "إِنَّهُمْ"
+          cid: 27
+        - text: "لَكَـٰذِبُونَ"
+          cid: 28
+      ar-lat:
+        - text: "alam"
+          cid: 1
+        - text: "tara"
+          cid: 2
+        - text: "ilā"
+          cid: 3
+        - text: "alladhīna"
+          cid: 4
+        - text: "nāfaqū"
+          cid: 5
+        - text: "yaqūlūna"
+          cid: 6
+        - text: "li-ikhwānihimu"
+          cid: 7
+        - text: "alladhīna"
+          cid: 8
+        - text: "kafarū"
+          cid: 9
+        - text: "min"
+          cid: 10
+        - text: "ahli"
+          cid: 11
+        - text: "l-kitābi"
+          cid: 12
+        - text: "la-in"
+          cid: 13
+        - text: "ukhrijtum"
+          cid: 14
+        - text: "lanakhrujanna"
+          cid: 15
+        - text: "maʿakum"
+          cid: 16
+        - text: "walā"
+          cid: 17
+        - text: "nuṭīʿu"
+          cid: 18
+        - text: "fīkum"
+          cid: 19
+        - text: "aḥadan"
+          cid: 20
+        - text: "abadan"
+          cid: 21
+        - text: "wa-in"
+          cid: 22
+        - text: "qūtiltum"
+          cid: 23
+        - text: "lananṣurannakum"
+          cid: 24
+        - text: "wal-lahu"
+          cid: 25
+        - text: "yashhadu"
+          cid: 26
+        - text: "innahum"
+          cid: 27
+        - text: "lakādhibūna"
+          cid: 28
+  - verse: 12
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لَئِنْ"
+          cid: 1
+        - text: "أُخْرِجُوا۟"
+          cid: 2
+        - text: "لَا"
+          cid: 3
+        - text: "يَخْرُجُونَ"
+          cid: 4
+        - text: "مَعَهُمْ"
+          cid: 5
+        - text: "وَلَئِن"
+          cid: 6
+        - text: "قُوتِلُوا۟"
+          cid: 7
+        - text: "لَا"
+          cid: 8
+        - text: "يَنصُرُونَهُمْ"
+          cid: 9
+        - text: "وَلَئِن"
+          cid: 10
+        - text: "نَّصَرُوهُمْ"
+          cid: 11
+        - text: "لَيُوَلُّنَّ"
+          cid: 12
+        - text: "ٱلْأَدْبَـٰرَ"
+          cid: 13
+        - text: "ثُمَّ"
+          cid: 14
+        - text: "لَا"
+          cid: 15
+        - text: "يُنصَرُونَ"
+          cid: 16
+      ar-lat:
+        - text: "la-in"
+          cid: 1
+        - text: "ukhrijū"
+          cid: 2
+        - text: "lā"
+          cid: 3
+        - text: "yakhrujūna"
+          cid: 4
+        - text: "maʿahum"
+          cid: 5
+        - text: "wala-in"
+          cid: 6
+        - text: "qūtilū"
+          cid: 7
+        - text: "lā"
+          cid: 8
+        - text: "yanṣurūnahum"
+          cid: 9
+        - text: "wala-in"
+          cid: 10
+        - text: "naṣarūhum"
+          cid: 11
+        - text: "layuwallunna"
+          cid: 12
+        - text: "l-adbāra"
+          cid: 13
+        - text: "thumma"
+          cid: 14
+        - text: "lā"
+          cid: 15
+        - text: "yunṣarūna"
+          cid: 16
+  - verse: 13
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لَأَنتُمْ"
+          cid: 1
+        - text: "أَشَدُّ"
+          cid: 2
+        - text: "رَهْبَةًۭ"
+          cid: 3
+        - text: "فِى"
+          cid: 4
+        - text: "صُدُورِهِم"
+          cid: 5
+        - text: "مِّنَ"
+          cid: 6
+        - text: "ٱللَّهِ ۚ"
+          cid: 7
+        - text: "ذَٰلِكَ"
+          cid: 8
+        - text: "بِأَنَّهُمْ"
+          cid: 9
+        - text: "قَوْمٌۭ"
+          cid: 10
+        - text: "لَّا"
+          cid: 11
+        - text: "يَفْقَهُونَ"
+          cid: 12
+      ar-lat:
+        - text: "la-antum"
+          cid: 1
+        - text: "ashaddu"
+          cid: 2
+        - text: "rahbatan"
+          cid: 3
+        - text: "fī"
+          cid: 4
+        - text: "ṣudūrihim"
+          cid: 5
+        - text: "mina"
+          cid: 6
+        - text: "l-lahi"
+          cid: 7
+        - text: "dhālika"
+          cid: 8
+        - text: "bi-annahum"
+          cid: 9
+        - text: "qawmun"
+          cid: 10
+        - text: "lā"
+          cid: 11
+        - text: "yafqahūna"
+          cid: 12
+  - verse: 14
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لَا"
+          cid: 1
+        - text: "يُقَـٰتِلُونَكُمْ"
+          cid: 2
+        - text: "جَمِيعًا"
+          cid: 3
+        - text: "إِلَّا"
+          cid: 4
+        - text: "فِى"
+          cid: 5
+        - text: "قُرًۭى"
+          cid: 6
+        - text: "مُّحَصَّنَةٍ"
+          cid: 7
+        - text: "أَوْ"
+          cid: 8
+        - text: "مِن"
+          cid: 9
+        - text: "وَرَآءِ"
+          cid: 10
+        - text: "جُدُرٍۭ ۚ"
+          cid: 11
+        - text: "بَأْسُهُم"
+          cid: 12
+        - text: "بَيْنَهُمْ"
+          cid: 13
+        - text: "شَدِيدٌۭ ۚ"
+          cid: 14
+        - text: "تَحْسَبُهُمْ"
+          cid: 15
+        - text: "جَمِيعًۭا"
+          cid: 16
+        - text: "وَقُلُوبُهُمْ"
+          cid: 17
+        - text: "شَتَّىٰ ۚ"
+          cid: 18
+        - text: "ذَٰلِكَ"
+          cid: 19
+        - text: "بِأَنَّهُمْ"
+          cid: 20
+        - text: "قَوْمٌۭ"
+          cid: 21
+        - text: "لَّا"
+          cid: 22
+        - text: "يَعْقِلُونَ"
+          cid: 23
+      ar-lat:
+        - text: "lā"
+          cid: 1
+        - text: "yuqātilūnakum"
+          cid: 2
+        - text: "jamīʿan"
+          cid: 3
+        - text: "illā"
+          cid: 4
+        - text: "fī"
+          cid: 5
+        - text: "quran"
+          cid: 6
+        - text: "muḥaṣṣanatin"
+          cid: 7
+        - text: "aw"
+          cid: 8
+        - text: "min"
+          cid: 9
+        - text: "warāi"
+          cid: 10
+        - text: "judurin"
+          cid: 11
+        - text: "basuhum"
+          cid: 12
+        - text: "baynahum"
+          cid: 13
+        - text: "shadīdun"
+          cid: 14
+        - text: "taḥsabuhum"
+          cid: 15
+        - text: "jamīʿan"
+          cid: 16
+        - text: "waqulūbuhum"
+          cid: 17
+        - text: "shattā"
+          cid: 18
+        - text: "dhālika"
+          cid: 19
+        - text: "bi-annahum"
+          cid: 20
+        - text: "qawmun"
+          cid: 21
+        - text: "lā"
+          cid: 22
+        - text: "yaʿqilūna"
+          cid: 23
+  - verse: 15
+    context_mapped: true
+    segments:
+      ar:
+        - text: "كَمَثَلِ"
+          cid: 1
+        - text: "ٱلَّذِينَ"
+          cid: 2
+        - text: "مِن"
+          cid: 3
+        - text: "قَبْلِهِمْ"
+          cid: 4
+        - text: "قَرِيبًۭا ۖ"
+          cid: 5
+        - text: "ذَاقُوا۟"
+          cid: 6
+        - text: "وَبَالَ"
+          cid: 7
+        - text: "أَمْرِهِمْ"
+          cid: 8
+        - text: "وَلَهُمْ"
+          cid: 9
+        - text: "عَذَابٌ"
+          cid: 10
+        - text: "أَلِيمٌۭ"
+          cid: 11
+      ar-lat:
+        - text: "kamathali"
+          cid: 1
+        - text: "alladhīna"
+          cid: 2
+        - text: "min"
+          cid: 3
+        - text: "qablihim"
+          cid: 4
+        - text: "qarīban"
+          cid: 5
+        - text: "dhāqū"
+          cid: 6
+        - text: "wabāla"
+          cid: 7
+        - text: "amrihim"
+          cid: 8
+        - text: "walahum"
+          cid: 9
+        - text: "ʿadhābun"
+          cid: 10
+        - text: "alīmun"
+          cid: 11
+  - verse: 16
+    context_mapped: true
+    segments:
+      ar:
+        - text: "كَمَثَلِ"
+          cid: 1
+        - text: "ٱلشَّيْطَـٰنِ"
+          cid: 2
+        - text: "إِذْ"
+          cid: 3
+        - text: "قَالَ"
+          cid: 4
+        - text: "لِلْإِنسَـٰنِ"
+          cid: 5
+        - text: "ٱكْفُرْ"
+          cid: 6
+        - text: "فَلَمَّا"
+          cid: 7
+        - text: "كَفَرَ"
+          cid: 8
+        - text: "قَالَ"
+          cid: 9
+        - text: "إِنِّى"
+          cid: 10
+        - text: "بَرِىٓءٌۭ"
+          cid: 11
+        - text: "مِّنكَ"
+          cid: 12
+        - text: "إِنِّىٓ"
+          cid: 13
+        - text: "أَخَافُ"
+          cid: 14
+        - text: "ٱللَّهَ"
+          cid: 15
+        - text: "رَبَّ"
+          cid: 16
+        - text: "ٱلْعَـٰلَمِينَ"
+          cid: 17
+      ar-lat:
+        - text: "kamathali"
+          cid: 1
+        - text: "l-shayṭāni"
+          cid: 2
+        - text: "idh"
+          cid: 3
+        - text: "qāla"
+          cid: 4
+        - text: "lilinsāni"
+          cid: 5
+        - text: "ukfur"
+          cid: 6
+        - text: "falammā"
+          cid: 7
+        - text: "kafara"
+          cid: 8
+        - text: "qāla"
+          cid: 9
+        - text: "innī"
+          cid: 10
+        - text: "barīon"
+          cid: 11
+        - text: "minka"
+          cid: 12
+        - text: "innī"
+          cid: 13
+        - text: "akhāfu"
+          cid: 14
+        - text: "l-laha"
+          cid: 15
+        - text: "rabba"
+          cid: 16
+        - text: "l-ʿālamīna"
+          cid: 17
+  - verse: 17
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَكَانَ"
+          cid: 1
+        - text: "عَـٰقِبَتَهُمَآ"
+          cid: 2
+        - text: "أَنَّهُمَا"
+          cid: 3
+        - text: "فِى"
+          cid: 4
+        - text: "ٱلنَّارِ"
+          cid: 5
+        - text: "خَـٰلِدَيْنِ"
+          cid: 6
+        - text: "فِيهَا ۚ"
+          cid: 7
+        - text: "وَذَٰلِكَ"
+          cid: 8
+        - text: "جَزَٰٓؤُا۟"
+          cid: 9
+        - text: "ٱلظَّـٰلِمِينَ"
+          cid: 10
+      ar-lat:
+        - text: "fakāna"
+          cid: 1
+        - text: "ʿāqibatahumā"
+          cid: 2
+        - text: "annahumā"
+          cid: 3
+        - text: "fī"
+          cid: 4
+        - text: "l-nāri"
+          cid: 5
+        - text: "khālidayni"
+          cid: 6
+        - text: "fīhā"
+          cid: 7
+        - text: "wadhālika"
+          cid: 8
+        - text: "jazāu"
+          cid: 9
+        - text: "l-ẓālimīna"
+          cid: 10
+  - verse: 18
+    context_mapped: true
+    segments:
+      ar:
+        - text: "يَـٰٓأَيُّهَا"
+          cid: 1
+        - text: "ٱلَّذِينَ"
+          cid: 2
+        - text: "ءَامَنُوا۟"
+          cid: 3
+        - text: "ٱتَّقُوا۟"
+          cid: 4
+        - text: "ٱللَّهَ"
+          cid: 5
+        - text: "وَلْتَنظُرْ"
+          cid: 6
+        - text: "نَفْسٌۭ"
+          cid: 7
+        - text: "مَّا"
+          cid: 8
+        - text: "قَدَّمَتْ"
+          cid: 9
+        - text: "لِغَدٍۢ ۖ"
+          cid: 10
+        - text: "وَٱتَّقُوا۟"
+          cid: 11
+        - text: "ٱللَّهَ ۚ"
+          cid: 12
+        - text: "إِنَّ"
+          cid: 13
+        - text: "ٱللَّهَ"
+          cid: 14
+        - text: "خَبِيرٌۢ"
+          cid: 15
+        - text: "بِمَا"
+          cid: 16
+        - text: "تَعْمَلُونَ"
+          cid: 17
+      ar-lat:
+        - text: "yāayyuhā"
+          cid: 1
+        - text: "alladhīna"
+          cid: 2
+        - text: "āmanū"
+          cid: 3
+        - text: "ittaqū"
+          cid: 4
+        - text: "l-laha"
+          cid: 5
+        - text: "waltanẓur"
+          cid: 6
+        - text: "nafsun"
+          cid: 7
+        - text: "mā"
+          cid: 8
+        - text: "qaddamat"
+          cid: 9
+        - text: "lighadin"
+          cid: 10
+        - text: "wa-ittaqū"
+          cid: 11
+        - text: "l-laha"
+          cid: 12
+        - text: "inna"
+          cid: 13
+        - text: "l-laha"
+          cid: 14
+        - text: "khabīrun"
+          cid: 15
+        - text: "bimā"
+          cid: 16
+        - text: "taʿmalūna"
+          cid: 17
+  - verse: 19
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَلَا"
+          cid: 1
+        - text: "تَكُونُوا۟"
+          cid: 2
+        - text: "كَٱلَّذِينَ"
+          cid: 3
+        - text: "نَسُوا۟"
+          cid: 4
+        - text: "ٱللَّهَ"
+          cid: 5
+        - text: "فَأَنسَىٰهُمْ"
+          cid: 6
+        - text: "أَنفُسَهُمْ ۚ"
+          cid: 7
+        - text: "أُو۟لَـٰٓئِكَ"
+          cid: 8
+        - text: "هُمُ"
+          cid: 9
+        - text: "ٱلْفَـٰسِقُونَ"
+          cid: 10
+      ar-lat:
+        - text: "walā"
+          cid: 1
+        - text: "takūnū"
+          cid: 2
+        - text: "ka-alladhīna"
+          cid: 3
+        - text: "nasū"
+          cid: 4
+        - text: "l-laha"
+          cid: 5
+        - text: "fa-ansāhum"
+          cid: 6
+        - text: "anfusahum"
+          cid: 7
+        - text: "ulāika"
+          cid: 8
+        - text: "humu"
+          cid: 9
+        - text: "l-fāsiqūna"
+          cid: 10
+  - verse: 20
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لَا"
+          cid: 1
+        - text: "يَسْتَوِىٓ"
+          cid: 2
+        - text: "أَصْحَـٰبُ"
+          cid: 3
+        - text: "ٱلنَّارِ"
+          cid: 4
+        - text: "وَأَصْحَـٰبُ"
+          cid: 5
+        - text: "ٱلْجَنَّةِ ۚ"
+          cid: 6
+        - text: "أَصْحَـٰبُ"
+          cid: 7
+        - text: "ٱلْجَنَّةِ"
+          cid: 8
+        - text: "هُمُ"
+          cid: 9
+        - text: "ٱلْفَآئِزُونَ"
+          cid: 10
+      ar-lat:
+        - text: "lā"
+          cid: 1
+        - text: "yastawī"
+          cid: 2
+        - text: "aṣḥābu"
+          cid: 3
+        - text: "l-nāri"
+          cid: 4
+        - text: "wa-aṣḥābu"
+          cid: 5
+        - text: "l-janati"
+          cid: 6
+        - text: "aṣḥābu"
+          cid: 7
+        - text: "l-janati"
+          cid: 8
+        - text: "humu"
+          cid: 9
+        - text: "l-fāizūna"
+          cid: 10
+  - verse: 21
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لَوْ"
+          cid: 1
+        - text: "أَنزَلْنَا"
+          cid: 2
+        - text: "هَـٰذَا"
+          cid: 3
+        - text: "ٱلْقُرْءَانَ"
+          cid: 4
+        - text: "عَلَىٰ"
+          cid: 5
+        - text: "جَبَلٍۢ"
+          cid: 6
+        - text: "لَّرَأَيْتَهُۥ"
+          cid: 7
+        - text: "خَـٰشِعًۭا"
+          cid: 8
+        - text: "مُّتَصَدِّعًۭا"
+          cid: 9
+        - text: "مِّنْ"
+          cid: 10
+        - text: "خَشْيَةِ"
+          cid: 11
+        - text: "ٱللَّهِ ۚ"
+          cid: 12
+        - text: "وَتِلْكَ"
+          cid: 13
+        - text: "ٱلْأَمْثَـٰلُ"
+          cid: 14
+        - text: "نَضْرِبُهَا"
+          cid: 15
+        - text: "لِلنَّاسِ"
+          cid: 16
+        - text: "لَعَلَّهُمْ"
+          cid: 17
+        - text: "يَتَفَكَّرُونَ"
+          cid: 18
+      ar-lat:
+        - text: "law"
+          cid: 1
+        - text: "anzalnā"
+          cid: 2
+        - text: "hādhā"
+          cid: 3
+        - text: "l-qurāna"
+          cid: 4
+        - text: "ʿalā"
+          cid: 5
+        - text: "jabalin"
+          cid: 6
+        - text: "lara-aytahu"
+          cid: 7
+        - text: "khāshiʿan"
+          cid: 8
+        - text: "mutaṣaddiʿan"
+          cid: 9
+        - text: "min"
+          cid: 10
+        - text: "khashyati"
+          cid: 11
+        - text: "l-lahi"
+          cid: 12
+        - text: "watilka"
+          cid: 13
+        - text: "l-amthālu"
+          cid: 14
+        - text: "naḍribuhā"
+          cid: 15
+        - text: "lilnnāsi"
+          cid: 16
+        - text: "laʿallahum"
+          cid: 17
+        - text: "yatafakkarūna"
+          cid: 18
+  - verse: 22
+    context_mapped: true
+    segments:
+      ar:
+        - text: "هُوَ"
+          cid: 1
+        - text: "ٱللَّهُ"
+          cid: 2
+        - text: "ٱلَّذِى"
+          cid: 3
+        - text: "لَآ"
+          cid: 4
+        - text: "إِلَـٰهَ"
+          cid: 5
+        - text: "إِلَّا"
+          cid: 6
+        - text: "هُوَ ۖ"
+          cid: 7
+        - text: "عَـٰلِمُ"
+          cid: 8
+        - text: "ٱلْغَيْبِ"
+          cid: 9
+        - text: "وَٱلشَّهَـٰدَةِ ۖ"
+          cid: 10
+        - text: "هُوَ"
+          cid: 11
+        - text: "ٱلرَّحْمَـٰنُ"
+          cid: 12
+        - text: "ٱلرَّحِيمُ"
+          cid: 13
+      ar-lat:
+        - text: "huwa"
+          cid: 1
+        - text: "l-lahu"
+          cid: 2
+        - text: "alladhī"
+          cid: 3
+        - text: "lā"
+          cid: 4
+        - text: "ilāha"
+          cid: 5
+        - text: "illā"
+          cid: 6
+        - text: "huwa"
+          cid: 7
+        - text: "ʿālimu"
+          cid: 8
+        - text: "l-ghaybi"
+          cid: 9
+        - text: "wal-shahādati"
+          cid: 10
+        - text: "huwa"
+          cid: 11
+        - text: "l-raḥmānu"
+          cid: 12
+        - text: "l-raḥīmu"
+          cid: 13
+  - verse: 23
+    context_mapped: true
+    segments:
+      ar:
+        - text: "هُوَ"
+          cid: 1
+        - text: "ٱللَّهُ"
+          cid: 2
+        - text: "ٱلَّذِى"
+          cid: 3
+        - text: "لَآ"
+          cid: 4
+        - text: "إِلَـٰهَ"
+          cid: 5
+        - text: "إِلَّا"
+          cid: 6
+        - text: "هُوَ"
+          cid: 7
+        - text: "ٱلْمَلِكُ"
+          cid: 8
+        - text: "ٱلْقُدُّوسُ"
+          cid: 9
+        - text: "ٱلسَّلَـٰمُ"
+          cid: 10
+        - text: "ٱلْمُؤْمِنُ"
+          cid: 11
+        - text: "ٱلْمُهَيْمِنُ"
+          cid: 12
+        - text: "ٱلْعَزِيزُ"
+          cid: 13
+        - text: "ٱلْجَبَّارُ"
+          cid: 14
+        - text: "ٱلْمُتَكَبِّرُ ۚ"
+          cid: 15
+        - text: "سُبْحَـٰنَ"
+          cid: 16
+        - text: "ٱللَّهِ"
+          cid: 17
+        - text: "عَمَّا"
+          cid: 18
+        - text: "يُشْرِكُونَ"
+          cid: 19
+      ar-lat:
+        - text: "huwa"
+          cid: 1
+        - text: "l-lahu"
+          cid: 2
+        - text: "alladhī"
+          cid: 3
+        - text: "lā"
+          cid: 4
+        - text: "ilāha"
+          cid: 5
+        - text: "illā"
+          cid: 6
+        - text: "huwa"
+          cid: 7
+        - text: "l-maliku"
+          cid: 8
+        - text: "l-qudūsu"
+          cid: 9
+        - text: "l-salāmu"
+          cid: 10
+        - text: "l-muminu"
+          cid: 11
+        - text: "l-muhayminu"
+          cid: 12
+        - text: "l-ʿazīzu"
+          cid: 13
+        - text: "l-jabāru"
+          cid: 14
+        - text: "l-mutakabiru"
+          cid: 15
+        - text: "subḥāna"
+          cid: 16
+        - text: "l-lahi"
+          cid: 17
+        - text: "ʿammā"
+          cid: 18
+        - text: "yushrikūna"
+          cid: 19
+  - verse: 24
+    context_mapped: true
+    segments:
+      ar:
+        - text: "هُوَ"
+          cid: 1
+        - text: "ٱللَّهُ"
+          cid: 2
+        - text: "ٱلْخَـٰلِقُ"
+          cid: 3
+        - text: "ٱلْبَارِئُ"
+          cid: 4
+        - text: "ٱلْمُصَوِّرُ ۖ"
+          cid: 5
+        - text: "لَهُ"
+          cid: 6
+        - text: "ٱلْأَسْمَآءُ"
+          cid: 7
+        - text: "ٱلْحُسْنَىٰ ۚ"
+          cid: 8
+        - text: "يُسَبِّحُ"
+          cid: 9
+        - text: "لَهُۥ"
+          cid: 10
+        - text: "مَا"
+          cid: 11
+        - text: "فِى"
+          cid: 12
+        - text: "ٱلسَّمَـٰوَٰتِ"
+          cid: 13
+        - text: "وَٱلْأَرْضِ ۖ"
+          cid: 14
+        - text: "وَهُوَ"
+          cid: 15
+        - text: "ٱلْعَزِيزُ"
+          cid: 16
+        - text: "ٱلْحَكِيمُ"
+          cid: 17
+      ar-lat:
+        - text: "huwa"
+          cid: 1
+        - text: "l-lahu"
+          cid: 2
+        - text: "l-khāliqu"
+          cid: 3
+        - text: "l-bāri-u"
+          cid: 4
+        - text: "l-muṣawiru"
+          cid: 5
+        - text: "lahu"
+          cid: 6
+        - text: "l-asmāu"
+          cid: 7
+        - text: "l-ḥusnā"
+          cid: 8
+        - text: "yusabbiḥu"
+          cid: 9
+        - text: "lahu"
+          cid: 10
+        - text: "mā"
+          cid: 11
+        - text: "fī"
+          cid: 12
+        - text: "l-samāwāti"
+          cid: 13
+        - text: "wal-arḍi"
+          cid: 14
+        - text: "wahuwa"
+          cid: 15
+        - text: "l-ʿazīzu"
+          cid: 16
+        - text: "l-ḥakīmu"
+          cid: 17

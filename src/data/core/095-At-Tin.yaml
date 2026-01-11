@@ -1,0 +1,182 @@
+id: 95
+title: "At-Tin"
+english: The Fig
+type: Makkah
+total_verses: 8
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَٱلتِّينِ"
+          cid: 1
+        - text: "وَٱلزَّيْتُونِ"
+          cid: 2
+      ar-lat:
+        - text: "wal-tīni"
+          cid: 1
+        - text: "wal-zaytūni"
+          cid: 2
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَطُورِ"
+          cid: 1
+        - text: "سِينِينَ"
+          cid: 2
+      ar-lat:
+        - text: "waṭūri"
+          cid: 1
+        - text: "sīnīna"
+          cid: 2
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَهَـٰذَا"
+          cid: 1
+        - text: "ٱلْبَلَدِ"
+          cid: 2
+        - text: "ٱلْأَمِينِ"
+          cid: 3
+      ar-lat:
+        - text: "wahādhā"
+          cid: 1
+        - text: "l-baladi"
+          cid: 2
+        - text: "l-amīni"
+          cid: 3
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لَقَدْ"
+          cid: 1
+        - text: "خَلَقْنَا"
+          cid: 2
+        - text: "ٱلْإِنسَـٰنَ"
+          cid: 3
+        - text: "فِىٓ"
+          cid: 4
+        - text: "أَحْسَنِ"
+          cid: 5
+        - text: "تَقْوِيمٍۢ"
+          cid: 6
+      ar-lat:
+        - text: "laqad"
+          cid: 1
+        - text: "khalaqnā"
+          cid: 2
+        - text: "l-insāna"
+          cid: 3
+        - text: "fī"
+          cid: 4
+        - text: "aḥsani"
+          cid: 5
+        - text: "taqwīmin"
+          cid: 6
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ثُمَّ"
+          cid: 1
+        - text: "رَدَدْنَـٰهُ"
+          cid: 2
+        - text: "أَسْفَلَ"
+          cid: 3
+        - text: "سَـٰفِلِينَ"
+          cid: 4
+      ar-lat:
+        - text: "thumma"
+          cid: 1
+        - text: "radadnāhu"
+          cid: 2
+        - text: "asfala"
+          cid: 3
+        - text: "sāfilīna"
+          cid: 4
+  - verse: 6
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِلَّا"
+          cid: 1
+        - text: "ٱلَّذِينَ"
+          cid: 2
+        - text: "ءَامَنُوا۟"
+          cid: 3
+        - text: "وَعَمِلُوا۟"
+          cid: 4
+        - text: "ٱلصَّـٰلِحَـٰتِ"
+          cid: 5
+        - text: "فَلَهُمْ"
+          cid: 6
+        - text: "أَجْرٌ"
+          cid: 7
+        - text: "غَيْرُ"
+          cid: 8
+        - text: "مَمْنُونٍۢ"
+          cid: 9
+      ar-lat:
+        - text: "illā"
+          cid: 1
+        - text: "alladhīna"
+          cid: 2
+        - text: "āmanū"
+          cid: 3
+        - text: "waʿamilū"
+          cid: 4
+        - text: "l-ṣāliḥāti"
+          cid: 5
+        - text: "falahum"
+          cid: 6
+        - text: "ajrun"
+          cid: 7
+        - text: "ghayru"
+          cid: 8
+        - text: "mamnūnin"
+          cid: 9
+  - verse: 7
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَمَا"
+          cid: 1
+        - text: "يُكَذِّبُكَ"
+          cid: 2
+        - text: "بَعْدُ"
+          cid: 3
+        - text: "بِٱلدِّينِ"
+          cid: 4
+      ar-lat:
+        - text: "famā"
+          cid: 1
+        - text: "yukadhibuka"
+          cid: 2
+        - text: "baʿdu"
+          cid: 3
+        - text: "bil-dīni"
+          cid: 4
+  - verse: 8
+    context_mapped: true
+    segments:
+      ar:
+        - text: "أَلَيْسَ"
+          cid: 1
+        - text: "ٱللَّهُ"
+          cid: 2
+        - text: "بِأَحْكَمِ"
+          cid: 3
+        - text: "ٱلْحَـٰكِمِينَ"
+          cid: 4
+      ar-lat:
+        - text: "alaysa"
+          cid: 1
+        - text: "l-lahu"
+          cid: 2
+        - text: "bi-aḥkami"
+          cid: 3
+        - text: "l-ḥākimīna"
+          cid: 4

@@ -1,0 +1,154 @@
+id: 94
+title: "Ash-Sharh"
+english: The Relief
+type: Makkah
+total_verses: 8
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "أَلَمْ"
+          cid: 1
+        - text: "نَشْرَحْ"
+          cid: 2
+        - text: "لَكَ"
+          cid: 3
+        - text: "صَدْرَكَ"
+          cid: 4
+      ar-lat:
+        - text: "alam"
+          cid: 1
+        - text: "nashraḥ"
+          cid: 2
+        - text: "laka"
+          cid: 3
+        - text: "ṣadraka"
+          cid: 4
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَوَضَعْنَا"
+          cid: 1
+        - text: "عَنكَ"
+          cid: 2
+        - text: "وِزْرَكَ"
+          cid: 3
+      ar-lat:
+        - text: "wawaḍaʿnā"
+          cid: 1
+        - text: "ʿanka"
+          cid: 2
+        - text: "wizraka"
+          cid: 3
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ٱلَّذِىٓ"
+          cid: 1
+        - text: "أَنقَضَ"
+          cid: 2
+        - text: "ظَهْرَكَ"
+          cid: 3
+      ar-lat:
+        - text: "alladhī"
+          cid: 1
+        - text: "anqaḍa"
+          cid: 2
+        - text: "ẓahraka"
+          cid: 3
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَرَفَعْنَا"
+          cid: 1
+        - text: "لَكَ"
+          cid: 2
+        - text: "ذِكْرَكَ"
+          cid: 3
+      ar-lat:
+        - text: "warafaʿnā"
+          cid: 1
+        - text: "laka"
+          cid: 2
+        - text: "dhikraka"
+          cid: 3
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَإِنَّ"
+          cid: 1
+        - text: "مَعَ"
+          cid: 2
+        - text: "ٱلْعُسْرِ"
+          cid: 3
+        - text: "يُسْرًا"
+          cid: 4
+      ar-lat:
+        - text: "fa-inna"
+          cid: 1
+        - text: "maʿa"
+          cid: 2
+        - text: "l-ʿusri"
+          cid: 3
+        - text: "yusran"
+          cid: 4
+  - verse: 6
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِنَّ"
+          cid: 1
+        - text: "مَعَ"
+          cid: 2
+        - text: "ٱلْعُسْرِ"
+          cid: 3
+        - text: "يُسْرًۭا"
+          cid: 4
+      ar-lat:
+        - text: "inna"
+          cid: 1
+        - text: "maʿa"
+          cid: 2
+        - text: "l-ʿusri"
+          cid: 3
+        - text: "yusran"
+          cid: 4
+  - verse: 7
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَإِذَا"
+          cid: 1
+        - text: "فَرَغْتَ"
+          cid: 2
+        - text: "فَٱنصَبْ"
+          cid: 3
+      ar-lat:
+        - text: "fa-idhā"
+          cid: 1
+        - text: "faraghta"
+          cid: 2
+        - text: "fa-inṣab"
+          cid: 3
+  - verse: 8
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَإِلَىٰ"
+          cid: 1
+        - text: "رَبِّكَ"
+          cid: 2
+        - text: "فَٱرْغَب"
+          cid: 3
+      ar-lat:
+        - text: "wa-ilā"
+          cid: 1
+        - text: "rabbika"
+          cid: 2
+        - text: "fa-irghab"
+          cid: 3

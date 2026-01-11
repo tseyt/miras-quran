@@ -1,0 +1,183 @@
+id: 104
+title: "Al-Humazah"
+english: The Traducer
+type: Makkah
+total_verses: 9
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَيْلٌۭ"
+          cid: 1
+        - text: "لِّكُلِّ"
+          cid: 2
+        - text: "هُمَزَةٍۢ"
+          cid: 3
+        - text: "لُّمَزَةٍ"
+          cid: 4
+      ar-lat:
+        - text: "waylun"
+          cid: 1
+        - text: "likulli"
+          cid: 2
+        - text: "humazatin"
+          cid: 3
+        - text: "lumazatin"
+          cid: 4
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ٱلَّذِى"
+          cid: 1
+        - text: "جَمَعَ"
+          cid: 2
+        - text: "مَالًۭا"
+          cid: 3
+        - text: "وَعَدَّدَهُۥ"
+          cid: 4
+      ar-lat:
+        - text: "alladhī"
+          cid: 1
+        - text: "jamaʿa"
+          cid: 2
+        - text: "mālan"
+          cid: 3
+        - text: "waʿaddadahu"
+          cid: 4
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "يَحْسَبُ"
+          cid: 1
+        - text: "أَنَّ"
+          cid: 2
+        - text: "مَالَهُۥٓ"
+          cid: 3
+        - text: "أَخْلَدَهُۥ"
+          cid: 4
+      ar-lat:
+        - text: "yaḥsabu"
+          cid: 1
+        - text: "anna"
+          cid: 2
+        - text: "mālahu"
+          cid: 3
+        - text: "akhladahu"
+          cid: 4
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "كَلَّا ۖ"
+          cid: 1
+        - text: "لَيُنۢبَذَنَّ"
+          cid: 2
+        - text: "فِى"
+          cid: 3
+        - text: "ٱلْحُطَمَةِ"
+          cid: 4
+      ar-lat:
+        - text: "kallā"
+          cid: 1
+        - text: "layunbadhanna"
+          cid: 2
+        - text: "fī"
+          cid: 3
+        - text: "l-ḥuṭamati"
+          cid: 4
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَمَآ"
+          cid: 1
+        - text: "أَدْرَىٰكَ"
+          cid: 2
+        - text: "مَا"
+          cid: 3
+        - text: "ٱلْحُطَمَةُ"
+          cid: 4
+      ar-lat:
+        - text: "wamā"
+          cid: 1
+        - text: "adrāka"
+          cid: 2
+        - text: "mā"
+          cid: 3
+        - text: "l-ḥuṭamatu"
+          cid: 4
+  - verse: 6
+    context_mapped: true
+    segments:
+      ar:
+        - text: "نَارُ"
+          cid: 1
+        - text: "ٱللَّهِ"
+          cid: 2
+        - text: "ٱلْمُوقَدَةُ"
+          cid: 3
+      ar-lat:
+        - text: "nāru"
+          cid: 1
+        - text: "l-lahi"
+          cid: 2
+        - text: "l-mūqadatu"
+          cid: 3
+  - verse: 7
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ٱلَّتِى"
+          cid: 1
+        - text: "تَطَّلِعُ"
+          cid: 2
+        - text: "عَلَى"
+          cid: 3
+        - text: "ٱلْأَفْـِٔدَةِ"
+          cid: 4
+      ar-lat:
+        - text: "allatī"
+          cid: 1
+        - text: "taṭṭaliʿu"
+          cid: 2
+        - text: "ʿalā"
+          cid: 3
+        - text: "l-afidati"
+          cid: 4
+  - verse: 8
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِنَّهَا"
+          cid: 1
+        - text: "عَلَيْهِم"
+          cid: 2
+        - text: "مُّؤْصَدَةٌۭ"
+          cid: 3
+      ar-lat:
+        - text: "innahā"
+          cid: 1
+        - text: "ʿalayhim"
+          cid: 2
+        - text: "muṣadatun"
+          cid: 3
+  - verse: 9
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فِى"
+          cid: 1
+        - text: "عَمَدٍۢ"
+          cid: 2
+        - text: "مُّمَدَّدَةٍۭ"
+          cid: 3
+      ar-lat:
+        - text: "fī"
+          cid: 1
+        - text: "ʿamadin"
+          cid: 2
+        - text: "mumaddadatin"
+          cid: 3

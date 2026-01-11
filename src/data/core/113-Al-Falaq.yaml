@@ -1,0 +1,123 @@
+id: 113
+title: "Al-Falaq"
+english: The Daybreak
+type: Makkah
+total_verses: 5
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "قُلْ"
+          cid: 1
+        - text: "أَعُوذُ"
+          cid: 2
+        - text: "بِرَبِّ"
+          cid: 3
+        - text: "ٱلْفَلَقِ"
+          cid: 4
+      ar-lat:
+        - text: "qul"
+          cid: 1
+        - text: "aʿūdhu"
+          cid: 2
+        - text: "birabbi"
+          cid: 3
+        - text: "l-falaqi"
+          cid: 4
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "مِن"
+          cid: 1
+        - text: "شَرِّ"
+          cid: 2
+        - text: "مَا"
+          cid: 3
+        - text: "خَلَقَ"
+          cid: 4
+      ar-lat:
+        - text: "min"
+          cid: 1
+        - text: "sharri"
+          cid: 2
+        - text: "mā"
+          cid: 3
+        - text: "khalaqa"
+          cid: 4
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَمِن"
+          cid: 1
+        - text: "شَرِّ"
+          cid: 2
+        - text: "غَاسِقٍ"
+          cid: 3
+        - text: "إِذَا"
+          cid: 4
+        - text: "وَقَبَ"
+          cid: 5
+      ar-lat:
+        - text: "wamin"
+          cid: 1
+        - text: "sharri"
+          cid: 2
+        - text: "ghāsiqin"
+          cid: 3
+        - text: "idhā"
+          cid: 4
+        - text: "waqaba"
+          cid: 5
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَمِن"
+          cid: 1
+        - text: "شَرِّ"
+          cid: 2
+        - text: "ٱلنَّفَّـٰثَـٰتِ"
+          cid: 3
+        - text: "فِى"
+          cid: 4
+        - text: "ٱلْعُقَدِ"
+          cid: 5
+      ar-lat:
+        - text: "wamin"
+          cid: 1
+        - text: "sharri"
+          cid: 2
+        - text: "l-nafāthāti"
+          cid: 3
+        - text: "fī"
+          cid: 4
+        - text: "l-ʿuqadi"
+          cid: 5
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَمِن"
+          cid: 1
+        - text: "شَرِّ"
+          cid: 2
+        - text: "حَاسِدٍ"
+          cid: 3
+        - text: "إِذَا"
+          cid: 4
+        - text: "حَسَدَ"
+          cid: 5
+      ar-lat:
+        - text: "wamin"
+          cid: 1
+        - text: "sharri"
+          cid: 2
+        - text: "ḥāsidin"
+          cid: 3
+        - text: "idhā"
+          cid: 4
+        - text: "ḥasada"
+          cid: 5

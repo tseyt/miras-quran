@@ -1,0 +1,205 @@
+id: 101
+title: "Al-Qariah"
+english: The Calamity
+type: Makkah
+total_verses: 11
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ٱلْقَارِعَةُ"
+          cid: 1
+      ar-lat:
+        - text: "al-qāriʿatu"
+          cid: 1
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "مَا"
+          cid: 1
+        - text: "ٱلْقَارِعَةُ"
+          cid: 2
+      ar-lat:
+        - text: "mā"
+          cid: 1
+        - text: "l-qāriʿatu"
+          cid: 2
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَمَآ"
+          cid: 1
+        - text: "أَدْرَىٰكَ"
+          cid: 2
+        - text: "مَا"
+          cid: 3
+        - text: "ٱلْقَارِعَةُ"
+          cid: 4
+      ar-lat:
+        - text: "wamā"
+          cid: 1
+        - text: "adrāka"
+          cid: 2
+        - text: "mā"
+          cid: 3
+        - text: "l-qāriʿatu"
+          cid: 4
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "يَوْمَ"
+          cid: 1
+        - text: "يَكُونُ"
+          cid: 2
+        - text: "ٱلنَّاسُ"
+          cid: 3
+        - text: "كَٱلْفَرَاشِ"
+          cid: 4
+        - text: "ٱلْمَبْثُوثِ"
+          cid: 5
+      ar-lat:
+        - text: "yawma"
+          cid: 1
+        - text: "yakūnu"
+          cid: 2
+        - text: "l-nāsu"
+          cid: 3
+        - text: "kal-farāshi"
+          cid: 4
+        - text: "l-mabthūthi"
+          cid: 5
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَتَكُونُ"
+          cid: 1
+        - text: "ٱلْجِبَالُ"
+          cid: 2
+        - text: "كَٱلْعِهْنِ"
+          cid: 3
+        - text: "ٱلْمَنفُوشِ"
+          cid: 4
+      ar-lat:
+        - text: "watakūnu"
+          cid: 1
+        - text: "l-jibālu"
+          cid: 2
+        - text: "kal-ʿihni"
+          cid: 3
+        - text: "l-manfūshi"
+          cid: 4
+  - verse: 6
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَأَمَّا"
+          cid: 1
+        - text: "مَن"
+          cid: 2
+        - text: "ثَقُلَتْ"
+          cid: 3
+        - text: "مَوَٰزِينُهُۥ"
+          cid: 4
+      ar-lat:
+        - text: "fa-ammā"
+          cid: 1
+        - text: "man"
+          cid: 2
+        - text: "thaqulat"
+          cid: 3
+        - text: "mawāzīnuhu"
+          cid: 4
+  - verse: 7
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَهُوَ"
+          cid: 1
+        - text: "فِى"
+          cid: 2
+        - text: "عِيشَةٍۢ"
+          cid: 3
+        - text: "رَّاضِيَةٍۢ"
+          cid: 4
+      ar-lat:
+        - text: "fahuwa"
+          cid: 1
+        - text: "fī"
+          cid: 2
+        - text: "ʿīshatin"
+          cid: 3
+        - text: "rāḍiyatin"
+          cid: 4
+  - verse: 8
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَأَمَّا"
+          cid: 1
+        - text: "مَنْ"
+          cid: 2
+        - text: "خَفَّتْ"
+          cid: 3
+        - text: "مَوَٰزِينُهُۥ"
+          cid: 4
+      ar-lat:
+        - text: "wa-ammā"
+          cid: 1
+        - text: "man"
+          cid: 2
+        - text: "khaffat"
+          cid: 3
+        - text: "mawāzīnuhu"
+          cid: 4
+  - verse: 9
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَأُمُّهُۥ"
+          cid: 1
+        - text: "هَاوِيَةٌۭ"
+          cid: 2
+      ar-lat:
+        - text: "fa-ummuhu"
+          cid: 1
+        - text: "hāwiyatun"
+          cid: 2
+  - verse: 10
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَمَآ"
+          cid: 1
+        - text: "أَدْرَىٰكَ"
+          cid: 2
+        - text: "مَا"
+          cid: 3
+        - text: "هِيَهْ"
+          cid: 4
+      ar-lat:
+        - text: "wamā"
+          cid: 1
+        - text: "adrāka"
+          cid: 2
+        - text: "mā"
+          cid: 3
+        - text: "hiyah"
+          cid: 4
+  - verse: 11
+    context_mapped: true
+    segments:
+      ar:
+        - text: "نَارٌ"
+          cid: 1
+        - text: "حَامِيَةٌۢ"
+          cid: 2
+      ar-lat:
+        - text: "nārun"
+          cid: 1
+        - text: "ḥāmiyatun"
+          cid: 2

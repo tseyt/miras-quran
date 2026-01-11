@@ -1,0 +1,97 @@
+id: 110
+title: "An-Nasr"
+english: The Divine Support
+type: Madinah
+total_verses: 3
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِذَا"
+          cid: 1
+        - text: "جَآءَ"
+          cid: 2
+        - text: "نَصْرُ"
+          cid: 3
+        - text: "ٱللَّهِ"
+          cid: 4
+        - text: "وَٱلْفَتْحُ"
+          cid: 5
+      ar-lat:
+        - text: "idhā"
+          cid: 1
+        - text: "jāa"
+          cid: 2
+        - text: "naṣru"
+          cid: 3
+        - text: "l-lahi"
+          cid: 4
+        - text: "wal-fatḥu"
+          cid: 5
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَرَأَيْتَ"
+          cid: 1
+        - text: "ٱلنَّاسَ"
+          cid: 2
+        - text: "يَدْخُلُونَ"
+          cid: 3
+        - text: "فِى"
+          cid: 4
+        - text: "دِينِ"
+          cid: 5
+        - text: "ٱللَّهِ"
+          cid: 6
+        - text: "أَفْوَاجًۭا"
+          cid: 7
+      ar-lat:
+        - text: "wara-ayta"
+          cid: 1
+        - text: "l-nāsa"
+          cid: 2
+        - text: "yadkhulūna"
+          cid: 3
+        - text: "fī"
+          cid: 4
+        - text: "dīni"
+          cid: 5
+        - text: "l-lahi"
+          cid: 6
+        - text: "afwājan"
+          cid: 7
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَسَبِّحْ"
+          cid: 1
+        - text: "بِحَمْدِ"
+          cid: 2
+        - text: "رَبِّكَ"
+          cid: 3
+        - text: "وَٱسْتَغْفِرْهُ ۚ"
+          cid: 4
+        - text: "إِنَّهُۥ"
+          cid: 5
+        - text: "كَانَ"
+          cid: 6
+        - text: "تَوَّابًۢا"
+          cid: 7
+      ar-lat:
+        - text: "fasabbiḥ"
+          cid: 1
+        - text: "biḥamdi"
+          cid: 2
+        - text: "rabbika"
+          cid: 3
+        - text: "wa-istaghfirhu"
+          cid: 4
+        - text: "innahu"
+          cid: 5
+        - text: "kāna"
+          cid: 6
+        - text: "tawwāban"
+          cid: 7

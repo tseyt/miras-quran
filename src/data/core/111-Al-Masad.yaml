@@ -1,0 +1,123 @@
+id: 111
+title: "Al-Masad"
+english: The Palm Fiber
+type: Makkah
+total_verses: 5
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "تَبَّتْ"
+          cid: 1
+        - text: "يَدَآ"
+          cid: 2
+        - text: "أَبِى"
+          cid: 3
+        - text: "لَهَبٍۢ"
+          cid: 4
+        - text: "وَتَبَّ"
+          cid: 5
+      ar-lat:
+        - text: "tabbat"
+          cid: 1
+        - text: "yadā"
+          cid: 2
+        - text: "abī"
+          cid: 3
+        - text: "lahabin"
+          cid: 4
+        - text: "watabba"
+          cid: 5
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "مَآ"
+          cid: 1
+        - text: "أَغْنَىٰ"
+          cid: 2
+        - text: "عَنْهُ"
+          cid: 3
+        - text: "مَالُهُۥ"
+          cid: 4
+        - text: "وَمَا"
+          cid: 5
+        - text: "كَسَبَ"
+          cid: 6
+      ar-lat:
+        - text: "mā"
+          cid: 1
+        - text: "aghnā"
+          cid: 2
+        - text: "ʿanhu"
+          cid: 3
+        - text: "māluhu"
+          cid: 4
+        - text: "wamā"
+          cid: 5
+        - text: "kasaba"
+          cid: 6
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "سَيَصْلَىٰ"
+          cid: 1
+        - text: "نَارًۭا"
+          cid: 2
+        - text: "ذَاتَ"
+          cid: 3
+        - text: "لَهَبٍۢ"
+          cid: 4
+      ar-lat:
+        - text: "sayaṣlā"
+          cid: 1
+        - text: "nāran"
+          cid: 2
+        - text: "dhāta"
+          cid: 3
+        - text: "lahabin"
+          cid: 4
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "وَٱمْرَأَتُهُۥ"
+          cid: 1
+        - text: "حَمَّالَةَ"
+          cid: 2
+        - text: "ٱلْحَطَبِ"
+          cid: 3
+      ar-lat:
+        - text: "wa-imra-atuhu"
+          cid: 1
+        - text: "ḥammālata"
+          cid: 2
+        - text: "l-ḥaṭabi"
+          cid: 3
+  - verse: 5
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فِى"
+          cid: 1
+        - text: "جِيدِهَا"
+          cid: 2
+        - text: "حَبْلٌۭ"
+          cid: 3
+        - text: "مِّن"
+          cid: 4
+        - text: "مَّسَدٍۭ"
+          cid: 5
+      ar-lat:
+        - text: "fī"
+          cid: 1
+        - text: "jīdihā"
+          cid: 2
+        - text: "ḥablun"
+          cid: 3
+        - text: "min"
+          cid: 4
+        - text: "masadin"
+          cid: 5

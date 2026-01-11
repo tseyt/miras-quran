@@ -1,0 +1,94 @@
+id: 106
+title: "Quraysh"
+english: Quraysh
+type: Makkah
+total_verses: 4
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "لِإِيلَـٰفِ"
+          cid: 1
+        - text: "قُرَيْشٍ"
+          cid: 2
+      ar-lat:
+        - text: "liīlāfi"
+          cid: 1
+        - text: "qurayshin"
+          cid: 2
+  - verse: 2
+    context_mapped: true
+    segments:
+      ar:
+        - text: "إِۦلَـٰفِهِمْ"
+          cid: 1
+        - text: "رِحْلَةَ"
+          cid: 2
+        - text: "ٱلشِّتَآءِ"
+          cid: 3
+        - text: "وَٱلصَّيْفِ"
+          cid: 4
+      ar-lat:
+        - text: "īlāfihim"
+          cid: 1
+        - text: "riḥlata"
+          cid: 2
+        - text: "l-shitāi"
+          cid: 3
+        - text: "wal-ṣayfi"
+          cid: 4
+  - verse: 3
+    context_mapped: true
+    segments:
+      ar:
+        - text: "فَلْيَعْبُدُوا۟"
+          cid: 1
+        - text: "رَبَّ"
+          cid: 2
+        - text: "هَـٰذَا"
+          cid: 3
+        - text: "ٱلْبَيْتِ"
+          cid: 4
+      ar-lat:
+        - text: "falyaʿbudū"
+          cid: 1
+        - text: "rabba"
+          cid: 2
+        - text: "hādhā"
+          cid: 3
+        - text: "l-bayti"
+          cid: 4
+  - verse: 4
+    context_mapped: true
+    segments:
+      ar:
+        - text: "ٱلَّذِىٓ"
+          cid: 1
+        - text: "أَطْعَمَهُم"
+          cid: 2
+        - text: "مِّن"
+          cid: 3
+        - text: "جُوعٍۢ"
+          cid: 4
+        - text: "وَءَامَنَهُم"
+          cid: 5
+        - text: "مِّنْ"
+          cid: 6
+        - text: "خَوْفٍۭ"
+          cid: 7
+      ar-lat:
+        - text: "alladhī"
+          cid: 1
+        - text: "aṭʿamahum"
+          cid: 2
+        - text: "min"
+          cid: 3
+        - text: "jūʿin"
+          cid: 4
+        - text: "waāmanahum"
+          cid: 5
+        - text: "min"
+          cid: 6
+        - text: "khawfin"
+          cid: 7
