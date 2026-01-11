@@ -6,6 +6,7 @@ import SurahSelector from './components/SurahSelector';
 import Footer from './components/Footer';
 import { SURAH_LIST, QURAN_CONTENT, loadTranslations } from './data/quranData';
 import { LANGUAGES, DEFAULT_AUTHORS } from './constants/languages';
+import translationAvailability from './data/translationAvailability.json';
 
 function App() {
     const [activeSegment, setActiveSegment] = useState({ verseId: null, cid: null });
@@ -20,6 +21,11 @@ function App() {
     const [activeLanguages, setActiveLanguages] = useState(new Set(['ar', 'ar-lat', 'en', 'crh']));
     const [selectedAuthors, setSelectedAuthors] = useState(DEFAULT_AUTHORS);
     const [loadedTranslations, setLoadedTranslations] = useState({});
+
+    // Derived availability for current surah
+    const availableTranslations = useMemo(() => {
+        return translationAvailability[String(activeSurahId)] || [];
+    }, [activeSurahId]);
 
     useEffect(() => {
         if (isDarkMode) {
@@ -105,6 +111,7 @@ function App() {
                         setSpacingUnit={setSpacingUnit}
                         isLatin={isLatin}
                         setIsLatin={setIsLatin}
+                        availableTranslations={availableTranslations}
                     />
                 </div>
             </header>

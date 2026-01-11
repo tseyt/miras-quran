@@ -2,9 +2,16 @@ import React from 'react';
 import { Check } from 'lucide-react';
 import { LANGUAGES } from '../constants/languages';
 
-export default function TranslationSelector({ langCode, selectedAuthors, onToggle }) {
+export default function TranslationSelector({ langCode, selectedAuthors, onToggle, availableTranslations }) {
     const lang = LANGUAGES[langCode];
     if (!lang || !lang.translations) return null;
+
+    // Filter available translations
+    const availableOptions = availableTranslations
+        ? lang.translations.filter(trans => availableTranslations.includes(`${langCode}-${trans.id}`))
+        : lang.translations;
+
+    if (availableOptions.length === 0) return null;
 
     return (
         <div className="absolute top-full mt-2 left-0 z-50 min-w-[200px] bg-white dark:bg-slate-900 shadow-xl rounded-xl border border-slate-200 dark:border-slate-800 p-2 animate-in fade-in zoom-in-95 duration-200">
@@ -12,7 +19,7 @@ export default function TranslationSelector({ langCode, selectedAuthors, onToggl
                 Select Versions
             </div>
             <div className="flex flex-col gap-0.5">
-                {lang.translations.map((trans) => {
+                {availableOptions.map((trans) => {
                     const isSelected = selectedAuthors.includes(trans.id);
                     return (
                         <button
@@ -22,8 +29,8 @@ export default function TranslationSelector({ langCode, selectedAuthors, onToggl
                                 onToggle(langCode, trans.id);
                             }}
                             className={`flex items-center justify-between px-3 py-2 rounded-lg text-xs transition-colors ${isSelected
-                                    ? 'bg-emerald-50 text-emerald-600 dark:bg-emerald-500/10 dark:text-emerald-400 font-bold'
-                                    : 'hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-600 dark:text-slate-400 font-medium'
+                                ? 'bg-emerald-50 text-emerald-600 dark:bg-emerald-500/10 dark:text-emerald-400 font-bold'
+                                : 'hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-600 dark:text-slate-400 font-medium'
                                 }`}
                         >
                             <span className="truncate mr-2">{trans.author}</span>
