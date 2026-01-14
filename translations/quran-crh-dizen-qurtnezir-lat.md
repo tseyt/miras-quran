@@ -852,7 +852,7 @@ etüvleri neticesinde, Oña teren bir sayğınen yonelüvleriniñ qaçınılmaz 
 199. Ehl-i kitaptan oyleleri bar ki, Allaһqa, em sizge endirilgenge, em de ozlerine endirilgenge tam bir samimiyetliknen ve Allaһqa boyun egerek, iman eterler. Allaһnıñ ayetlerini az bir parağa satmazlar. İşte, olar içün Rabbleri qatında ecirleri bar. Şubesiz, Allaһnıñ esabı çabiktir.
 200. Ey, iman etkenler! Sabır etiñ; (duşman qarşısında) sebat kosteriñ; (cihad içün) azırlıqlı ve açıqkoz oluñ ve Allaһtan qorquñ ki, muvafaqiyetke irişe bilirsiñiz.
 
-4. en-NİSAA
+# 4. en-NİSAA
 
 İcertten soñ, Medinede nazil olğan, 176 ayettir. «Nisaa» - qıdınlar demek. Bu surede çoqça qdından, cemiyet içinde qadınlarnıñ
 
@@ -1270,7 +1270,7 @@ birer çeker edi. Tolu çıqqanlar maldan isselerini alır, faqırlarğa berir e
 119. (Bu qonuşuvdan soñ) Allaһ boyle buyuracaqtır: Bu, doğrularğa doğrulıqlarınıñ fayda berecek kunüdir. Olarğa içinde ebediy qalacaq, zemininden irmaqlar aqqan cennetler bardır. Allaһ olardan razı olğandır, olar da Ondan razı olğandırlar. İşte, buyuk qurtulış ve qazanç budır.
 120. Koklerniñ, yerniñ ve içlerindeki er şeyniñ mulkiyeti Allaһnıñdır, O, er şeyge haqqı ile qadirdir. (İnsan olğu butün dünyağa saip olsa bile, bu buyuk bir qazanç degildir; çünki bu saiplik keçicidir ve micaziydir, asıl saip Allaһtırr. Ayrıca bugunge qadar keşf etile bilgen diametri on milliard nur yıllıq maddiy kâinat yanında dünya bir zerre qadar degildir. «Oyle ise, dünya ayatında insan içün eñ buyuk qazanç nedir?», denilecek olsa, şubesiz, bu Allaһ rizasıdır. Onıñ rizasını qazanğan, eyi ve guzel olğan er şeyni qazanğandır. Oyle eyi ve guzel ki, dünyada oña insanlarnıñ eli degil, hayal bile yetişamaz. Onıñ içün mu’minlerniñ bir-birlerine eñ hayırl duası ve teşekküri: «Allaһ razı olsun!» cumlesidir).
 
-6. el-EN’AAM
+# 6. el-EN’AAM
 
 En’aam suresi 165 ayettir. 91, 92, 93 ve 151, 152, 153-nci ayetler Medinede, digerleri Mekkede engen. Sureniñ bazı ayetlerinde araplarnıñ qurban etilgen ayvanlarnen bağlı bir
 
@@ -1496,7 +1496,7 @@ episi ceennemdedir. Menim ummetim de yetmiş uç topqa ayrılacaq, birinden baş
 164. De ki: Allaһ er şeyniñ Rabbi eken, men ondan başqa Rabb qıdıracağımmı? Er kesniñ qazanacağı yalıñız ozüne aittir. İç bir suçlı başqasınıñ suçını arqalamaz. Soñunda dönüşiñiz Rabbiñizgedir. Ve O, añlaşmazlıqqa tüşken aqiqatnı sizge haber berecek.
 165. Sizni yer yuzüniñ halifeleri yapqan, sizge bergen (nimetleri) hususında sizni sınamaq içün biriñizni biriñizden derecelernen ustün etken Odır. Şubesiz, Rabbiñniñ cezası çabuktir ve aqiqaten O, bağışlayıcı ve merhamet eticidir.
 
-7. el-A’RAAF
+# 7. el-A’RAAF
 
 A’raaf suresi Mekkede engen, 206 ayettir. 46 ve 48-nci ayetlerde A’raafta yani cennet ve ceennem ehli arasındaki yuksek bir yerdeki insanlardan söz etilgeni içün, surege bu ad berilgen.
 
@@ -1929,7 +1929,7 @@ duşmanıñıznı ve olardan başqa siz bilmegen, Allaһ bilgen (duşman) kimsel
 74. İman etip de, Allaһ yolunda icret ve cihat etken, (muhacirlerni) barındırğan ve yardım etkenler bar ya, işte, aqiqiy mu’minler olardır. Olar içün mağfiret ve bol rızıq bardır.
 75. Soñundan iman etken ve icret etip de, siznen beraber cihad etkenler de sizdendir. Allaһnıñ kitabına kore, yaqın aqrabalar bir-birilerine (varis olmağa) daa uyğundır. Şubesiz ki, Allaһ er şeyni bilicidir. (Tolayısınen kimniñ kimge varis olacağını O daa eyi bilir. Bu ayet engeninen, nesep yolunen aqraba olmağanlar bir-birilerine varis olamadılar).
 
-9. et-TÖVBE
+# 9. et-TÖVBE
 
 Tövbe suresi 129 ayettir. 128 ve 129-nci ayetler Mekkede, digerleri Medinede engen. 104-nci ayet tövbe ile bağlı olğanı içün, surege bu ad berilgen. Sureniñ bundan başqa bir çoq adı olup, eñ meşurı Beraaedir. Bu sureniñ Enfaal suresiniñ devamı ya da oz başına bir sure olup-olmağanı aqqında ihtilâf barlığı içün, başında Bismillâa yazılmağan. İcertniñ 9-ncı yılında Az.Ebu Bekir hac amiri olaraq, tayin etilgen ve musulmanlar hacğa yollanılğan edi. Bu sure engeninen, Resulullah(s.a.) Allaһnıñ emirlerini hacdaki insanlarğa tebliğ etüvi içün Az.Alini vazifelendirdi. Az.Ali hac kervanına yetişkende Az.Ebu Bekir: «Amir olaraq keldiñmi, yoqsa, memur olaraqmı?», diye soradı; Az.Ali sadece sureni Mekkede hacilarğa tebliğ etmege memur olğanını bildirdi. Az.Ali bayramnıñ birinci kunü Aqabe cemresi yanında ayaqqa qalqıp, ozüniñ Peyğamber tarafından yollanılğan bir elçi olğanını bildirdi ve bir hutbe oqudı, soñra bu sureniñ başından 30 ya da 40 ayet oquyaraq, dedi ki: «Dört şeyni tebliğ etmege memurım:
 1. Bu yıldan soñ Kâbege iç bir muşrik yaqlaşmaycaq.
@@ -2112,7 +2112,7 @@ zararlarnı bertaraf etmekni ve olarnıñ qarşısında tecavuzğa cesaret etalm
 128. Ant olsun, sizge ozüñizden oyle bir Peyğamber kelgendir ki, siziñ sıqıntığa oğravuñız oña çoq ağır kelir. O, sizge çoq fedakâr, mu’minlerge nisbeten çoq şefqatlıdır, merhametlidir. (Allaһ Taalâ bu ayette oz isimlerinden olğan «rauuf - çoq şefqatl ve rahiim - pek merhametli» sıfatlarını Peyğamberimizge de bergen ki, evelki Peyğamberlerden iç biri bu sıfatlarnıñ ekisine birden nail olmağan).
 129. (Ey, Muһammed!) Yuz çevirseler, de ki: Allaһ maña kâfidir. Ondan başqa ilâh yoqtır. Men sadece Oña işanıp tayanırım. O, yuce Arşnıñ sanbidir.
 
-10. YuNUS
+# 10. YuNUS
 
 Yunus suresi 109 ayet olup, 40, 94, 95 ve 96 -ncı ayetler Medinede, digerleri Mekkede engen. 98nci ayette Az.Ünusnıñ qavmından söz etilgeni içün, surege bu ad berilgen. Mekke halqı oz aralarından bir adamnıñ peyğamber ola bilecegine inanmaylar ve: «Allaһ, Ebu Talibniñ yetimi Muһammedden başqa bir Peyğamber tapalmadımı?», dey ediler. İç olmasa, hatiri sayılacaq, zengin ve maqam saibi birisiniñ Peyğamber oluvını daa uyğun kore ediler. İşte, bunıñ uzerine bu sure engen. Bismillâaһirraһmaanirraһim Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
@@ -2460,7 +2460,7 @@ uzerine Resulullah buyurdı ki: İşte, beş vaqıt namaz da bunıñ kibidir ki,
 
 123. Koklerniñ ve yerniñ ğaybı (sırı) yalıñız Allaһqa aittir. Er iş oña döndürilir. Oyle ise, Oña qullıq et ve Oña tayan! Rabbiñ yapqanlarıñızdan ğafil degil. (Ayette ibadet emriniñ artından, aman tevekkül emri kelmekte. Çünki, qullıq ancaq tevekkül ile yani sadece Allaһqa işanıp tayanmaqnen kemalatqa qavuşır. Butün işlerde muvafaqiyetlerge iriimek içün sebeplerge sarılmaq hususında elden kelgenini yapmaqnen beraber, muvafaqiyetni Allaһtan beklemek ve sadece Ondan yardım tilep, Oña sığınmaq, aynı zamanda, imannıñ kemalatına da alâmettir).
 
-12. YuSUF
+# 12. YuSUF
 
 Yusuf suresi 111 ayet olup, 1, 2 ve 3-nci ayetler Medinede, digerleri Mekkede engen. Sureniñ başından soñuna qadar Yusuf Peyğamberden baas etilgeni içün, bu adnı alğan.
 
@@ -2660,7 +2660,7 @@ qanunlarında ise, hırsızğa sopa urula ve çalğan malınıñ eki qatı odett
 
 111. Ant olsun, olarnıñ (keçmiş peyğamberler ve ummetleriniñ) qıssalarında aqıl saipleri içün pek çoq ibretler bardır. (Bu Qur’an) uydurıla bilecek bir söz degil. Faqat o ozünden evelkilerni tasdiq etici, er şeyni añlatıcı (bir kitaptır); iman etken toplum içün bir rahmet ve bir hidayettir.
 
-13. er-RA’D
+# 13. er-RA’D
 
 Ra’d suresi 43 ayet olup, Mekkedemi, Medenedemi engeni aqqında ihtilâf bar. Sureniñ mundericesi koz ogüne alınsa, Mekkede engenini söylegenlerniñ fikrleri biraz aqiqatqa daa yaqındır. Sureniñ on uçünci ayetinde kok gürültisi manasına kelgen «er-ra’d» kelimesi zikr etilgeni içün, surege bu ad berilgen.
 
@@ -2910,7 +2910,7 @@ qondurmaqnen, olarnı aşlağanını isbat etmekte. Bu ayette ayrıca kokten eng
 98. Sen şimdi Rabbiñni hamd ile tesbih et ve secde etkenlerden ol!
 99. Ve saña yaqıiyn (olüm) kelgenge qadar, Rabbiñye ibadet et!
 
-16. en-NAһL
+# 16. en-NAһL
 
 Naһl suresi 128 ayet olup, soñki uç ayeti Medinede, digerleri Mekkede engen. 68-nci ayette balqurttan söz etilgeni içün, surege bu ad berilgen.
 
@@ -3444,7 +3444,7 @@ uyğun korülmegen. Bu yerde söz etilgen kişi Allaһnıñ kitabına bağlı ol
 107. De ki: Rabbimniñ sözleri içün derya merekep olsa ve bir o qadar da ilâve ketirsek dahi, Rabbimniñ sözleri bitmeden evel, deñiz tükenecektir. (Bu ayette Allaһnıñ sözleri demek, Onıñ ilmi ve ikmetidir. Allaһ Taalânıñ ilim ve ikmeti soñsız ve sıñırsız; deñizler ise, çoqluğına baqmadan, soñlu ve sıñırlıdır. Bu alda, Allaһnıñ ilim ve ikmetini yazmaq içün merekep olaraq, deryalarnıñ dahi, kifayesiz olacağı aşkârdır).
 108. De ki: Men, yalıñız siz kibi bir beşerim. (Şu bar ki) maña İlâhıñıznıñ, sadece bir İlâh olğanı vahiy olunmaqta, Artıq er kim Rabbine qavuşmaqnı umüt ete ise, yahşı iş yapsın ve Rabbine ibadette iç bir şeyni ortaq qoşmasın.
 
-19. MERYeM
+# 19. MERYeM
 
 Meryem suresi 98 ayet olup, Mekkede nazil olğan. Bazı tefsirlerge kore, 58-nci ayet, bazılarına kore de, 71-nci ayet Medinede nazil olğan. Bu sure, diger baaslarnen beraber, hususen Az.Meryemden ve onıñ Az.İsanı dünyağa ketirüvinden baas etkeni sebebinen, «Meryem suresi» adını alğan.
 
@@ -3640,7 +3640,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 93. Biz olardan evel nice nesillerni elâk ettik. Sen olardan er angi birinden (bir varlıq bilgisi) is ete ya da olarğa ait hafif bir ses eşitmektesiñmi?
 
-20. TAA hAA
+# 20. TAA hAA
 
 135 ayet olup, Mekkede nazil olğan. Sure adını başındaki TAA-hAA ariflerinden alğan. Az.Umerniñ bu sure vesilesinen musulman oluvı, İslâm tarihinıñ muim bir hatıra saifesidir. Vaqia qısqadan boyle: İslâmnıñ yaman bir duşmanı olğan Hattaab oğlu Umer, Resulullahnı oldürmek vazifesini boynuna ala ve bu iş içün yolğa çıqa. Ancaq, yolda qız qardaşı Fatimenen eñiştesi Saidniñ musulman olğanını eşitkeninen, başta olarnıñ işini bitirmege qarar bere. Taa-һaa suresini oquyatqan qadın-qoca, Umerniñ kelgenini korgenlerinen, Qur’an saifelerini saqlasalar da, Umer olarnı duya. Oquğanlarını kormek istegenini ayta. İnkâr etilüvi uzerine, Saidge atıldı. Oña mani olmaq istegen Fatimeni şamarlay. Yuzlerinden qanlar aqqan Fatime, cesaretke kelerek, musulman olğanlarını açıq ayta. Qardaşınıñ alına acınğan Umer, bu sefer alçaq bir sesnen, tekrar oquğanlarını istey. Taa һaa suresi yazılğan saifelerni oquğanınen, Qur’annıñ mucizeli tesirinden nasibini alaraq, Resulullahnıñ uzuruna bara ve musulman ola.
 
@@ -4141,7 +4141,7 @@ olarnı idare etkeni, eñ sadesinden eñ qarma-qarışığınacse, butün varlı
 77. Ey, iman etkenler! Ruku etiñ; secdege barıñ; Rabbiñizge ibadet etiñ; hayır işleñ ki, qurtulışqa irişirsiñiz.
 78. Allaһ oğrunda, haqqını bererek, cihad etiñ. O, sizni seçti; din hususında ustüñizge iç bir zorlıq yuklemedi; babañız İbrahimniñ dininde (de boyle edi). Peyğamberniñ sizge şaat oluvı, siziñ de insanlarğa şaat oluvıñız içün, O, ister daa evel (kelgen kitaplarda), ister bunda (Qur’anda) sizge «musulmanlar» adını berdi. Oyle ise, namaznı qılıñ; zekâtni beriñ ve Allaһqa sım-sıqı sarılıñ. O, siziñ mevlâñızdır. Ne guzel mevlâdır, ne guzel yardımcıdır! (İslâmda insannıñ tabiatına ters, yaratılışını zorlağan iç bir kuçlik yoq. İbadet ve vazifelerde bir azimet (yani normal şartlardaki umumiy ukümniñ) yanında, bir de ruhset yani uzür sebebinen, qolaylq bar. Ayrıca, gunahlar içün tövbe, keffaret ve başqa qurtulış ve arınuv yolları açıp qoyulğan).
 
-23. el-MU’MİNUUN
+# 23. el-MU’MİNUUN
 
 118 ayet olup, Mekkede nazil olğan. Hususen, ilk ayetlerinde qurtulışqa irişken mu’minlerniñ ibadetlerinden, ahlâqiy yaşayışlarından ve nail olacaq uhreviy nimetlerinden baas etilgeni içün, sure «el-Mu’minuun» adını alğan. Bunıñ kibi, Abdullah b. Abbasdan rivayet etilgen bir hadiste Az. Peyğamber (s.a.) bu ayetlerniñ nazil oluvına: («Maña on ayet endiki, vaziyeti bularğa uyğan - cennetke kirecek», buyurdı ve bu sureniñ ilk on ayetini oqudı.
 
@@ -4372,7 +4372,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 110. (Resulım!) De ki: Bağışla ve merhamet et, Rabbim! Sen merhametlilerniñ eñ eyisisiñ.
 
-24. en-NUUR
+# 24. en-NUUR
 
 64 ayetten ibaret bu sure Medinede nazil olğan. «Nuur ayeti» diye bilingen 35 -nci ayette Allaһnıñ koklerni ve yerni aydınlatqan nurından baas etilgeni içün, «Nuur suresi» adını alğan.
 
@@ -4585,7 +4585,7 @@ bilgeni kibi, Allaһnıñ ateşke korüş qabiliyetini berüvi manasında aqiqat
 76. O yerde ebediy qalacaqlar. O yer ne guzel bir yerleşüv ve yaşalacaq yerdir.
 77. (Resulım!) De ki: (Qullık ve) yalvaruvıñız olmasa, Rabbim sizge ne dep deger bersin? (Ey, inkârcılar! Sizge Resulnıñ bildergenlerini) kesen-kes yalan saydıñız; onıñ içün azap yaqañıznı bıraqmaycaq.
 
-26. eş-ŞUARAA
+# 26. eş-ŞUARAA
 
 Mekkede nazil olğan bu sure 227 ayettir, 224-227-nci ayetleri Medinede nazil olğan. «Şuaraa» - şairler demektir; 224-nci ayetinde şairlerden söz etilgeni içün, sure bu ismni alğan. Muhaliflerniñ Qur’anğa qarşı ileri sürgen iddalarından biri de, onıñ bir şair tarafından meydanğa ketirilgen deyuvleri edi. İşte, Qur’an Az.Peyğamberniñ añlatuvınen, daa evelki peyğamberlerniñ añlatuvları ozünde birleşkenini ve Qur’an bir şairniñ eseri olmağanını isbat eterek, bu iddanı red ete.
 
@@ -4916,7 +4916,7 @@ tefsirlerde; gogercin qaleleri, kelip-keçkenlernen eglenmek içün yapılğan y
 225-226. Olarnıñ er vadiyde başı boş dolaşqanlarını ve aqiqatta yapmağan şeylerini söylegenlerini kormediñmi?
 223. Ancaq, iman etip, yahşı işler yapqanlar, Allaһnı çoq-çoq añğanlar ve aqsızlıqqa oğratılğanlarında ozlerini qorçalağanlar başqadır. Aqsızlıq etkenler, angi dönüşke,(angi aqibetke) döndürileceklerini yaqında bilecekler. (Sahih hadis kitaplarından yer alğan bir çoq hadisten de añlaşılğanı uzre, fenalıqnı ifade etmegen ve eyi maqsatnen qullanılğan şiir, yuqarıda yamanlanğan şiirden istisna etilgen. Bunıñ kibi, ashab-ı kiram arasında Resul Ekremniñ taqdirlerini qazanğan bir çoq şairler bar edi. Meselâ, Az.Peyğamberniñ Hassan bin Sabitke: «Muşriklerni (şiirleriñnen) hacv et, bil ki, muaqqaq Cebrail de sennen beraberdir», buyurğanı rivayet olunğan).
 
-27. en-NEML
+# 27. en-NEML
 
 Bu sure Mekkede nazil olğan, 93 ayettir. «Neml» - qarınca demektir. 18-nci ayetinde Suleyman aleyhisselâmnıñ ordusına yol bergen qarıncalardan söz etilgeni içün, sure bu ismni alğan.
 
@@ -5183,7 +5183,7 @@ Az. Musanıñ davetleri İsrail oğulları ve olarnıñ avalesindekilerge ait ol
 
 88. Allaһnen birlikte, daa başqa bir tañrığa tabınıp yalvarma! Ondan başqa tañrı yoqtır. Onıñ zatından başqa er şey yoq olacaq. Uküm Onıñdır ve siz ancaq Oña dündürileceksiñiz. (Bu ayetlerdeki hitap esasen Az. Peyğamberniñ şahsında - mu’minlergedir. Maqsat muşriklerniñ umütlerini bus-butün yoq etmek ve Az. Peyğamberge, muşriklerge qarşı bu meselelerde qapunı açıq bıraqmamasını tevsiye etmektir).
 
-29. eL-ANKEBUUT
+# 29. eL-ANKEBUUT
 
 Mekkede nazil olğan bu sure 69 ayettir. «Ankebuut» - orümçek demektir. 41-nci ayetinde kâfirlerniñ işleri orümçek ağına beñzetilgeni içün, sure bu isimni alğan.
 
@@ -5266,7 +5266,7 @@ qaldırmaqnı vade etkenleri añlatıla. Er eki ayet birlikte talil etilgende, i
 68. Allaһqa nisbeten yalan uydırğan yahut ozüne haq kelgen eken, onı yalan sayğandan daa zalımı kimdir? Ceennemde kâfirlerge yer yoqmı!
 69. Amma, bizim oğrumızda cihad etkenlerni, elbette kendi yollarımızğa iriştirecekmiz. İç şube yoq ki, Allaһ yahşı davranğanlarnen beraberdir.
 
-30. er-RUUM
+# 30. er-RUUM
 
 17-nci ayetinden ğayrı, sureniñ episi Mekkede nazil olğan. 60 ayettir. İranlılarnen olğan cenkte yeñilgen rumlarnıñ (vizantiyalılarnıñ) tekrar ğalip kelecekleri añlatılğanı sebebinden, surege bu ad berilgen.
 
@@ -5409,7 +5409,7 @@ olur. (İşte, bunıñ içün) başta maña, soñra da ana-babaña şukür et, d
 33. Ey, insanlar! Rabbiñizge qarşı kelüvden saqınıñ. Ne babanıñ evlâdı, ne evlâtnıñ babası adına bir şey odep olamaycaq kunünden çekiniñ. Biliñ ki, Allaһnıñ bergen sözü kerçektir. Saqın dünya ayatı sizni aldatmasın ve şeytan Allaһnıñ afu etüvine işandıraraq, sizni qandırmasın. (Er kesniñ oz qayğısına tüşecek qıyamet kunüniñ alı aqqında çoq esasl bilgi bergen bu ayetnen kâfir olğan babasına ahirette faydası toquna bilecek umüdini beslegen bazı mu’minlerge bu imkânnıñ olmağanı da bildirilmekte).
 34. Qıyamet vaqıtı aqqındaki bilgi, ancaq Allaһnıñ qatındadır. Yağmurnı O yağdırır, rahimlerde olğanını O bilir. İç kimse yarın ne qazanacağını bilalmaz. Kene iç kimse ne yerde olecegini bilalmaz. Şubesiz, Allaһ er şeyni bilicidir, er şeyden haberdardır. (İnsanlar bilmegen, yalıñız Allaһ bilgen şeylerine «ğayb, muğayyebaat» denilir. Allaһnıñ bildirüvi ile qullarnıñ, meleklerniñ… bularnıñ bazılarını bilüvi, olarnı ğayb oluvdan çıqrmaz).
 
-32. es-SECDE
+# 32. es-SECDE
 
 Adını 15 -nci ayette keçken kelimeden alğan bu sure Mekkede nazil olğan. 18, 19 ve 20nci ayetleriniñ Medinede nazil olğanı da rivayet etilgen. 30 ayettir.
 
@@ -5559,7 +5559,7 @@ mu’min qadınnı diger mu’minlerge degil, tek saña ait olmaq uzre (elâl et
 
 73. (Allaһ bu emanetni insanğa berüv suretinen), munafıq erkeklerge ve munafıq qadınlarğa, muşrik erkeklerge ve muşrik qadınlarğa azap etecek, inanğan erkeklerniñ ve inanğan qadınlarnıñ da tövbesini qabul buyuracaq. Allaһ bağışlayıcıdır, merhamet eticidir. (Şirk - iman ve amel hususında Allaһqa ortaq qoşmaq demektir. Bunı yapqanğa da, muşrik denilir).
 
-34. CEBE’
+# 34. CEBE’
 
 Mekkede nazil olğan, 54 ayettir. Yalıñız 6-nci ayeti Medinede engen. Sure adını Yemende bir bolge ya da qabileniñ adı olğan Sebe’ kelimesi keçken 15 -nci ayetten alğan.
 
@@ -5891,7 +5891,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 83. Er şeyniñ mulki oz elinde olğan Allaһnıñ şanı ne qadar yucedir! Siz de Oña döneceksiñiz.
 
-37. es-SAAFFAAT
+# 37. es-SAAFFAAT
 
 Adını, saf tutqan meleklerge işaret etken ilki ayetten alğan ve kâinattaki kuçlerden söz etken bu sure Mekkede engen, 182 ayettir. İlki uç ayette saf tutqan meleklerge, bulutlarnı yoneltken ve idare etken kuçke, zikr etken tilge yahut insanğa yemin etilerek, Allaһnıñ bir olğanı aqiqatı ortağa qoyulğan.
 
@@ -6145,7 +6145,7 @@ soñ, oña yuz sopa urmağa yemin etken. Albuki, qadınınıñ, oña hızmetleri
 87. Bu Qur’an, ancaq alemler içün bir ogüttir.
 88. O bergen haberniñ doğrulığını biraz vaqıt soñca çoq yahşı bileceksiñiz.
 
-39. e3-3UMER
+# 39. e3-3UMER
 
 Mekkede nazil olğan. 75 ayettir. Yalıñız 53-55-nci ayetler Medinede engen. Adını 71 ve 73nci ayetlerde añılğan mu’min ve kâfirlerniñ teşkil etken toplulıqları manasındaki «Zumer» kelimesinden alğan.
 
@@ -6240,7 +6240,7 @@ bilecekleri manası añlaşıla). (Aşağıdaki ayetlerde ibadet ve ihlâsnen bi
 74. Olar: Bizge bergen sözde sadıq olğan ve bizni, tilegen yerimizde oturacaq bu cennet yurtuna varis yapqan Allaһqa hamd olsun. Yahşı amelde olğanlarnıñ mukâfatı ne guzel eken! derler.
 75. Meleklerni korersiñ ki, Rabblerine hamd ile tesbih eterek, Arşnıñ etrafını sarğandırlar. Artıq aralarında adaletnen uküm olunğan ve «Alemlerniñ Rabbi olğan Allaһqa hamd olsun», denilgendir.
 
-40. el-MU’MİN
+# 40. el-MU’MİN
 
 Aynı zamanda Ğaafir adını da taşığan bu sure, 85 ayettir. 56 ve 57-nci ayetleri Medinede engen. Adını Fıravun ailesinden inanğan bir adamnıñ vasıfları sayılıp keçken 28-45nci atlerden alğan.
 
@@ -6447,7 +6447,7 @@ bardır ve Qur’an olarğa qapalıdır. (Sanki) olarğa uzaq bir yerden bağır
 53. İnsanlarğa ufuqlarda ve oz nefislerinde ayetlerimizni kosterecekmiz ki, onıñ (Qur’annıñ) kerçek olğanı, olarğa yahşıca belli olsun. Rabbiñniñ er şeyge şaat oluvı yetmezmi? (Ayetteki «ufuqlar» kelimesinden insannı sarıp alğan tışqı alemni, «oz nefisleri» ifadesinden de, insannıı oz biologik ve ruhiy şeklini añlamaq mumukün. Buña kore, ayetniñ manası «biz insanğa ister ozüni sarıp alğan tışqı alemde, ister şahsen ozüniñ maddiy ve ruhiy dünyasında olğan ve bizim barlığımıznı ve kuçümizniñ mukemmeligini isbatlağan delillerni kosterecekmiz» demek olur ki, aqiqaten, «buyuk alem» ve «kuçük alem» denilgen eki alemnen bağlı olaraq, ilim belgilegen aqıllarğa durğunlıq berici bilgiler, Allaһnıı barlığına ve kuçüniñ sıñırsızlığına dair muim deliller ortağa qoymaqta).
 54. Diqqat etiñ; olar, Rabblerine qavuşmaq hususında şube içindedirler. Bilesiñiz ki, O, er şeyni (ilminen) quşatıcıdır.
 
-42. eş-ŞUURAA
+# 42. eş-ŞUURAA
 
 Mekkede nazil olğan bu sure 53 ayettir, yalıñız 23-26-nci ayetleri Medinede engen. Adını 38-nci ayette keçken ve musulmanlarnıñ işlerini aralarında istişara (mesleat) ile yapuvları kerekligini bildirgen Şuuraa kelimesinden alğan.
 
@@ -6533,7 +6533,7 @@ ifade etilgen. Allaһ savapnı ekinge beñzetken. Çünki, savap salih amelnen q
 
 53. (O yol) koklerniñ ve yerniñ saibi olğan Allaһnıñ yoludır. Diqqat etiñ, butün işler soñunda Allaһqa döner. (Mu’minlerge mujde, gunahkârlarğa da tehdit bulunğan bu ayette, artıq qarşılıqlı sebep ve alâqalarnıñ ortadan qalqqanı, er şeyniñ Allaһqa döngen kunü hatırlatılğan).
 
-43. e3-ZUHRUF
+# 43. e3-ZUHRUF
 
 Zuhruf - altın ve cever manasına kele. Surede bulardan söz etilgeni ve Allaһnıñ insanğa saip olğan altın ve ceverlernen degil, inanç ve davranışlarına kore qıymet keskeni añlatılğanı içün, sure bu adnı alğan. Mekkede engen ve 89 ayettir.
 
@@ -6672,7 +6672,7 @@ olümlerini isterler. Çünki, olümleri - azap içinde yaşağanlarından daa y
 87. Ant olsun, olardan ozlerini kim yaratqanını sorasañ, elbette «Allaһ» derler. O alda, nasıl (Allaһqa qullıqtan) çevirilmekteler?
 88-89. (Resulullahnıñ:) Ya Rabbi! Bular iman etmegen bir qavmdır, deyuvine qarşı Allaһ: Şimdilik sen olardan yuz çevir ve sizge selâm olsun, de. Yaqında bilecekler! buyurdı.
 
-44. eD-DUHAAN
+# 44. eD-DUHAAN
 
 Mekkede engen bu sure 59 ayettir. Adını 10 -nci ayette keçken ve duman manasını añlatqan «duhaan» kelimesinden alğan.
 
@@ -7116,7 +7116,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 44. O kunü yer yarılır ve olar sur’atnen çıqarlar. Bu bizge kore qolay olğan bir haşrdır.
 45. Biz olarnıñ degenlerini pek yahşı bilirmiz. Sen olarnıñ uzerinde bir zorlayıcı degilsiñ. Tehdidimden qorqqanlarğa Qur’annen ogüt ber.
 
-51. e3-ZAARİYAAT
+# 51. e3-ZAARİYAAT
 
 Mekkede engen. 60 ayettir. İlk ayette keçken ve «ruzgârlar» manasındanki «zaariyaat» kelimesi sureniñ adı olğan.
 
@@ -7176,7 +7176,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 evelden yoq etilgen qavmlarnıñ başına kelgen azap kelecek. Evelkiler azaptan nasiplerini alğanları kibi, bular da alacaqlar).
 60. Başlarına kelecek (elemli) kunlerinden tolayı, vay o kâfirlerniñ alına!
 
-52. et-TUUR
+# 52. et-TUUR
 
 Mekkede engen. 49 ayettir, adını birinci ayette keçken ve uzerinde Az. Musağa Tevrat engen, boylece onıñ ilâhiy hitapqa nail olğan Tuur dağından alğan.
 
@@ -7224,7 +7224,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 48. Rabbiñniñ ukmine sabır et. Çünki, sen kozlerimiz ogündesiñ. Qalqqan vaqtıñda da, Rabbiñni hamd ile tesbih et.
 49. Geceniñ bir qısmında ve yıldızlarnıñ batışından soñ da, onı tesbih et. (Ayette keçken ifadeler, aqşam, yatsı ve saba namazları manasında yorumlanğan. Bu vaqıtlarda namaz qılınuvı ya da «Subһaanallaaһi ve biһamdiһi”, diyerek tesbihte bulunıluvı emir etilgen).
 
-53. en-NECM
+# 53. en-NECM
 
 Mekkede engen, 62 ayettir. Yalıñız 32-nci ayeti Medinede nazil olğan. Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 1-3. Batqan vaqtında yıldızğa ant olsun ki, arqadaşıñız (Muһammed) sapmadı ve batılğa inanmadı; o arzusına kore de laf etmez.
@@ -7373,7 +7373,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 53. Kuçük-buyuk er şey satır-satır yazılğandır. (Buña kore, melekler yapılğanlarnı amel defterlerine qayd etmektedirler. Areket ve davranışnıñ, gunah ve savapnıñ episi levh-i mahfezda qayd etilgendir).
 54-55. Taqva saipleri cennetlerde ve irmaqlarnıñ kenarlarında, kuçlü ve Yuce Allaһnıñ uzurında haq meclisindedirler.
 
-55. er-PAXMAAH
+# 55. er-PAXMAAH
 
 Mekkede engen. 78 ayettir. İlk kelime olğan «er-rahmaan» surege ad olğan. Bu surede Allaһnıñ nimetleri sayıla. Bular sayılır eken, butün şuurlı varlıqlarğa hitaben: «O alda, Rabbiñizniñ nimetlerinden angisini yalanlamaqtasıñız?», manasındaki ayet sıqsıq tekrar etilir.
 
@@ -7752,7 +7752,7 @@ Mekkede qalğan evlât ve ailesine telükeni haber bermek maqsadınen, boyle bir
 12. Ey, Peyğamber! İnanğan qadınlar, Allaһqa iç bir şeyni ortaq qoşmamaq, hırsızlıq yapmamaq, zina etmemek, balalarnı oldürmemek, ellerinen ayaqları arasında bir iftira uydurıp ketirmemek, yahşı iş yapuvda saña qarşı kelmemek hususında saña biat etmege kelgen vaqıtlarında, biatlarını qabul et ve olar içün Allaһtan mağfiret iste. Şubesiz, Allaһ çoq bağışlayıcıdır, çoq merhametlidir. (Biat şartları arasıda sayılğan «ellerinen ayaqları arasında bir iftira uydurmamaq» tabiri, nikâhsız bir balanı dünyağa ketirip, onı qocasına nisbet eterek, iftirada bululunmamaq manasına kelmekte. Ayet Mekke fethi kunü nazil olğan, Az.Peyğamber erkeklerden soñ, qadınlarnıñ biatını qabul etken).
 13. Ey, iman etkenler! Allaһnıñ ğadabına oğrağan bir qavmnı dost tutmañ. Zira, olar kâfirlerniñ qabirdekilerden (olarnıñ tirilüvinden) umüt keskenleri kibi, ahiretten umüt keskenlerdir. (Bu ayetniñ soñki cumlesi boyle de anlaşıla bilir: Zira, olar qabirlerde bulunğan kâfirlerniñ qurtuluitan umüt keskenleri kibi, ahiretten de umüt keskendirler).
 
-61. es-SAFF
+# 61. es-SAFF
 
 Adını mu’minlerniñ saf tutaraq, Allaһ yolunda cenkleşkenlerini bildirgen 4-nci ayetinden alğan, Medinede engen, 14 ayettir.
 
@@ -7775,7 +7775,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 oğullarından bir qısmı inanğan, bir qısmı da, inkâr etken edi. Niayet, biz inanğanlarnı, duşmanlarına qarşı destekledik. Boylece, ustün keldiler. («Havariyler» Az.İsağa er kesten evel inañğan ve yardımcı olğan 12 ihlâsl ve temiz insanğa berilgen isimdir. Az.İsağa inanğanlar, o Allaһnıñ qulı ve Peyğamberi olğanını tasdiq eterek, kokke yukseltilgenine inanğanlardır. Az.İsanı inkâr etkenler ise, o Allaһnıñ oğlu ve uçniñ uçüncisi olğanını söylegenlerdir).
 
-62. el-CUM’A
+# 62. el-CUM’A
 
 Adını 9-nci ayette keçken «cum’a» kelimesinden ala. Medinede engen, 11 ayettir.
 
@@ -7831,7 +7831,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 11. Allaһ, eceli kelgende, iç kimseni (olümini) keçiktirmez. Allaһ yapqanlarıñızdan haberdardır.
 
-64. et-TEĞAABUN
+# 64. et-TEĞAABUN
 
 Medinede engen, 18 ayettir. Adını, doquzıncı atte keçken ve aldanuv, kâr-zarar manasına kelgen «teğaabun» kelimesinden alğan.
 
@@ -7873,7 +7873,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 18. Korülmegenni ve korülgenni bilicidir. Ustündir, ikmet saibidir.
 
-65. et-TALAAQ
+# 65. et-TALAAQ
 
 «Talaaq» -ayırmaq manasındadır. Sure ayırmaq mevzusından baas etkeni içün, bu isimni alğan. Medinede engen, 12 ayettir.
 
@@ -7894,7 +7894,7 @@ hatırlatılmaqta ki, bu nefretniñ sevgige dönüvi, peşmanlıqnıñ yuz berü
 
 12. Allaһ yedi qat kokni ve yerden de o qadarını yaratqandır. Ferman bular arasından enip turmaqtadır ki, boylece, Allaһnıñ er şeyge qadir olğanını ve er şeyni ilminen quşatqanını bilesiñiz.
 
-66. et-TAhRİİM
+# 66. et-TAhRİİM
 
 Adını Az.Peyğamberniñ bazı aşalacaqlarnı ozüne yasaqlağanını añlatqan birinci ayetten alğan. Medinede nazil olğan, 12 ayettir.
 
@@ -8499,7 +8499,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 50. Olar artıq bundan (Qur’andan) soñ angi sözge inanacaqlar.
 
-78. en-NEBE’
+# 78. en-NEBE’
 
 Meaaricden soñ engen, ilk mekkiy surelerden olup, 40 ayettir. «Nebe’» - haber demektir. Qıyamet haberlerini añlatqanı içün, bu ad berilgen.
 
@@ -8603,7 +8603,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 38-39. O kunü bir taqım yuzler parlaq, kuler ve sevinçlidir.
 40-42. Kene o kunü bir taqım yuzlerni de keder sarğan, qasevetten qap-qara kesilgendir. İşte, bular kâfirlerdir, gunahkârlardır.
 
-81. et-TEKVİİR
+# 81. et-TEKVİİR
 
 Mekkede engen, 29 ayettir. Sureniñ başında kuneşniñ tüyurilüvinden söz etilgen ve adını da bu yerden alğan. Sureniñ söz tertibinde, içine alğan mevzularğa ait añlamlarnı yanğıratqan ve kuçlendirgen mukemmel bir musiqiy, taqlit etilmez bir aenk bar.
 
@@ -8747,7 +8747,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 21-22. Aqiqatta o (yalanlağanları, aslı) lehv-i mahfuzda bulunğan şerefli Qur’andır. («Ordularnıñ haberi» - evelki milletlerge kelgen peyğamberlerge qarşı kureşkenlerniñ facsial bir şekilde yeñilüvleridir. Bu haberlerni araplar bilmekte ediler. Buña rağmen, aralarından yollanılğan bir peyğamberge qarşı kureştiler. Olarnıñ soñu ne ise, bularnıñ da soñu odır).
 
-86. et-TAARİQ
+# 86. et-TAARİQ
 
 Beled suresinden soñ, Mekkede engen, 17 ayettir. Adını 1-nci ayette keçken «taariq» kelimesinden alğan. Taariq - geceleyin kelgen, şiddetliknen urğan, qapunı qaqqan demektir. Surede keçken taariq ise, gece ziyade nur saçqan saba yıldızıdır. Micaziy olaraq, namlı adamğa da aytılır. Bir bediiy ifade olaraq da, cahiliye devrinde kelgen Az. Peyğamber de, geceni aydınlatqan ve sabanı mujdelegen saba yıldızına beñzetilgen ola bilir.
 
@@ -8757,7 +8757,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 9-10. Gizlengenlerniñ ortağa çıqqan kunde, insan içün ne bir kuç, ne de bir yardımcı bar.
 11-17. Dönüş saibi olğan (yağmur yağdırğan) kokke, (osümliknen) yarılğan yerge yemin eterim ki, Qur’an (haq ile batılnı) ayırğan bir sözdir. O, asla bir şaqa degildir. Olar bir tuzaq qurarlar, men de bir tuzaq qurarım. Kâfirlerge muhlet ber, olarnı biraz oz allarına bıraq (pek yaqında saña yardımımız kelecek).
 
-87. el-A’LYaA
+# 87. el-A’LYaA
 
 Allaһnıñ «üce» manadaki adınen başlanğanı içün, «el-A’lâa» denilgen bu sure 19 ayet olup, Mekkede engen ilki surelerdendir. Cenab-ı Allaһ bu surede kâinatnıñ sırlarını, yaratılışını, çalışuvını esaslı bir şekilde ifade etken.
 
@@ -8819,7 +8819,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 17-18. Soñ iman etkenlerden, bir-birilerine sabır tevsiye etkenlerden ve bir-birilerini acımaqnı ogütlegenlerden olmaqtır. İşte, bular sağdakilerdir. (Qur’anda keçken «sağdakiler» ve «soldakiler» tabirleriniñ manası içün Vaqıa suresi, 8, 9, 16-nci ayetleriniñ izaatlarına baq.).
 19-20. Ayetlerimizni inkâr etkenler ise, işte olar soldakilerdir. Cezaları, qapuları ustlerine sım-sıq qapatılğan bir ateştir.
 
-91. eş-ŞEMS
+# 91. eş-ŞEMS
 
 Qadir suresinden soñ, Mekkede engen, 15 ayettir. Adını sureniñ ilk kelimesi olğan ve «kuneş» manasındaki «şems»ten alğan. Bu surede insannıñ yaratılışında mevcut eki hususiyet añlatıla: yahşılıq ve yamanlıq. İnsannıñ yaratılışında yahşı olmaq da, yaman olmaq da qabiliyet olaraq bardır.
 
@@ -8843,7 +8843,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 17-18. Temizlenmek uzre, malını hayırğa bergen yahşılar ondan (ateşten) uzaq tutular.
 19-21. Yuce Rabbiniñ rizasını istemekten başqa, onıñ nezdinde iç bir kimsege ait şukran ile qarşılanacaq bir nimet yoqtır. Ve o (buña qavuşaraq) hoşnut olacaq.
 
-93. ed-DUһAA
+# 93. ed-DUһAA
 
 Duһaa - quşluq vaqtı demektir. Sure adını ilk ayette keçken bu kelimeden ala, Fecr suresinden soñ, Mekkede engen, 11 ayettir. Surede ahırzaman Peyğamberiniñ hususiyetlerinden biri yani yetim olğanı tilge alına ve oña teselli berile.
 
@@ -8872,7 +8872,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 5-6. Elbette, qıyınlıqnıñ yanında bir qolaylıq bar. Aqiqaten, zorluqnen beraber, bir qolaylıq daa bardır.
 7-8. Boş qaldıñmı, aman (başqa) işke sarıl ve yalıñız Rabbiñye yonel! (Bazı tefsirciler bitirilgen işni, bazıları da, başlanacaq işni «ibadet» olaraq yorumlağanlar. Bu yorumlarnıñ beraberlik noqtası dünya ve ahiret arasındaki olçüge diqqat etilüvi kerekligine berilüvidir).
 
-95. et-TİİN
+# 95. et-TİİN
 
 «Tiin» - dağ adı ya da incir demektir. Buruuc suresinden soñ Mekkede engen, 8 ayettir. Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 1-5. İncirge, zeytunğa, Sina dağına ve şu emin bolgege yemin eterim ki, biz insannı eñ guzel biçimde yarattıq. Soñ onı aşşağılarnıñ aşşağısına endirdik. (Allaһ Taalâ insannı, ruh ve beden qabiliyetleri noqtai nazarından, canlılarnıñ eñ mukemmeli yapqan. Surede «eñ guzel biçimde yarattıq» ifadesi bu hususnı añlatmaqta. İnsan serbest iradesinen, ya bu qabiliyetlerni guzel qullanaraq, «kâmil insan» olacaq, ya da aks tarafnı tutaraq, şuurl barlıqlarnıñ ve canlılarnıñ eñ aşşağı mertebesinden yer alacaq).
@@ -8922,7 +8922,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 5. İman etip, salih ameller işlegenlerge kelgende, halqnıñ eñ hayırlısı da olardır.
 6. Olarnıñ Rabbleri qatındaki mukâfatları - zemininden irmaqlar aqqan, içinde daimiy olaraq qalacaq Adn cennetleridir. Allaһ olardan hoşnut olğan, olar da Allaһtan hoşnut olğanlar. Bu aytılğanlar ep Rabbiñden qorqqan (Oña sayğı kostergenler) içündir.
 
-99. ez-ZİLZAAL
+# 99. ez-ZİLZAAL
 
 Teprenüv demek olğan «zilzaal» kelimesi sureniñ ilki ayetinde keçe. Nisaa suresinden soñ, Medinede engen, 8 ayettir. Qıyametniñ qopuvından, insanlarnıñ ğayrıdan tirilip, esap berüvlerinden, er kesniñ -yahşı ya da yaman- yapqanını bulacağından baas etile.
 
@@ -8954,7 +8954,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 8-9. Ameli yengil olğanğa kelgende, işte onıñ anası (eri, yurtı) Haaviyedir. (Amelniñ ağır kelüvi, hayır ve yahşılıqlarnıñ ziyade oluvı; yengil kelüvi ise, hayır ve savapnıñ kefesine (teraze kozüne) qoyulacaq amelniñ azlığı ya da olmağanı demektir).
 10-11. Nedir o (Haaviye) bilesiñmi? Qızğın ateş!
 
-102. et-TEKYaASUR
+# 102. et-TEKYaASUR
 
 Tekâasur - çoqluq yarışı ve çoqluqnen maqtanmaq demektir. Kevser suresinden soñ, Mekkede engen, 8 ayettir. Cdahiliye arapları mal, evlât ve aqrabalarınıñ çoqluğını bir ğurur ve şeref saya, atta bu hususta yaşağanlarnen qanaatlenmeyip, qabileleriniñ ustünligini keçmişlerinen de isbat etmek içün, qabirlerge bara, olgen aqrabalarınıñ çoqluğunen maqtana ediler. Surede olarnıñ bu yapqanları tenqit etilmekte ve aqiqiy ustünlikniñ ahirette ortağa çıqacağı añlatılmaqta.
 
@@ -9022,7 +9022,7 @@ Kevser - bol nimet demektir; ayrıca cennette bir havuznıñ da adıdır. Aadiya
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 1-3. (Resulım!) Şubesiz, biz saña Kevserni berdik. Şimdi sen Rabbiñye qullıq et ve qurban çal. Aslı soñu kesilgen, şubesiz saña boğuz kutücidir. (Bu surede qurban çaluv emir etilgen. Kurban - yaqınlıq demektir. Qurban çaluvdan asıl maqsat, bu ibadetnen Allaһqa yaqınlıq qazanmaqtır).
 
-109. el-KYaAFİRUUN
+# 109. el-KYaAFİRUUN
 
 Kâfirlerden söz yursetilgeni içün, bu adnı alğan. Maauun suresinden soñ, Mekkede engen, 6 ayettir.
 
@@ -9033,7 +9033,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 5. Ebet, siz de menim tabınğanımğa tabınamakta degilsiñiz.
 6. Siziñ diniñiz - sizge, menim dinim de - maña.
 
-110. en-NASR
+# 110. en-NASR
 
 Nasr - yardım demektir. Surede Allaһnıñ Az. Peyğamberge yardım eterek, fetihlerge qavuştırğanı ifade etilgeni içün, bu adnı alğan. Bu sure Mekkeniñ fethi sırasında engen olmaqnen beraber, Medine devrinde icretten soñ engeni içün, mediniy (Medinede engen) surelerdendir, 3 ayettir. İslâm zaferinden haber berir. İbn Umerden kelgen rivayetke kore, bu sure engenden soñ, Peyğamberimiz 80 kun yaşağan.
 
@@ -9047,21 +9047,21 @@ Tebbet - «qurusın» manasındaki bedduadır. Ebu Leheb aqqında engen. Zira o,
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 1-5. Ebu Leһebniñ eki eli qurusın! Qurudı da. Malı ve qazanğanları oña fayda bermedi. O alevli bir ateşte yanacaq. Odun taşıyıcı olaraq ve boynunda hurma lifinden bukülgen bir yip olğanı alda, qadını da (ateşke kirecek).
 
-112. el-İHLYaAS
+# 112. el-İHLYaAS
 
 İhlâas - samimiy olmaq, dinge yurekten bağlanmaq, esaslarını tek Allaһ rizası içün tedbiq etmek manasındadır. Mekkede engen, 4 ayettir. İslâmnıñ tevhid qaidesiniñ eñ esaslı ve añlayışlı ifadesidir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 1-4. De ki: O, Allaһ birdir. Allaһ sameddir. O, doğurmağan ve doğmağandır. Onıñ iç bir teñyeşi (beñzegeni) yoqtır. (Samed - iç bir şeyge muhtac olmağan, aksine er şey oña muhtacdır, demektir).
 
-113. el-FELYaQ
+# 113. el-FELYaQ
 
 Felâq - saba mansında olğanı kibi, yarmaq manasını da bere. Bundan soñ kelgen Naas suresinen birlikte, ekisini «eki qorçalayıcı» manasında «muavvizeteyn» denilir. Bu surelerniñ şifa maqsadınen oqulğanına dair hadisler bar. Medinede engen, 5 ayettir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 1-5. De ki: Yarattığı şeylerniñ şerrinden, qaranlığı çökken zamanı geceniñ şerrinden, dügümlerge ufürip, tılsım yapqan ufleyicilerniñ şerrinden ve qızğanğan vaqtında qızğanç insannıñ şerrinden sabanıñ Rabbine sığınırım!
 
-114. en-NAAS
+# 114. en-NAAS
 
 Naas - insanlar demektir. Medinede engen, 6 ayettir. Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 1-6. De ki: İnsanlarnıñ qalplerine vesvese soqqan, (insan Allaһnı añğanında) pusuğa çekilgen cin ve insan şeytanınıñ şerrinden insanlarnıñ Rabbine, insanlarnıñ melikine (mutlaq saip ve akimine) insanlarnıñ İlâhine sığınırım!

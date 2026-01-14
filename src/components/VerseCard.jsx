@@ -1,8 +1,12 @@
-import React from 'react';
+import React, { useState } from 'react';
 import LangBadge from './LangBadge';
+import CollapsibleCommentary from './CollapsibleCommentary';
 import { COLORS, THEMES, HOVER_STYLES, LAYOUT_STYLES } from '../constants/theme';
 import { LANGUAGES } from '../constants/languages';
 import { transliterate } from '../utils/transliteration';
+
+// Minimum words for commentary to be collapsible
+const MIN_WORDS_FOR_COLLAPSE = 5;
 
 export default function VerseCard({
     verse,
@@ -15,11 +19,84 @@ export default function VerseCard({
     spacingUnit,
     isLatin
 }) {
+    // Track which commentaries are expanded (key: "verseId-segIdx-parenIdx")
+    const [expandedCommentaries, setExpandedCommentaries] = useState({});
+
     // Standardize gaps based on spacing unit and font size
     // Scales to near-zero at 14px
     const internalVerticalGap = Math.max(0, (baseFontSize - 14) * 1.8) * spacingUnit;
     const horizontalGap = 16;
     const cardPadding = Math.max(2, (baseFontSize - 14) * 1.5 + 4) * spacingUnit;
+
+    const toggleCommentary = (key) => {
+        setExpandedCommentaries(prev => ({
+            ...prev,
+            [key]: !prev[key]
+        }));
+    };
+
+    // Parse text and render with collapsible parenthetical commentary
+    // Uses balanced parentheses matching to handle nested parens like (text (note) more)
+    const renderTextWithCommentary = (text, verseId, segIdx) => {
+        const parts = [];
+        let i = 0;
+        let parenIdx = 0;
+
+        while (i < text.length) {
+            const openIdx = text.indexOf('(', i);
+
+            if (openIdx === -1) {
+                // No more parentheses, add remaining text
+                parts.push(text.slice(i));
+                break;
+            }
+
+            // Add text before the parenthesis
+            if (openIdx > i) {
+                parts.push(text.slice(i, openIdx));
+            }
+
+            // Find matching closing parenthesis with depth tracking
+            let depth = 1;
+            let closeIdx = openIdx + 1;
+            while (closeIdx < text.length && depth > 0) {
+                if (text[closeIdx] === '(') depth++;
+                else if (text[closeIdx] === ')') depth--;
+                closeIdx++;
+            }
+
+            if (depth === 0) {
+                // Found balanced parentheses
+                const commentaryText = text.slice(openIdx + 1, closeIdx - 1);
+                const wordCount = commentaryText.trim().split(/\s+/).length;
+
+                if (wordCount > MIN_WORDS_FOR_COLLAPSE) {
+                    // Long commentary - make collapsible
+                    const key = `${verseId}-${segIdx}-${parenIdx}`;
+                    const isExpanded = expandedCommentaries[key] || false;
+                    parts.push(
+                        <CollapsibleCommentary
+                            key={key}
+                            text={commentaryText}
+                            isExpanded={isExpanded}
+                            onToggle={() => toggleCommentary(key)}
+                        />
+                    );
+                } else {
+                    // Short commentary - show inline normally
+                    parts.push(`(${commentaryText})`);
+                }
+                i = closeIdx;
+                parenIdx++;
+            } else {
+                // Unbalanced - just add literal text
+                parts.push(text.slice(openIdx));
+                break;
+            }
+        }
+
+        return parts.length > 0 ? parts : text;
+    };
 
     const getSegmentClass = (verseId, cid) => {
         if (cid === 0) return "text-slate-400 dark:text-slate-500";
@@ -121,11 +198,13 @@ export default function VerseCard({
                                         <div style={{ fontSize: `${baseFontSize}px` }} className="flex-1 min-w-0">
                                             <p className="font-sans text-slate-700 dark:text-slate-200 leading-relaxed break-words">
                                                 {segments.map((seg, idx) => {
-                                                    const text = isLatin && (langCode === 'ru' || langCode === 'ua')
+                                                    let text = isLatin && (langCode === 'ru' || langCode === 'ua')
                                                         ? transliterate(seg.text, langCode)
                                                         : seg.text;
+                                                    // Apply collapsible commentary for applicable languages
+                                                    const renderedContent = renderTextWithCommentary(text, verse.id, idx);
                                                     return (
-                                                        <span key={idx} onMouseEnter={() => handleMouseEnter(verse.id, seg.cid)} onMouseLeave={handleMouseLeave} className={getSegmentClass(verse.id, seg.cid)}>{text}</span>
+                                                        <span key={idx} onMouseEnter={() => handleMouseEnter(verse.id, seg.cid)} onMouseLeave={handleMouseLeave} className={getSegmentClass(verse.id, seg.cid)}>{renderedContent}</span>
                                                     );
                                                 })}
                                             </p>
