@@ -542,7 +542,7 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 2. Hayy ve qayyüm olğan Allaһtan başqa ilâh yoktır. (“Hayy ve qayyüm” sıfatlarınıñ manaları içün baq.: «Baqara», 2/255).
 3-4. (Resulım!) O, saña Kitapnı haq ve evelki kitaplarnı tasdiq etici olaraq qısım-qısım endirgen; daa evelde insanlarğa doğru yolnı kostermek uzre Tevratnen İncilni ve Furqannı endirgendir. Bilinmeli ki, Allaһnıñ ayetlerini inkâr etkenler içün şiddetli bir azap bar. Allaһ suçlınıñ aqqından kelici mutlaq kuç saibidir. («Furqan» - doğrunı yañılıştan ve yahşını yamandan ayırdı etken ukümler demek olup, Qur’an-ı Kerimniñ isimlerindendir).
 
-3. Şubesiz kn, ne yerde, ne de kokte iç bir şey Allaһqa gizli qalmaz.
+3. Şubesiz ki, ne yerde, ne de kokte iç bir şey Allaһqa gizli qalmaz.
 
 4. Rahimlerde sizni istegeni kibi şekillendirgen Odır. Ondan başqa ilâh yoktır. O mutlaq kuç ve ikmet saibidir.
 

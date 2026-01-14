@@ -33,7 +33,8 @@ const parseSourceFile = () => {
 
     // Regex patterns
     const surahHeaderPattern = /^#\s*(\d+)\.\s*(.+)$/;
-    const versePattern = /^(\d+)\.\s+(.+)$/;
+    const mergedVersePattern = /^(\d+)-(\d+)\.\s+(.+)$/;  // Matches "3-4. text"
+    const singleVersePattern = /^(\d+)\.\s+(.+)$/;         // Matches "3. text"
 
     for (let i = 0; i < lines.length; i++) {
         const line = lines[i];
@@ -57,17 +58,35 @@ const parseSourceFile = () => {
         // Skip if no surah context
         if (!currentSurahId) continue;
 
-        // Check for verse start
-        const verseMatch = line.match(versePattern);
-        if (verseMatch) {
+        // Check for MERGED verse pattern (e.g., "3-4. text")
+        // These are commentaries that combine verses, NOT the actual verses
+        // Skip them - the individual verses (3. and 4.) follow after
+        const mergedMatch = line.match(mergedVersePattern);
+        if (mergedMatch) {
+            // Save previous verse if any
+            if (currentVerse && currentVerseText.trim()) {
+                if (!surahs[currentSurahId]) surahs[currentSurahId] = {};
+                surahs[currentSurahId][currentVerse] = currentVerseText.trim();
+            }
+            currentVerse = null;
+            currentVerseText = '';
+            // Skip this merged commentary line
+            continue;
+        }
+
+        // Check for SINGLE verse pattern (e.g., "3. text")
+        const singleMatch = line.match(singleVersePattern);
+        if (singleMatch) {
+            const verseNum = parseInt(singleMatch[1], 10);
+
             // Save previous verse
             if (currentVerse && currentVerseText.trim()) {
                 if (!surahs[currentSurahId]) surahs[currentSurahId] = {};
                 surahs[currentSurahId][currentVerse] = currentVerseText.trim();
             }
 
-            currentVerse = parseInt(verseMatch[1], 10);
-            currentVerseText = verseMatch[2];
+            currentVerse = verseNum;
+            currentVerseText = singleMatch[2];
             continue;
         }
 
@@ -118,8 +137,11 @@ const generateYamlFiles = (surahs) => {
         lines.push(`author: ${AUTHOR}`);
         lines.push(`verses:`);
 
-        // Sort verses by number
-        const verseNums = Object.keys(verses).map(n => parseInt(n, 10)).sort((a, b) => a - b);
+        // Sort verses by number (filter out internal _mergedRanges property)
+        const verseNums = Object.keys(verses)
+            .filter(k => k !== '_mergedRanges')
+            .map(n => parseInt(n, 10))
+            .sort((a, b) => a - b);
 
         for (const verseNum of verseNums) {
             const text = verses[verseNum];
