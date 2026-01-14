@@ -59,8 +59,6 @@ const parseSourceFile = () => {
         if (!currentSurahId) continue;
 
         // Check for MERGED verse pattern (e.g., "3-4. text")
-        // These are commentaries that combine verses, NOT the actual verses
-        // Skip them - the individual verses (3. and 4.) follow after
         const mergedMatch = line.match(mergedVersePattern);
         if (mergedMatch) {
             // Save previous verse if any
@@ -68,9 +66,10 @@ const parseSourceFile = () => {
                 if (!surahs[currentSurahId]) surahs[currentSurahId] = {};
                 surahs[currentSurahId][currentVerse] = currentVerseText.trim();
             }
-            currentVerse = null;
-            currentVerseText = '';
-            // Skip this merged commentary line
+
+            const startNum = parseInt(mergedMatch[1], 10);
+            currentVerse = startNum; // Use start number as the key
+            currentVerseText = mergedMatch[3];
             continue;
         }
 
@@ -78,6 +77,16 @@ const parseSourceFile = () => {
         const singleMatch = line.match(singleVersePattern);
         if (singleMatch) {
             const verseNum = parseInt(singleMatch[1], 10);
+
+            // Safety check: Verse numbers should be increasing.
+            // If we find a number <= currentVerse (e.g. finding "1." inside verse 102 commentary),
+            // treat it as part of the text, not a new verse.
+            if (currentVerse !== null && verseNum <= currentVerse) {
+                if (currentVerse && line.trim()) {
+                    currentVerseText += ' ' + line.trim();
+                }
+                continue;
+            }
 
             // Save previous verse
             if (currentVerse && currentVerseText.trim()) {
@@ -112,8 +121,8 @@ const generateYamlFiles = (surahs) => {
     for (const surahIdStr of Object.keys(surahs)) {
         const surahId = parseInt(surahIdStr, 10);
 
-        // Skip surahs 1 and 2 (already exist with granular mapping)
-        if (surahId <= 2) {
+        // Skip Surah 1 (already exists with granular mapping)
+        if (surahId === 1) {
             console.log(`Skipping Surah ${surahId} (already exists with granular mapping)`);
             continue;
         }
