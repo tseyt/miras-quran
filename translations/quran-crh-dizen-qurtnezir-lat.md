@@ -540,7 +540,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 1. Elif. Lâam. Miim. (Sure başlarındaki bu kibi arifler aqqında bilmek içün baq.: «Baqara», 2/1).
 
 2. Hayy ve qayyüm olğan Allaһtan başqa ilâh yoktır. (“Hayy ve qayyüm” sıfatlarınıñ manaları içün baq.: «Baqara», 2/255).
-3-4. (Resulım!) O, saña Kitapnı haq ve evelki kitaplarnı tasdiq etici olaraq qısım-qısım endirgen; daa evelde insanlarğa doğru yolnı kostermek uzre Tevratnen İncilni ve Furqannı endirgendir. Bilinmeli ki, Allaһnıñ ayetlerini inkâr etkenler içün şiddetli bir azap bar. Allaһ suçlınıñ aqqından kelici mutlaq kuç saibidir. («Furqan» - doğrunı yañılıştan ve yahşını yamandan ayırdı etken ukümler demek olup, Qur’an-ı Kerimniñ isimlerindendir).
+3. (Resulım!) O, saña Kitapnı haq ve evelki kitaplarnı tasdiq etici olaraq qısım-qısım endirgen; daa evelde insanlarğa doğru yolnı kostermek uzre Tevratnen İncilni ve Furqannı endirgendir. Bilinmeli ki, Allaһnıñ ayetlerini inkâr etkenler içün şiddetli bir azap bar. Allaһ suçlınıñ aqqından kelici mutlaq kuç saibidir. («Furqan» - doğrunı yañılıştan ve yahşını yamandan ayırdı etken ukümler demek olup, Qur’an-ı Kerimniñ isimlerindendir).
+4. [3 ayetine baq.]
 
 5. Şubesiz ki, ne yerde, ne de kokte iç bir şey Allaһqa gizli qalmaz.
 
@@ -579,7 +580,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 32. Er kesniñ, eyilik olaraq yapqanlarını da, fenalıq olaraq yapqanlarını da, qarşısında azır olğan kunde (insan) isteycek ki, fenalıqlarınen ozü arasında uzun bir mesafe bulunsın. Allaһ, ozüne qarşı (kelüvden) sizni saqındıra. Allaһ qullarına çoq şefqatlıdır.
 33. (Resulım!) De ki: Eger Allaһnı sevseñiz, maña uyıñız ki, Allaһ da sizni sevsin ve gunahlarıñıznı bağışlasın. Allaһ soñ derece bağışlayıcı ve merhametlidir.
 34. De ki: Allaһqa ve Resulına itaat etiñ. Eger yuz çevirseler, bilsinler ki, Allaһ kâfirlerni sevmez.
-35-36. Allaһ bir-birlerinden kelme bir nesil olaraq Ademni, Nuhnı, İbrahim ailesinen İmran ailesini seçip, alemlerge ustün yaptı. Allaһ eşitici ve bilicidir. (İbrahim ve İmran ailesiniñ manası, tefsircilerniñ çoqluğına kore, olardan soñ kelgen peyğamberlerdir).
+35. Allaһ bir-birlerinden kelme bir nesil olaraq Ademni, Nuhnı, İbrahim ailesinen İmran ailesini seçip, alemlerge ustün yaptı. Allaһ eşitici ve bilicidir. (İbrahim ve İmran ailesiniñ manası, tefsircilerniñ çoqluğına kore, olardan soñ kelgen peyğamberlerdir).
+36. [35 ayetine baq.]
 37. İmrannıñ qadını boyle degen edi: «Rabbim! Qarnımdakini azatlı bir qul olaraq tek saña adadım. Adağımnı qabul et. Şubesiz, (niyazımnı) haqqı ile eşitici ve (niyetimni) bilici Sensiñ”.
 38. Onı doğurğanınen, Allaһ ne doğurğanını bilip turğanda: «Rabbim! Men onı qız doğurdım. Albuki, oğul qız kibi degil. Oña Meryem adını berdim. Quvulğan şeytanğa nisbeten, onı ve soyunı seniñ qorçalağanıñnı tileyim», dedi.
 39. Rabbi Meryemniñ tilegini qabul etti; onı guzel bir osümlik kibi yetiştirdi. Zekeriyyanı da onı baqmaq ile vazifelendirdi. Zekeriyya onıñ yanına, mabetke er kirgeninde, o yerde bir rızıq kore ve «Ey, Meryem, bu saña nereden kele?», der; o da: «Bu, Allaһ tarafındandır. Allaһ istegenine esapsız rızıq berir», der edi. (Zekeriyya aleyhisselâm, Az. Meryemniñ teyzesiniñ qocası edi. Ayette ifade etilgeni kibi, Az. Meryemniñ Beyt-i Maqdiste baqımını Zekeriyya ustüne alğan edi. Meryemge ayrı bir oda tesis etti ki, oña ayette «mihrap» denilgen. Mihrap cenk ve cihad vastası demektir. Bir çeşiti qıynav odası manasındadır. Ayette keçken «mihrap»nıñ camilerde imamnıñ namaz qıldırğan yeri olğan mihrapnen alâqası yoq. Az. Zekeriyya Meryemniñ yanına er sefer kirgende çeşit-çeşit taze meyvalar kore edi. Bular o mevsimde o bolgede yetişmegen meyvalar edi).
@@ -727,7 +729,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 126. O zaman sen mu’minlerge boyle dey ediñ: Endirilgen uç biñ meleknen Rabbiñizniñ sizge yardım etüvi, siz içün yeterli degilmi?
 127. Ebet, siz sabır etseñiz ve Allaһtan saqınsañız, olar (duşmanlarıñız) aman şu anda uzeriñizge kelseler, Rabbiñiz nişanlı beş biñ meleknen sizge yardım eter.
 128. Allaһ bunı sizge yalıñız bir mujde olsun ve qalpleriñiz bu sayede raatlansın, diye yaptı. Zafer yalıñız mutlaq kuç ve ikmet saibi Allaһ qatındadır.
-129-130. Allaһ kâfirlerden bir qısmınıñ tamırını kessin, ya da olarnı perişan etsin, boylece, bozulğan bir alda dönip ketsinler -ki, bu işte seniñ yapacaq bir şeyiñ yoqtır- yahut (musulman olsunlar da) tövbelerini qabul etsin, ya da (israr etseler) olarğa azap etsin, diye (Allaһ Bedirde sizge) yardım etti). Çünki, olar zalımdırlar. (127-nci ayette «bir qısmı»» diye tercmiye etilgen «taraf» kelimesiniñ manalarından bir qaçı «eşraf, liderler, qomandanlar»dır. Bu yerde söz yurütilgen Bedir cenkinde muşriklerniñ bir çoq ileri kelgenleri oldürilgen ya da esir alınğan edi).
+129. Allaһ kâfirlerden bir qısmınıñ tamırını kessin, ya da olarnı perişan etsin, boylece, bozulğan bir alda dönip ketsinler -ki, bu işte seniñ yapacaq bir şeyiñ yoqtır- yahut (musulman olsunlar da) tövbelerini qabul etsin, ya da (israr etseler) olarğa azap etsin, diye (Allaһ Bedirde sizge) yardım etti). Çünki, olar zalımdırlar. (127-nci ayette «bir qısmı»» diye tercmiye etilgen «taraf» kelimesiniñ manalarından bir qaçı «eşraf, liderler, qomandanlar»dır. Bu yerde söz yurütilgen Bedir cenkinde muşriklerniñ bir çoq ileri kelgenleri oldürilgen ya da esir alınğan edi).
+130. [129 ayetine baq.]
 131. Koklerde ve yerde ne bar ise Allaһnıñdır. İstegenine bağışlar, istegenine azap berir. Allaһ çoq bağışlayıcı ve çoq merhametlidir.
 132. Ey, iman etkenler! Qat-qat arttırılğan olaraq fayız aşamañ. Allaһtan saqınıñ ki, qurtuluşqa irişirsiñiz. (Cenab-ı Haq «Baqara» suresiniñ 275, 276 ve 278-nci ayetlerinde alşverişni elâl etkenini ve fıyıznı yasaqlağanını -bularnıñ aynı şeyler olmağanını añlataraq- ifade etken. Bu yerde qat-qat arttıraraq, fayız yemekniñ yasaq olğanı bildirilüvi ise, devirniñ arap toplumında keniş yayılğan ve vadesinde odenmegen borclar aqqında yapılğan fayızcılıqqa işaret etile).
 
@@ -767,9 +770,11 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 165. Olar Allaһ qatında derece-derecedirler. Allaһ olarnıñ yapqanlarını kormekte.
 166. Ant olsun ki, aralarından ozlerine Allaһnıñ ayetilerini oquğan, (fenalıqlardan ve inkârdan) ozlerini temizlegen, ozlerine Kitap ve ikmetni ogretken bir Peyğamber yollavnen Allaһ mu’minlerge buyuk bir lütfte bulunğan. Albuki, daa evel olar ap-açıq bir sapıqlıqta ediler.
 167. (Bedirde) eki qatını (duşmanıñıznıñ) başına ketirgen bir musebetiñiz, (Uhudda) oz başıñızğa kelgeni içünmi: «Bu nasıl ola!», dediñiz. De ki: O oz qusurıñızdandır. Şubesiz, Allaһnıñ er şeyge kuçü yeter. (Bedirde musulmanlar muşriklerden yetmiş asker oldürgen, yetmiş adamnı da esir alğan ediler. Uhudda ise, yetmiş şeit berdiler. Ayette keçken «musibet»nen buña işaret etilmekte. Ve bu, oqçılarnıñ Allaһ Resulnıñ emrini tutmağanlarından sebep, başlarına kelgeni ifade etilmekte).
-168-169. Eki taraf qarşılaşqan kunü siziñ başıñızğa kelgenler, ancaq Allaһnıñ isteginen olğandır ki, bu da mu’minlerni ayırdı etüvi ve munafıqlarnı ortağa çıqarıvu içün edi. Bularğa: «Keliñ, Allaһ yolunda cenkleşiñ; ya da mudafaa yapıñ», denilgen vaqıtta: «Cenkleşmege bilsek edi, elbette, siziñ peşiñizden barır edik», dediler. Olar o kunü imandan ziyade kâfirlikke yaqın ediler. Ağızlarınen yureklerinde olmağannı söyley ediler. Albuki, Allaһ olarnıñ içlerinde gizlegenlerini daa eyi bilir.
+168. Eki taraf qarşılaşqan kunü siziñ başıñızğa kelgenler, ancaq Allaһnıñ isteginen olğandır ki, bu da mu’minlerni ayırdı etüvi ve munafıqlarnı ortağa çıqarıvu içün edi. Bularğa: «Keliñ, Allaһ yolunda cenkleşiñ; ya da mudafaa yapıñ», denilgen vaqıtta: «Cenkleşmege bilsek edi, elbette, siziñ peşiñizden barır edik», dediler. Olar o kunü imandan ziyade kâfirlikke yaqın ediler. Ağızlarınen yureklerinde olmağannı söyley ediler. Albuki, Allaһ olarnıñ içlerinde gizlegenlerini daa eyi bilir.
+169. [168 ayetine baq.]
 170. (Evlerinde) oturıp da, qardaşları aqqında: «Bizge uysa ediler, oldürilmez ediler», degenlerge: «Eger doğru sözlü insanlar iseñiz, canlarıñıznı olümden qurtarıñ baqayıq!», de.
-173-174. Allaһ yolunda oldürilgenlerni saqın olü saymañ, aksine, olar tiridirler; Allaһnıñ lütf ve kereminden ozlerine bergenlerinen sevinçli bir alda, Rabbleri yanında rızıklarğa nail olmaqtalar. Artlarından kelecek ve alâ ozlerine qatılmağan şeit qardaşlarına da, iç bir keder ve qorqu olmağanı mujdesiniñ sevinçini duymaqtalar.
+173. Allaһ yolunda oldürilgenlerni saqın olü saymañ, aksine, olar tiridirler; Allaһnıñ lütf ve kereminden ozlerine bergenlerinen sevinçli bir alda, Rabbleri yanında rızıklarğa nail olmaqtalar. Artlarından kelecek ve alâ ozlerine qatılmağan şeit qardaşlarına da, iç bir keder ve qorqu olmağanı mujdesiniñ sevinçini duymaqtalar.
+174. [173 ayetine baq.]
 175. Olar Allaһtan kelgen nimet ve keremniñ; Allaһ mu’minlerniñ ecrini zaya etmeycegi mucizesiniñ sevinçi içindeler.
 176. Yaralağandan soñ, kene Allaһnıñ ve Peyğamberniñ çağıruvına uyğanlar, (ayrıcı) bularnıñ aralarından eyilik yapqanlar ve taqva saibi olğanlar içün pek buyuk bir mukâfat bar.
 177. Bir qısım insanlar mu’minlerge: «Duşmanlarıñız olğan insanlar sizge qarşı asker topladılar; olardan aman saqınıñ!», degenlerinde, bu olarnıñ imanlarını bir qat daa arttırdı ve: «Allaһ bizge kâfi. O ne guzel vekildir!», dediler. (Rivayetke kore, Uhud cenkinde musulmanlar bir muddet bozulğan soñ, tekrar toplanuvları uzerine muim bir neticege irişip olamağan duşman ordusınıñ qomandanı Ebu Sufyan cenk meydanını terk eterken, Az. Peyğamberge: «Ey, Muһammed! Kelecek sene Bedir meydanında sennen tekrar qarşılaşacaqmız!», tehdidini savurğan; Az. Peyğamber de: «İnşaallaһ!», degen edi. Kelesi yılı Ebu Sufyannıñ boyle bir azırlıq korgeni haberi Medinege kelgeninen, Az. Peyğamber bir suvariy birliginen duşmannı qarşılamağa çıqqan edi. İşte, yuqarıdaki ayet duşman tarafından kelgen bu haber qarşısında musulmanlarnıñ azmi ve qararlılığını, olarnıñ yuksek maneviy kuçüni taqdir ve ifade etmekte).
@@ -987,7 +992,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 156. Ve «Allaһ elçisi Meryem oğlu İsanı oldürdik», deyayuvleri sebebinden (olarnı lânetledik). Albuki, onı ne oldürdiler, ne de astılar; faqat (oldürgenleri) olarğa İsa kibi kosterildi. Onıñ aqqında ihtilâfqa tüşkenler bundan tolayı, tam bir qararsızlıq içindedirler; bu hususta zanğa uymaqtan ğayrı, iç bir (sağlam) bilgileri yoqtır ve kesen-kes olaraq onı oldürmediler. (Allaһ Taalâ Nuһnı tufandan, İbrahimni ateşten, Musanı Fıravundan, Muһammed Mustafanı muşriklerniñ tuzağından qorçalap qurtarğanı kibi, İsanı da onı oldürmek istegen yeudiylerniñ elinden qurtarğan, Az. İsağa hiyanetlik yaparaq, yerini askerlerge kostergen adamnı İsağa beñzeterek oldürtkendir).
 157. Aksine, Allaһ onı (İsanı) oz yanına çıqarğandır. Allaһ izzet ve ikmet saibidir.
 158. Ehl-i kitaptan er biri olüminden evel oña mıtlaqa iman etecek. Qıyamet kunünde de, o olarğa şaat olacaq. (Allaһ, peyğamberi İsanı yeudiylerden qorçalağan. Oldürüvlerine mani olğan; bu kesen-kestir. Onı oz yanına alğanı da şubesizdir. Ancaq, bunıñ şekli ve vaqıtı uzerinde çeşit beyanlar ve añlayışlar bar. Çoqluqqa kore, Allaһ onı qudretinen maneviy semalardaki hususiy mevqiine kotergen, qıyametten evel tekrar dünyağa yollaycaq. O vaqıt butün ehl-i kitap onıñ peyğamber olğanına inanacaq, yañlış inançlarından qurtulacaqlar. Az. İsa dünyada qalğan muddetçe Qur’an ile uküm etecek, hac, domuz ve başqalar ile bağlı yañlış tedbiqatlarnı toqtatacaq. Bir başqa añlayışqa kore, Allaһ onı yeudiylerden qorçalağan, eceli kelgeninen, onı vefat ettirgen. Ve ruhunı semadaki yerine kotergen. Qıyametten evel kelecsk de onıñ ruhudır. Ehl-i kitaptan olğanlar olümlerinden evel aqiqatnı ogrenip inanacaqlar, faqat bunıñ faydası olmaycaq. Bu añlayış uçünci surenni 54-56-nci ayetlerine esaslandırılğan).
-159-160. Yeudiylerniñ zulumı sebebinen, bir de çoq kimseni Allaһ yolundan çevirüvleri, red etilgenleri alda, fayız aluvları ve aqsız (öllar) ile insanlarnıñ mallarını aşağanları içün ozlerine (daa evel) elâl etilgen temiz ve yahşı şeylerni olarğa aram yaptıq; ve aralarından inkârğa sapqanlarğa accı bir azap azırladıq.
+159. Yeudiylerniñ zulumı sebebinen, bir de çoq kimseni Allaһ yolundan çevirüvleri, red etilgenleri alda, fayız aluvları ve aqsız (öllar) ile insanlarnıñ mallarını aşağanları içün ozlerine (daa evel) elâl etilgen temiz ve yahşı şeylerni olarğa aram yaptıq; ve aralarından inkârğa sapqanlarğa accı bir azap azırladıq.
+160. [159 ayetine baq.]
 161. Faqat aralarından ilimde terenleşkenler ve mu’minler, saña endirilgenge ve senden evel endirilgenge iman etkenler, namaznı qılğanlar, zekâtnı bergenler, Allaһqa ve ahiret kunüne inanğanlar bar ya; işte, olarğa pek yaqında buyuk mukâfat berecekmiz.
 162. Biz Nuһqa ve ondan soñki peğamberlerge vahiy etkenimiz kibi, saña da vahiy ettik. Ve İbrahimge, İsmailge, İshaqqa, Yaqubğa, esbatqa (torunlarğa), İsağa, Eyyubke, Yunusqa, Harunğa ve Suleymanğa vahiy ettik. Davudqa da Zeburnı berdik. (Peyğamber - ozüne vahiy kelgen buyuk insandır. Bu vahiy insanlarğa tebliğ ile mukellef olğanlarğa elçi manasında «Resul» denilir. Vahiy Allaһnıñ qullarına, tilegenini söylevi ve bildirüvi içün seçken ayrıca bir haberleşüv yoludır. Melek vastasınen olğanı kibi, vastasız da ola bılir. Vahiyge nail olğan peyğamber ozünde Allaһtan olğanına asla şube etmegen bir bilgi ve aydınlanuv bulır. Ayetteki «torunlar» - Yaqub peyğamberniñ balaları ve torunlarıdır).
 163. Bir qısım peyğamberlerni saña daa evel añlattıq, bir qısmını ise, saña añlatmadıq. Ve Allaһ Musa ile aqiqaten qonuştı. (Hadislerde yuz biñlernen peyğamber kelip-keçkeni bildirilgen. Bu ayet de, sayı bermeden, aynı aqiqatnı tilge ketirmekte. Buña kore, yer yuzünde insanlar olğan yerlerge er zaman ilâhiy talimat yetkizmek içün, çoq sayıda peyğamberlerniñ yollanılğanı añlaşılmaqta).
@@ -1543,8 +1549,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 105. Bunıñ uzerine Musa asasını yerge attı. O aman ap-açıq bir ajderha ola qoydı!
 
 106. Ve elini (cebinden) çıqardı. Birden o da seyir etkenlerge bem-beyaz korüne qoydı. (Asa ve el beyazlığı Az.Musağa berilgen eki mucizedir).
-107-108. Fıravunnıñ qavmından ileri kelgenler dediler ki: Bu çoq bilgili bir tılsımcıdır. Sizni yurtuñızdan çıqarmaq istey. Ne buyurırsıñız?
-109-110. Dediler ki: Onı da, qardaşını da beklet; şeerlerge toplayıcılar (memurlar) yolla. Butün bilgili tılsımcilarnı saña ketirsinler. (Az.Musanıñ qardaşı Harun (a.s.)dır. O da ağasına yardımcı olaraq yollanılğan bir peyğamberdir).
+107. Fıravunnıñ qavmından ileri kelgenler dediler ki: Bu çoq bilgili bir tılsımcıdır. Sizni yurtuñızdan çıqarmaq istey. Ne buyurırsıñız?
+108. [107 ayetine baq.]
+109. Dediler ki: Onı da, qardaşını da beklet; şeerlerge toplayıcılar (memurlar) yolla. Butün bilgili tılsımcilarnı saña ketirsinler. (Az.Musanıñ qardaşı Harun (a.s.)dır. O da ağasına yardımcı olaraq yollanılğan bir peyğamberdir).
+110. [109 ayetine baq.]
 
 111. Sihirbazlar Fıravunğa keldi ve: Eger biz ustün kelsek, bizge belli bir mukâfat barmı? dediler.
 
@@ -1562,10 +1570,12 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 118. Sihirbazlar ise, secdege qapandılar.
 
-119-120. Musa ve Harunnıñ Rabbi olğan alemlerniñ Rabbine inandıq, dediler.
+119. Musa ve Harunnıñ Rabbi olğan alemlerniñ Rabbine inandıq, dediler.
+120. [119 ayetine baq.]
 121. Fıravun dedi ki: «Men sizge izin bermeden, oña iman ettiñizmi? Bu, iç şubesiz, şeerde, halqını o yerden çıqarmaq içün qurğan bir tuzağıñızdır. Amma, yaqında (başıñızğa keleceklerni) koreceksiñiz!
 122. Mıtlaqa elleriñizni ve ayaqlarıñıznı çaprazlama kesecegim, soñ da epiñizni asacağım!” (Fıravunnıñ sihirbazları toptan Az.Musağa iman etkeninen, Fıravun bu işni bir tuzaq sandı ve halqnıñ da toptan iman etecigenden qorqtı. Bunıñ ogüni almaq maqsadınen, sihirbazlarğa tehdit eterek, em olarnı, em de halqnı qorquzdı. Ayrıca, Az.Musa ve oña inanğanlarğa nisbeten halqnı kotermek ve ozüniñ vaziyetini qorçalamaq maqsadınen de, halqnıñ yurtlarından çıqarılmaq istenilgenini ileri sürdi).
-123-124. Olar: Biz zaten Rabbimizge dönecekmiz. Sen sadece Rabbimizniñ ayetleri bizge kelgende, olarğa inanğanımız içün bizden intiqam almaqtasıñ. Ey, Rabbimiz! Bizge bol-bol sabır ber, musulman olaraq canımıznı al, dediler.
+123. Olar: Biz zaten Rabbimizge dönecekmiz. Sen sadece Rabbimizniñ ayetleri bizge kelgende, olarğa inanğanımız içün bizden intiqam almaqtasıñ. Ey, Rabbimiz! Bizge bol-bol sabır ber, musulman olaraq canımıznı al, dediler.
+124. [123 ayetine baq.]
 125. Fıravunnıñ qavmından ileri kelgenler dediler ki: Musanı ve qavmını, seni ve tañrılarını bıraqıp, yer yuzünde bozğuncılıq çıqarsınlar, diye bıraqacaqsıñızmı? (Fıravun): «Biz olarnıñ oğullarını oldürip, qadınlarını sağ qaldıracaqmız. Elbette, biz olarnı ezecek ustünliktemiz», dedi.
 126. Musa qavmına dedi ki: «Allaһtan yardım isteñ ve sabır etiñ. Şubesiz ki, yer yuzü Allaһnıñdır. Qullarından tilegenini oña varis yapar. Netice (Allaһtan qorqup, gunahtan) saqınğanlarnındır».
 127. Olar da: Sen bizge (peyğamber olaraq) kelmeden evel de, kelgenden soñ da, bizge eskence etildi, dediler. (Musa): «Umüt etilir ki, Rabbiñiz duşmanıñıznı elâk eter ve olarnıñ yerine sizni yer yuzüne hakim yapar da, nasıl areket etecegiñizge baqar», dedi. (Boylece, Az.Musa istikbalniñ, inanğanlarnıñki olacağına işaret etti. Yuce Allaһ, Fıravunnen qavmını suvda boğaraq, bu vadesini yerine ketirdi.
@@ -1959,7 +1969,8 @@ Yunus suresi 109 ayet olup, 40, 94, 95 ve 96 -ncı ayetler Medinede, digerleri M
 4. Allaһnıñ kerçek bir vadesi olaraq, epiñizniñ dönüşiñiz ancaq Oñadır. Çünki, O, mahlüqatnı evelâ (öqtan) yaratır, soñra da iman etip, yahşı işler yapqanlarğa adaletnen mukâfat bermek içün (olarnı uzurına) keri çevirir. Kâfir olğanlarğa kelgende, inkâr etmekte olğan şeylerinden otrü, olar içün qaynap turğan suvdan bir içki ve elem berici bir azap bardır.
 5. Kuneşni ışıqlı, aynı da parlaq yapqan, yıllarnıñ sayısını ve esabını bilüviñiz içün oña (ayğa) bir taqım menziller taqdir etken Odır. Allaһ bularnı, ancaq bir aqiqatqa (ve ikmetke) binaen yaratqan. O, bilgen bir qavmğa ayetlerini beyan etmekte.
 6. Gece ve kundüzniñ deñişüvinde (uzayıp-qısqaruvında) Allaһnıñ koklerde ve yerde yaratqan şeylerinde, (Onı inkâr etmekten) saqınğan bir qavm içün, elbette nice deliller bardır!
-7-8. Uzurımızğa çıqacaqlarını beklemegenler dünya ayatına razı olup, onıñnen raatlıq tapqanlar ve ayetlerimizden ğafil olğanlar yoqmı, işte, olarnıñ qazanmaqta olğan (gunahları) sebebinden, baracaq yerleri ateştir!
+7. Uzurımızğa çıqacaqlarını beklemegenler dünya ayatına razı olup, onıñnen raatlıq tapqanlar ve ayetlerimizden ğafil olğanlar yoqmı, işte, olarnıñ qazanmaqta olğan (gunahları) sebebinden, baracaq yerleri ateştir!
+8. [7 ayetine baq.]
 9. İman etip, guzel işler yapqanlarğa kelgende, imanları sebebinen, Rabbleri olarnı nimet tolu cennetlerde alt tarafından irmaqlar aqqan (saraylarğa) iriştirir.
 10. Olarnıñ o yerdeki duası: «Allaһım! Seni noqsan sıfatlardan uzaq tutarmız!» (sözleridir). O yerde bir-birilerinen qarşılaşqanda söylegenleri ise, «selâm»dır. Olarnıñ dualarınıñ soñu da şudır: Hamd alemlerniñ Rabbi Allaһqa mahsustır.
 11. Eger Allaһ insanlarğa hayırnı çar-çabuk istegenleri kibi, şerrni de acele berse edi, elbette olarnıñ ecelleri bitirilgen olur edi. Faqat bizge qavuşmaqnı beklemegenlerni biz yoldan azğanları alda, bocalağan bir şekilde (oz başlarına) bıraqırmız. (Rivayetke kore, Nadr b. Haaris kibi bir taqım muşrikler Resulullahnıñ peyğamberligini inkâr etkenler ve: «Ya Allaһ, eger Muһammedniñ Peyğamberligi doğru ise, aman kokten ustümizge taş yağdır ya da bizge ağır bir azap ketir!» degen ediler. Bunıñ uzerine, yuqarıdaki ayet endi. Demek ki, Allaһ Taalâ tilese, qullarını işlegen gunahları sebebinden, aman cezalandırmaz; belki tövbe eter, peşman olur ve haqqa dönerler diye, cezalarını keçiktirir. Tövbe etmegenlerge de ozleri oçün taqdir etilgen belli bir muddetkece muhlet berir, bu muddet soñunda olarnıñ cezasını ya dünyada olğanda berir, ya da ahiretke qaldırır).
@@ -2055,7 +2066,8 @@ Yunus suresi 109 ayet olup, 40, 94, 95 ve 96 -ncı ayetler Medinede, digerleri M
 94. (Resulım!) Eger saña endirgenimizden (bu añlatqan vaqialardan) şubelenseñ, senden evel Kitapnı (Tevratnı) oquğanlardan sora. Ant olsun ki, Rabbiñden saña haq kelgendir. Saqın şubecilerden olma!
 95. Allaһnıñ ayetlerini yalanğa çıqarğanlardan da olma, soñra ziyanğa oğrağanlardan olursıñ.
 
-96-97. Aqiqaten, aqlarında Rabbiniñ sözü (ukmi) sabit olğanlar, ozlerine (istegen) butün mucizeler kelgen olsa bile, elem berici azapnı korgenge qadar inanmaycaqlar.
+96. Aqiqaten, aqlarında Rabbiniñ sözü (ukmi) sabit olğanlar, ozlerine (istegen) butün mucizeler kelgen olsa bile, elem berici azapnı korgenge qadar inanmaycaqlar.
+97. [96 ayetine baq.]
 98. Yunusnıñ qavmı istisna, (halqını yoq etken ulkelerimizden) er angi bir ulke halqı, keşke (ozlerine azap kelmeden) iman etse de, bu imanları ozlerine fayda berse edi! Yunusnıñ qavmı iman etkeninen, ozlerinden dünya ayatındaki rezillik azabını ortadan qaldırdıq ve olarnı bir muddet (dünya nimetlerinden) faydalandırdıq. (Ünus Peyğambernıñ qavmı onı inkâr etkeninen, qızaraq, aralarından ayırıldı. Qavmı o haber bergen azapnıñ kelecegini is etti, aman yapqanlarına peşman oldı ve azapnıñ kelmemesi içün, Allaһqa yalvardı. Cenab-ı Allaһ da olarnı azaptan qurtardı).
 99. (Resulım!) Eger Rabbiñ istese edi, yer yuzündekilerniñ episi, elbette iman eter ediler. O alda, sen inanuvları içün insanlarnı zorlaycaqsıñmı?
 100. Allaһnıñ izni olmadan, iç kimse inanamaz. O, aqıllarını qulanmağanlarnı murdar (inkârcı) yapar.
@@ -2230,7 +2242,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 94. Emrimiz kelgeninen, Şuaybnı ve onıñnen beraber, iman etkenlerni tarafımızdan bir rahmet ile qurtardıq; zulum etkenlerni ise, qorqunçlı bir gurülti yaqaladı da, yurtlarında tiz çöke qaldılar.
 
 95. Sanki o yerde iç barınmağan ediler. Biliñiz ki, Semuud qavmı (Allaһnıñ rahmetinden) uzaq olğanı kibi, Meden qavmı da uzaq oldı. (Şuayb (a.s.)nıñ qavmı da, Semuud qavmı kibi, nasiat diñlemegeni içün, qorqunç bir ses ve gurülti ile elâk olğan edi. Bularnıñ cezaları bir çeşit oluvı fena ahlâk noqtai nazarından, bir-birilerine beñzegenine işarettir. Allaһnıñ rahmetinden uzaq oluvları içün er eki qavmğa da, aynı beddua etilgen ve Medyen qavmı bu hususta Semuud qavmına beñzetilgen).
-96-97. Ant olsun ki, Musanı da mucizelerimiznen ve ap-açıq bir delilnen Fıravunğa ve onıñ ileri kelgenlerine yolladıq. Faqat olar Fıravunnıñ emrine uydılar. Albuki, Fıravunnıñ emri doğru degil edi.
+96. Ant olsun ki, Musanı da mucizelerimiznen ve ap-açıq bir delilnen Fıravunğa ve onıñ ileri kelgenlerine yolladıq. Faqat olar Fıravunnıñ emrine uydılar. Albuki, Fıravunnıñ emri doğru degil edi.
+97. [96 ayetine baq.]
 
 98. Fıravun qıyamet kunünde qavmınıñ ogüne tüşecek ve olarnı (çekip) ateşke alıp baracaq. Baracaq yerleri ne fena yerdir! (Yani Fıravun nasıl ki, bu dünyada qavmından inkârcı olğanlarnı ogüne tüşken; olarnen Allaһnı Resul Az.Musa ve onıñ tebliğ etken haq dinine qarşı kureşken ise, kene nasıl ki, Allaһnı peyğamberini taqib etip, yaqalamaq içün qavmını arqasından iyertken ve niayet, ozü deñizde boğulğanı kibi, olarnı boğuluvına da sebep olğan ise, aynı şekilde, ahirette de qavmını ogünde olaraq, episi birden ceennemge sürülecek).
 
@@ -2631,7 +2644,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 10. Olarğa bir peyğamber kelgeninen, aman onıñnen alay ete ediler.
 11. İşte, boylece, biz onı, (inkârcılıqnı) suçlılarnıñ qalplerine soqarmız.
 12. Evelkilerniñ başına kelgenlerden ders aluvları kerekse de, olar alâ buña (Qur’anğa) inanmaylar.
-13-14. Olarğa kokten bir qapu açsaq da, o yerden yuqarı çıqsalar, kene de: «Kozlermiz boyandı, daa doğrusı, bizge ırım yapılğandır», derler.
+13. Olarğa kokten bir qapu açsaq da, o yerden yuqarı çıqsalar, kene de: «Kozlermiz boyandı, daa doğrusı, bizge ırım yapılğandır», derler.
+14. [13 ayetine baq.]
 15. Ant olsun, biz kokte bir taqım burclar yarattıq ve seyir etkenler içün onı süsledik. (Burc - aslında yuksek koşk demektir. Kok yuzünde hususiy bir şekilde toplanğan bir taqım yıldızlar topuna da bu manada burc denilir. Bulardan meşurları on eki dane olmaqnen beraber, ayet-i kerimede «Buruuc» kelimesi bellisiz ve çoqluq olaraq zikr etilgenine kore, kok yuzünde daa keşf etilmegen bir çoq yıldız toplarınıñ barlığına işaret etile).
 16. Olarnı taşboran yapılğan (quvulğan) er şeytandan qorçaladıq.
 17. Ancaq, gizliden diñlegen istisna. Onıñ da peşine açıq bir alev stunı (uçar yıldız) tüşkendir.
@@ -2652,7 +2666,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 32. Allaһ boyle buyurdı: Oyle ise, o yerden çıq. Artıq quvıldıñ!
 33. Muaqkaq ki, qıyamet kunüne qadar lânet seniñ uzeriñye olacaq!
 34. (İblis:) Rabbim! Oyle ise, (barlıqlarnıñ) tekrar tirilecek kunüne qadar maña muhlet ber, dedi.
-35-36. Allaһ: Sen belli bir vaqıtqa qadar ozlerine muhlet berilgenlerdensiñ, buyurdı.
+35. Allaһ: Sen belli bir vaqıtqa qadar ozlerine muhlet berilgenlerdensiñ, buyurdı.
+36. [35 ayetine baq.]
 37. (İblis) dedi ki: Rabbim! Meni yoldan azdıruvıña qarşılıq, men de yer yuzünde olarğa (gunahlarnı) süsleycem ve olarnıñ episini mıtlaqa yoldan azdıracam!
 38. Ancaq, olardan ihlâslı qullarıñ istisna.
 39. (Allaһ) boyle buyurdı: «İşte, maña barğan dos-doğru yol budır». 42. «Şubesiz, qullarım uzerinde seniñ bir akimiyetiñ yoqtır. Ancaq, yoldan azğanlardan saña uyğanlar istisna».
@@ -2675,14 +2690,16 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 55. Dediler ki: «Biz suçlı bir toplumğa (olarnı elâk etmege) yollanıldıq».
 56. «Ancaq, Luut ailesi istisna. Olarnıñ episini qurtaracaqmız».
 57. (Faqat Luutnıñ) qadını istisna; biz onıñ keri qalğanlardan oluvını taqdir ettik».
-58-59. Elçiler Luut ailesine kelgende, Luut olarğa: «Aqiqaten, siz tanılmağan kimselersiñiz», dedi.
+58. Elçiler Luut ailesine kelgende, Luut olarğa: «Aqiqaten, siz tanılmağan kimselersiñiz», dedi.
+59. [58 ayetine baq.]
 60. Dediler ki: «Aksine, biz saña olarnıñ şube etken şeylerini (azapnı ve elâketni) ketirdik.
 61. Saña aqiqatnı ketirdik; biz aqiqaten doğru söyleyicilermiz.
 62. Geceniñ bir qısmında aile azalarıñnı yolğa çıqar, sen de artlarından yur. Sizden iç kimse saqın çevirilip de, artına baqmasın, istenilgen yerge ketiñ.
 63. Oña (Luutqa) şu ukmimizni vahiy etik: «Sabağa çıqar ekenler, mıtlaqa olarnıñ ardı kesilgen olacaq».
 64. Şeer halqı, bir-birilerini hayırlap, (meleklerniñ yanına) keldiler. (Çünki, yigitler suretinde kelgen melekler olarnıñ gomoseksuallikten doğğan fena isteklerini uyandırğan edi).
 
-65-66. (Luut) olarğa: «Bular menim musafirimdir. Saqın meni utandırmañ; Allaһtan qorquñ; meni rezil etmeñ!» dedi 70. «Biz seni el-alemniñ işine qarışuvdan men etmegen edikmi?» dediler.
+65. (Luut) olarğa: «Bular menim musafirimdir. Saqın meni utandırmañ; Allaһtan qorquñ; meni rezil etmeñ!» dedi 70. «Biz seni el-alemniñ işine qarışuvdan men etmegen edikmi?» dediler.
+66. [65 ayetine baq.]
 67. (Luut:) İşte, qızlarım! (Tüşüngenleriñizni yapacaq iseñiz (olarnen evleniñ), dedi.
 74. (Resulım!) Ayatnıñ aqqı içün olar sarğoşlıqları içinde bocalay ediler.
 75. Kuneş doğğanda olarnı o qorqunç ses yaqaladı.
@@ -2705,7 +2722,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 92. Aqiqaten, biz (Qur’annı) qısımlarğa ayırğanlarğa azapnı endirgendirmiz.
 93. Olar Qur’annı bolüp ayırğanlardır. (Qur’annı bolüp ayırğanlar, onıñ bir qısmını qabul etip, bir qısmını red eticilerdir. Ya da Qur’anğa şiir, fal ve masal degenlerdir).
 
-94-95. Rabbiñ aqqı içün mıtlaqa olarnıñ episini, yapqalarınıñ sebebinden, sorğuğa çekecekmiz.
+94. Rabbiñ aqqı içün mıtlaqa olarnıñ episini, yapqalarınıñ sebebinden, sorğuğa çekecekmiz.
+95. [94 ayetine baq.]
 96. Saña emir olunğannı açıqça söyle ve ortaq qoşqanlardan yuz çevir! (Bu ayetlerde de korülgeni kibi, Qur’an-ı Kerimniñ bir qısmına inanıp, bir qısmına inanmağanlardan Allaһ «muşrikler» diye, söz ete. Baqara suresiniñ 85nci ayetinde Qur’annıñ bir qısmına inanıp, bir qısmına inanmağanlarnıñ cezası dünyada rezillik, ahirette de eñ şiddetli azap bildirile. Nisaa suresiniñ 150 ve 151-nci ayetlerinde ise, Allaһnen peyğamberlerni bir-birinden ayırğan ve «Bir qısmına inanırmız, bir qısmına da inanmamız», degenlerniñ aqiqiy manada kâfir olğanlarına diqqat çekile ).
 97. (Sennen) alay etkenlerge qarşı biz saña yeterlimiz.
 98. Olar Allaһnen beraber başqa bir tañrığa tabınğanlardır. (Kimniñ doğru olğanını) yaqında bilecekler!
@@ -2789,7 +2807,8 @@ yaratır. (Boylece, bu ayetlerden de añlaşılğanına kore, eskiden insanlar t
 43. Senden evel de, ozlerine vahiy ettigimiz kişilerden başqasını peyğamber olaraq yollamadıq. Eger bilmey iseñiz, bilgenlerden sorañ.
 
 44. Ap-açıq mucizeler ve kitaplarnen (öllanıldılar). İnsanlarğa ozlerine endirilgenni añlatuvıñ içün ve tüşünip añlasınlar diye, saña da bu Qur’annı endirdik.
-45-46. Yamanlıq tuzaqlarını qurğanlar Allaһ ozlerini yerge batırmaycağından ya da ozlerine bilmeycek bir yerden azapnıñ kelmeyceginden, ya da olar kezip dolaşqanda Allaһ olarnı yaqalap olamaycağından emin oldularmı? Olar (Allaһnı) aciz bıraqacaq degiller.
+45. Yamanlıq tuzaqlarını qurğanlar Allaһ ozlerini yerge batırmaycağından ya da ozlerine bilmeycek bir yerden azapnıñ kelmeyceginden, ya da olar kezip dolaşqanda Allaһ olarnı yaqalap olamaycağından emin oldularmı? Olar (Allaһnı) aciz bıraqacaq degiller.
+46. [45 ayetine baq.]
 
 47. Yoqsa, Allaһ olarnı yavaş-yavaş tüketerek cezanlandırmaycağından (emin oldularmı)? Şubesiz, Rabbiñ çoq şefqatlı, pek merhametlidir.
 
@@ -2832,7 +2851,8 @@ yaratır. (Boylece, bu ayetlerden de añlaşılğanına kore, eskiden insanlar t
 66. Şubesiz, siz içün ayvanlarda da buyuk bir ibret bardır. Zira, sizge olarnıñ qarınlarındaki pisliknen qan arasından (kelgen), içkenlerniñ boğazından qolaylıqnen keçken halis bir süt içirmektemiz.
 
 67. Hurma ve yuzüm kibi meyvalardan em içki, em de guzel ğıdalar yaparsıñız. İşte, bularda da, aqlını işletken kimseler içün, buyuk bir ibret bardır. (Ayette keçken «seker» kelimesi sarğoşlq bergen şey, yani içki demektir. Bu ayet Mekkede engendir ki, o zaman daa içki aram etilmegen edi. Bunıñnen beraber, yuqarıdaki ayette içkini «Guzel rızıq»tan ayrı zikr etilüvi, Qur’an-ı Kerimniñ ta o vaqıtta bile içkini hoş bir şey saymağanını kostere. Boylece, bir baqışta, içkiniñ guzel bir rızıq olmağanına boyle işaret buyurulğan. Bundan soñ, sırasınen, içkide -bazı korünişte faydalarnen beraber- buyuk bir fenalıq olğanı (Baqara, 215), sarğoş olaraq namaz qıluvnıñ aram olğanı (Nisaa, 43) ve niayet, içki şeytannıñ işlerinden bir pislik olğanı bildirilgen ve içki içüvni yasaqlağan (Maaide, 90-91) ayetler kelgen).
-68-69. Rabbiñ balqurtqa: Dağlardan, tereklerden ve insanlarnıñ yapqan asmalarından ozüñye evler (qobalar) edin. Soñra meyvalarnıñ er birinden aşa ve Rabbiniñ saña qolaylaştırğan yayıluv yollarına kir, diye ilham etti. Olarnıñ qarınlarından renkleri çeşitli bir şerbet (bal) çıqar ki, onda insanlar içün şifa bardır. Elbette, bunda tüşüngen bir qavm içün buyuk bir ibret bar.
+68. Rabbiñ balqurtqa: Dağlardan, tereklerden ve insanlarnıñ yapqan asmalarından ozüñye evler (qobalar) edin. Soñra meyvalarnıñ er birinden aşa ve Rabbiniñ saña qolaylaştırğan yayıluv yollarına kir, diye ilham etti. Olarnıñ qarınlarından renkleri çeşitli bir şerbet (bal) çıqar ki, onda insanlar içün şifa bardır. Elbette, bunda tüşüngen bir qavm içün buyuk bir ibret bar.
+69. [68 ayetine baq.]
 
 70. Sizni Allaһ yarattı; soñra sizni vefat ettirecek. Daa evel, bilgili ekende, iç bir şeyni bilmez alğa kelsin, diye sizden bazı kimseler omüriniñ eñ fena çağına qadar yaşatılacaq. Şubesiz ki, Allaһ bilgilidir, qudretlidir.
 
@@ -3005,7 +3025,8 @@ a)  «… o taqdirde, olar Arşnıñ saibi olğan Allaһtan ustün kelmek içün
 48. Baqsana, sen içün ne türlü beñzetüvler yaptılar! Bu sebepten, (oyle bir) saptılar ki, artıq (doğru) yolnı tapamaycaqlar.
 
 49. Bir de olar dediler ki: Aqiqaten, biz bir kemik obası ve qoquğan bir topraq olğan da, yap-yañı bir hilqatta tiriltilecekmiz, oylemi!
-50-51. De ki: İster taş oluñ, ister demir, istese aqılıñızğa (yañıdan tirilüvi) imkânsız kibi korüngen er angi bir yaratılğan! (Bular Allaһnıñ sizni yañıdan tiriltіovini ağırlaştırmaz). Deycekler ki: «Bizni tekrar (ayatqa) kim qaytaracaq?» De ki: Sizni birinci kere yaratqan. Bunıñ uzerine olar saña alaylı bir tarzda başlarını sallaycaq ve: «Ne zaman eken o?» deycekler. De ki: Yaqın olsa kerek!
+50. De ki: İster taş oluñ, ister demir, istese aqılıñızğa (yañıdan tirilüvi) imkânsız kibi korüngen er angi bir yaratılğan! (Bular Allaһnıñ sizni yañıdan tiriltіovini ağırlaştırmaz). Deycekler ki: «Bizni tekrar (ayatqa) kim qaytaracaq?» De ki: Sizni birinci kere yaratqan. Bunıñ uzerine olar saña alaylı bir tarzda başlarını sallaycaq ve: «Ne zaman eken o?» deycekler. De ki: Yaqın olsa kerek!
+51. [50 ayetine baq.]
 
 52. Allaһ sizni çağıracaq kunü, Oña hamd eterek, davetine uyarsıñız ve (tirilüvden evelki alıñızda) pek az qalğanıñıznı zan etersiñiz.
 
@@ -3113,7 +3134,10 @@ a)  «… o taqdirde, olar Arşnıñ saibi olğan Allaһtan ustün kelmek içün
 Keһf suresı 110 ayettir. Mekkede nazil olğan. Ancaq 28-nci ayetniñ Medenide nazil olğanı da rivayet etile. Sure bu adnı içinde söz mevzusı olğan ve «mağara arqadaşları» manasına kelgen «Ashab-ı Keһf»ten alınğan.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-4. Hamd olsun Allaһqa ki, O, (insanlarnı) oz tarafından çetin bir azap ile tenbiyelemek, yahşı iş ve davranışlarda bulunğan mu’minlerge, ozleri içün, içinde ebediy qalacaqları (cennette) guzel bir ecir bulunğanını mujdelemek ve «Allaһ evlât edindi», degenlerni de tenbiyelemek içün qulına (Muһammedge), ozünde iç bir (zıtlıq ve) egrilik olmağan dos-doğru Kitapnı endirdi.
+1. Hamd olsun Allaһqa ki, O, (insanlarnı) oz tarafından çetin bir azap ile tenbiyelemek, yahşı iş ve davranışlarda bulunğan mu’minlerge, ozleri içün, içinde ebediy qalacaqları (cennette) guzel bir ecir bulunğanını mujdelemek ve «Allaһ evlât edindi», degenlerni de tenbiyelemek içün qulına (Muһammedge), ozünde iç bir (zıtlıq ve) egrilik olmağan dos-doğru Kitapnı endirdi.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
 5. Ne olarnıñ (Allaһ evlât edindi, degenlerniñ), ne de atalarınıñ, bu meselede iç bir bilgisi yoqtır. Ağızlarından çıqqan bu söz ne buyuk oldı! Yalandan başqa bir şey söylemeyler. (Fahreddin Raiziyge kore, şu uç gruppa Allaһnıñ balası olğanını söylegenlerdir:
 
 1. «Melekler Allaһnıñ qızlarıdır», degen muşrik araplar,
@@ -3139,7 +3163,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 20. «Çünki, olar eger sizni duysalar, ya sizni taşborannen oldürirler, ya da oz dinlerine çekerler ki, o vaqıtta ebediyen qurtulışqa irişalmazsıñız». (Beyzaviyniñ naql etkenine kore, şeerge yollanılğan adam elindeki paranı arclamaq içün çıqarğanınen, şeer halqı paranıñ ustündeki qıral Dekânosnıñ resimini kore ve adamnı bir hazine tapqan sanaraq, onı devirnıñ ukümdarına alıp baralar. Aradan uzun vaqıt keçken. Artıq bu ukümdar tevhid aqidesine bağlı bir hristiandır. Genç adam qıralğa başlarından keçkenni añlata. Beraber mağarağa baralar ve gençniñ añlatqanlarını doğrulığını ayretler içinde koreler. Yañıdan tirilüvniñ imkânını isbatlağan bu muşaadeden soñ, Allaһ Taalâ bu gençlerni tekrar ebediy yuquğa daldıra).
 21. Boylece, (insanlarnı) olardan haberdar ettik ki, Allaһ vadesiniñ haq olğanını, qıyametniñ şubesiz olğanını bilsinler. O vaqıtta olar aralarında Ashab-ı Keһfniñ vaziyetini tartışa ediler. Dediler ki: «Uzerlerine bir bina yapıñ. Rabbleri olarnı daa yahşı bilir». Olarnıñ vaziyetine şaat olğanlar ise: «Bizler kesen-kes olarnıñ yanbaşlarına bir mesjid yapacaqmız», dediler.
 22. (İnsanlarnıñ kimi:) «Olar uç adamdır; dörtüncileri de kopekleridir», deycekler; kene: «Beş adamdır; Altıncıları kopekleridir», deycekler. (Bular) bilinmegen şey aqqında tahmin yurütmektir. (Kimleri de:) «Olar yedi adamdır; sekizincisi kopekleridir», derler. De ki: Olarnıñ sayılarını Rabbim daa yahşı bilir. Olar aqqında bilgisi olğan pek azdır. Oyle ise, Ashab-ı Keһf aqqında delillerniñ açıq oluvından ğayrı, bir munaqaşağa kirişme ve olar aqqında (aşağı-yuqarı qonuşqan) kimselerniñ iç birinden malümat sorama.
-23-24. Allaһnıñ istegenine bağlamağance (inşaaallaһ demegence) iç bir şey içün «bunı yarın yapacam» deme. Bunı unutqan taqdiriñde, Allaһnı añ ve: «Umüt eterim ki, Rabbim meni doğruğa - bundan daa yaqın bir yolğa qavuştırır», de.
+23. Allaһnıñ istegenine bağlamağance (inşaaallaһ demegence) iç bir şey içün «bunı yarın yapacam» deme. Bunı unutqan taqdiriñde, Allaһnı añ ve: «Umüt eterim ki, Rabbim meni doğruğa - bundan daa yaqın bir yolğa qavuştırır», de.
+24. [23 ayetine baq.]
 25. Olar mağaralarında uç yuz yıl ve buña qoşma olaraq doquz yıl qalğandırlar. (Buña kore, Ashab-ı Keһf mağarada uç yuz doquz yıl qalğan. Bazı tefsirlerde bu sayınıñ qameriy taqvimge kore olğanı bildirilmekte. Uç yuz doquz qameriy yılnı qarşılığı ise, milâdiy uç asırdır. Rivayetke kore, ehl-i kitaptan bazıları Ashab-ı Keһfniñ mağarağa kirüvinden itibaren, Az.Muһammed
 (s.a.)niñ zamanına qadar keçken vaqıtnıñ uç yuz yıl olğanını idda etken ki, Allaһ Taalâ şu beyanı ile olarnı bu iddasını red etmektedir:)
 26. De ki: Ne qadar qalğanlarını Allaһ daa yahşı bilir. Koklerniñ ve yerniñ gizli bilgisi Oña aittır. Onıñ kormesi de, eşitmesi de ayretlidir. Olarnıñ (koklerde ve yerde olğanlarnıñ), Ondan başqa bir yoneticisi yoqtır. O, oz ukümranlığına kimseni ortaq etmez.
@@ -3220,7 +3245,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 91. Bu sebepnen, onı ne aşmağa kuçleri yetti, ne onı teşe bildiler.
 92. Zulqarneyn: Bu, Rabbimden bir rahmettir. Faqat Rabbimniñ vadesi kelgeninen, O, bunı yernen bir eter. Rabbimniñ vadesi haqtır, dedi.
 93. O kunü (qıyamet kunünde, baqarsıñ ki) biz olarnı bir-birine çarparaq, sallanğan bir alda bıraqqandırmız; Suurğa da ufürilgen, boylece, olarnı butüninen bir yerge ketirgendirmiz.
-94-95. Ve, kozleri meni kormege qapalı, qulaq asmağa da kuçleri yetalmaz olğan kâfirlerni o kunü ceennemnen koz-kozge ketirgendirmiz.
+94. Ve, kozleri meni kormege qapalı, qulaq asmağa da kuçleri yetalmaz olğan kâfirlerni o kunü ceennemnen koz-kozge ketirgendirmiz.
+95. [94 ayetine baq.]
 96. Kâfirler, meni bıraqıp da, qullarımnı dost tutunacaq sandılarmı? Biz ceennemni kâfirlerge bir mekân olaraq azırladıq.
 97. De ki: Sizge (yapqan) işleriñiz noqtai nazarından, eñ çoq ziyanğa oğrağanlarnı bildireyikmi?
 98. (Bular;) yahşı işler yapqanlarını sanğanları alda, dünya ayatında ğayretleri boşuna ketken kimselerdir.
@@ -3356,7 +3382,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 58. İşte, bular Allaһ olarğa nimetler bergen peyğamberlerinden, Ademniñ soyundan, Nuһ ile birlikte (gemide) taşığanlarımızdan, İbrahim ve İsrail (Yaqub)nıñ soyundan, doğruğa iriştirdigimiz ve seçken kimselerimizdendir. Olarğa çoq merhametli olğan Allaһnıñ ayetleri oqulğanda, ağlayaraq secedege qapana ediler.
 
 59. Niayet, olarnıñ artından oyle bir nesil keldi ki, bular namaznı bıraqtılar; nefisleriniñ arzularına uydılar. Bu sebepten, ileride sapıqlıqlarınıñ cezasını çekecekler.
-60-61. Ancaq, tövbe etken, iman etken ve yahşı davranışta bulunğan kimseler istisnadır. Bular, iç bir aqsızlıqa oğratılmayıp, cennetke, çoq merhametli Allaһnıñ, qullarına ğiyaben vade etken Adn cennetlerine kirecekler. Şubesiz, Onıñ vadesi yerini tapacaq. (Ayetniñ soñki cumlesi boyle de añlaşılğan: «Muaqqaq ki, Allaһnıñ yahşı qulları, Onıñ vade etken cenetine qavuşacaqlar»).
+60. Ancaq, tövbe etken, iman etken ve yahşı davranışta bulunğan kimseler istisnadır. Bular, iç bir aqsızlıqa oğratılmayıp, cennetke, çoq merhametli Allaһnıñ, qullarına ğiyaben vade etken Adn cennetlerine kirecekler. Şubesiz, Onıñ vadesi yerini tapacaq. (Ayetniñ soñki cumlesi boyle de añlaşılğan: «Muaqqaq ki, Allaһnıñ yahşı qulları, Onıñ vade etken cenetine qavuşacaqlar»).
+61. [60 ayetine baq.]
 
 62. O yerde boş söz degil, hoş söz eşitirler. Ve o yerde saba-aqşam ozlerine ait rızıqları bardır.
 
@@ -3403,7 +3430,9 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 83. (Resulım!) Kormediñmi? Biz kâfirlerniñ ustüne, olarğa yahşıca (isyankârlıqqa) süyreklegen şeytanlarnı yolladıq.
 
 84. Oyle ise, olar aqqında aşıqma. Biz olar içün, (kunlerini) birer-birer saymaqtamız.
-85-87. Taqva saiplerini eyet alında, çoq merhametli Allaһnıñ uzurında toplağan, gunahkârlarnı da, suvsız olaraq ceennemge sürgen kunümiz, Rahman nezdinde, söz ve izin alğandan başqalarınıñ şefaatqa kuçleri yetmeycek.
+85. Taqva saiplerini eyet alında, çoq merhametli Allaһnıñ uzurında toplağan, gunahkârlarnı da, suvsız olaraq ceennemge sürgen kunümiz, Rahman nezdinde, söz ve izin alğandan başqalarınıñ şefaatqa kuçleri yetmeycek.
+86. [85 ayetine baq.]
+87. [85 ayetine baq.]
 
 88. «Rahman bala edindi», dediler.
 
@@ -3435,7 +3464,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Taa. haa.
 
-2-3. Biz Qur’annı saña, kuçlik çekersiñ diye degil, ancaq Allaһtan qorqqanlarğa bir ogüt olsun, diye endirdik.
+2. Biz Qur’annı saña, kuçlik çekersiñ diye degil, ancaq Allaһtan qorqqanlarğa bir ogüt olsun, diye endirdik.
+3. [2 ayetine baq.]
 4. (Qur’an) yerni ve yuce koklerni yaratqan Allaһ tarafından peş-peşine endirilgendir.
 5. Rahman, Arşnı istiva etkendir. (Ya da:»Rahman, Arşnı ukmi altına alğandır». Baq. A’raaf, 7/54).
 6. Koklerde, yerde ve ekisi arasında olğan şeylernen, topraqnıñ altında olğanlar ep Onıñdır.
@@ -3591,7 +3621,8 @@ Ekinci yorumğa kore, ayetniñ manası boyle: «İşte, Saamiriy Allaһnı unutt
 89. O şeyniñ, olarğa iç bir söznen qarşılıq beralmaycağını, ozlerine ne bir zarar, ne de bir fayda bermek kuçünde olmağanını kormezlermi?
 90. Aqiqaten, Harun olarğa daa evel: Ey, qavmım! degen edi, siz bunıñ sebebinden, sadece fitnege oğradıñız. Siziñ Rabbiñiz, şubesiz çoq merhametli Allaһtır. Şu alda, maña uyıñ ve emrime itaat etiñ.
 91. Olar: Biz, dediler, Musa aramızğa qaytqanğa qadar, buña tabınuvdan asla vazgeçmeycekmiz!
-92-93. (Musa qaytqan soñ:) Ey, Harun! dedi, saña ne mani oldı da, bularnıñ dalâletke tüşkenlerini korgen vaqtıñda, artımdan kelmediñ? Emrime asiy oldıñmı?
+92. (Musa qaytqan soñ:) Ey, Harun! dedi, saña ne mani oldı da, bularnıñ dalâletke tüşkenlerini korgen vaqtıñda, artımdan kelmediñ? Emrime asiy oldıñmı?
+93. [92 ayetine baq.]
 94. (Harun:) Ey, anamnıñ oğlu! dedi, saçımnı-saqalımnı yulqma! Men seniñ: «İsrail oğulları arasında bolünüv çıqardıñ; sözümni tutmadıñ!» demeñden qorqtım.
 95. Musa: Ya seniñ zoruñ nedir, ey, Saamiriy? dedi.
 96. O da: Men, olarnıñ kormegenlerini kordim. Zira, o elçiniñ izinden bir avuç (topraq) alıp, onı (irigen ziynetlerniñ içine) attım. Bunı maña nefsim boyle hoş kosterdi, dedi. (Tefsircilerge kore, Saamiriyniñ, İsrail oğullarınıñ kormeyip de, ozüniñ korgenini ve izinden bir avuç topraq alğanını idda etken elçisi, Az.Musanıñ uzuruna kelgen Cebrail edi. Saamiriy onıñ atı basqan yerlerniñ yeşergenini korgen, iziniñ toprağından bir avuç alıp, ateşke atqan. Ayetni micaziy manada: «Allaһnıñ ilham etken ilmini boyle qullandım», şeklinde añlamaq da mumkün).
@@ -3645,7 +3676,8 @@ Enbiyaa suresi 112 ayet, Mekkede nazil olğan. Başqa mevzularnen beraber, husus
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. İnsanlar esapqa çekilecek (kun) yaqlaştı. Al boyle eken, olar ğaflet içinde yuz çevirdiler.
-2-3. Rabblerinden ozlerine ne zaman yañı bir ihtar kelse, olar bunı ep alayğa alaraq, qalpleri oyunğa, eglencege dalaraq diñlegendirler. O zalımlar boyle fısıldaştılar: Bu (Muһammed), siz kibi bir beşer olmaqtan başqa nedir ya! Siz şimdi kozüñiz kore-kore tılsımğa qapılmaqtasızmı?
+2. Rabblerinden ozlerine ne zaman yañı bir ihtar kelse, olar bunı ep alayğa alaraq, qalpleri oyunğa, eglencege dalaraq diñlegendirler. O zalımlar boyle fısıldaştılar: Bu (Muһammed), siz kibi bir beşer olmaqtan başqa nedir ya! Siz şimdi kozüñiz kore-kore tılsımğa qapılmaqtasızmı?
+3. [2 ayetine baq.]
 
 4. (Peyğamber) dedi ki: Rabbim, yerde ve kokte (söylengen) er sözni bilir. O, haqqı ile eşitici ve bilicidir.
 
@@ -3842,7 +3874,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 6. Çünki, Allaһ haqnıñ tam ozüdir; O, olülerni tiriltir; kene O, er şeyge haqqı ile qadirdir.
 7. Qıyamet vaqtı da kelecek; buña şube yoq. Ve Allaһ qabirlerdeki kimselerni tiriltip tursatacaq.
 
-8-9. İnsanlardan bazısı, bir bilgisi, bir reberi ve (vahiyge tayanğan) aydınlatıcı bir kitabı olmağanı alda, yalıñız Allaһ yolundan saptırmaq içün, yanını egip-bukerek (kibir ve azamet içinde), Allaһ aqqında tartışmağa qalqar. Onıñ içün dünyada bir rezillik bardır; qıyamet kunünde ise, oña yaqıcı azapnı tattıracaqmız.
+8. İnsanlardan bazısı, bir bilgisi, bir reberi ve (vahiyge tayanğan) aydınlatıcı bir kitabı olmağanı alda, yalıñız Allaһ yolundan saptırmaq içün, yanını egip-bukerek (kibir ve azamet içinde), Allaһ aqqında tartışmağa qalqar. Onıñ içün dünyada bir rezillik bardır; qıyamet kunünde ise, oña yaqıcı azapnı tattıracaqmız.
+9. [8 ayetine baq.]
 10. İşte bu, evelden yapqan-etkenleriñniñ sebebindendir (denilir). Elbette, Allaһ qullarına aqsızlıq etici degildir.
 11. İnsanlardan kimisi Allaһqa yalıñız bir taraftan qullıq eter. Yani: Ozüne bir yahşılıq toqunsa, buña pek memnun olur, bir de musibetke oğrasa, çeresi deñişir (dinden yuz çevirir). O, dünyasını da, ahiretini de ğayıp etkendir. İşte bu, apaçıq ziyannıñ tam ozüdir. (Bu ayet dinge qalbiy bir inançnen degil de, ozüne dünyaviy bir fayda ketirecigini umüt etkenlerni tenqit ete. Bunıñ kibi, tevsirlerde aytılğanına kore, bu ayet «earib» denilgen bir qabile aqqında nazil olğan. Olar Medinege icret etken ediler. Aralarından biri bedeni sağlam olğanı, atları guzel qulunlar bergeni, qadını tendürüst balalar doğurğanı, malımulkü artqan vaqıtta, «Ne yahşı ettim de, şu dinge kirdim! Bu sayede çoq şeyler qazandım!», diyerek sevine edi. Vaziyet tersine dönüp, bir ziyanğa oğrağanda ise, «Başıma bir taqım yamanlıqlar keldi!..» kibi sözlernen dinden çıqa edi).
 12. O, Allaһnı bıraqıp, ozüne ne faydası, ne de zararı toqunacaq şeylerge yalvarır. Bu, (haqtan) bus-butün uzaq olğan sapıqlıqnıñ tam ozüdir.
@@ -3860,7 +3893,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 24. Ve olar sözniñ eñ guzeline yoneltilgen, maqtavğa lâyıq Allaһnıñ yoluna iriştirilgenlerdir. (Tefsircilerniñ çoquna kore, ayetteki «sözniñ eñ guzeli» ifadesiniñ manası Kelime-i Tevhid ya da Kelime-i Şeadettir).
 25. İnkâr etkenler, Allaһnıñ yolundan ve -yerli, tıştan kelgen- butün insanlar içün bir (qıble ya da mabed) qıldığımız Mescid-i Haramdan (insanlarnı) çetleştirmege qalqqanlar (şunı bilmeliler ki) kim o yerde (boyle) zulum ile haqtan sapmaq istese, oña accı azaptan tattırırmız.
 26. Bir zamanlar İbrahimge Beytullahnıñ yerini azırlağan ve (oña boyle degen edik): Maña iç bir şeyni ortaq tutma; tavaf etkenler, ayaqta ibadet etkenler, ruku ve secdege barğanlar içün evimizni temiz tut.
-27-28. İnsanlar arasında hacnı ilân et ki, ister yayan olaraq, ister nice uzaq yoldan kelgen yorğun-arğın develer ustünde, ozlerine ait bir taqım faydalarnı yaqından korüvleri, Allaһnıñ ozlerine rızıq olaraq bergen qurbanlıq ayvanları uzerine belli kunlerde Allaһnıñ ismini añuvları (qurban çaluvları içün) saña (Kâbege) kelsinler. Artıq ondan em ozüñiz aşañ, em de yoksulğa, faqırğa aşatıñ. (Tefsircilerge kore, ayetniñ birinci cumlesinde işaret etilgen faydalar, em dünyaviy, em de uhreviydir. Dünyaviyleri, hacnıñ insan uzerinde meydanğa ketirgen ahlâqiy tesirlerinen ticariy ve içtimaiy faydalardır. Uhreviyleri ise, Allaһnıñ hoşnutlığı ve Onıñ mu’minlerge olğan afu ve mağfiretidir. Musulmanlarğa, Allaһnıñ ismini añaraq, qurban çaluvları emir etilgen «belli kunler»ge «eyyam-ı nahr - qurban çaluv kunleri» denilir ki, bular - Zilhicce ayınıñ 10, 11 ve 12-nci kunleridir).
+27. İnsanlar arasında hacnı ilân et ki, ister yayan olaraq, ister nice uzaq yoldan kelgen yorğun-arğın develer ustünde, ozlerine ait bir taqım faydalarnı yaqından korüvleri, Allaһnıñ ozlerine rızıq olaraq bergen qurbanlıq ayvanları uzerine belli kunlerde Allaһnıñ ismini añuvları (qurban çaluvları içün) saña (Kâbege) kelsinler. Artıq ondan em ozüñiz aşañ, em de yoksulğa, faqırğa aşatıñ. (Tefsircilerge kore, ayetniñ birinci cumlesinde işaret etilgen faydalar, em dünyaviy, em de uhreviydir. Dünyaviyleri, hacnıñ insan uzerinde meydanğa ketirgen ahlâqiy tesirlerinen ticariy ve içtimaiy faydalardır. Uhreviyleri ise, Allaһnıñ hoşnutlığı ve Onıñ mu’minlerge olğan afu ve mağfiretidir. Musulmanlarğa, Allaһnıñ ismini añaraq, qurban çaluvları emir etilgen «belli kunler»ge «eyyam-ı nahr - qurban çaluv kunleri» denilir ki, bular - Zilhicce ayınıñ 10, 11 ve 12-nci kunleridir).
+28. [27 ayetine baq.]
 
 29. Soñra kir-paslardan temizlensinler; adaqalarını yerine ketirsinler ve o Eski Evni (Kâbeni) tavaf etsinler. (Hacılarnıñ kir-paslarını temizlevleri demekniñ manası - esasen tıraş oluvları, tırnaqlarını kesüvleri, qoltuq astlarını ve qasıqlarını temizlevleri ve umumen, butün bedeniy kirlerden arınuvlarıdır. «Eski Evni Tavaf etsinler» demek - «Kâbeniñ etrafını dolaşsınlar» demektir ki, bir kere dolaşmağa bir «şavt» denilir. Tavaf yedi şavttan ibarettir. Bulardan dörtü farz, uçü vaciptir. Bu, hacnıñ ruknlerinden olğan tavaftır ve oña «tavaf-ı ziyaret» denilir. Ayrıca, bir de «tavaf-ı quduum» ve «tavaf-ı sader» bardır ki, birincisi, Kâbege ilki barılğanda yapılğan qavuşuv tavafı, digeri de ayırılğanda yapılğan veda tavafıdır).
 30. Vaziyet boyle. Er kim Allaһnıñ emir ve yasaqlarına sayğı kosterse, bu, Rabbiñniñ qatında onıñ içün daa hayırlıdır. (Aram olğanı) sizge oqulğanlardan başqa, qalğan ayvanlar sizge elâl qılındı. O alda, pislikten, putlardan saqınıñ; yalan sözden saqınıñ.
@@ -3875,7 +3909,9 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 39. Olarnen cenk açılğanlarğa (mu’minlerge), zulumğa oğrağanları sebebinen, (cenk mezvusında) izin berildi. Şube yoq ki, Allaһ olarğa yardımğa mıtlaqa qadirdir. (Mekkeli muşrikler Az. Peyğamberge ve arqadaşlarına, hususen, faqır ve kimsesiz musulmanlarğa çeşit eskence ve basqıncılıqlar yapa ve bu mazlum insanlar, Az. Peyğamberge kelerek, vaziyetten şikâyet ete ediler. Resulullah (s.a.) ise, daa cenk izni çıqmağanını ayta, şimdilik sabırlı ve qaviy oluvlarını ogütley edi. Abdullah b. Abbasnıñ rivayetine kore, yuqarıdaki ayetnen ilk kere cenkke izin berilgen).
 40. Olar, başqa degil, tek «Rabbimiz Allaһtır» degenleri içün, aqsız yerde yurtlarından çıqarılğan kimselerdir. Eger Allaһ, bir qısım insanlarnı (fenalıqlarını) diger bir qısmınen def etip, ogüni almasa edi, mıtlaqa, aralarında Allaһnıñ ismi çoq añılğan manastırler, kilseler, havralar ve mescitler yıqılıp keter edi. Allaһ ozüne (oz dinine) yardım etkenlerge muaqqaq surette yardım eter. İç şubesiz, Allaһ kuçlüdir, ğaliptir.
 41. Olar (o mu’minler) ki, eger ozlerine yer yuzünde iqtidar berir isek, namaznı qılar, zekâtnı berirler, yahşılıqnı emir eter ve yamanlıqtan uzaqlaştırırlar. İşleriniñ soñu Allaһqa barır. (Bu ayet, hususen, iqtidarnı elde etken musulmanlarnışç ayatında nizam ve qararlılıq kerekligini ifade etmekte. Ayrıca namaz ve zekât vazifeleriniñ aman artından «yahşılıqnı emir etmek ve fenalıqtan uzaqlaştırmaq» vazifesine yer berilüvi, içtimaiy ahlâq ve nizamnı qorçalap, keliştirgen yolbaşçılarnışç ustün degerini ifade etmekte).
-42-44. (Resulım!) Eger olar (inkârcılar) seni yalancığa çıqara iseler, (şunı bilki) olardan evel Nuһnıñ qavmı, Aad, Semuud, İbrahimniñ qavmı, Luutnıñ qavmı ve Medyen halqı da (peyğamberlerini) yalanladılar. Musa da yalanlanğan edi. İşte, men o kâfirlerge muddet berdim, soñ olarnı yaqaladım. Nasıl oldı menim olarnı red etüvim (cezalandırıvum)! (Bu yerde «menim red etüvim» şeklinde tercime etilgen «Nekiiri»ge tefsirciler tarafından şu mana berilgen: «Nimetni qulfetke, ayatnı elâketke ve ma’murlikni yoqsullıqqa çevirüvim»).
+42. (Resulım!) Eger olar (inkârcılar) seni yalancığa çıqara iseler, (şunı bilki) olardan evel Nuһnıñ qavmı, Aad, Semuud, İbrahimniñ qavmı, Luutnıñ qavmı ve Medyen halqı da (peyğamberlerini) yalanladılar. Musa da yalanlanğan edi. İşte, men o kâfirlerge muddet berdim, soñ olarnı yaqaladım. Nasıl oldı menim olarnı red etüvim (cezalandırıvum)! (Bu yerde «menim red etüvim» şeklinde tercime etilgen «Nekiiri»ge tefsirciler tarafından şu mana berilgen: «Nimetni qulfetke, ayatnı elâketke ve ma’murlikni yoqsullıqqa çevirüvim»).
+43. [42 ayetine baq.]
+44. [42 ayetine baq.]
 45. Bunıñ kibi, bir çoq memleket bar edi ki, o memleket (halqı) zulum etmekte eken, biz olarnı elâk ettik. Şimdi o ulkelerde divarlar, (çokken) tavanlarnıñ ustüne yıqılğandır. Nice qullanılmaz alğa kelyen quyular ve (boş qalğan) buyuk saraylar bardır.
 46. (Saña qarşı çıqqanlar) iç yer yuzünde dolaşmadılarmı? Zira, dolaşsa ediler, elbette tüşünecek qalpleri ve eşitecek qulaqları olur edi. Amma, aqiqat şu ki, kozler kor olmaz; lâkin kokrekler içindeki qalpler kor olur.
 
@@ -4007,7 +4043,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 43. İç bir ummet, ecelini ne ogge ala bilir, ne de artqa çeke bilir.
 
 44. Soñra biz ardı-ardından peyğamberlerimizni yolladıq. Er angi bir ummetke peyğamberleriniñ kelgen er defasında, olar bu peyğamberni yalanladılar; biz de olarnı bir-biri artından yoq ettik ve olarnı ibret ikâyelerine çevirdik. Artıq iman etmegen qavmnıñ canı ceennemge!
-45-46. Soñra ayetlerimiznen ve ap-açıq bir ferman ile Musa ve qardaşı Harunnı Fıravunğa ve ileri kelgenlerine yolladıq. Olar ise, kibrge qapıldılar. Ve buyuklik taslağan bir qavm oldılar.
+45. Soñra ayetlerimiznen ve ap-açıq bir ferman ile Musa ve qardaşı Harunnı Fıravunğa ve ileri kelgenlerine yolladıq. Olar ise, kibrge qapıldılar. Ve buyuklik taslağan bir qavm oldılar.
+46. [45 ayetine baq.]
 
 47. Bu sebepten, dediler ki: Qavmları bizge hızmetkârlıq eterken, biz kibi bu eki adamğa inanırmızmı?
 
@@ -4024,7 +4061,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 53. Lâkin, insanlar oz aralarındaki işlerini parça-parça boldiler. Er top ozlerinde olğan (fikr ve areket) ile sevinip, ğururlanmaqta.
 
 54. Şimdi sen olarnı bir zamanğa qadar ğaflet ve sapıqlıqlarınen yuz-yuzge qaldır!
-57-58. Belleylermi ki, olarğa berdigimiz servet ve oğullarnen olarğa faydalar yapmaq içün ğayret etmektemiz? Yoq, olar işniñ farqına baralmaylar.
+57. Belleylermi ki, olarğa berdigimiz servet ve oğullarnen olarğa faydalar yapmaq içün ğayret etmektemiz? Yoq, olar işniñ farqına baralmaylar.
+58. [57 ayetine baq.]
 
 59. Rabblerine olğan sayğıdan tolayı, fenalıqtan saqınğanlar;
 
@@ -4043,7 +4081,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 66. Eñ soñunda, ferah ve bolluq içinde olğanlarını sıqıntığa (ya da azapqa) oğratqanımızda, baqarsıñ ki, olar feryad qoparırlar.
 
 67. Boşuna sızlanmañ bugun! Zira, bizden yardım koralmaycaqsıñız!
-72-73. Çünki, ayetlerim sizge oqulır edi de, siz, buña qarşı kibirlenerek, arqañıznı çevirir, geceleyin (Kâbeniñ etrafında toplanaraq) sandıraqlay ediñiz.
+72. Çünki, ayetlerim sizge oqulır edi de, siz, buña qarşı kibirlenerek, arqañıznı çevirir, geceleyin (Kâbeniñ etrafında toplanaraq) sandıraqlay ediñiz.
+73. [72 ayetine baq.]
 
 74. Olar bu sözni (Qur’annı) iç tüşünmedilermi? Yoqsa, olarğa daa evel keçmişteki atalarına kelmegen bir şey keldimi?
 
@@ -4094,7 +4133,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 97. Allaһ evlât edinmegendir; Onıñnen beraber iç bir tañrı da yoqtır. Ask taqdirde, er tañrı ozüniñ yaratqanını yoneltir ve idare eter ve mıtlaqa olardan biri digerinden ustün kelir edi. Allaһ, olarnıñ (muşriklerniñ) yaqıştırğan şeylerinden uzaqtır. (Korülgeni kibi, bu ayetnen birden ziyade tañrı inançı, kâinatnıñ yaratılışı ve çalşuvındaki tertipke ters olğanı ortağa çıqa. Buña kore, kâinatnıñ barlıq ve tertibindeki mukemellik, Allaһnıñ barlığı ve birliginiñ bir ifadesi ve delilidir).
 
 98. Allaһ ğaybnı da, şeadetni de bilicidir. O, muşriklerniñ ortaq qoşqan şeylerinden çoq yuce ve uzaqtır. (Ğayb ve şeadet, eki ayrı bilgi meydanını ifade eter. Ğayb meydanına kirgen malümat, aqıl ve duyğu azalarınıñ idrak kuçüni aşqan, ancaq bir qısım qabiliyetlerniñ bir olçüde seze bilgenleri, bunıñnen beraber, eñ doğru bir şekilde vahiy yolunen bizge kelip yetken bilgilerdir. Esasen ğayb meydanı, bilgiden ziyade, bir iman meydanıdır. Bunıñ kibi, Baqara suresiniñ başında da işaret etilgeni kibi, «Aamentuu» de ifadesini tapqan iman esasları aqqındaki bilgilerimiz - bu çeşit bilgilerdir. Şeadet ise, ğaybnıñ aksine, tecribe ve muşaade saasına kirgen duyğular - alem ile bu alemge ait eşya ve vaqialarnı ifade eter).
-105-106. (Resulım!) De ki: «Rabbim! Eger olarğa yoneltilgen tehditni (dünyaviy sıqıntını ve uhreviy azapnı) mıtlaqa maña kosterecek iseñ, bu vaziyette meni zalımlar toplulığı içinde bulundırma, Rabbim!»
+105. (Resulım!) De ki: «Rabbim! Eger olarğa yoneltilgen tehditni (dünyaviy sıqıntını ve uhreviy azapnı) mıtlaqa maña kosterecek iseñ, bu vaziyette meni zalımlar toplulığı içinde bulundırma, Rabbim!»
+106. [105 ayetine baq.]
 
 107. Biz, olarğa yoneltken tehdidimizni saña kostermege, elbette ki qadirmiz.
 
@@ -4160,8 +4200,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 4. Namuslı qadınlarğa zina iftirasında bulunıp, soñ (buña isbat içün) dört şaat ketiralmağanlarğa seksener sopa urıñ ve artıq olarnıñ şaatlığını iç bir vaqıt qabul etmeñ. Olar tamamen gunahkârlardır.
 
 5. Ancaq, bundan soñ tövbe etip, islâh olğanlar istisnadır. Allaһ çoq bağışlayıcı ve merhametlidir.
-6-7. Qadınlarına zina iftirasında bulunıp da, ozlerinden başqa şaatları olmağanlarğa kelgende, olarnıñ er biriniñ şaatlığı, ozleriniñ doğru söylegenlerden olğanlarına dair dört defa Allaһ adına yemin eterek, şaatlıq etüvi, beşinci defa da, eger yalan söylegenlerden ise, Allaһnıñ lânetiniñ oz uzerine oluvını tilevidir.
-8-9. Qadınnıñ, qocası yalan söylegenlerden olğanına dair dört defa Allaһ adına yemin ve şaatlıq etüvi, beşinci defa da, eger (qocası) doğru söylegenlerden ise, Allaһnıñ ğadabınıñ oz uzerine alğanını tilevi ondan cezanı saqıt eter. (Soñki dört ayetteki tedbiqat, İslâm aile uquqında «liaan» termini ile ifade etilir. Qadınnnıñ zina qabaatı işlegenini idda etken bir qoca, eger iddasını isbat etmek içün dört şaat ketirip olamasa, qadın ve qoca hakim uzurına celp etilerek, liaanğa davet etilir. Er eki taraf da doğrulıqlarını bu ifadelernen beyan etseler, erkek iftira (kazf) cezasından, qadın da, zina cezasından qurtulır, ve bu şekilde, evlilik bağı soñuna yeter).
+6. Qadınlarına zina iftirasında bulunıp da, ozlerinden başqa şaatları olmağanlarğa kelgende, olarnıñ er biriniñ şaatlığı, ozleriniñ doğru söylegenlerden olğanlarına dair dört defa Allaһ adına yemin eterek, şaatlıq etüvi, beşinci defa da, eger yalan söylegenlerden ise, Allaһnıñ lânetiniñ oz uzerine oluvını tilevidir.
+7. [6 ayetine baq.]
+8. Qadınnıñ, qocası yalan söylegenlerden olğanına dair dört defa Allaһ adına yemin ve şaatlıq etüvi, beşinci defa da, eger (qocası) doğru söylegenlerden ise, Allaһnıñ ğadabınıñ oz uzerine alğanını tilevi ondan cezanı saqıt eter. (Soñki dört ayetteki tedbiqat, İslâm aile uquqında «liaan» termini ile ifade etilir. Qadınnnıñ zina qabaatı işlegenini idda etken bir qoca, eger iddasını isbat etmek içün dört şaat ketirip olamasa, qadın ve qoca hakim uzurına celp etilerek, liaanğa davet etilir. Er eki taraf da doğrulıqlarını bu ifadelernen beyan etseler, erkek iftira (kazf) cezasından, qadın da, zina cezasından qurtulır, ve bu şekilde, evlilik bağı soñuna yeter).
+9. [8 ayetine baq.]
 
 10. Ya Allaһnıñ sizge bol lütfi ve merhameti olmasa edi ve Allaһ tövbelerni qabul etken uküm ve ikmet saibi olmasa edi (alıñız ne olur edi)!
 
@@ -4177,7 +4219,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 20. Ya siziñ ustüñizge Allaһnıñ lütf ve merhameti olmasa edi, Allaһ çoq şefqatlı ve merhametli olmasa edi (alıñız nice olur edi)!
 21. Ey, iman etkenler! Şeytannıñ adımlarını taqip etmeñ. Kim şeytannıñ adımlarını taqip etse, muaqqaq ki o, edepsizlikni (üz qızartıcı qabaatlarnı) ve fenalıqnı emir eter. Eger ustüñizde Allaһnıñ lütf ve merhameti olmasa edi, arañızdan iç bir kimse asla temizge çıqalmaz edi. Faqat Allaһ istegenini arındırır. Allaһ eşitir ve bilir.
 22. Arañızdan faziletli ve servet saibi kimseler aqarabağa, yoqsullarğa, Allaһ yolunda koç etkenlerge (mallarından) bermeyceklerine yemin etmesinler; bağışlasınlar; ferağat kostersinler. Allaһnıñ sizni bağışlavunı arzulamazsıñızmı? Allaһ çoq bağışlayıcıdır, çoq merhametlidir. (Az. Ayşege iftira etkenlerden biri de, Az. Ebu Bekirniñ, imayesini ve baqımını uzerine alğan Mıstah adlı bir adam edi. Bu adise uzerine, Az. Ebu Bekir bir daa bu adamğa maddiy yardımda bulunmaycağına dair yemin etti. İşte, tefsircilerge kore, yuqarıdaki ayette em Az. Ebu Bekir (r.a.)niñ faziletine işaret etile, em de oña ve başqa mu’minlerge Allaһ rizası içün yapıp kelgen yardımlarını kesmemeleri ogütlene).
-23-24. Namuslı, fenalıqlardan habersiz mu’min qadınlarğa zina iftirası yapqanlar, dünya ve ahirette lânetlengenlerdir. Yapqanlarına, tilleri, elleri ve ayaqlarınıñ aleyhlerinde şaatlıq etecek kunü, olar içün çoq buyuk bir azap bardır.
+23. Namuslı, fenalıqlardan habersiz mu’min qadınlarğa zina iftirası yapqanlar, dünya ve ahirette lânetlengenlerdir. Yapqanlarına, tilleri, elleri ve ayaqlarınıñ aleyhlerinde şaatlıq etecek kunü, olar içün çoq buyuk bir azap bardır.
+24. [23 ayetine baq.]
 25. O kunü Allaһ olarğa aqiqiy cezalarını tas-tamam berecek ve olar Allaһnıñ ap-açıq kerçek olğanını añlaycaqlar.
 26. Yaman qadınlar yaman erkeklerge, yaman erkekler ise, yaman qadınlarğa; temiz qadınlar temiz erkeklerge, temiz erkekler de, temiz qadınlarğa yaraşır. Bu soñkiler, (iftiiracılarnıñ) söylegenlerinden çoq uzaqtırlar. Olar içün bağışlav ve guzel bir rızıq bardır.
 27. Ey, iman etkenler! Oz eviñizden başqa evlerge, kelgeniñizni duydırıp (izin alıp), ev halqına selâm bermegence, kirmeñ. Bu siz içün daa yahşıdır; er alda (bunı) tüşünip añlarsıñız.
@@ -4244,7 +4287,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Bu sure Mekkede nazil olğan; sadece uç ayetiniñ (68-70) Medinede nazil olğanı aqqında bir rivayet bar. 77 ayetten ibaret. Sure adını ilk ayette keçken «el-Furqan» kelimesinden alğan. «Furqan» - haqnı batıldan ayırdı etken demektir ve Qur’an-ı Kerimniñ isimlerindendir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-2. Alemlerge tenbiyeci olsun diye, qulı Muһammedge Furqannı endirgen, koklerniñ ve yerniñ ukümranlığını ozüne ait olğan, iç bala edinmegen, mulkinde ortağı olmağan, er şeyni yaratıp, oña bir nizam bergen ve taqdirini tayin etken Allaһ yuceler yucesidir.
+1. Alemlerge tenbiyeci olsun diye, qulı Muһammedge Furqannı endirgen, koklerniñ ve yerniñ ukümranlığını ozüne ait olğan, iç bala edinmegen, mulkinde ortağı olmağan, er şeyni yaratıp, oña bir nizam bergen ve taqdirini tayin etken Allaһ yuceler yucesidir.
+2. [1 ayetine baq.]
 3. (Kâfirler) Onı (Allaһnı) bıraqıp, iç bir şey yaratalmağan, aksine ozleri yaratılğan olup, ozlerine bile ne zarar, ne de fayda bere bilgen, oldürmege ve ayat bermege ve olülerni ğayrıdan tiriltip, qabirden çıqarmağa kuçleri yetmegen tañrılar edindiler.
 4. İnkâr etkenler: Bu (Qur’an), olsa-olsa onıñ (Muһammedniñ) uydırğan bir yalanıdır, başqa bir toplum da, bu hususta oña yardım etkendir, dediler. Boylece, olar iç şubesiz, aqsızlıqqa ve iftrağa baş urğan ediler.
 5. Kene olar dediler ki: (Bu ayetler), onıñ, başqasına yazdırıp da, ozüne saba-aqşam oqunmaqta olğan evelkilerge ait masallardır. (Bu ayette, bazı kâfirlerniñ, Qur’an ayetleriniñ evelki qavmlarnıñ masallarından ibaret olğanı, Az.Peyğamberniñ bularnı başqalarına yazdırğanı ve ezberlevi içün oña saba-aqşam oqulğanı aqqında söz etilmekte. Tefsirlerde umumen ustün korülgen bu mana esasqa alınsa, ayetniñ diqqat çekici bir hususqa işaret etkeni korüle ki, bu, Az.Peyğamber ummiy olğanınıñ yani oqumağa-yazmağa bilmegeniniñ, inkârcılarğa kore de, bilinmekte ve qabul etilmekte oluvıdır).
@@ -4317,7 +4361,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 47. Siz içün geceni ortü, yuqunı istiraat yapqan, kundüzni de dağılıp, çaluşuv (zamanı) yapqan Odır.
 
-48-49. Ruzgârlarnı rahmetiniñ ogünde mujdeci olaraq yollağan Odır. Biz olü topraqqa can bermek, yaratqan nice ayvanlarımızğa ve nice insanlarğa suv bermek içün, kokten ter-temiz suv endirdik.
+48. Ruzgârlarnı rahmetiniñ ogünde mujdeci olaraq yollağan Odır. Biz olü topraqqa can bermek, yaratqan nice ayvanlarımızğa ve nice insanlarğa suv bermek içün, kokten ter-temiz suv endirdik.
+49. [48 ayetine baq.]
 50. Ant olsun, bunı insanlarnıñ ogüt aluvları içün, aralarında çeşit şekillerde añlatqandırmız; amma insanlarnıñ çoqu ille nankorlik etip tirelgendirler. (Bu ayette «ilâhiy qudretniñ eserleriniñ ve insanlarğa berilgen nimetlerniñ bir çoq peyğamberniñ tilinden defalarca ve çeşit-çeşit añlatılğanını»» ifade etmek uzre, yuqaradaki şekilde mana bermek mumkün olğanı kibi, «suvnı evirip-çevirip, çeşit yerlerge türlü-türlü yağmur yağdırdıq» tarzında bir mana da berile bilir).
 51. (Resulım!) Eger istesek edi, elbette er ulkege bir tenbiyeci (peyğamber) yollar edik.
 52. (Beynelmilel terbiyecilik vazifesini faqat saña berdik). O alda, kâfirlerge boyun egme ve bunıñnen (Qur’annen) olarğa qarşı bar kuçüñnen buyuk bir kureş yap!
@@ -4363,7 +4408,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 7. Yer yuzüne bir baqmazlarmı! O yerde er guzel çiftten nice osümlikler yetiştirdik.
 8. Şubesiz, bularda (Allaһnıñ qudretine) bir nişane bardır; amma çoqu iman etmezler.
 9. Şube yoq ki, Rabbiñ mutlaq ğalip ve bol merhamet saibidir.
-10-11. O zaman Rabbiñ Musağa: O zalımlar toplulığına, Fıravunnıñ qavmına bar. Alâ (başlarına kelecekten) saqınmaycaqlarmı olar? diye seslengen edi.
+10. O zaman Rabbiñ Musağa: O zalımlar toplulığına, Fıravunnıñ qavmına bar. Alâ (başlarına kelecekten) saqınmaycaqlarmı olar? diye seslengen edi.
+11. [10 ayetine baq.]
 12. Musa boyle dedi: Rabbim! Doğrusı, meni yalancılıqta qabaatlavlarından qorqam.
 13. (Bu vaziyette) içim sıqılır, tilim aylanmaz; onıñ içün Harunğa da elçilik ber.
 14. Olarnıñ maña iftira etken bir qabaatları da bar. Bundan otrü, meni oldirüvlerinden qorqam.
@@ -4418,7 +4464,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 53. «(Boyle eken) kesen-kes bizni opkelendirgendirler».
 
 54. «Biz ise, elbette uyanıq (ve birlik) bir cemaatmız», (dey ve dedirte edi).
-55-56. Amma (soñunda) biz olarnı (Fıravun ve qavmını), bağçalardan, çoqraqlardan, hazinelerden ve degerli bir yerden çıqardıq.
+55. Amma (soñunda) biz olarnı (Fıravun ve qavmını), bağçalardan, çoqraqlardan, hazinelerden ve degerli bir yerden çıqardıq.
+56. [55 ayetine baq.]
 
 57. Boylece, bularğa İsrail oğullarını mirasçı yaptıq.
 
@@ -4451,7 +4498,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 71. Yahut sizge fayda ya da zarar bere bilelermi?
 
 72. boyle cevap berdiler: Yoq, amma biz babalarımıznı boyle yapqan alda buldıq.
-73-74. İbrahim dedi ki: Yahşı, amma, ister siziñ, ister evelki atalarıñıznıñ; nege tabınğanıñıznı (biraz olsa da) tüşündiñizmi?
+73. İbrahim dedi ki: Yahşı, amma, ister siziñ, ister evelki atalarıñıznıñ; nege tabınğanıñıznı (biraz olsa da) tüşündiñizmi?
+74. [73 ayetine baq.]
 
 75. Yahşı biliñ ki, olar menim duşmanımdır; Ancaq alemlerniñ Rabbi (menim dostumdır).
 
@@ -4482,8 +4530,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 88. (O kunü) cennet taqva saiplerine yaqlaştırılır.
 
 89. Ceennem de adden aşqanlarğa ap-açıq kosterilir.
-90-91. Olarğa: Allaһtan ğayrı tabınğalarıñız qana, nerede? Sizge yardım ete bilelermi ya da ozlerine (olsun) yardımları toqunamı? denilir.
-92-93. Artıq olar, o adden aşqanlar ve İblis orduları, toptan o yerge fırlatılıp (ceennemge) atılırlar.
+90. Olarğa: Allaһtan ğayrı tabınğalarıñız qana, nerede? Sizge yardım ete bilelermi ya da ozlerine (olsun) yardımları toqunamı? denilir.
+91. [90 ayetine baq.]
+92. Artıq olar, o adden aşqanlar ve İblis orduları, toptan o yerge fırlatılıp (ceennemge) atılırlar.
+93. [92 ayetine baq.]
 
 94. O yerde bir-birilerinen çekişerek, boyle derler:
 
@@ -4492,7 +4542,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 96. Çünki, biz sizni alemlerniñ Rabbinen bir tuta edik.
 
 97. Bizni, ancaq o gunahkârlar saptırdı.
-98-99. Şimdi artıq bizim ne şefaatçılarımız bar, ne de yaqın bir dostumız.
+98. Şimdi artıq bizim ne şefaatçılarımız bar, ne de yaqın bir dostumız.
+99. [98 ayetine baq.]
 
 100. Ah, keşke biz içün (dünyağa) bir qaytuv daa olsa da, mu’minlerden olsaq!
 
@@ -4551,7 +4602,9 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 128. Yaqalağan vaqtıñızda zorbacılar kibi yaqalaysızmı?
 129. Artıq Allaһtan qorquñ ve maña itaat etiñ.
 
-130-132. Bilgen şeyleriñizni sizge bergen, sizge mallar, oğullar, bağlar, çoqraqlar ihsan etken (Allaһqa qarşı kelüv)den saqınıñ.
+130. Bilgen şeyleriñizni sizge bergen, sizge mallar, oğullar, bağlar, çoqraqlar ihsan etken (Allaһqa qarşı kelüv)den saqınıñ.
+131. [130 ayetine baq.]
+132. [130 ayetine baq.]
 133. Doğrusı, siziñ aqqıñızda buyuk bir kunniñ azabından qorqam.
 134. (Olar) boyle dediler: Sen ogüt berseñ de, bermeseñ de, bizge ep birdir.
 135. Bu, evelkelerniñ adetlerinden başqa bir şey degil. (Bu yerde «adet (huluq)»tan kozde tutulğanı aqqında çeşit tefsirler bar: 1) Şu yapqanlarımız ya da uzerinde bulunğan şu dinimiz, ilk atalarımızdan berli devam etip kelgen şeydir. 2) Seniñ ketirgen şu diniñ ya da olgenden soñ tirilicegimiz iddası, keçmişlerniñ uydurmasıdır).
@@ -4563,11 +4616,14 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 141. Biliñ ki, men sizge yollanılğan işanılacaq bir elçiyim.
 142. Artıq Allaһqa qarşı kelüvden saqınıñ ve maña itaat etiñ.
 143. Buña nisbeten sizden iç bir aq istemeyim. Menim ecrimni berecek, ancaq alemlerniñ Rabbidir.
-144-146. Siz bu yerde bağçalarnıñ, çoqraqlarnıñ içinde; ekinlerniñ salqımları sarqqan hurmalıqlarnıñ arasında, işanç içinde bıraqılacaqsıñız (sanasıñız)mı?
+144. Siz bu yerde bağçalarnıñ, çoqraqlarnıñ içinde; ekinlerniñ salqımları sarqqan hurmalıqlarnıñ arasında, işanç içinde bıraqılacaqsıñız (sanasıñız)mı?
+145. [144 ayetine baq.]
+146. [144 ayetine baq.]
 147. (Boyle sanıp) dağlardan ustalıqnen evler yonıp (oyup yapmaqtasıñız). (Ayetteki «faarihin» kelimesine «ustalıqnen» manası berilgeni kibi, «maqtanaraq» manası da berile bilir).
 148. Artıq, Allaһtan qorquñ ve maña itaat etiñ.
 
-149-150. Yer yuzünde bozğuncılıq yapıp, tertip-tınçlıq bermegen adden aşqanlarnıñ emrine uymañ.
+149. Yer yuzünde bozğuncılıq yapıp, tertip-tınçlıq bermegen adden aşqanlarnıñ emrine uymañ.
+150. [149 ayetine baq.]
 151. Dediler ki: Sen, olsa-olsa yahşı tılsımlanğan birisiñ!
 152. Sen de ancaq bizim kibi bir insansıñ. Eger doğru söylegenlerden olsañ, aydı, bizge bir mucize ketir.
 153. Salih: İşte (mucize) bu ırğaçı devedir; onıñ bir suv içmek aqqı bardır, belli bir kunü içmek aqqı da siziñdir, dedi.
@@ -4589,7 +4645,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 161. Artıq Allaһqa qarşı kelüvden saqınıñ ve maña itaat etiñ.
 
 162. Buña qarşı sizden iç bir aq istemeyim. Menim ecrimni berecek ancaq alemlerniñ Rabbidir.
-163-164. Rabbimizniñ sizler içün yaratqan zevceleriñizni bıraqıp da, insanlar arasından erkeklerge yaqlaşasızmı? Doğrusı, siz sıñırnı aşqan (sapıq) bir qavmsıñız!
+163. Rabbimizniñ sizler içün yaratqan zevceleriñizni bıraqıp da, insanlar arasından erkeklerge yaqlaşasızmı? Doğrusı, siz sıñırnı aşqan (sapıq) bir qavmsıñız!
+164. [163 ayetine baq.]
 
 165. Olar boyle didiler: Ey, Luut! (Bu davadan) vazgeçmeseñ, yahşı bil ki, sürgün etilgenlerden olacaqsıñ!
 
@@ -4643,20 +4700,26 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 190. Muaqqaq ki, o, Qur’an alemlerniñ Rabbi endirgenidir.
 
-191-193. (Resulım!) Onı Ruhu’l-emin (Cebrail) tenbiyecilerden olursıñ diye, ap-açıq arap tilinen seniñ qalbiñye endirgendir.
+191. (Resulım!) Onı Ruhu’l-emin (Cebrail) tenbiyecilerden olursıñ diye, ap-açıq arap tilinen seniñ qalbiñye endirgendir.
+192. [191 ayetine baq.]
+193. [191 ayetine baq.]
 194. O, şubesiz, daa evelkelerniñ kitaplarında da bardır. (Qur’anıñ Az.Muһammedge endirilecegi, yahut da Qur’annıñ manası, ozü ve baş prinyiperi evelki haq kitaplarda da bar edi. Ayette er ekisi añlatılğan ola bilir).
 195. İsrail oğullarınıñ alimleri onı bilüvi, olar içün bir delil degilmi?
 
-196-197. Biz onı arapça bilmegenlerden birine endirse edik de, bunı olarğa o oqusa edi, kene oña iman etmez ediler.
-198-199. Onı gunahkârlarnıñ qalplerine boyle yerleştirdik. Onıñ içün açıq azapnı korgenge qadar oña iman etmezler. (Ayetteki «onı» zamiri «kufür»ge çevirilse» - oz gunahları sebebindensoqtığımız kufür oyle yerleşkendir ki, azapnı açıq kormeden, imanğa kelmezler» manası çıqar. Aynı zamir «Qur’an»ğa da çevirile bilir. O taqdirde «Qur’annı oz tillerinde endirdik, manasını qalplerine eyice soqtıq; kene de, azapnı kormeden, iman etmezler» manasıi kozde tutulğan ola bilir).
+196. Biz onı arapça bilmegenlerden birine endirse edik de, bunı olarğa o oqusa edi, kene oña iman etmez ediler.
+197. [196 ayetine baq.]
+198. Onı gunahkârlarnıñ qalplerine boyle yerleştirdik. Onıñ içün açıq azapnı korgenge qadar oña iman etmezler. (Ayetteki «onı» zamiri «kufür»ge çevirilse» - oz gunahları sebebindensoqtığımız kufür oyle yerleşkendir ki, azapnı açıq kormeden, imanğa kelmezler» manası çıqar. Aynı zamir «Qur’an»ğa da çevirile bilir. O taqdirde «Qur’annı oz tillerinde endirdik, manasını qalplerine eyice soqtıq; kene de, azapnı kormeden, iman etmezler» manasıi kozde tutulğan ola bilir).
+199. [198 ayetine baq.]
 200. İşte, bu (azap) olarğa, ozleri farqına barmadan, apansızdan kele qoyacaq.
 201. O zaman: Bizge (iman etüvimiz içün) muhlet berilirmi, aceba? deycekler.
 202. (Toqtamadan mucize talabınen) olar bizim azabımıznı çar-çabuk istey edilermi?
 
-203-204. Ne dersiñ! Eger biz olarnı yıllarnen yaşatıp, nimetlerden faydalandırsaq, soñra tehdit etilmekte olğan (azapları) başlarına kelse!
+203. Ne dersiñ! Eger biz olarnı yıllarnen yaşatıp, nimetlerden faydalandırsaq, soñra tehdit etilmekte olğan (azapları) başlarına kelse!
+204. [203 ayetine baq.]
 
 205. Faydalandırılğan nimetlerinden olarğa iç fayda toqunmaycaq.
-206-207. Biz iç bir memleketni, ogüt bermek uzre (ölladığımız) tenbiyecileri (peyğamberleri) olmadan, yoq etmegendirmiz. Biz zalım degilmiz.
+206. Biz iç bir memleketni, ogüt bermek uzre (ölladığımız) tenbiyecileri (peyğamberleri) olmadan, yoq etmegendirmiz. Biz zalım degilmiz.
+207. [206 ayetine baq.]
 208. Onı (Qur’annı) şeytanlar endirmedi. (Qur’annıñ şeytanlar tarafından kâhinlerge telqin etilgen şeylerden ibaret olğanını ileri sürgen bazı muşriklerniñ sözleri red etilmekte).
 209. Bu olarğa tüşmez; zaten, kuçleri de yetmez.
 210. Şubesiz, olar vahiy eşitüvden uzaq tutulğanlardır.
@@ -4672,7 +4735,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 220. Olar, gunahqa, iftirağa dalğan er kesniñ ustüne enerler.
 221. Bular, (şeytanlarğa) qulaq asarlar ve olarnıñ çoqu yalancılardır.
 222. Şairler(ge kelgende), olarğa da sapıqlar uyarlar.
-223-224. Olarnıñ er vadiyde başı boş dolaşqanlarını ve aqiqatta yapmağan şeylerini söylegenlerini kormediñmi?
+223. Olarnıñ er vadiyde başı boş dolaşqanlarını ve aqiqatta yapmağan şeylerini söylegenlerini kormediñmi?
+224. [223 ayetine baq.]
 225. Ancaq, iman etip, yahşı işler yapqanlar, Allaһnı çoq-çoq añğanlar ve aqsızlıqqa oğratılğanlarında ozlerini qorçalağanlar başqadır. Aqsızlıq etkenler, angi dönüşke,(angi aqibetke) döndürileceklerini yaqında bilecekler. (Sahih hadis kitaplarından yer alğan bir çoq hadisten de añlaşılğanı uzre, fenalıqnı ifade etmegen ve eyi maqsatnen qullanılğan şiir, yuqarıda yamanlanğan şiirden istisna etilgen. Bunıñ kibi, ashab-ı kiram arasında Resul Ekremniñ taqdirlerini qazanğan bir çoq şairler bar edi. Meselâ, Az.Peyğamberniñ Hassan bin Sabitke: «Muşriklerni (şiirleriñnen) hacv et, bil ki, muaqqaq Cebrail de sennen beraberdir», buyurğanı rivayet olunğan).
 
 # 27. en-NEML
@@ -4683,7 +4747,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Taa. Siin. Bular Qur’anıñ, (aqiqatlarnı) añlatqan Kitapnıñ ayetleridir.
 
-2-3. Namaznı qılğan, zekâtnı bergen ve ahiretke de kesen-kes iman etken mu’minler içün, bir hidayet reberi ve bir mujdedir.
+2. Namaznı qılğan, zekâtnı bergen ve ahiretke de kesen-kes iman etken mu’minler içün, bir hidayet reberi ve bir mujdedir.
+3. [2 ayetine baq.]
 4. Şubesiz, biz, ahiretke inanmağanlarnıñ işlerini ozlerine süslü kosterdik; o sebepten, bocalar turarlar.
 5. İşte, bular, azabı eñ ağır olğanlardıң; ahirette eñ çoq ziyanğa oğraycaqlar da olardıң.
 6. (Resulım!) Şubesiz ki, bu Qur’an, ikmet saibi ve er şeyni bilici Allaһ tarafından saña berilmekte.
@@ -4805,7 +4870,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 88. Sen dağlarnı korersiñ de, olarnı yerinde turğan sanarsıñ. Albuki, olar bulutlarnıñ yurmesi kibi yurmektedirler. (Bu,) er şeyni sap-sağlam yapqan Allaһnıñ sanatıdır. Şubesiz ki, O, yapqanlarıñızdan tamamınen haberdardır. (Bu ayet dünyanıñ sabit olmayıp, areket alında olğanına işaret etmekte. Dağlarnıñ areket etüvi demek, olarnıñ da uzerinde bulunğan yerniñ areket etüvi demektir).
 89. Kim yahşılıqnen (ilâhiy uzurğa) kelir ise, oña daa yahşısı berilir. Ve olar o kunü qorqudan emin olurlar.
 90. (Rabbleriniñ uzuruna) yamanlıqnen kelgen kimseler ise, yuzüqoyun ceennemge atılırlar. (Olarğa:) «Ancaq yapqanlarıñıznıñ qarşılığnı kormektesiñiz!», (denilir.).
-91-92. (De ki:) Men ancaq, bu şeerniñ (Mekkeniñ) Rabbine -ki O, bu yerni toqunılmaz yapqan- qullıq etmeknen emir olundım. Er şey de, zaten Oña aittir. Maña musulmanlardan oluvım ve Qur’an oquvım emir etildi. Artıq kim doğru yolğa kelse, yalıñız ozü içün kelgen olur; kim de sapsa, oña de ki: Men, sadece tenbiyecilerdenim.
+91. (De ki:) Men ancaq, bu şeerniñ (Mekkeniñ) Rabbine -ki O, bu yerni toqunılmaz yapqan- qullıq etmeknen emir olundım. Er şey de, zaten Oña aittir. Maña musulmanlardan oluvım ve Qur’an oquvım emir etildi. Artıq kim doğru yolğa kelse, yalıñız ozü içün kelgen olur; kim de sapsa, oña de ki: Men, sadece tenbiyecilerdenim.
+92. [91 ayetine baq.]
 93. Ve boyle de: Hamd Allaһqa mahsustır. O, ayetlerini sizge kosterecek, siz de olarnı korüp tanıycaqsıñız (amma artıq faydası olmaycaq). Rabbiñ, yapqanlarıñızdan habersiz degil.
 
 # 28. el-QASAS
@@ -5023,7 +5089,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Elif. Lâam. Miim.
 
-2-5. Rumlar, (araplar bulunğan bolgege) eñ yaqın bir yerde mağlubiyetke oğradılar. Albuki, olar, bu mağlubiyetlerinden soñ, bir qaç yıl içinde ğalip kelecekler. Eñ soñunda emir Allaһnıñdır. O kunü mu’minler de Allaһnıñ yardımınen sevinecekler. Allaһ tilegenine yardım eter. O, mutlaq kuç saibidir, çoq merhametlidir. (Ehl-i kitap olğan vizantiyalılar, mecusiy iranlılar tarafından mağlüp etilgen edi. Mekke muşrikleri bu neticege çoq sevindiler ve musulmanlarğa: «Eger Allaһ, siziñ degeniñiz kibi, yekâne ğalip olsa edi, ehl-i kitaptan olğan vizantiyalılarnı ustün ketirir edi», kibi qopayçoraca söylenmege başladılar. Bunıñ ustüne, Qur’an bir mucize olaraq, kelecekteki bir neticeni haber berdi: Uç ile doquz yıl içinde vizantiyalılar iranlılarnı yeñyecek ve mu’minler sevinecek ediler. Buña kore, 624-nci senesi vizantiyalılar İranğa kirdiler. Bundan başqa, aynı sene musulmanlar Bedirde muim zaferler elde ettiler).
+2. Rumlar, (araplar bulunğan bolgege) eñ yaqın bir yerde mağlubiyetke oğradılar. Albuki, olar, bu mağlubiyetlerinden soñ, bir qaç yıl içinde ğalip kelecekler. Eñ soñunda emir Allaһnıñdır. O kunü mu’minler de Allaһnıñ yardımınen sevinecekler. Allaһ tilegenine yardım eter. O, mutlaq kuç saibidir, çoq merhametlidir. (Ehl-i kitap olğan vizantiyalılar, mecusiy iranlılar tarafından mağlüp etilgen edi. Mekke muşrikleri bu neticege çoq sevindiler ve musulmanlarğa: «Eger Allaһ, siziñ degeniñiz kibi, yekâne ğalip olsa edi, ehl-i kitaptan olğan vizantiyalılarnı ustün ketirir edi», kibi qopayçoraca söylenmege başladılar. Bunıñ ustüne, Qur’an bir mucize olaraq, kelecekteki bir neticeni haber berdi: Uç ile doquz yıl içinde vizantiyalılar iranlılarnı yeñyecek ve mu’minler sevinecek ediler. Buña kore, 624-nci senesi vizantiyalılar İranğa kirdiler. Bundan başqa, aynı sene musulmanlar Bedirde muim zaferler elde ettiler).
+3. [2 ayetine baq.]
+4. [2 ayetine baq.]
+5. [2 ayetine baq.]
 6. (Bu) Allaһnıñ vadesidir. Allaһ vadesinden qaytmaz; faqat insanlarnıñ çoqu bilmezler. (Bunıñ kibi, Az. Ebu Bekir (r.a.) Allaһnıñ bu kerçek vadesine yurekten inanaraq, mecusiy iranlılarnıñ ğlabesine sevingen, muşriklerge: «Allaһ siziñ sevinçiñizni ziyade sürdirmeycek; çünki, O, bir qaç sene içinde rumlarnıñ tekrar ğalip keleceklerini haber berdi», degeninen, muşriklerden Ubey b. Halef baaske kirişmekni teklif etti. On deve uzerine ve uç yıl içinde rumlarnıñ ğalip kelip-kelmeycegi meselesinde baas ettiler. Az. Ebu Bekir, olıp-bitkenini Cenabı Peyğamberge añlatqanınen, Efendimiz (s.a.) «bid’(bir-qaç) sene» sözüniñ uç ile doquz sene arasındaki bir muddetni ifade etkenini, bu sebepnen, muddetni de, deve sayısını da uç qatına çıqaruvını teklif etti. Bu sefer doquz sene içinde rumlarnıñ ğalip kelecegine dair yuz deve uzerine baasnı yañıladılar. Aqiqaten, Tirmiziyniñ bildirgenine kore, Bedir cenkine doğru kelgen kunlerde rumlar iranlılarğa qarşı yapqan cenklerinde ğalip keldiler, boylece, Allaһnıñ vadesi yerine keldi; Az. Ebu Bekir de Ubey b. Halefniñ varislerinden qazanğan develerini alaraq, Peyğamberniñ tevsiyesine kore, faqırlarğa dağıttı).
 7. Olar dünya ayatınıñ korüngen yuzüni bilirler. Ahiretten ise, olar tamamen ğafildirler.
 8. Oz-ozlerine, Allaһnıñ, koklerni, yerni ve ekisinni arasında olğanlarnı, ancaq haq olaraq, muayen bir devir içün yaratqanını iç tüşünmedilermi? İnsanlarnıñ bir çoqu Rabblerine qavuşmaqnı, aqiqaten inkâr etmektedirler.
@@ -5037,7 +5106,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 14. Qıyamet qopacaq kunü, işte o kunü (mu’minlernen inkârcılar) birbirilerinden ayırılacaqlar.
 15. İman etip, yahşı işler yapqanlarğa kelgende, olar cennette nimetlerge ve sevinçke nail olacaqlar.
 16. İnkâr etkenler, ayetlerimizni ve olgenden soñ tirilüvni yalan sayğanlar ise, işte olar azapnen yuz-yuzge bıraqılacaqlar.
-17-18. Aydı, siz, aqşamğa qavuşqanıñızda (aqşam ve yatsı vaqtında), sabağa qavuşqanıñızda, kundüzniñ soñunda ve uyle vaqtına irişkeniñizde, Allaһnı tesbih etiñ (namaz qılıñ), ki, koklerde ve yerde hamd Oña mahsustır. (Abdullah b. Abbas (r.a.)dan kelgen rivayetke kore, bu ayet beş vaqıt namaznı içine almaqta. Bu sebepnen, ekseri alimler beş vaqıt namaznıñ Mekkede farz qılınğanı qanaatindedirler. Az. Peyğamber (s.a.) bir hadis-i şerifte buyuk savap qazanmaq istegenlerge bu ayetni oqumalarını tevsiye etken).
+17. Aydı, siz, aqşamğa qavuşqanıñızda (aqşam ve yatsı vaqtında), sabağa qavuşqanıñızda, kundüzniñ soñunda ve uyle vaqtına irişkeniñizde, Allaһnı tesbih etiñ (namaz qılıñ), ki, koklerde ve yerde hamd Oña mahsustır. (Abdullah b. Abbas (r.a.)dan kelgen rivayetke kore, bu ayet beş vaqıt namaznı içine almaqta. Bu sebepnen, ekseri alimler beş vaqıt namaznıñ Mekkede farz qılınğanı qanaatindedirler. Az. Peyğamber (s.a.) bir hadis-i şerifte buyuk savap qazanmaq istegenlerge bu ayetni oqumalarını tevsiye etken).
+18. [17 ayetine baq.]
 19. Olüden tirini, tiriden de olüni O çıqarmaqta; yer yuzüni olüminiñ artından O canlandırmaqta. İşte, siz de (qabirleriñizden) boyle çıqarılacaqsıñız. (Ayette olgenden soñ tirilüvniñ iç de oyle aqılğa sığmaz bir şey olmağanı, yer yuzündeki devamlı yañılanuv adiselerine işaret ile muim bir şekilde añlatılmaqta. Aqiqaten, qup-quru topraqtan yem-yeşil ekinler ve tereklerden meyvalar ve yapraqlar, çeşit renkte çeçekler çıqarğan ilâhiy qudret içün, yoqtan bar etken insannı tekrar tiriltüviniñ qıyın olacağı aqılğa sığmaz. Esapsız «baa’s ba’de’l-mevt» (olgenden soñ tirilüv) adisesine sahna olğan yer yuzüne bir kere ibret kozünen baqmaq bile, Allaһnıñ qudretini añlamaq içün yetecek).
 20. Sizni topraqtan yaratuvı, Onıñ (barlığınıñ) delillerindendir. Soñra siz, (er tarafqa) darqağan insanlar ola qoydıñız.
 21. Qavuşuvlarıñız içün sizge oz (cınsı)ñızdan zevceler yaratıp, arañızda sevgi ve merhamet peyda etüvi de, Onıñ (barlığınıñ) delillerindendir. Doğrusı, bunda yahşı tüşüngen bir qavm içün ibretler bar.
@@ -5126,7 +5196,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 (Bu ayet Nadir b. Haarisniñ davranışı uzerine nazil olğanı naql etile. Rivayetke kore, bu şahıs Acem masallarını beyan etken kitaplar satın alp ketirir ve mekkelilerge boyle der edi: «Muһammed sizge Aad ve Semuud qavmlarınıñ masallarını añlatmaqta; men de sizge Rum ve Acem masalları söyleycem». Boylece, bularnı oqur, muşriklerni eglendirir ve insanlarnı Qur’an diñlemekten uzaqlaştırmağa areket eter edi).
 7. Oña ayetlerimiz oqulğan vaqıtta, sanki bularnı eşitmegen, sanki qulaqları ağır kibi, buyuklik taslayaraq, yuz çevirir. Sen de oña elem berici bir azapnıñ mujdesini ber!
-8-9. Şubesiz, iman etip de, guzel davranışlarda bulunğanlar içün, içinde devamlı qalacaqları ve nimetleri bol cennetler bardır. Bu, Allaһnıñ bergen aqiqiy sözüdir. O, mutlaq kuç ve ikmet saibidir.
+8. Şubesiz, iman etip de, guzel davranışlarda bulunğanlar içün, içinde devamlı qalacaqları ve nimetleri bol cennetler bardır. Bu, Allaһnıñ bergen aqiqiy sözüdir. O, mutlaq kuç ve ikmet saibidir.
+9. [8 ayetine baq.]
 10. O, koklerni kore bilgeniñiz bir direk olmadan yarattı, sizni sarsmasın diye, yerge de buyuk dağlar qoydı. Ve o yerde er çeşit canlını darqattı. Biz kok yuzünden suv endirip, o yerde er faydalı ekinden çift-çift çıqardıq. (Koklerniñ korülgen bir diregi olmadan yaratıluvından, koklerni tutıp, olarnıñ bir-birine çarpışuvınıñ ogüni alğan korünmez maneviy bir direk olğanı manası çıqarılmaqta ve bu direk «çeküv qanunı»» olğanı bildirilmekte. Ayetniñ aynı qısmına «O, koklerni, -korgeniñiz uzre- direksiz yarattı»» ve «O, korüp turğanıñız koklerni direksiz yarattı»» manaları da berilgen. Ayetniñ soñki qısmında ise, ekinlerniñ erkek-ırğaçı yaratılğanı aqiqatına işaret etilmekte).
 11. İşte, bular Allaһnıñ yaratıqlarıdır. Şimdi (ey, kâfirler!) Ondan başqasınıñ ne yaratqanını maña kosteriñ! Yoq (kosteralmazlar)! Zalımlar açıq bir sapıqlıq içindedirler.
 12. Ant olsun, biz Luqmanğa: Allaһqa şukür et! diyerek ikmet berdik. Şukür etken ancaq ozü içün şukür eter. Nankorlik etken de, bilsin ki, Allaһ iç bir şeyge muhtac degil, er türlü maqtavğa lâyıqtır. (Soyu aqqındaki rivayetler, Luqmannıñ Eyup Peyğambernen aqraba olğanı aqqındadır. İslâm alimleriniñ eksiriyeti, onıñ peyğamber degil, ikmet saibi bir zat olğanı qanaatindedirler. «İkmet»niñ bir manası da, nazariy ilimlerni elde etkenden soñ, qazanılğan ruhiy pişkinlik, söz ve areketlerdeki tam noqtağa uruv melekesedir. Zemahşeriyniñ «Keşşaaf» adlı tefsir kitabında onıñ ikmetlerinden bir ornek olaraq şu vaqia naql etilgen: Bir kun Davut Peyğamber Luqmandan bir qoyun soyup, eñ yahşı yerinden eki parça et ketirmesini istey; Luqman da, oña soyğan ayvanınıñ tilini ve yuregini ketire. Bir qaç kun keçken soñ, Davut aleyhisselâm bu keresinde ayvannıñ eñ yaman yerinden eki parça et ketirmesini istey; o kene tilini ve yuregini ketire. Az. Davut bunıñ sebebini sorağanda, Luqman boyle dey: «Bu ekisi yahşı olsa, bulardan daa yahşısı; fena olsa, kene bulardan daa fenası olmaz»).
@@ -5403,7 +5474,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 50. De ki: Eger (haqtan) sapar isem, oz aleyhime sapqan olurım. Eger doğru yolnı tapsam, bu da, Rabbimniñ maña vahiy etken (Qur’anı) sayesindedir. Şubesiz, O, eşiticidir, yaqındır.
 
 51. (Resulım!) Telâşqa tüşken vaqıtlarında bir korseñ! Artıq qurtulış yoqtır, yaqın bir yerden yaqalanğanlar. (Kâfirlerniñ telâşqa tüşken vaqıtları, olüm anı, qabirden qalquv vaqtı, ya da Bedir cenki vaqtı olaraq añlaşılğan. Yaqın bir yerden yaqalanuvları da, topraqtan mezarğa, mahşerden ceennemge, Bedir sahrasından cenk meydanı olğan quyuğa alıp barıluvlarınen tefsir etilgen).
-52-53. (İş-işten keçken soñ:) «Oña inandıq», degen ediler, amma uzaq yerden (dünya ayatı kelip keçken soñ) imanğa qavuşmaq olar içün nasıl mumkün olur? Albuki, daa evel onı (haqnı) inkâr etken ediler. Uzaq bir yerden ğayb aqqında atıp-tuta ediler.
+52. (İş-işten keçken soñ:) «Oña inandıq», degen ediler, amma uzaq yerden (dünya ayatı kelip keçken soñ) imanğa qavuşmaq olar içün nasıl mumkün olur? Albuki, daa evel onı (haqnı) inkâr etken ediler. Uzaq bir yerden ğayb aqqında atıp-tuta ediler.
+53. [52 ayetine baq.]
 
 54. Artıq bundan evel olarğa beñzegenlerge yapılğanı kibi, ozlerine arzu etken şeyleri arasına perde çekilgendir. Şubesiz, olar ozlerini şubege tüşürgen bir qorqu içinde ediler. (İnkâr etkenlerniñ o kunü ahirette arzu etken şeyleri - o kunki imanlarınıñ faydasını kormek, boylece, ateşten qurtulmaq, cennetke qavuşmaq ya da tekrar dünyağa yollanılıp, yahşı davranışlarda bulunmaq kibi boş tileklerdir).
 
@@ -5448,7 +5520,9 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 17. Bu da Allaһqa kuç bir şey degil.
 
 18. İç bir gunahkâr başqasınıñ gunahını arqalamaz. Yukü (gunahı) ağır kelgen kimse onı taşımaq içün (başqasını) çağırsa, bu çağırğanı, aqrabası da olsa, onıñ yukünden bir şey arqalamaz. Sen ancaq kormeden, Rabblerinden qorqqanlarnı ve namaznı qılğanlarnı tenbiyeley bilesiñ. Kim temizlense, o oz menfaatına temizlengen olur. Dönüş Allaһqadır. (Bu ayet-i kerimede er kesniñ oz gunahından mesuliyetli olacağı, iç kimseniñ bir başqasınıñ gunahından mesuliyet çekmeycegi ifade etilmekte. Ancaq, yamanlıqta yol açqanlar em oz gunahlarından mesuliyetli, em de o gunahnı işlegenlerniñ yamanlığından mesuliyetli olur. Peyğamberimiz de: «Kim bir yaman adet çıqarsa, oña em onıñ gunahı, em de onı işelegenlerniñ gunahı bardır», buyurğan).
-19-21. Kornen korgen, qaranlıqnen aydınlıq, kolgenen sıcaq bir olmaz.
+19. Kornen korgen, qaranlıqnen aydınlıq, kolgenen sıcaq bir olmaz.
+20. [19 ayetine baq.]
+21. [19 ayetine baq.]
 
 22. Tirilernen olüler de bir olmaz. Şubesiz, Allaһ istegenine eşittirir. Sen qabirdekilerge eşittiralmazsıñ! (İman, bilgi, ikmet ve aqıl saibi, ahlâqlı, faziletli kimselernen bularnıñ taqip etken haq yolu ve nail olacaq uhreviy nimetlerinen imansız, bilgisiz, aqıl ve basiret, ahlâq ve faziletten eksik kimseler ve bularnıñ taqip etken batıl yolları ve oğraycaq uhreviy azapları kesen-kes bir korülmez).
 
@@ -5514,7 +5588,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 18. Elçiler boyle cevap berdiler: Siziñ oğursızlığıñız siznen beraberdir. Sizge nasiat etile ise, bu oğursızlıqmı? Doğrusı, siz çoqqa çapqan bir milletsiñiz.
 19. Derken, şeerniñ o bir ucundan bir adam çapıp keldi. «Ey, qavmım! dedi, bu elçilerge uyıñız!». 21. «Sizden bir ucret istemegenlerge uyıñ, çünki, olar hidayetke irişken kimselerdir». (Bu tevsiyesinden otrü, adamğa dönerek, «Vay, sen de olarnıñ dinindensiñmi», dediler. Bunıñ uzerine adam boyle dedi:) 22. «Maña ne olğan ki, meni yaratqanğa ibadet etmeycek ekenim! Albuki, epiñiz Oña döndürileceksiñiz». 23. «Ondan başqa tañrılar edineyimmi? O bol merhametli Allaһ, eger maña bir zarar tilese, olarnıñ (putlarnıñ) şefaatı maña iç bir fayda bermez, meni qurtaralmazlar». 24. «İşte, o zaman men açıqtan-açıq bir sapıqlıq içine komülgen olurım». 25. «Şubesiz, men Rabbiñizge inandım, meni diñleñ”.
 (Öldan azğanlar bu sözlerni diñlemeyip, o zatnı taş boranına tuttılar. Tam olecek esnasında oña:)
-20-21. Cennetke kir! denildi. «Keşke, dedi, Rabbimniñ meni bağışlağanını ve meni ikramğa nail olğanlardan etkenini qavmım bilse edi!».
+20. Cennetke kir! denildi. «Keşke, dedi, Rabbimniñ meni bağışlağanını ve meni ikramğa nail olğanlardan etkenini qavmım bilse edi!».
+21. [20 ayetine baq.]
 22. Biz ondan soñ, onıñ milletini elâk etmek içün, uzerlerine kokten iç bir ordu endirmedik ve endirecek de degil edik.
 23. (Olarnı elâk etken) qorqunç sesten başqa bir şey degil edi. Aman sönüp kettiler.
 24. Ne yazıq şu qullarğa! Olarğa bir peyğamber kelmey korsin, ille de onıñnen alay etmege qalqışırlar.
@@ -5629,7 +5704,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Adını, saf tutqan meleklerge işaret etken ilki ayetten alğan ve kâinattaki kuçlerden söz etken bu sure Mekkede engen, 182 ayettir. İlki uç ayette saf tutqan meleklerge, bulutlarnı yoneltken ve idare etken kuçke, zikr etken tilge yahut insanğa yemin etilerek, Allaһnıñ bir olğanı aqiqatı ortağa qoyulğan.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-4. Saf-saf tizilgenlerge, toplap sürgenlerge, zikr oquğanlarğa yemin eterim ki, ilâhıñız birdir. (Bu yerde «saf-saf tizilgenler, toplap sürgenler ve zikr oquğanlar»nıñ melekler olğanı aytılğan. Ayrıca, bularnıñ kok cisimleri, ruhlar, muqaddes ceverler, Qur’an ayetleri, alimler ve ğaziyler olğanını seylegenler de bar).
+1. Saf-saf tizilgenlerge, toplap sürgenlerge, zikr oquğanlarğa yemin eterim ki, ilâhıñız birdir. (Bu yerde «saf-saf tizilgenler, toplap sürgenler ve zikr oquğanlar»nıñ melekler olğanı aytılğan. Ayrıca, bularnıñ kok cisimleri, ruhlar, muqaddes ceverler, Qur’an ayetleri, alimler ve ğaziyler olğanını seylegenler de bar).
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
 
 5. O, em koklerniñ, yerniñ ve ekisi arasındakilerniñ Rabbi, em de şarqlarnıñ Rabbidir. (Yıl boyunca kuneş farqlı yerlerden doğğanı içün «şarqlar» denilgen).
 6. Biz yaqın kokni, bir süsnen, yıldızlarnen süsledik.
@@ -5649,12 +5727,15 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 20. (Vaziyetni korgen kâfirler:) Ey-vah bizge! Bu ceza kunüdir, derler.
 21. İşte, bu, yalanlalamış oldığıñız uküm kunüdir.
 
-22-24. (Allaһ meleklerine emir eter:) zalımlarnı, olarnıñ aynı yoldaki arqadaşlarını ve Allaһtan başqa tabınğan putlarını toplañ. Olarğa ceennemniñ yolunı kosteriñ. Olarnı tutuqlañ, çünki olar sorğuğa çekilecekler.
+22. (Allaһ meleklerine emir eter:) zalımlarnı, olarnıñ aynı yoldaki arqadaşlarını ve Allaһtan başqa tabınğan putlarını toplañ. Olarğa ceennemniñ yolunı kosteriñ. Olarnı tutuqlañ, çünki olar sorğuğa çekilecekler.
+23. [22 ayetine baq.]
+24. [22 ayetine baq.]
 25. Sizge ne oldı ki, bir-biriñizge yardım etmeysiñiz?
 26. Ebet, olar o kunü zilletnen boyun egecekler.
 27. (İşte, bu vaziyetke tüşken vaqıtlarında) olardan bir qısmı digerlerine yonelir, bir birilerini mesuliyetli tutmağa areket eterler.
 28. (Uyğanlar, uyğan adamlarına:) Siz bizge sağdan kelir ediñiz (doğrulardan korüne ediñiz) derler.
-29-30. (O birleri de:) «Aksine, derler, siz inanğan kimseler degil ediñiz. Bizim sizge zorlaycaq bir kuçümiz yoq. Faqat siz ozüñiz yoldan azğan bir toplum ediñiz». 31. «Şunıñ içün Rabbimizniñ ukmi bizge haq oldı. Biz (haq etken cezamıznı) mıtlaqa tatacaqmız». 32. «Biz sizni yoldan azdırdıq. Çünki, ozümiz de yoldan azğan edik».
+29. (O birleri de:) «Aksine, derler, siz inanğan kimseler degil ediñiz. Bizim sizge zorlaycaq bir kuçümiz yoq. Faqat siz ozüñiz yoldan azğan bir toplum ediñiz». 31. «Şunıñ içün Rabbimizniñ ukmi bizge haq oldı. Biz (haq etken cezamıznı) mıtlaqa tatacaqmız». 32. «Biz sizni yoldan azdırdıq. Çünki, ozümiz de yoldan azğan edik».
+30. [29 ayetine baq.]
 
 31. Şubesiz, o kunü olar azapta beraberdirler.
 32. İşte, biz suçlularğa boyle yaparmız.
@@ -5665,7 +5746,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 37. Çekecek cezañız yapayatqanıñızdan başqa bir şeyniñ cezası degil.
 38. (Bu azaptan) ancaq Allaһnıñ halis qulları istisna etilecek.
 
-39-42. Bular içün bilingen bir rızıq, çeşit meyvalar bar. Naim cennetlerinde qarşılıqlı kursiler uzerine qurulğan alda olarğa ikram etilir.
+39. Bular içün bilingen bir rızıq, çeşit meyvalar bar. Naim cennetlerinde qarşılıqlı kursiler uzerine qurulğan alda olarğa ikram etilir.
+40. [39 ayetine baq.]
+41. [39 ayetine baq.]
+42. [39 ayetine baq.]
 43. Olarğa çoqraqtan (toldurılğan) qadeler dolaştırılır.
 44. Şeffaftır, içkenlerge lezet berir.
 45. O içkide ne sersemletüv bardır, ne de onıñnen sarğoş olurlar.
@@ -5674,17 +5758,24 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 48. İşte, o vaqıtta bir-birilerine dönerek, (dünyadaki allarını) soraycaqlar.
 49. Aralarından biri: «Menim bir arqadaşım bar edi», der.
 (Rivayetke kore, bu zatnıñ arqadaşı, olgenden soñ tirilmekni inkâr etken birisi edi. Bazı tefsircilerge kore, bu arqadaş şeytandır. Bazılarına kore de, Keһf suresiniñ 32-nci ayetinde keçken eki adamdır.)
-50-51. Der edi ki: Sen de (tirilmege) inanğandansıñmı? Biz olüp, kemik, soñra da, topraq alına kelgen vaqtımızda (tiriltilip) cezalanacaqmızmi?
-52-53. (O zat, dünyada keçken adiseni bu şekilde añlatqandan soñ, Allaһ Taalâ o yerde olğanlarğa: «Siz işniñ aqiqatına vaqıfsıñızmı?» dedi. İşte, o vaqıtta söylegen baqtı, arqadaşını ceennemniñ ortasında kordi. 56-57. «Emin eterim ki, sen az daa meni de elâk etecek ediñ. Rabbimniñ nimeti olmasa edi, şimdi men de (ceennemge) ketirilgenlerden olur edim», dedi.
-58-61. Birinci olümimiz istisna, bir daa biz olmeycek ve bir daa azap kormeycek degilmizmi? Şubesiz bu, buyuk qurtulıştır. Çalışqanlar, boyle bir qurtulış içün çalışsın.
-62-63. Şimdi, ziyafet olaraq, cennet ehli içün añılğan bu nimetler daa hayırlımı, yoqsa, zaqqum teregimi! Biz onı (zaqqumnı) zalımlar içün bir fitne (imtian) yapıq. (Dünyada kâfirler bunı inkâr ettiler. Ateşniñ içinde terek olurmı , dediler. Ceennemde osken terek sözü keçkeninen: Ateş, terekni yaqar eken, ceennemde nasıl terek olur? diye alay etken ediler. Bu noqtai nazardan, bu söz olar içün bir imtian oldı. Bu sözden kozde tutulğan mananı añlamağanlarından, yahşıca kufürge tüştiler. Allaһ istese, ceennem yaqalmaycaq bir ağaçnı yarata bilecegini tüşünalmadılar).
+50. Der edi ki: Sen de (tirilmege) inanğandansıñmı? Biz olüp, kemik, soñra da, topraq alına kelgen vaqtımızda (tiriltilip) cezalanacaqmızmi?
+51. [50 ayetine baq.]
+52. (O zat, dünyada keçken adiseni bu şekilde añlatqandan soñ, Allaһ Taalâ o yerde olğanlarğa: «Siz işniñ aqiqatına vaqıfsıñızmı?» dedi. İşte, o vaqıtta söylegen baqtı, arqadaşını ceennemniñ ortasında kordi. 56-57. «Emin eterim ki, sen az daa meni de elâk etecek ediñ. Rabbimniñ nimeti olmasa edi, şimdi men de (ceennemge) ketirilgenlerden olur edim», dedi.
+53. [52 ayetine baq.]
+58. Birinci olümimiz istisna, bir daa biz olmeycek ve bir daa azap kormeycek degilmizmi? Şubesiz bu, buyuk qurtulıştır. Çalışqanlar, boyle bir qurtulış içün çalışsın.
+59. [58 ayetine baq.]
+60. [58 ayetine baq.]
+61. [58 ayetine baq.]
+62. Şimdi, ziyafet olaraq, cennet ehli içün añılğan bu nimetler daa hayırlımı, yoqsa, zaqqum teregimi! Biz onı (zaqqumnı) zalımlar içün bir fitne (imtian) yapıq. (Dünyada kâfirler bunı inkâr ettiler. Ateşniñ içinde terek olurmı , dediler. Ceennemde osken terek sözü keçkeninen: Ateş, terekni yaqar eken, ceennemde nasıl terek olur? diye alay etken ediler. Bu noqtai nazardan, bu söz olar içün bir imtian oldı. Bu sözden kozde tutulğan mananı añlamağanlarından, yahşıca kufürge tüştiler. Allaһ istese, ceennem yaqalmaycaq bir ağaçnı yarata bilecegini tüşünalmadılar).
+63. [62 ayetine baq.]
 64. Zira, o, ceennemniñ tübinde osüp yetişken bir terektir.
 65. Ğonceleri sanki şeytanlarnıñ başları kibidir.
 66. (Ceennemdekiler) Ondan aşarlar ve qarınlarını ondan toldurırlar.
 67. Soñra zaqqum yemeginiñ uzerine olar içün, qaynağan suv qarıştırılğan bir içki bardır.
 68. Soñ kesen-kes olarnıñ dönüşi çılğın ateşke olacaq.
 
-69-70. Şubesiz, olar atalarını dalâlette buldılar da, peşlerinden çapışıp kettiler.
+69. Şubesiz, olar atalarını dalâlette buldılar da, peşlerinden çapışıp kettiler.
+70. [69 ayetine baq.]
 71. Ant olsun ki, olardan evel eski milletlerniñ çoqu dalâletke tüşti.
 72. Şubesiz, biz olarğa tenbiyeciler yollağan edik.
 73. Tenbiyelengenlerniñ aqibeti ne olğanına bir baq!
@@ -5704,18 +5795,29 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 89. Men hastayım, dedi.
 90. Oña artlarını çevirip kettiler.
 
-91-92. Yavaştan putlarınıñ yanına bardı. (O yerge qoyulğan yemeklerni korgeninen:) Aşamaysıñızmı? Niçün qonuşmaysıñız? dedi.
+91. Yavaştan putlarınıñ yanına bardı. (O yerge qoyulğan yemeklerni korgeninen:) Aşamaysıñızmı? Niçün qonuşmaysıñız? dedi.
+92. [91 ayetine baq.]
 93. Bunıñ uzerine, yanlarına barıp, sağ elinen urdı (qırıp çıqtı).
 94. (Putperestler) çapışaraq, İbrahimge keldiler. (Niçün putlarnı qırğanını soradılar).
-95-96. İbrahim: Yonğan şeyleriñizge ibadet etersiñizmi! Albuki, sizni ve yapayatqanlarıñıznı Allaһ yarattı, dedi.
+95. İbrahim: Yonğan şeyleriñizge ibadet etersiñizmi! Albuki, sizni ve yapayatqanlarıñıznı Allaһ yarattı, dedi.
+96. [95 ayetine baq.]
 97. Onıñ içün bir bina yapıñ ve der’al onı ateşke atıñ! dediler.
 98. Boylece, oña bir tuzaq qurmaq istediler. Faqat biz olarnı alçaqlardan ettik.
-99-100. (O yerden qurtılğan İbrahim:) Men Rabbime ketem. O maña doğru yolnı kosterecek. Rabbim! Maña salihlerden olacaq bir evlât ber, dedi. (Boylece Az.İbrahim kufür diyarından icret eterek, Şamğa ketti).
+99. (O yerden qurtılğan İbrahim:) Men Rabbime ketem. O maña doğru yolnı kosterecek. Rabbim! Maña salihlerden olacaq bir evlât ber, dedi. (Boylece Az.İbrahim kufür diyarından icret eterek, Şamğa ketti).
+100. [99 ayetine baq.]
 101. İşte, o vaqıtta biz onı aqıllı (terbiyeli) bir oğulnen mujdeledik.
 102. Babasınen beraber yurüp kezecek çağına irişkeninen: Yavrucığım! Ruyada seni boğazlağanımnı korem; Bir tüşün, ne dersiñ? dedi. O da cevaben: Babacığım! Emir olunğan şeyiñni yap. İnşaallaaһ, meni sabır etkenlerden bulursıñ, dedi. (Bu ayetlerde Az. İsmailniñ qurban etilüvi añlatıla. Bu qıssa bir imtiandır. Bu imtian peyğamber olğan babanen oğlu arasında olıp keçken. Az. İbrahimniñ eki oğlu bar edi: İsmail ve İshaq. Kur’an-ı Kerimde qurban etilecek balanıñ isminden söz etilmey. Amma, tefsircilerniñ qanaatine kore, bu - İsmaildir. Zira, vaqia koçüvden soñ, aman olğan ki, o zaman İsmail bar edi. Ayrıca, vaqia Mekkede sadir olğan. Mekkege kelgen de İsmaildir. İbrahim (a.s.) gece tüşünde birisiniñ oña: «Allaһ saña oğluñnı boğazlamañnı emir etmekte», degenini eşitken, saba olğanınen, bunıñ şeytandanmı, Rahmandanmı ekeni hususında şeklengen, uç gece ruyanı tekrar-tekrar korgeninen, bunıñ Allaһtan ekenini añlağan).
-103-106. Er ekisi de teslim olup, onı yanı uzerine yatqızğanınen: Ey, İbrahim! Ruyañnı kerçekleştirdiñ. Biz yahşılarnı boyle mukâfatlandırırmız. Bu, aqiqaten, çoq açıq bir imtian, diye seslendik.
-107-111. Biz, oğluna bedel olaraq, oña buyuk bir qurban berdik. Arttan kelecekler arasında oña (yahşı bir nam) qaldırdıq: İbrahimge selâm! dedik. Biz yahşılarnı boyle mukâfatlandırırmız. Çünki, o, bizim mu’min qullarımızdandır. (Soñki Peyğamberniñ ummeti oña salâtu selâm oqur eken, Az. İbrahimni de añar, onı hayırnen hatırlarlar).
-112-113. Salihlerden bir peyğamber olaraq, oña (İbrahimge) İshaqnı mujdeledik. Ozüni ve İshaqnı mubarek (qutlı ve bereketli) eyledik. Lâkin, er ekisiniñ neslinden eyi kimseler olacağı kibi, ozüne açıqtan-açıq fenalıq etkenler de olacaq. (Bu cumleden olmaq uzre, İbrahimge çoq evlât berilgen, İshaqnıñ neslinden, Az. Yaqubdan başlap, bir çoq peyğamberler kelgen. Ekisiniñ neslinden yahşılarnen beraber, yamanlarnıñ da çıquvı, soy ve ırqnıñ hidayet ve dalâlette rolü olmağanını kosterir).
+103. Er ekisi de teslim olup, onı yanı uzerine yatqızğanınen: Ey, İbrahim! Ruyañnı kerçekleştirdiñ. Biz yahşılarnı boyle mukâfatlandırırmız. Bu, aqiqaten, çoq açıq bir imtian, diye seslendik.
+104. [103 ayetine baq.]
+105. [103 ayetine baq.]
+106. [103 ayetine baq.]
+107. Biz, oğluna bedel olaraq, oña buyuk bir qurban berdik. Arttan kelecekler arasında oña (yahşı bir nam) qaldırdıq: İbrahimge selâm! dedik. Biz yahşılarnı boyle mukâfatlandırırmız. Çünki, o, bizim mu’min qullarımızdandır. (Soñki Peyğamberniñ ummeti oña salâtu selâm oqur eken, Az. İbrahimni de añar, onı hayırnen hatırlarlar).
+108. [107 ayetine baq.]
+109. [107 ayetine baq.]
+110. [107 ayetine baq.]
+111. [107 ayetine baq.]
+112. Salihlerden bir peyğamber olaraq, oña (İbrahimge) İshaqnı mujdeledik. Ozüni ve İshaqnı mubarek (qutlı ve bereketli) eyledik. Lâkin, er ekisiniñ neslinden eyi kimseler olacağı kibi, ozüne açıqtan-açıq fenalıq etkenler de olacaq. (Bu cumleden olmaq uzre, İbrahimge çoq evlât berilgen, İshaqnıñ neslinden, Az. Yaqubdan başlap, bir çoq peyğamberler kelgen. Ekisiniñ neslinden yahşılarnen beraber, yamanlarnıñ da çıquvı, soy ve ırqnıñ hidayet ve dalâlette rolü olmağanını kosterir).
+113. [112 ayetine baq.]
 
 114. Ant olsun, biz Musağa da, Harunğa da nimetler berdik.
 115. Olarnı ve qavmlarını o buyuk sıqıntıdan qurtardıq.
@@ -5723,28 +5825,37 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 117. Er ekisine de ap-açıq añlaşılğan bir kitapnı (Tevratnı) berdik.
 118. Er ekisini de doğru yolğa qavuştırdıq.
 
-119-120. Soñundan kelgenler arasında Musa ve Harunğa selâm olsun, diye (yahşı bir nam) qaldırdıq.
+119. Soñundan kelgenler arasında Musa ve Harunğa selâm olsun, diye (yahşı bir nam) qaldırdıq.
+120. [119 ayetine baq.]
 121. Doğrusı, biz yahşılarnı boyle mukâfatlandırırmız.
 122. Şubesiz, ekisi de mu’min qullarımızdan edi.
 123. İlâs da, şube yoq ki, peyğamberlerden edi.
 
-124-126. (İlâs) milletini: (Allaһqa qarşı kelüvden) saqınmazsıñızmı? Yaratqanlarnıñ eñ eyisi, siziñ de Rabbiñiz, sizden evel kelgen atalarıñıznıñ da Rabbi olğan Allaһnı bıraqıp da, Ba’lge tabınırsıñızmı? degen edi. (Ba’l - Şamda Bek adlı şeer halqı tabınğan altın putnıñ adı edi. Şimdi bu yerge Ba’lebek denilmekte).
-127-128. Bunıñ uzerine, İlâsnı yalanladılar. Şunıñ içün, Allaһnıñ ihlâslı qulları istisna; olarnıñ episi (ceennemge alıp barılacaqlar).
-129-130. Soñunda kelgenler arasında, oña bir nam qaldırdıq, «İlâsqa selâm!», dedik.
+124. (İlâs) milletini: (Allaһqa qarşı kelüvden) saqınmazsıñızmı? Yaratqanlarnıñ eñ eyisi, siziñ de Rabbiñiz, sizden evel kelgen atalarıñıznıñ da Rabbi olğan Allaһnı bıraqıp da, Ba’lge tabınırsıñızmı? degen edi. (Ba’l - Şamda Bek adlı şeer halqı tabınğan altın putnıñ adı edi. Şimdi bu yerge Ba’lebek denilmekte).
+125. [124 ayetine baq.]
+126. [124 ayetine baq.]
+127. Bunıñ uzerine, İlâsnı yalanladılar. Şunıñ içün, Allaһnıñ ihlâslı qulları istisna; olarnıñ episi (ceennemge alıp barılacaqlar).
+128. [127 ayetine baq.]
+129. Soñunda kelgenler arasında, oña bir nam qaldırdıq, «İlâsqa selâm!», dedik.
+130. [129 ayetine baq.]
 131. Şubesiz, biz yahşılarnı, işte boyle mukâfatlandırırmız.
 132. Çünki, o, bizim mu’min qullarımızdan edi.
 (Bu yerde Az. Luutnıñ qıssasından bir bolüm añlatılır:)
 133. Lutt da, elbette peyğamberlerden edi.
 
-134-136. Arttakiler arasında qalğan ihtiyar bir qadından ğayrı, Luutnı ve ailesiniñ episini qurtardıq. Soñ digerlerini yoq ettik.
-137-138. (Ey, insanlar!) Elbette, siz de saba ve aqşam olarğa oğramaktasıñız. Alâ aqıllanmaycaqsıñızmı?
+134. Arttakiler arasında qalğan ihtiyar bir qadından ğayrı, Luutnı ve ailesiniñ episini qurtardıq. Soñ digerlerini yoq ettik.
+135. [134 ayetine baq.]
+136. [134 ayetine baq.]
+137. (Ey, insanlar!) Elbette, siz de saba ve aqşam olarğa oğramaktasıñız. Alâ aqıllanmaycaqsıñızmı?
+138. [137 ayetine baq.]
 139. Doğrusı, Yunus da yollanılğan peyğamberlerden edi.
 (Bundan soñki ayetlerde de Az. Yunusnıñ qıssası añlatılır:)
 140. Hatırıñdamı, o, tolu bir gemige minip qaçqan edi.
 141. Gemide olarnen qarşılıqlı qur’a çektiler de, zarar etkenlerden oldı. (Ünus qıssası içün baq. Enbiyaa, 21/87-niñ izaatı).
 142. Yunus ozüni tenqit etip turar eken, onı bir balıq yuttı.
 
-143-144. Eger Allaһnı tesbih etkenlerden olmasa edi, tekrar tirilecek kunlerine qadar, onıñ qarnında qalır edi. (Ünus (a.s.)nıñ tesbihi boyle edi: Lâa ilâahe illâa ente subhaaneke innii kuntu mine’z-zaalimiin: Senden başqa ilâh yoqtır, şubesiz, men zalımlardan oldım).
+143. Eger Allaһnı tesbih etkenlerden olmasa edi, tekrar tirilecek kunlerine qadar, onıñ qarnında qalır edi. (Ünus (a.s.)nıñ tesbihi boyle edi: Lâa ilâahe illâa ente subhaaneke innii kuntu mine’z-zaalimiin: Senden başqa ilâh yoqtır, şubesiz, men zalımlardan oldım).
+144. [143 ayetine baq.]
 145. Alsız bir vaziyette onı tışqa çıqardıq.
 146. Ve ustüne (kolge olsun içün) qabaq çeşitinden keniş yapraqlı bir nebat ostürdik.
 
@@ -5753,17 +5864,26 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 149. Putperestlerden sora: Qızlar Rabiñniñ de, erkekler olarnıñmı?
 150. Yoqsa, biz meleklerni olarnıñ kozü ogünde qız olaraq yarattıqmı?
 
-151-152. Diqqat etiñ. Kesen-kes yalan uydırıp söylemekteler; «Allaһ doğurdı», demekteler. Olar, şubesiz, yalancılardır.
+151. Diqqat etiñ. Kesen-kes yalan uydırıp söylemekteler; «Allaһ doğurdı», demekteler. Olar, şubesiz, yalancılardır.
+152. [151 ayetine baq.]
 153. Allaһ qızlarnı oğullardan ustün korgeimi!
 
-154-156. Ne olmaqta sizge? Nasıl uküm etmektesiñiz? İç tüşünmeysiñizmi? Yoqsa, siziñ açıq bir deliliñiz barmı? (Soralğan delil, muşriklerniñ meleklernen bağlı tüşünceleri ve olar Allaһnıñ qızları olğanlarına dair inançları içündir).
+154. Ne olmaqta sizge? Nasıl uküm etmektesiñiz? İç tüşünmeysiñizmi? Yoqsa, siziñ açıq bir deliliñiz barmı? (Soralğan delil, muşriklerniñ meleklernen bağlı tüşünceleri ve olar Allaһnıñ qızları olğanlarına dair inançları içündir).
+155. [154 ayetine baq.]
+156. [154 ayetine baq.]
 157. Doğru sözlülerden iseñiz, kitabıñıznı ketiriñ!
 158. Allaһnen cinler arasında da, bir soy birligi uydırdılar. Ant olsun, cinler de ozleriniñ esap yerine alıp barılacaqlarını bilirler.
 159. Allaһ olarnıñ iftira etip kelgenlerinden yucedir, uzaqtır.
 160. Allaһnıñ ihlâsqa iriştirilgen qulları istisnadır. (Olar azap kormeycekler).
-161-163. Sizler ve tabınğan şeyleriñiz! İç biriñiz ceennemge kirecek kimseden başqasını Allaһqa qarşı yoldan azdırıp saptıralmazsıñız.
-164-166. (Melekler boyle derler:) Bizim er birimiz içün belli bir maqam bar. Şubesiz, biz o yerde sıra-sıra turarmız ve şubesiz Allaһnı tesbih etermiz.
-167-169. Putperestler: Eger evelkilerge berilgenlerden bizde de bir kitap olsa edi, mıtlaqa Allaһnıñ ihlâslı qulları olur edik! dey ediler.
+161. Sizler ve tabınğan şeyleriñiz! İç biriñiz ceennemge kirecek kimseden başqasını Allaһqa qarşı yoldan azdırıp saptıralmazsıñız.
+162. [161 ayetine baq.]
+163. [161 ayetine baq.]
+164. (Melekler boyle derler:) Bizim er birimiz içün belli bir maqam bar. Şubesiz, biz o yerde sıra-sıra turarmız ve şubesiz Allaһnı tesbih etermiz.
+165. [164 ayetine baq.]
+166. [164 ayetine baq.]
+167. Putperestler: Eger evelkilerge berilgenlerden bizde de bir kitap olsa edi, mıtlaqa Allaһnıñ ihlâslı qulları olur edik! dey ediler.
+168. [167 ayetine baq.]
+169. [167 ayetine baq.]
 170. İşte, şimdi onı inkâr ettiler. Amma ileride bilecekler.
 171. Ant olsun ki, Peyğamber qullarımızğa söz bergendirmiz:
 172. Olar mıtlaqa zaferge qavuşacaqlar.
@@ -5783,25 +5903,32 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Qamer suresinden soñ Mekkede engen. 88 ayettir. İsmini birinci ayette yer alğan Saad arifinden alğan.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-2. Saad. Ogüt bergen Qur’anğa yemin eterim ki, kufür etkenler, (idda etkenleriniñ) aksine, bir ğurur ve bolünüv içindedirler.
+1. Saad. Ogüt bergen Qur’anğa yemin eterim ki, kufür etkenler, (idda etkenleriniñ) aksine, bir ğurur ve bolünüv içindedirler.
+2. [1 ayetine baq.]
 3. Olardan evel nice nesillerni elâk ettik. O zaman feryad ettiler. Albuki, artıq qurtulmaq zamanı degil edi.
 (Aşağıdaki ayetlerde kâfirlerniñ bazı iddalarına yer berilerek, vaziyetleri boyle añlatılğandır:)
-4-5. Aralarından olarğa bir terbiyeciniñ kelüvine şaştılar ve kâfirler: Bu pek yalancı bir sihirbazdır! Tañrılarnı, bir tañrı yaptımı? Doğrusı, bu şaşılacaq bir şey! dediler. (Qureyşliler bu sözlerinen Az. Muһammedni tanımayıp, inkâr ete ediler. Az. Peyğamber Kelime-i Tevhidni tevsiye etken vaqtında muşrikler: «Bir tañrı butün yarattıqlarnı nasıl idare ete bilir?», degen ve Allaһnıñ birligini qabul etmege yanaşmağan ediler).
-6-8. Olardan ileri kelgenleri: Yuriñ, tañrılarıñızğa bağlılıkta tireliñ, sizden istenilgeni, şubesiz budır. Soñki dinde de bunı eşitmedik. Bu, ancaq bir uydırmadır. Qur’an aramızdan Muһammedge endirildimi? diyerek turıp kettiler. Belki, bular Qur’anım aqqında şubege tüştiler. Yoq! Azabımnı daa tatmadılar. (Üqarıdaki ayetlerde, Az. Peyğamber de davet etilgen Ebu Talibniñ evindeki toplaşuv ve onıñ neticesi haber berilmekte. Qur’an-ı Kerimni inkâr etkenler, babalarınıñ dinlerinde boyle bir şey eşitmegenlerini idda etmekte ediler).
+4. Aralarından olarğa bir terbiyeciniñ kelüvine şaştılar ve kâfirler: Bu pek yalancı bir sihirbazdır! Tañrılarnı, bir tañrı yaptımı? Doğrusı, bu şaşılacaq bir şey! dediler. (Qureyşliler bu sözlerinen Az. Muһammedni tanımayıp, inkâr ete ediler. Az. Peyğamber Kelime-i Tevhidni tevsiye etken vaqtında muşrikler: «Bir tañrı butün yarattıqlarnı nasıl idare ete bilir?», degen ve Allaһnıñ birligini qabul etmege yanaşmağan ediler).
+5. [4 ayetine baq.]
+6. Olardan ileri kelgenleri: Yuriñ, tañrılarıñızğa bağlılıkta tireliñ, sizden istenilgeni, şubesiz budır. Soñki dinde de bunı eşitmedik. Bu, ancaq bir uydırmadır. Qur’an aramızdan Muһammedge endirildimi? diyerek turıp kettiler. Belki, bular Qur’anım aqqında şubege tüştiler. Yoq! Azabımnı daa tatmadılar. (Üqarıdaki ayetlerde, Az. Peyğamber de davet etilgen Ebu Talibniñ evindeki toplaşuv ve onıñ neticesi haber berilmekte. Qur’an-ı Kerimni inkâr etkenler, babalarınıñ dinlerinde boyle bir şey eşitmegenlerini idda etmekte ediler).
+7. [6 ayetine baq.]
+8. [6 ayetine baq.]
 9. Yoqsa, aziz ve lütfkâr Rabbiñniñ rahmet hazineleri olarnıñ yanındamı!
 10. Yahut koklerniñ, yerniñ ve ekisiniñ arasında olğanlarnıñ ukümranlığı olarnıñ elindemidir? Oyle ise, (koklerniñ) yollarında yukselsinler (baqayım)!
 11. Olar, çeşit toplulıqlardan olğan bir ordudır; işte, şu yerde dağıluvğa oğratılacaqlar. (Dağıluvğa oğratılacaqlarnıñ yeri Bedir, Hendek ve Mekke olğanı aytıla).
-12-13. Olardan evel Nuһ qavmı, Aad qavmı, qazıqlar saibi Fıravun, Semuud, Luut qavmı ve eyke halqı da, peyğamberlerini yalanladılar. İşte, bular da (peyğamberlerge qarşı) birleşken toplulıqlardır. (Ayette, Fıravun içün «qazıqlar saibi» denilüvi, onıñ saray ve saltanat saibi oluvını ifade etüvinen beraber, azap bergen kimseleriniñ ellerini, ayaqlarını dört qazıqqa bağlayaraq eskence etkenini añlatmaqta).
+12. Olardan evel Nuһ qavmı, Aad qavmı, qazıqlar saibi Fıravun, Semuud, Luut qavmı ve eyke halqı da, peyğamberlerini yalanladılar. İşte, bular da (peyğamberlerge qarşı) birleşken toplulıqlardır. (Ayette, Fıravun içün «qazıqlar saibi» denilüvi, onıñ saray ve saltanat saibi oluvını ifade etüvinen beraber, azap bergen kimseleriniñ ellerini, ayaqlarını dört qazıqqa bağlayaraq eskence etkenini añlatmaqta).
+13. [12 ayetine baq.]
 14. Olarnıñ er biri yollanılğan peyğamberlerni yalanladılar da, bu sebepten (ozlerine) azabım haq oldı.
 15. Bular da ancaq, bir an keçikmeycek qorqunç bir ses beklemekteler.
 
 16. Rabbimiz! Bizim payımıznı esap kunünden evel ber, dediler. (Mekke kâfirleri, «Amel defterleri sağ taraftan berilgenlerge kelgende…» ayeti nazil olğan vaqıtta, ayette beyan etilgen alaylı ifadeni söylegenler). (Aşağıdaki ayetlerde, Az. Davud ve onıñ keçirgen imtianı añlatılmaqta).
 
 17. (Resulım!) Olarnıñ aytqanlarına sabır et, qulımız Davudnı, o quvet saibi zatnı hatırla. O, ep Allaһqa yonelir edi. (Rivayetke kore, Az. Davudnıñ kuçlüligi, ibadetke olğan dayanıqlılığı edi. Bir kun oraza tutar, bir kun aşar edi. Geceniñ ancaq uçte birinde yuqlar, qalğan saatlerini ep idabetnen keçirir edi).
-18-19. Doğrusı, biz aqşam-saba onıñnen beraber tesbih etken dağlarnı, toplu alında, quşlarnı onıñ emiri altına bergen edik. Episi Oña yonelgendir. (İbn Abbas quşluq namazınıñ bu ayetke kore qılınğanını añlatqan. Rivayetke kore, Cenab-ı Haq, Davud (a.s.)ğa guzel ve gur bir ses ihsan etken. O Zeburnı oquğanda butün vahşiy ayvanlar etrafında toplana ve onı diñley ekenler).
+18. Doğrusı, biz aqşam-saba onıñnen beraber tesbih etken dağlarnı, toplu alında, quşlarnı onıñ emiri altına bergen edik. Episi Oña yonelgendir. (İbn Abbas quşluq namazınıñ bu ayetke kore qılınğanını añlatqan. Rivayetke kore, Cenab-ı Haq, Davud (a.s.)ğa guzel ve gur bir ses ihsan etken. O Zeburnı oquğanda butün vahşiy ayvanlar etrafında toplana ve onı diñley ekenler).
+19. [18 ayetine baq.]
 
 20. Onıñ ukümranlığını quvetlendirgen, oña ikmet ve guzel qonuşma bergen edik. (Az. Davud, eybetli olmaq, Allaһ tarafından yardımğa oğramaq ve ozüne bir çoq qoruyıcı berilmek, buyuk ordularğa qomandanlıq etmek kibi derecelernen kuvetlendirilgen, ayrıca peyğamberlik, kitap, şeriat, yuksek ilim, amel, guzel qonuşma ve ikmetke saip olğan edi).
-21-22. (Ey, Muһammed!), Saña davacılarnıñ haberi keldimi? Maabedniñ divarına tırmaşıp, Davudnıñ yanına kirgen ediler de, Davud olardan qorqqan edi. «Qorqma! Biz bir-birine duşman eki davacımız, aramızda adaletnen uküm et, aqsızlıq yapma; bizge doğru yolnı koster», dediler. (Daud (a.s.) mescitte ibadet etkeni içün, qoruyıcılar kelgenlerniñ kirmesine izin bermegen ediler. Söz etilgen eki davacı, Az. Davudğa suiqastta bulunmaq istegen eki duşman edi. Çevrelerinde Az. Davudnıñ qoruyıcılarını korüp, maqsatlarına irişalmaycaqlarını añlağanlarınen, bu yalan davanı uydurğan ediler).
+21. (Ey, Muһammed!), Saña davacılarnıñ haberi keldimi? Maabedniñ divarına tırmaşıp, Davudnıñ yanına kirgen ediler de, Davud olardan qorqqan edi. «Qorqma! Biz bir-birine duşman eki davacımız, aramızda adaletnen uküm et, aqsızlıq yapma; bizge doğru yolnı koster», dediler. (Daud (a.s.) mescitte ibadet etkeni içün, qoruyıcılar kelgenlerniñ kirmesine izin bermegen ediler. Söz etilgen eki davacı, Az. Davudğa suiqastta bulunmaq istegen eki duşman edi. Çevrelerinde Az. Davudnıñ qoruyıcılarını korüp, maqsatlarına irişalmaycaqlarını añlağanlarınen, bu yalan davanı uydurğan ediler).
+22. [21 ayetine baq.]
 
 23. (Olardan biri boyle dedi:) Bu, qardaşım. Onıñ doqsan doquz qoyunı bar. Mende ise, tek bir qoyun bar. Boyle eken: «Onı da maña ber», dedi ve tartışmada meni yeñdi.
 
@@ -5822,10 +5949,13 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 31. Aqşam ustü oña çalımlı, cınslı qoşu atları taqdim etilgen edi.
 
-32-33. Suleyman: Aqiqaten, men mal sevgisini, Rabbimni añmaq içün istedim, dedi. Niayet, kuneş battı. (O zaman:) Olarnı (atlarnı) tekrar maña ketiriñ, dedi. Ayaqlarını ve boyunlarını sıypamağa başladı. (Ayet muarebe içün at beslevniñ evelden berli devam etip kelgen guzel bir adet olğanını ortağa qoymaqta. Az. Suleyman, cenk itiyacı belli olğanınen, atlarnıñ azırlanuvını ve ogretmek içün qoştırılmasını emir eterek, «Men bularnı dünyada nefsimniñ istegi içün degil, Allaһnıñ emri ve onıñ dinini quvetlendirmek istegenim içün sevem», degen edi).
+32. Suleyman: Aqiqaten, men mal sevgisini, Rabbimni añmaq içün istedim, dedi. Niayet, kuneş battı. (O zaman:) Olarnı (atlarnı) tekrar maña ketiriñ, dedi. Ayaqlarını ve boyunlarını sıypamağa başladı. (Ayet muarebe içün at beslevniñ evelden berli devam etip kelgen guzel bir adet olğanını ortağa qoymaqta. Az. Suleyman, cenk itiyacı belli olğanınen, atlarnıñ azırlanuvını ve ogretmek içün qoştırılmasını emir eterek, «Men bularnı dünyada nefsimniñ istegi içün degil, Allaһnıñ emri ve onıñ dinini quvetlendirmek istegenim içün sevem», degen edi).
+33. [32 ayetine baq.]
 34. Ant olsun, biz Suleymannı imtian ettik. Tahtınıñ ustüne bir ceset bıraqa qoydıq, soñ o, kene eski alına qayttı. (Suleyman (a.s.) ağır bir hastalıqqa oğrağan devirde imtian etilgen, hastalığı vaqtında «cansız ceset» denilecek qadar zayıflaşqan, soñ tekrar sağlığına qavuiqan).
 35. Suleyman: Rabbim! Meni bağışla; maña, menden soñ kimse irişalmaycaq bir ukümranlıq ber. Şubesiz, sen, daima bağışlavda bulunıcısıñ, dedi.
-36-38. Bunıñ uzerine, biz de, istegen yerine onıñ emrinen qolay esken ruzgârnı, bina qurğan ve dalğıçlıq yapqan şeytanlarnı, demir alqalarnen bağlı diger yaratılğanlarnı onıñ emrine berdik. 39. «İşte, bu bizim bağışladığımızdır. İster ber, ister (eliñde) tut; esapsızdır», dedik.
+36. Bunıñ uzerine, biz de, istegen yerine onıñ emrinen qolay esken ruzgârnı, bina qurğan ve dalğıçlıq yapqan şeytanlarnı, demir alqalarnen bağlı diger yaratılğanlarnı onıñ emrine berdik. 39. «İşte, bu bizim bağışladığımızdır. İster ber, ister (eliñde) tut; esapsızdır», dedik.
+37. [36 ayetine baq.]
+38. [36 ayetine baq.]
 39. Doğrusı, onıñ bizim yanımızda buyuk bir degeri ve guzel bir yeri bar.
 40. (Resulım!) Qulımız Eyyubnı da añ. O, Rabbine: Doğrusı, şeytan maña bir yorğunlıq ve eziyet berdi, diye seslengen edi.
 41. Ayağıñnen yerni tep! İşte, yiqanacaq ve içilecek suvuq bir suv (dedik). (Raatsızlanğan Eyyub (a.s.), bu suvnen yiqanğan, mucize olaraq, iç ve tış hastalıqlarınıñ episinden bunıñnen qurtulğan).
@@ -5855,7 +5985,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 64. (Resulım!) De ki: Men sadece bir tenbiyeciyim. Tek ve qahhar olğan Allaһtan başqa bir tañrı yoqtır.
 
 65. Koklerniñ, yerniñ ve ekisiniñ arasında olğanlarnıñ Rabbi (olğan Allaһ) ustündir, çoq bağışlayıcıdır.
-66-67. De ki: Bu buyuk bir haberdir. Amma, siz ondan yuz çevirmektesiñiz.
+66. De ki: Bu buyuk bir haberdir. Amma, siz ondan yuz çevirmektesiñiz.
+67. [66 ayetine baq.]
 68. Olar o yerde davalaşqanda, menim mele-i a’lâa aqqında iç bir bilgim yoq edi. (Tefsirlerge kore, mele-i a’lâanıñ manası - Allaһnıñ qonuşmaq içün meleklerni toplağan yuce meclisidir).
 69. Men ancaq ap-açıq bir tenbiyeci olğanım içün, maña vahiy olunmaqta.
 70. Rabbiñ meleklerge degen edi ki: Men muaqqaq çamurdan bir insan yaratacam.
@@ -5865,11 +5996,15 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 74. Allaһ: Ey, İblis! Eki elimnen yaratqanıma secde etüvden seni men etken nedir? Kibrlendiñmi, yoqsa, yucelerdensiñmi? dedi.
 75. İblis: Men ondan hayırlıyım! Meni ateşten yarattıñ, onı çamurdan yarattıñ, dedi.
 
-76-77. Allaһ: Çıq o yerden (cennetten)! Sen artıq quvulğan birisisiñ, ceza kunüne qadar lânetim seniñ uzeriñdedir! buyurdı.
+76. Allaһ: Çıq o yerden (cennetten)! Sen artıq quvulğan birisisiñ, ceza kunüne qadar lânetim seniñ uzeriñdedir! buyurdı.
+77. [76 ayetine baq.]
 78. İblis: Ey, Rabbim! O alda, tekrar tiriltilecek kunlerine qadar maña muhlet ber, dedi.
-79-80. Allaһ: Aydı, sen belli kungece muhlet berilgenlerdensiñ, buyurdı.
-81-82. İblis: Seniñ mutlaq qudretiñye ant olsun ki, olardan ihlâsqa iriştirilgen qullarıñ bir tarafta, episini mıtlaqa yoldan azdıracam, dedi.
-83-84. Doğrusı -ki men ep doğrunı söylerim- mıtlaqa sen ve saña uyğanlarnıñ episinen ceennemni tolduracam! buyurdı.
+79. Allaһ: Aydı, sen belli kungece muhlet berilgenlerdensiñ, buyurdı.
+80. [79 ayetine baq.]
+81. İblis: Seniñ mutlaq qudretiñye ant olsun ki, olardan ihlâsqa iriştirilgen qullarıñ bir tarafta, episini mıtlaqa yoldan azdıracam, dedi.
+82. [81 ayetine baq.]
+83. Doğrusı -ki men ep doğrunı söylerim- mıtlaqa sen ve saña uyğanlarnıñ episinen ceennemni tolduracam! buyurdı.
+84. [83 ayetine baq.]
 85. (Resulım!) De ki: Buña qarşılıq men sizden bir aq istemeyim. Ve men olğanından başqa türlü korüngenlerden de degilim.
 86. Bu Qur’an, ancaq alemler içün bir ogüttir.
 87. O bergen haberniñ doğrulığını biraz vaqıt soñca çoq yahşı bileceksiñiz.
@@ -5905,7 +6040,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 14. De ki: Men dinimde ihlâs ile yalıñız Allaһqa ibadet eterim.
 15. Ey, Allaһqa ortaq qoşqanlar!): Siz de Ondan başqa tilegeniñizge tabınıñ! De ki: Aqiqaten ziyanğa oğrağanlar, qıyamet kunü em ozlerini, em de ailelerini ziyanğa soqqanlardır. Bilesiñiz ki, bu, ap-açıq ziyandır.
 16. Olarnıñ ustlerinde qat-qat ateş, altlarında da (oyle) ateş qat-qattır. İşte, Allaһ qullarını bunıñnen qorquzır. Ey, qullarım! Yalıñız menden qorquñ.
-17-18. Taağutqa qullıq etmekten qaçınıp, Allaһqa yonelgenlerge mujde bardır. (Ey, Muһammed!) Diñlep de, sözniñ eñ guzeline uyğan qullarımnı mujdele. İşte, Allaһ doğru yolğa qavuştırğan kimseler olardıң. Aqiqiy aqıl saipleri de olardıң. (Taağut aqqında Nisaa 4/60- ayetniñ izaatına baq. Vasıfları añlatılğan kimselerniñ diñledikleri söz, Allaһ kelâmı, Az. Peyğamberniñ sözleri ya da ashab-ı kiramnıñ fikrleri olaraq yorumlanğan. Sözniñ eñ guzeli, şubesiz Qur’andır).
+17. Taağutqa qullıq etmekten qaçınıp, Allaһqa yonelgenlerge mujde bardır. (Ey, Muһammed!) Diñlep de, sözniñ eñ guzeline uyğan qullarımnı mujdele. İşte, Allaһ doğru yolğa qavuştırğan kimseler olardıң. Aqiqiy aqıl saipleri de olardıң. (Taağut aqqında Nisaa 4/60- ayetniñ izaatına baq. Vasıfları añlatılğan kimselerniñ diñledikleri söz, Allaһ kelâmı, Az. Peyğamberniñ sözleri ya da ashab-ı kiramnıñ fikrleri olaraq yorumlanğan. Sözniñ eñ guzeli, şubesiz Qur’andır).
+18. [17 ayetine baq.]
 19. (Resulım!) Aqqında azap ukümi kerçekleşken kimseni ve ateşte olğanlarnı sen qurtaracaqsıñmı!
 20. Faqat Rabblerinden saqınğanlarğa ust-ustüne yapılğan, altlarından irmaqlar aqqan koşkler bardır. Bu Allaһnıñ bergen sözüdir. Allaһ, bergen sözünden qaytmaz.
 21. Kormediñmi? Allaһ kokten bir suv endirdi, onı yerdeki çoqraqlarğa yerleştirdi, soñ onıñnen türlü-türlü renklerde ekinler yetiştire. Soñ olar qurır da, sapsarı olğanlarını korersiñ. Soñ onı quru bir qırıntı yapar. Şubesiz, bularda aqıl saipleri içün bir ogüt bar.
@@ -5928,7 +6064,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 37. Allaһ kimge de hidayet etse, artıq onı saptıracaq yoqtır. Allaһ mutlaq kuç saibi ve intiqam alıcı degilmi?
 38. Ant olsun ki, olarğa: Koklerni ve yerni kim yarattı? diye sorasañ, elbette: «Allaһ», derler. De ki: Oyle ise, maña söylersiñizmi? Allaһ maña bir zarar bermek istese, Allaһnı bıraqıp da, tabınğlarıñız, Onıñ bergen zararını ketkize bilirmi? Yahut Allaһ, maña bir rahmet tiler ise, olar Onıñ bu rahmetiniñ ogüni kese bilirlermi? De ki: Maña Allaһ yeter. Tevekkül yapqanlar, ancaq Oña ışanıp tayanırlar.
 
-39-40. De ki: Ey, qavmım! Eliñizden kelgenini yapıñ; doğrusı, men de yapacağım! Ozüni rezil etecek azap kimge kelecek, kimge devamlı azap enecek, yaqında bileceksiñiz! (Muşriklerni rezil etecek azap, Bedir mağlubiyetinen kelgen eken, Ceennem azabı da devamlı olaraq uzerlerine çökecek).
+39. De ki: Ey, qavmım! Eliñizden kelgenini yapıñ; doğrusı, men de yapacağım! Ozüni rezil etecek azap kimge kelecek, kimge devamlı azap enecek, yaqında bileceksiñiz! (Muşriklerni rezil etecek azap, Bedir mağlubiyetinen kelgen eken, Ceennem azabı da devamlı olaraq uzerlerine çökecek).
+40. [39 ayetine baq.]
 41. (Resulım!) Şubesiz, biz bu Kitapni saña insanlar içün haq olaraq endirdik. Artıq kim doğru yolnı seçer ise, oz lehinedir; kim de sapsa, ancaq oz aleyhine sapqan olur. Sen olarnıñ uzerinde vekil degilsiñ. (Ayetke kore, Az. Peyğamber dalâletke sapqanlarnı zorlap hidayetke yeteklegen ya da olarğa bekçilik yapqan kimse degildir).
 42. Allaһ olgenniñ olüm vaqıtı kelgeninen, olmegenniñ de, yuquda ekende, canlarını alır da, olümine uküm ettigi cannı alır, o birini belli bir vaqıtqa qadar bıraqır. Şube yoq ki, bunda yahşı tüşünecek bir qavm içün ibretler bar.
 43. Yoqsa, olar Allaһtan başqasını şefaatçılar ettilermi? De ki: Olar iç bir şeyge kuç yetiştiralmazlar ve aqıl iriştiralmaz iseler de, (şefaatçı eteceksiñiz)mi?
@@ -5947,7 +6084,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 54. Sizge azap kelip çatmadan evel, Rabbiñizge dönüñ, Oña teslim oluñ, soñunda sizge yardım etilmez.
 55. Siz farqına barmadan, apansızdan başıñızğa azap kelmeden evel, Rabbiñizden sizge endirilgenniñ eñ guzeline (Qur’anğa) tabiy oluñ.
 56. Kişiniñ: Allaһqa qarşı adden aşuvımdan tolayı, maña yazıqlar olsun! Aqiqaten, men alay etkenlerden edim (deycek kunünden saqınıñ)!
-57-58. Ya da: Allaһ maña hidayet berse edi, elbette saqınğanlardan olur edim, deycegi, yahut azapnı korgende: Keşke, men içün bir kere (dönmege) imkân tapılsa da, eyilerden olsam! deycegi kunden saqınıñ.
+57. Ya da: Allaһ maña hidayet berse edi, elbette saqınğanlardan olur edim, deycegi, yahut azapnı korgende: Keşke, men içün bir kere (dönmege) imkân tapılsa da, eyilerden olsam! deycegi kunden saqınıñ.
+58. [57 ayetine baq.]
 59. Yoq (dönalmaycaqsıñ)! Ayetlerim saña kelgen edi de, sen olarnı yalanlağan, buyuklik taslağan ve inkârcılardan olğan ediñ.
 60. Qıyamet kunünde Allaһ aqqında yalan söylegenlerniñ yuzleri qap-qara olğanını korersiñ. Kibrlengenlerniñ qalacaq yeri ceennemde degilmi? (Muşrikler Allaһ aqqında uydırğan yalanlarınıñ başında Oña ortaq qoşuvları, evlât nisbet etüvleri ve sıfatlarını inkâr etüvleridir).
 61. Allaһ, taqva saiplerini qurtulışqa iriştirir. Olarğa iç bir fenalıq toqunmaz. Olar kederlenmezler de.
@@ -5974,7 +6112,8 @@ Aynı zamanda Ğaafir adını da taşığan bu sure, 85 ayettir. 56 ve 57-nci ay
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Haa. Miim. (Bu ariflerniñ tefsiri içün Baqara suresiniñ 1-nci ayetine baqıñ).
-2-3. Bu kitap mutlaq ğalip, haqqı ile bilici, gunahnı bağışlayıcı, tövbeni qabul etici, azabı çetin, lütf saibi Allaһ tarafından endirilgendir. Ondan başqa iç bir ilâh yoqtır. Dönüş ancaq Oñadır.
+2. Bu kitap mutlaq ğalip, haqqı ile bilici, gunahnı bağışlayıcı, tövbeni qabul etici, azabı çetin, lütf saibi Allaһ tarafından endirilgendir. Ondan başqa iç bir ilâh yoqtır. Dönüş ancaq Oñadır.
+3. [2 ayetine baq.]
 4. İnkâr etkenler istisna, iç kimse Allaһnıñ ayetleri aqqında tartışmaz. Olarnıñ şeerlerde (raatlıqnen) kezip dolaşuvı seni aldatmasın. (İnkârcılarnıñ dolaşuvları, ticaret ve kârlı qazançlar içün qorqusız ve telükesiz seyaat etüvleri, dünyada qazanğan ustünlik ve buña nisbeten Cenabı Haqnıñ olarğa muhlet berüvi şeklinde tefsir etilgen).
 5. Olardan evel Nuһ qavmı ve bulardan soñki toplulıqlar da (peyğamberlerine) mani olmağa, er ummet oz peyğamberini yaqalamağa azm etken edi. Batılnı haqnıñ yerine qoymaq içün kureşken ediler. Bunıñ uzerine men olarnı qapqaçlap yaqaladım. İşte, cezalandıruvımnıñ nasıl olğanını kor! (Ayette, Mekke kâfirlerinden evel kelgen Aad, Semuud ve Luut qavmları kibi, bir taqım milletlerniñ inkârlarına, peyğamberlerini yaqalap oldirüv areketlerine, buña cevaben de, Cenab-ı Haqnıñ inkârcılarnı elâk etüviniñ, belli orneklerine işaret etilmekte. Çünki, inkârcılarnıñ harap yurtları ve facialı aqibetleri bunı kostermekte).
 6. İnkâr etkenlerniñ ceennem ehli olğanlarına dair Rabbiñniñ sözü boylece kerçekleşti.
@@ -6005,7 +6144,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 21. Olar, yer yuzünde kezip dolaşmadılarmı ki, ozlerinden evelkilerniñ aqibetleri nasıl olğanını korsinler! Olar, quvet ve yer yuzündeki eserleri noqtai nazarından, bulardan daa da ustün ediler. Boyle eken, Allaһ olarnı gunahları sebebinden yaqaladı. Olarnı Allaһnıñ ğadabından qorçalağan da olmadı.
 
 22. Bunıñ sebebi, peyğamberleri olarğa ap-açıq mucizeler ketirgenleri alda, inkâr etvüleri edi. Allaһ da, olarnı tutıp, yaqalay qoydı. Doğrusı, O, kuvetlidir; azabı da pek çetindir.
-23-24. Ant olsun ki, biz Musanı mucizelerimiz ve ap-açıq vesiqanen, Fıravun, Haamaan ve Qarunğa yolladıq. Olar: Bu, çoq yalancı bir sihirbazdır! dediler.
+23. Ant olsun ki, biz Musanı mucizelerimiz ve ap-açıq vesiqanen, Fıravun, Haamaan ve Qarunğa yolladıq. Olar: Bu, çoq yalancı bir sihirbazdır! dediler.
+24. [23 ayetine baq.]
 
 25. İşte o (Musa), tarafımızdan olarğa haqnı ketirgeninen: Onıñnen beraber iman etkenlerniñ oğullarını oldüriñ, qadınlarnı sağ qaldırıñ! dediler. Amma, kâfirlerniñ tuzağı, elbette boşuna keter. (Bu uçv adamdan Fıravun ve Haamaan, Qıptiylerniñ ileri kelgenlerinden Qarun da İsrail oğullarındandır. Daa soñki ayetlerden de, añlışılacağı kibi, onıñnen beraber iman etkenlerniñ oğullarını oldüriñ, qadınlarını sağ qaldırıñ, degen Fıravundır. Oña bu fikirni bergenniñ de Haamaan olğanı rivayet etile).
 
@@ -6017,12 +6157,14 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 (Fıravunnıñ ailesinden imanını gizlegen bu adamnıñ, Fıravunnıñ emcezadesi olğanı söylengen, adı aqqında da çeşit fikrler bar. Fıravun ailesinden inanğan bu adam sözlerine boyle devam etti:)
 
 29. Ey, qavmım! Bugun yer yuzüne akim kimseler olaraq, ukümranlıq siziñdir. Amma, Allaһnıñ azabı bizge kelip çatar ise, kim bizge yardım eter? Fıravun: Men sizge oz fikrimni söylemktem ve kene sizge ancaq doğru yolnı kostermektem, dedi.
-30-31. İman etken dedi ki: «Ey, qavmım! Doğrusı, men siz içün, Nuһ qavmınıñ, Aad, Semuud ve olardan soñ kelgenlerniñ vaziyeti kibi, (peyğamberlerni yalanlağan) toplulıqlarnıñ başlarına kelgen bir aqibetten qorqmaqtam. Allaһ qullarına bir zulum tileycek degildir». 32-33. «Ey, qavmım! Aqiqaten siz içün o bağırışuv-çağırışuv kunünden, artıñızğa dön»p qaçacaq kunüñizden qorqmaqtam. Sizni Allaһtan (Onıñ azabından) qurtaracaq kimse yoqtır. Allaһ kimni saptırsa, artıq onı doğru yolğa qavuştıracaq da yoqtır».
+30. İman etken dedi ki: «Ey, qavmım! Doğrusı, men siz içün, Nuһ qavmınıñ, Aad, Semuud ve olardan soñ kelgenlerniñ vaziyeti kibi, (peyğamberlerni yalanlağan) toplulıqlarnıñ başlarına kelgen bir aqibetten qorqmaqtam. Allaһ qullarına bir zulum tileycek degildir». 32-33. «Ey, qavmım! Aqiqaten siz içün o bağırışuv-çağırışuv kunünden, artıñızğa dön»p qaçacaq kunüñizden qorqmaqtam. Sizni Allaһtan (Onıñ azabından) qurtaracaq kimse yoqtır. Allaһ kimni saptırsa, artıq onı doğru yolğa qavuştıracaq da yoqtır».
+31. [30 ayetine baq.]
 
 32. Ant olsun ki, (Musadan) evel Yusuf da sizge açıq deliller ketirgen ve onıñ sizge ketirgen şeyleri aqqında şube etip turğan ediñiz. Niayet, o vefat etkeninen: «Allaһ ondan soñ peyğamber yollamaz», dediñiz. İşte, Allaһ o adden aşqan şubecilerni boyle saptırır. (Bazı tefsirciler «Bu yerdeki Yusuf - Az. Yusufnıñ torunı Yusuf b. Efraimdir», degen olsalar da, Yusuf b. Yaqubdır degen rivayet daa quvvetli korünmekte).
 
 33. Ozlerine kelgen iç bir delil olmağanı alda, Allaһnıñ ayetleri aqqında tartışqanlar, ister Allaһ yanında, ister iman etkenler yanında, buyuk bir nefret ile qarşılanır. Allaһ buyuklik taslağan er zorbacınıñ qalbini, işte boyle muurler.
-34-35. Fıravun: Ey, Haamaan, maña yuksek bir qulle yap; belki yollarğa, koklerniñ yollarına irişirim de, Musanıñ Tañrısını korerim! Doğrusı, men onı yalancı sanmaqtam, dedi. Boylece, Fıravunğa yapqan fena işi guzel kosterildi ve yoldan saptırıldı. Fıravunnıñ tuzağı tamamen boşuna çıqtı.
+34. Fıravun: Ey, Haamaan, maña yuksek bir qulle yap; belki yollarğa, koklerniñ yollarına irişirim de, Musanıñ Tañrısını korerim! Doğrusı, men onı yalancı sanmaqtam, dedi. Boylece, Fıravunğa yapqan fena işi guzel kosterildi ve yoldan saptırıldı. Fıravunnıñ tuzağı tamamen boşuna çıqtı.
+35. [34 ayetine baq.]
 
 36. O iman etken kimse: Ey, qavmım! dedi, siz maña uyıñız, sizni doğru yolğa alıp baracağım.
 
@@ -6053,7 +6195,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 49. Şubesiz, peyğamberlerimizge ve iman etkenlerge, em dünya ayatında, em şaatlarnıñ şaatlıq etecek kunlerinde yardım etermiz. (Şaatlar - meleklerdir. Çünki, melekler, peyğamberlerniñ ahkâmnı tebliğ etkenlerine, kâfirlerniñ ise, bularnı yalanlağanlarına şaatlıq etecekler. Ayrıca, insanlarğa şaatlıq etecek melekler, peyğamberler ve mu’minler, şaatlardan sayılğanlar).
 
 50. O kunü zalımlarğa, uzür tilevleri iç bir fayda bermez. Artıq lânet de olarnıñdır, yaman yurt da olarnıñdır!
-51-52. Ant olsun ki, biz Musağa hidayetni berdik ve İsrail oğullarına aqıl saipleri içün bir ogüt ve doğrulıq reberi olğan kitapnı miras qaldırdıq.
+51. Ant olsun ki, biz Musağa hidayetni berdik ve İsrail oğullarına aqıl saipleri içün bir ogüt ve doğrulıq reberi olğan kitapnı miras qaldırdıq.
+52. [51 ayetine baq.]
 
 53. (Resulım!) Şimdi sen sabır et. Çünki, Allaһnıñ vadesi kerçektir. Gunahıñnıñ bağışlanuvını iste. Aqşam-saba Rabbiñni hamd ile tesbih et. (Allaһnıñ vadesi dostlarını muzaffer etmesi kibi yorumlanğan. Fıravunnıñ qarşısında Musanıñ vaziyeti bunıñ delilidir. Az. Peyğamberniñ saba-aqşam hamd ve tesbihi, aynı vaqıtta, ummetke bıraqılgan bir sunnettir. Rivayet etilgenine kore, bir taqım yeudiyler Resulullah (s.a.)qa kelip, «ahır zamanda» Deccal bizim aramızdan kelecek ve olacaqlar, işte o vaqıt olacaq!» dediler. Bunıñ uzerine aşağıdaki ayet nazil oldı).
 
@@ -6086,8 +6229,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 67. Allaһnıñ ayetleri aqqında tartışqanlarğa baqmadıñmı, nasıl döndürilmekteler (onı tasdiq etüvge yanaşmaylar)!
 
 68. Olar kitapnı ve peyğamberlerimizge yollağanlarımıznı yalanlağanlardır. Olar yaqında (aqiqatnı) añlaycaqlar!
-69-70. Boyunlarında demir alqalar ve zıncırlar olğan alda, sıcaq suvğa süyreklenecekler, soñra da, ateşte yaqılacaklar.
-71-72. Soñ olarğa: Allaһnı bıraqıp da, qoşqan ortaqlarıñız ne yerde? denilecek. Olar da: Bizden uzaqlaştılar, zaten biz evelleri iç bir şeyge tabınmay edik, deycekler. İşte, Allaһ kâfirlerni boyle şaşmalatır. (Muşriklerden soralğanda, tabınğan putlarını inkâr etkenleri añlaşılmaqta. Ancaq, Cenab-ı Haq tabınğanlarını qarşılarına ketirgeninen, şaşıp qalacqlar).
+69. Boyunlarında demir alqalar ve zıncırlar olğan alda, sıcaq suvğa süyreklenecekler, soñra da, ateşte yaqılacaklar.
+70. [69 ayetine baq.]
+71. Soñ olarğa: Allaһnı bıraqıp da, qoşqan ortaqlarıñız ne yerde? denilecek. Olar da: Bizden uzaqlaştılar, zaten biz evelleri iç bir şeyge tabınmay edik, deycekler. İşte, Allaһ kâfirlerni boyle şaşmalatır. (Muşriklerden soralğanda, tabınğan putlarını inkâr etkenleri añlaşılmaqta. Ancaq, Cenab-ı Haq tabınğanlarını qarşılarına ketirgeninen, şaşıp qalacqlar).
+72. [71 ayetine baq.]
 
 73. Bu, siziñ yer yuzünde aqsız olaraq qopayuvıñızdan ve adden aşır sevinip kibrlenüviñiz sebebindendir.
 
@@ -6142,7 +6287,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 29. Kâfirler ceennemde: Rabbimiz! Cinlerden ve insanlardan bizni sapıtqanlarnı bizge koster de, aşşalanğanlardan olsunlar diye, olarnı ayaqlarımıznıñ astına alayıq! deycekler.
 30. Şubesiz, Rabbimiz Allaһtır dep, soñ dos-doğru yolda yurgenlerniñ uzerine melekler ener. Olarğa: Qorqmañ, kederlenmeñ, sizge vade olunğan cennetnen seviniñ! derler. (Melekler, ayette vasıfları bildirilgen mu’minlerge zikr etilgen mujdelerni olüm sırasında berecekler. Dos-doğru yolda yurmek, imanda sebattır. Bunı Az. Ebu Bekir söz ve davranışnen nizaml olmaq; Az. Umer munafıqlıq etmemek; Az. Osman amelde ihlasl olmaq; Az. Ali farzlarnı eda etmek şeklinde yorumlağanlar. Meleklerniñ «qorqmañ» mujdesi, olümniñ soñu ve keçmiş amellernen bağlıdır. «Kederlenmeñ» degen mujdeleri ise, artta bıraqılğan evlât ve ailene ile bağlıdır).
 
-31-32. Biz dünya ayatında da, ahirette de siziñ dostlarıñızmız. Ğafur ve rahim olğan Allaһnıñ ikramı olaraq, o yerde siz içün canlarıñız çekken er şey bar ve istegen er şeyiñiz o yerde siz içün azırdır.
+31. Biz dünya ayatında da, ahirette de siziñ dostlarıñızmız. Ğafur ve rahim olğan Allaһnıñ ikramı olaraq, o yerde siz içün canlarıñız çekken er şey bar ve istegen er şeyiñiz o yerde siz içün azırdır.
+32. [31 ayetine baq.]
 33. (İnsanlarnı) Allaһqa çağırğan, yahşı iş yapqan ve «Men musulmanlardanım», degenden kimniñ sözü daa guzel? (Ayette vasıfları añlatılğan zat Resulullaһ (s.a.)tır. Bazılarına kore, ayet mazinler aqqında nazil olğan. Allaһnıñ davetine uyğan ve insanlarnı da uymağa davet etken er kesniñ de bu vasıfnıñ saibi olacağı bildirilgen).
 34. Yahşılıqnen yamanlıq bir olmaz. Sen eñ guzel bir şekilde (yamanlıqnıñ) ogüni al. O vaqıtta sennen arasında duşmanlıq olğan kimse sanki candan bir dost olur. (Yamanlıqnıñ ogü, eñ guzel hislet ne ise, onıñnen alınır. Meselâ, ğadapqa sabır, bilgisizlikke yımşaq tabiyat, fenalıqqa afu ile qarşılıq berilir).
 35. Buña (bu guzel davranışqa) ancaq sabır etkenler qavuştırılır; buña ancaq (hayırdan) buyuk nasibi olğan kimse qavuştırılır. (Şeytandan kelgen yaman tüşünce, şeytannıñ insannı guzel tabiyat ve davranışlardan uzaqlaştırmaq içün vesvesedir).
@@ -6171,7 +6317,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Mekkede nazil olğan bu sure 53 ayettir, yalıñız 23-26-nci ayetleri Medinede engen. Adını 38-nci ayette keçken ve musulmanlarnıñ işlerini aralarında istişara (mesleat) ile yapuvları kerekligini bildirgen Şuuraa kelimesinden alğan.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-2. Haa. Miim. Ayn. Siin. Qaaf.
+1. Haa. Miim. Ayn. Siin. Qaaf.
+2. [1 ayetine baq.]
 3. Aziz ve hakim olğan Allaһ saña ve senden evelkilerine, işte boyle vahiy eter. (Cenab-ı Haq Qur’an-ı Kerimde añlatqan hususlarnıñ ozüni daa evelki kitaplarda da bildirgen. Hususen, Haa, Miim ve Ayn, Siin, Qaaf kibi arifler işaret ve sır olaraq, butün peyğamberlerge vahiy etilgen).
 4. Koklerde ve yerde ne bar ise, episi Onıñdır. O, yucedir, uludır.
 5. Aman-aman tepelerinden kokler çatlaycaq! Melekler de, Rabblerini hamd ile tesbih etmekteler ve yerdekiler içün mağfiret istemekteler. Yahşı biliñ ki, Allaһ çoq bağışlayıcı, çoq merhametlidir. («Koklerniñ ustlerinden çatlavı», Allaһnıñ azametinden ve şanınıñ yuceligindendir).
@@ -6258,7 +6405,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Haa. Miim.
 
-2-3. Ap-açıq Kitapqa ant olsun ki, biz, añlap tüşünüviñiz içün, onı arapça bir Qur’an qıldıq.
+2. Ap-açıq Kitapqa ant olsun ki, biz, añlap tüşünüviñiz içün, onı arapça bir Qur’an qıldıq.
+3. [2 ayetine baq.]
 4. O qatımızda bulunğan Ana Kitapta (levh-i mahfuzda) mevcut, yuce ve ikmet ile tolu bir kitaptır. (Şanı yuce Qur’an, mucizeviy vasfınen, diger kitaplardan daa yucedir. Çünki, belâğatnı eñ ustün mertebege iriştirgen, ayrıca butün keçmiş kitaplarnıñ ukümlerini ortadan qaldırğandır).
 5. Siz, adden aşqan kimseler olduñız diye, sizni Qur’annen tenbiyelevden vazgeçeyikmi?
 6. Daa evelki milletlerge nice peyğamberler yollağan edik.
@@ -6267,7 +6415,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 9. Ant olsun ki, olarğa koklerni ve yerni kim yarattı? dep sorasañ; «Olarnı, şubesiz kuçlü olğan, er şeyni bilgen Allaһ yarattı», derler.
 10. O, sizge yerni beşik yapqan ve doğru yurersiñiz diye, yer yuzünde sizge yollar yaratqan.
 11. Kokten, bir olçüge kore, suvnı endirgen Odır. Biz onıñnen (qup-qru) olü memleketke ayat berirmiz. İşte, siz de, boylece (mezarlarıñızdan) çıqarılacaqsıñız. (Ayette, itiyacğa ve belli olçüge kore, yağmurnıñ yağdırılğanı, onıñnen topraqqa ayat berilgeni bildirilgen bu vaziyetniñ tirilüvniñ açıq misali olğanı qayd etilgen).
-12-13. Butün çiftlerni O yaratqandır. Ve sizge minecek gemileriñizni ve ayvanlar yaratqandır ki, boylece olarnıñ sırtına minip, ustlerine yerleşkeniñiznen, Rabbiñizniñ nimetini añaraq: Bunı bizim hızmetimizge bergenni tesbih etermiz, yoqsa, biz bularğa kuç yetiştiralmaz edik, deyuviñiz içündir. (Minilecekler, tüşünmege ve Allaһnı tesbih etmege yetekleyici varlıqlardır. Bu sebepten, sahabe-i kiram ayvanlarına mingenlerinde, ahiretni ve tabutnen başlanacaq yolculıqnı tüşüne ediler. Resulullaһ yolculıqqa çıqqanda, bu ayetlerni oqur edi).
+12. Butün çiftlerni O yaratqandır. Ve sizge minecek gemileriñizni ve ayvanlar yaratqandır ki, boylece olarnıñ sırtına minip, ustlerine yerleşkeniñiznen, Rabbiñizniñ nimetini añaraq: Bunı bizim hızmetimizge bergenni tesbih etermiz, yoqsa, biz bularğa kuç yetiştiralmaz edik, deyuviñiz içündir. (Minilecekler, tüşünmege ve Allaһnı tesbih etmege yetekleyici varlıqlardır. Bu sebepten, sahabe-i kiram ayvanlarına mingenlerinde, ahiretni ve tabutnen başlanacaq yolculıqnı tüşüne ediler. Resulullaһ yolculıqqa çıqqanda, bu ayetlerni oqur edi).
+13. [12 ayetine baq.]
 14. Biz, şubesiz Rabbimizge dönecekmiz (demelisiñiz).
 15. Amma, olar qullarından bir qısmını Onıñ bir cuzi (bolügi) qıldılar. Aqiqaten, insan ap-açıq bir nankordir. (Bu yerde yeudiylerden bir topunıñ Uzeyrni, hristianlardan da İsanı Allaһnıñ oğlu sayğanlarına, muşriklerniñ ise, meleklerni Allaһnıñ qızları olaraq qabul etkenlerine işaret etilmekte).
 
@@ -6367,10 +6516,14 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 66. Olar farqında olmağanlarında, qıyamet kunüniñ olarğa apansızdan kelüvinden başqa bir şey beklemektelermi?
 67. O kunü, Allaһqa qarşı kelüvden saqınğanlardan ğayrı, dost olğanlar (bile) bir-birilerine duşman kesilirler.
 (Allaһ ozüne qarşı kelüvden saqınğanlarğa boyle nida eter:)
-68-69. Ey, ayetlerimizge inanğan ve musulman olğan qullarım! Bugun sizge korku yoqtır. Sizler kederlenmeyceksiñiz de.
+68. Ey, ayetlerimizge inanğan ve musulman olğan qullarım! Bugun sizge korku yoqtır. Sizler kederlenmeyceksiñiz de.
+69. [68 ayetine baq.]
 70. Siz ve zevceleriñiz, sevinç ve neşeli alda cennetke kiriñiz!
-71-73. Olarğa altın tepsiler ve qadeler dolaştırılır. O yerde canları istegen, kozleri oşlanğan er şey bardır. Ve olarğa: Siz o yerde ebediy qalacqsıñız, işte yapqanlarıñızğa qarşılıq sizge miras berilgen cennet budır. O yerde siz içün bol-bol meyvalar bar, olardan aşarsıñız, denilir.
-74-75. Şubesiz, qbaatlılar ceennem azabında devamlı qalacaqlar, azapları yengilleştirilmeycek. Olar azap içinde qurtulıştan umüt keskenlerdir. (Bu yerdeki qabaatl - Allaһnı inkâr etken ya da şirk qoşqanlardır).
+71. Olarğa altın tepsiler ve qadeler dolaştırılır. O yerde canları istegen, kozleri oşlanğan er şey bardır. Ve olarğa: Siz o yerde ebediy qalacqsıñız, işte yapqanlarıñızğa qarşılıq sizge miras berilgen cennet budır. O yerde siz içün bol-bol meyvalar bar, olardan aşarsıñız, denilir.
+72. [71 ayetine baq.]
+73. [71 ayetine baq.]
+74. Şubesiz, qbaatlılar ceennem azabında devamlı qalacaqlar, azapları yengilleştirilmeycek. Olar azap içinde qurtulıştan umüt keskenlerdir. (Bu yerdeki qabaatl - Allaһnı inkâr etken ya da şirk qoşqanlardır).
+75. [74 ayetine baq.]
 76. Biz olarğa zulum etmedik, faqat olar ozleri zalım kimselerdir.
 77. Ey, Malik! Rabbiñ bizim işimizni bitirsin! diye seslenirler. Malik de: Siz boyle qalacaqsıñız! der. (Kâfirler ceennemniñ bekçisi Malikke ayette bildirilgen şekilde seslenerek, olümlerini isterler. Çünki, olümleri - azap içinde yaşağanlarından daa yahşıdır. Amma, Malik olarğa iç bir surette bu yerden qurtulşi olmağınını bildirir).
 78. Ant olsun, biz sizge haqnı ketirdik, faqat çoquñız haqtan oşlanmaysıñız. (Bu yerde Qureyşniñ Daaru’n-Nedvede Az. Peyğamberge qarşı qurğan tuzaqlarına işaret etilerek, olarnıñ tuzaqlarına qarşılıq, elâketleriniñ taqdir etilgeni bildirilgen. Çünki, kâfirler Az. Muһammedni ve Qur’annı sevmegenlerini söylemeknen qalmayıp, qarşı qoyuv hususında da, qararlar ala ediler).
@@ -6383,7 +6536,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 85. Koklerniñ, yerniñ ve ekisi arasında olğan er şeyniñ mulki ozüne ait olğan Allaһ ne yucedir! Qıyamet saatını bilmek de Oña mahsustır. Siz Oña döndürileceksiñiz.
 86. Allaһnı bıraqıp da, tabınğan putları şefaat etalmazlar. Ancaq, bilerek haqqa şaatlıq etkenler bundan istisnadır. (Ayette ifade etilgeni kibi, putlar iç kimsege şefaat etalmazlar ve yardımda bulunalmazlar. Çünki, şefaatçılıqqa izinleri yoqtır. Ancaq, İsa ve Uzeyr (a.s.)nen meleklerniñ, tilleri ve qalplerinen haqnı doğrulağan kişi ve varlıqlar olğanları içün, inanğanlarğa şefaat etecekleri añlaşılmaqta).
 87. Ant olsun, olardan ozlerini kim yaratqanını sorasañ, elbette «Allaһ» derler. O alda, nasıl (Allaһqa qullıqtan) çevirilmekteler?
-88-89. (Resulullahnıñ:) Ya Rabbi! Bular iman etmegen bir qavmdır, deyuvine qarşı Allaһ: Şimdilik sen olardan yuz çevir ve sizge selâm olsun, de. Yaqında bilecekler! buyurdı.
+88. (Resulullahnıñ:) Ya Rabbi! Bular iman etmegen bir qavmdır, deyuvine qarşı Allaһ: Şimdilik sen olardan yuz çevir ve sizge selâm olsun, de. Yaqında bilecekler! buyurdı.
+89. [88 ayetine baq.]
 
 # 44. eD-DUHAAN
 
@@ -6393,12 +6547,16 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Haa. Miim.
 
-2-3. Ap-açıq Kitapqa ant olsun ki, biz onı (Qur’annı) mubarek bir gecede endirdik. Şubesiz, biz tenbiyecimiz. (Bu ayette keçken «mubarek gece» - Qadir gecesi ya da Berat gecesi olğanına dair rivayetler bar. Ancaq Qur’an-ı Kerimniñ Az. Peyğamberge Qadir gecesinde endirilgenini bildirgen ayetni koz ogüne alğan İslâm alimleriniñ çoqu bu yerde Qadir gecesine işaret etilgeni rivayetini daa quvetli sayğanlar. Ayrıca, baq. Baqara 2/182-niñ añlatuvı ve Kadir, 97/1).
-4-6. Qatımızdan bir emir ile er ikmetli işke o gecede uküm etilir. Çünki, biz, Rabbiniñ bir rahmeti olaraq peyğamberler yollamaqtamız. O, eşiticidir, bilicidir.
+2. Ap-açıq Kitapqa ant olsun ki, biz onı (Qur’annı) mubarek bir gecede endirdik. Şubesiz, biz tenbiyecimiz. (Bu ayette keçken «mubarek gece» - Qadir gecesi ya da Berat gecesi olğanına dair rivayetler bar. Ancaq Qur’an-ı Kerimniñ Az. Peyğamberge Qadir gecesinde endirilgenini bildirgen ayetni koz ogüne alğan İslâm alimleriniñ çoqu bu yerde Qadir gecesine işaret etilgeni rivayetini daa quvetli sayğanlar. Ayrıca, baq. Baqara 2/182-niñ añlatuvı ve Kadir, 97/1).
+3. [2 ayetine baq.]
+4. Qatımızdan bir emir ile er ikmetli işke o gecede uküm etilir. Çünki, biz, Rabbiniñ bir rahmeti olaraq peyğamberler yollamaqtamız. O, eşiticidir, bilicidir.
+5. [4 ayetine baq.]
+6. [4 ayetine baq.]
 7. Eger kesen-kes inana iseñiz (biliñ ki, Allaһ), koklerniñ, yerniñ ve ekisi arasında olğanlarnıñ Rabbidir.
 8. Ondan başqa ilâh yoqtır. (Er şeyni O) tiriltir ve oldürir. Siziñ de Rabbiñiz, evelki atalarıñıznıñ da Rabbidir.
 9. Faqat olar, şube içinde eglenip turalar.
-10-11. Şimdi sen, kokniñ insanlarnı saracaq açıq bir duman çıqaracaq kunni kozle. Bu, elem berici bir azaptır.
+10. Şimdi sen, kokniñ insanlarnı saracaq açıq bir duman çıqaracaq kunni kozle. Bu, elem berici bir azaptır.
+11. [10 ayetine baq.]
 12. (İşte, o vaqıtta insanlar:) Rabbimiz! Bizden azapnı çetlet. Doğrusı, biz artıq inanmaqtamız (derler). (Bu duman aqqında esasl eki çeşit yorum yapalğan:
 1. Duman - qıtlıq ve qurğaqlıqtır. Çünki, Arabistanda buyuk bir qıtlıq olğan, onıñ ortadan qaldırıluvı içün Qureyş, Az. Peyğamberge baş urğan.
 2. Bu duman - qıyamet alâmetlerinden olup, kokni qaplaycaq dumandır. Peyğamberimizden rivayet etilgenine kore, qıyamet alâmetlerinden biri de, şarq ve ğarp arasını qaplaycaq duman vaqiasıdır).
@@ -6406,7 +6564,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 14. Soñ ondan yuz çevirdiler ve: Bu, ogretilgen bir deli! dediler.
 15. Biz azapnı biraz ortadan qaldıracaqmız, amma, siz kene (eski alıñızğa) döneceksiñiz. (Az. Peyğamberniñ duasınen, qıtlıq ortadan qaldırılğanından soñ, inkârlarına qaytqan ediler. Başqa bir yorumğa kore de, qıyammet qopmadan evel, etrafnı qaplağan dumannı kâfirler korgeninen, Allaһqa sığınıp dua etecekler, Allaһ qısqa bir muddet dumannı ortadan qaldıracaq, faqat olar buña rağmen, tekrar kufürge dönecekler).
 16. Faqat biz buyuk bir şiddetnen yaqalaycaq kunümiz, intiqamımıznı kesen-kes alırmız.
-17-18. Ant olsun, olardan evel biz, Fıravunnıñ qavmını da imtian etken edik. Olarğa: Allaһnıñ qulları! Maña keliñ! Çünki, men sizge (öllanılğan) işançlı bir Resulım, diye (davette bulunğan) şerefli bir elçi kelgen edi.
+17. Ant olsun, olardan evel biz, Fıravunnıñ qavmını da imtian etken edik. Olarğa: Allaһnıñ qulları! Maña keliñ! Çünki, men sizge (öllanılğan) işançlı bir Resulım, diye (davette bulunğan) şerefli bir elçi kelgen edi.
+18. [17 ayetine baq.]
 19. Allaһqa nisbeten buyuklik taslamañ. Çünki, men sizge ap-açıq bir delil ketirmektem. (Ap-açıq delil, Az. Musanıñ kostergen mucizeleridir).
 
 20. Men, meni taşboranğa tutuvıñızdan, menim ve siziñ Rabbiñiz olğan Allaһqa sığındım. (Ayet, taşboran eterek, oldürecek tehdidlerini darqatqanlarğa qarşı Az. Musanıñ eskencege, aqaretke ve olümge diqqat etmeyip, Allaһqa sığınacsağını beyan etkenine diqqat çekmekte).
@@ -6414,24 +6573,35 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 22. Bunıñ uzerine Musa: Bular qabaat işlegen bir toplumdır, diye Rabbine arz etti.
 23. Allaһ: O alda, qullarımnı geceleyin yolğa çıqar. Çünki, taqip etileceksiñiz, buyurdı. (Aqkiqaten, Fıravun ve ordusı şeerden çıqqanlarından haber alğanınen, Az. Musanı ve İsrail oğullarını taqip etken ediler).
 24. Deñizni açıq alda bıraq. Çünki, olar boğulacaq bir ordudır. (Başqa ayetlerde yer alğanına kore, Az. Musa rastkelgen deñizge tayağını uraraq, suvnıñ açıluvını teminlegen, qavmı raat bir şekilde qarşı tarafqa keçken, taqip etken Fıravun ve ordusıi ise, aynı suv içinde boğularaq elâk olğan).
-25-27. Olar artta nice bağçalar, çoqraqlar, ekinler, guzel qonaqlar, zevq ve sefasını sürgen nice nimetlerini bıraqqan ediler.
+25. Olar artta nice bağçalar, çoqraqlar, ekinler, guzel qonaqlar, zevq ve sefasını sürgen nice nimetlerini bıraqqan ediler.
+26. [25 ayetine baq.]
+27. [25 ayetine baq.]
 28. İşte, boylece, biz de olarnı başqa bir toplumğa miras qaldırdıq.
 29. Kok ve yer olarnıñ artından ağlamadı; olarğa muhlet de berilmedi.
 30. Ant olsun, biz İsrail oğullarını o alçaltıcı azaptan qurtardıq.
 31. Yani Fıravundan. Çünki, o bir zorbacı edi, adden aşqanlardan edi. (Başqa ayetlerde bildirilgeni kibi, Fıravun İsrail oğullarını ozüne qul ve hızmetçi yapa, oğullarını oldüre edi. Bu, İsrail oğullarını aşşalayıcı bir vaziyet edi).
 32. Ant olsun, biz İsrail oğullarına, bilerek, (oz zamanlarında) alemlerniñ ustünde bir imtiyaz berdik.
 33. Olarğa, içinde açıq bir imtian bulunğan, işaretler berdik. (Bu işaretler - deñziniñ yarıluvı, bulutnıñ kolgesi, qudret elvası ve bodena kebabı kibi lütfler şeklinde sayıla bilir).
-34-36. Olar (muşrikler) deyler ki: İlk olümimizden soñ bir şey yoqtır. Biz tiriltilecek degilmiz. Doğru söyley iseñiz, atalarımıznı ketiriñ.
+34. Olar (muşrikler) deyler ki: İlk olümimizden soñ bir şey yoqtır. Biz tiriltilecek degilmiz. Doğru söyley iseñiz, atalarımıznı ketiriñ.
+35. [34 ayetine baq.]
+36. [34 ayetine baq.]
 37. Bular daa hayırlımı, yoqsa, Tubba’ qavmınen, olardan evelkilermi? Olarnı yoq ettik, çünki, olar qabaatlı ediler. (Tubba’ - Yemen ukümdarlarına berilgen isimdir. Peyğamberimizden rivayet etilgenine kore, bu ukümdar yahşı bir insan edi, faqat qavmı yoldan çıqqan edi. Ayette, Tubba’ ve başqa qavmlarğa kore, Qureyşniñ kuç, quvet ve sayı itibarınen, daa zayıf olğanı hatırlatılğan).
 38. Biz koklerni, yerni ve bular arasında olğanlarnı, oyun ve eglence olsun, diye yaratmadıq.
 39. Olarnı sadece kerçek bir sebepnen yarattıq. Faqat olarnıñ çoqu bilmeyler.
 40. Şubesiz, (haqnı batıldan ayırğan) uküm kunü, episiniñ bir yerde buluşacaq kunüdir. (Qıyammet kunü haq batıldan, aqlı aqsızdan ayırdı etilecek. Ya da insanlar yaqınlarından ve dostlarından ayırılacaq. Bu vaziyet ayetteki «fasıl» kelimesi ile ifade etilgen.)
 41. O kunü dostnıñ dostqa iç bir faydası olmaz, olarğa yardım da etilmez.
 42. Ancaq, Allaһnıñ merhamet etken kimseleri boyle degildir. Şubesiz, O, ustündir, merhametlidir.
-43-44. Şubesiz, zaqqum teregi gunahkârlarnıñ yemegidir.
-45-46. O, qarınlarda maden iritmesi kibi, suvnıñ qaynaması kibi qaynar.
-47-50. (Allaһ zebaniylerge emir eter): Tutıñ onı! Ceennemniñ ortasına süyrekleñ! Soñ başına azap olaraq, qaynağan suv töküñ!) ve deñ ki: (Tat, baqayıq. Qana, sen ozüñce ustün ediñ, şerefli ediñ! İşte, bu, şubelenip turğan şeyiñizdir.
-51-53. Muttaqiyler ise, aqiqaten işançlı bir maqamdadırlar. Bağçalarda ve çoqraq başlarındadırlar. İnce yipekten ve parlaq atlastan kiyerek, qarşı-qarşığa oturırlar.
+43. Şubesiz, zaqqum teregi gunahkârlarnıñ yemegidir.
+44. [43 ayetine baq.]
+45. O, qarınlarda maden iritmesi kibi, suvnıñ qaynaması kibi qaynar.
+46. [45 ayetine baq.]
+47. (Allaһ zebaniylerge emir eter): Tutıñ onı! Ceennemniñ ortasına süyrekleñ! Soñ başına azap olaraq, qaynağan suv töküñ!) ve deñ ki: (Tat, baqayıq. Qana, sen ozüñce ustün ediñ, şerefli ediñ! İşte, bu, şubelenip turğan şeyiñizdir.
+48. [47 ayetine baq.]
+49. [47 ayetine baq.]
+50. [47 ayetine baq.]
+51. Muttaqiyler ise, aqiqaten işançlı bir maqamdadırlar. Bağçalarda ve çoqraq başlarındadırlar. İnce yipekten ve parlaq atlastan kiyerek, qarşı-qarşığa oturırlar.
+52. [51 ayetine baq.]
+53. [51 ayetine baq.]
 54. İşte, boyle, bunıñnen beraber, biz olarnı iri kozlü uriylernen evlendirirmiz.
 55. O yerde, işanç içinde (canları çekken, er meyvanı isterler).
 56. İlk tatqan olümlerinden ğayrı, o yerde artıq olüm tatamazlar. Be Allaһ olarnı ceennem azabından qorçalağandır (devamlı ayatqa qavuşqandırlar).
@@ -6594,7 +6764,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 3. Bunıñ sebebi, inkâr etkenlerniñ batılğa uyuvları, inanğanlarnıñ da, Rabblerinden kelgen haqqa uyğanlarıdır. İşte, boylece, Allaһ insanlarğa ozlerinden misallerini añlatır.
 
 4. (Cenkte) inkâr etkenlernen rastkelişken vaqıtlarıñızda boyunlarını urıñ. Niayet, olarnı yahşıca urıp, mecalsız alğa ketirgeniñiznen, bağnı sıqı bağlañ (esir alıñ). Cenk soñuna yetkende de, artıq ya qarşılıqsız, ya da fidye qarşılığına serbest bıraqıñ. Vaziyet şu ki, Allaһ istese edi, olardan intiqam alır edi. Faqat sizni bir-biriñiznen sınamaq ister. Allaһ yolunda oldürilgenlerge kelgende, Allaһ olarnıñ yapqanlarını boşuna çıqarmaz. (Cenkte, evelâ, zaferge qavuşmaq içün kerek olğan şeyler yapılır. Duşman mağlüp olğanınen, sağ qalğanları esir alınır. Esirler, ya bağışlanaraq, ya da fidye alınaraq, serbest bıraqılır. Fidye aluv, mal ya da esir deñişüv şeklinde ola bilir. Cenk ulviy bir ğaye içün emir etilgendir; bu ğayeni kerçekleştirerek, imtian bergenlerniñ amelleri boşuna çıqarılmaycağı da ayrıca bildirilgen).
-5-6. Allaһ olarnı muratlarına iriştirecek, goñyullerini şad etecek ve olarnı ozlerine tanıtqan cennetine qoyacaq.
+5. Allaһ olarnı muratlarına iriştirecek, goñyullerini şad etecek ve olarnı ozlerine tanıtqan cennetine qoyacaq.
+6. [5 ayetine baq.]
 
 7. Ey, iman etkenler! Eger siz Allaһqa (Allaһnıñ dinine) yardım eter iseñiz, O da sizge yardım eter, ayaqlarıñıznı taydırmaz.
 
@@ -6764,7 +6935,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 8. Allaһqa yonelgen er qulğa goñyul kozüni açmaq ve ibret bermek içün (butün bularnı yaptıq).
 
 9. Kokten bereketli bir suv endirdik, onıñnen bağçalar ve orulacaq (çalınacaq) daneler ostürdik.
-10-11. Qullarğa rızıq oluvı içün, bir-birine kirişken, top-top ğonceleri olğan uzun boylu hurma terekleri yetiştirdik. Ve o suvnen olü topraqqa can berdik. İşte, ayatqa yañıdan çıqış da boyledir. (Suvnen olgen topraq canlana; tereklerge taze bir ayat kele, urluqlar yerden çıqa. İşte, insanlar da, qabirlerinden oyle çıqcaqlar).
+10. Qullarğa rızıq oluvı içün, bir-birine kirişken, top-top ğonceleri olğan uzun boylu hurma terekleri yetiştirdik. Ve o suvnen olü topraqqa can berdik. İşte, ayatqa yañıdan çıqış da boyledir. (Suvnen olgen topraq canlana; tereklerge taze bir ayat kele, urluqlar yerden çıqa. İşte, insanlar da, qabirlerinden oyle çıqcaqlar).
+11. [10 ayetine baq.]
 
 12. Olardan evel Nuһnıñ qavmı, Rez halqı ve Semuud da yalanlağan edi.
 
@@ -6787,7 +6959,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 21. Er kes, yanında bir sürüci ve bir de şaatnen beraber kelir. (Ayette keçken «sürüci» ve «şaatlar»nıñ eki melek olğanı, biriniñ mahşerge yeteklev, digeriniñ de, amellerge şaatlıq etüv vazifelerini yerine ketirgenleri söylengen; ayrıca «şaat» muafazacı meleklerinden sayılğan. Bir yorumğa kore de, «sürüci» fenalıqnı yazğan melek, «şaat» da yahşılıqnı yazğan melektir).
 
 22. Ant olsun, sen bundan ğaflette ediñ, der’al biz seniñ perdeñni aldıq. Bugun artıq kozüñ keskindir, (denilir).
-23-26. Yanındaki arqadaşı: «İşte, yanımdaki azır, der. (Eki melekke şu emir berilir:) Aydı, ekiñiz er inatçı kâfirni, hayırğa butün kuçünen mani olğannı, yoldan azğan şubecini ceennemge atıñ; Allaһnen beraber başqa ilâh edingenni, şiddetli azapqa birlikte atıñ!
+23. Yanındaki arqadaşı: «İşte, yanımdaki azır, der. (Eki melekke şu emir berilir:) Aydı, ekiñiz er inatçı kâfirni, hayırğa butün kuçünen mani olğannı, yoldan azğan şubecini ceennemge atıñ; Allaһnen beraber başqa ilâh edingenni, şiddetli azapqa birlikte atıñ!
+24. [23 ayetine baq.]
+25. [23 ayetine baq.]
+26. [23 ayetine baq.]
 
 27. Muşrikniñ arqadaşı (şeytan) der ki: Rabbimiz! Men onı yoldan azdırmadım. Faqat ozü teren bir sapıqlıq içinde edi.
 
@@ -6798,7 +6973,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 30. O kunü ceennemge «Toldıñmı?», dermiz. O da, «Daa barmı?», der.
 
 31. Cennet de taqva saiplerine yaqlaştırılır; (olardan) uzaqta olmaycaq.
-32-33. İşte, sizge vade etilgen cennet! Ki o, Allaһqa yonelgen, emirlerine riayet etken, kormegeni alda, Rahmandan qorqqan ve Allaһqa yonelgen bir qalp ile kelgen kimselerge mahsustır.
+32. İşte, sizge vade etilgen cennet! Ki o, Allaһqa yonelgen, emirlerine riayet etken, kormegeni alda, Rahmandan qorqqan ve Allaһqa yonelgen bir qalp ile kelgen kimselerge mahsustır.
+33. [32 ayetine baq.]
 
 34. O yerge selâmetliknen kiriñ. İşte, bu, ebediy yaşamaqnıñ başlağan kunüdir.
 
@@ -6824,15 +7000,23 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Mekkede engen. 60 ayettir. İlk ayette keçken ve «ruzgârlar» manasındanki «zaariyaat» kelimesi sureniñ adı olğan.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-6. Tozdırıp savurğanlarğa, yuküni yuklengenlerge, qolaylıqnen yaldağanlarğa, işni taqsımlağanlarğa ant olsun ki, sizge vade etilgen kesen-kes doğrudır ve ceza mıtlaqa sadir olacaqtır. (Bu yerde ozlerine yemin etilgenler, ruzgârlar, bulutlar, gemiler ve meleklerdir).
-7-9. İçinde yorüngeleri (ölaqları) olğan kokke ant olsun ki, siz ters sözler söylemektesiñiz. Ondan (Qur’andan ya da imandan) döngen döndürilir (ogüne çıqılmaz). (Aqkiqaten, Qureyşler Az. Peyğamber ve Qur’an aqqında çeşit şeyler söyley ediler, sahir (sihirbaz) ve sihir, şair ve şiir, kâhin ve kehyanet iddası yapqan ediler).
+1. Tozdırıp savurğanlarğa, yuküni yuklengenlerge, qolaylıqnen yaldağanlarğa, işni taqsımlağanlarğa ant olsun ki, sizge vade etilgen kesen-kes doğrudır ve ceza mıtlaqa sadir olacaqtır. (Bu yerde ozlerine yemin etilgenler, ruzgârlar, bulutlar, gemiler ve meleklerdir).
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
+6. [1 ayetine baq.]
+7. İçinde yorüngeleri (ölaqları) olğan kokke ant olsun ki, siz ters sözler söylemektesiñiz. Ondan (Qur’andan ya da imandan) döngen döndürilir (ogüne çıqılmaz). (Aqkiqaten, Qureyşler Az. Peyğamber ve Qur’an aqqında çeşit şeyler söyley ediler, sahir (sihirbaz) ve sihir, şair ve şiir, kâhin ve kehyanet iddası yapqan ediler).
+8. [7 ayetine baq.]
+9. [7 ayetine baq.]
 10. Qahr olsun o adden aşqan yalancılar!
 11. Olar qoyu bir cehalet içerisinde qalğan ğafillerdir.
 12. Ceza kunüniñ ne zaman olğanını sorarlar.
 13. O kunü olar ateşke atılacaqlar.
 14. Azabıñıznı tatıñ. Acele kelüvini beklegen şeyiñiz budır işte! (denilir).
 
-15-16. Şubesiz ki, Allaһqa isyandan saqınğanlar, Rabbleriniñ olarğa bergenini alaraq, cennetlerde ve çoqraq başlarında bulunacaqlar. Şubesiz, olar bundan evel dünyada guzel davranğanlar ediler.
+15. Şubesiz ki, Allaһqa isyandan saqınğanlar, Rabbleriniñ olarğa bergenini alaraq, cennetlerde ve çoqraq başlarında bulunacaqlar. Şubesiz, olar bundan evel dünyada guzel davranğanlar ediler.
+16. [15 ayetine baq.]
 17. Geceleri pek az yuqlar ediler.
 18. Saar vaqıtlarında da, istiğfar eter ediler.
 19. Mallarında muhtac ve yoqsullar içün bir aq bar edi.
@@ -6882,16 +7066,26 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Mekkede engen. 49 ayettir, adını birinci ayette keçken ve uzerinde Az. Musağa Tevrat engen, boylece onıñ ilâhiy hitapqa nail olğan Tuur dağından alğan.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-8. Tuurğa yayılğan ince teri ustüne satır-satır yazılğan Kitapqa, Beyt-i Ma’muurğa, yukseltilgen tavanğa, tolu deñizge ant olsun ki, Rabbiñniñ azabı mıtlaqa yuz berecek. Oña mani olacaq iç bir şey yoq. (Emin etilgen Tuur - Medyende Az. Musa ilâhiy hitapqa nail olğan dağdır. Kitap - Tevrat, Qur’an ya da Levh-i mahfuzdır. Beyt-i Ma’muur ise, Kâbe ya da semada melekler tavaf etken maqamdır).
+1. Tuurğa yayılğan ince teri ustüne satır-satır yazılğan Kitapqa, Beyt-i Ma’muurğa, yukseltilgen tavanğa, tolu deñizge ant olsun ki, Rabbiñniñ azabı mıtlaqa yuz berecek. Oña mani olacaq iç bir şey yoq. (Emin etilgen Tuur - Medyende Az. Musa ilâhiy hitapqa nail olğan dağdır. Kitap - Tevrat, Qur’an ya da Levh-i mahfuzdır. Beyt-i Ma’muur ise, Kâbe ya da semada melekler tavaf etken maqamdır).
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
+6. [1 ayetine baq.]
+7. [1 ayetine baq.]
+8. [1 ayetine baq.]
 9. O kunü kok sallanıp çalqalanır.
 10. Dağlar yurgenden yurer.
 11. Yalanlağanlarnıñ vay alına o kunü!
 12. Ki, olar dalğan batılları içinde oynap turğanlardır.
-13-14. O kunü ceennem ateşine iteklenip atılırlar da, «İşte, yalanlap turğan ateşiñiz budır!» denilir.
+13. O kunü ceennem ateşine iteklenip atılırlar da, «İşte, yalanlap turğan ateşiñiz budır!» denilir.
+14. [13 ayetine baq.]
 15. Bir tılsımdırmı bu, yoqsa kormeysiñizmi?
 16. Kiriñ o yerge, sabır etseñiz de, sabır etmeseñiz de, artıq siz içün birdir. Siz ancaq yapqanlarıñıznıñ qarşılığına çarptırılacaqsıñız.
-17-18. Şubesiz, (fenalıqlardan) qorçalanğanlar Rabbleriniñ ozlerine bergenlerinen sevinerek, cennetlerde ve nimet içindedirler. (Zira) Rabbleri olarnı ceeyennem azabından qorçalağandır.
-19-20. Olarğa: Yapqanlarıñızğa qarşılıq sıra-sıra tizilgen kursilerge yaslanaraq, afiyetnen aşañ, içiñ (denilir). Ayrıca, biz olarnı, ceyran kozlü uriylernen evlendirgendirmiz.
+17. Şubesiz, (fenalıqlardan) qorçalanğanlar Rabbleriniñ ozlerine bergenlerinen sevinerek, cennetlerde ve nimet içindedirler. (Zira) Rabbleri olarnı ceeyennem azabından qorçalağandır.
+18. [17 ayetine baq.]
+19. Olarğa: Yapqanlarıñızğa qarşılıq sıra-sıra tizilgen kursilerge yaslanaraq, afiyetnen aşañ, içiñ (denilir). Ayrıca, biz olarnı, ceyran kozlü uriylernen evlendirgendirmiz.
+20. [19 ayetine baq.]
 21. İman etken ve soylarından olğanlarda, imanda olarğa tabiy olğanlar (bar ya)! İşte, biz, olarnıñ nesillerini de ozlerine qoştıq. Olarnıñ amellerinden de bir şey eksiltmedik. Er kes qazanğanları qarşılığına bir rehindir. (Boylece, imanl baba ve onıñ imanl zurriyeti cennetke birlikte kirer. Bu Allaһnıñ oña balalarınen birlikte cennette yaşaması içün bergen bir lütfidir. Ahirette er kes hayır ve şerr - ne yapqan olsa, qarşılığını alacaq. İnsan yapqanına rehin etilgenine kore, yahşı amellerge kelgen rehinni çezer. Aksini yapsa, cezağa oğratılır).
 22. Olarğa canları istegen meyvadan ve etten bol-bol berdik.
 
@@ -6928,15 +7122,22 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 # 53. en-NECM
 
 Mekkede engen, 62 ayettir. Yalıñız 32-nci ayeti Medinede nazil olğan. Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-3. Batqan vaqtında yıldızğa ant olsun ki, arqadaşıñız (Muһammed) sapmadı ve batılğa inanmadı; o arzusına kore de laf etmez.
+1. Batqan vaqtında yıldızğa ant olsun ki, arqadaşıñız (Muһammed) sapmadı ve batılğa inanmadı; o arzusına kore de laf etmez.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
 4. O (bildirgenleri) vahiy etilgenden başqa şey degil.
 
-5-7. Çünki, onı kuçlü-quvetli ve ustün yaratılışlı biri (Cebrail) ogretti. Soñra eñ yuksek ufuqta olğanda, asıl şeklinen doğruldı.
-8-9. Soñra (Muһammedge) yaqınlaştı, derken, daa da yaqınlaştı. O qadar ki (birleştirilgen) eki yay arası qadar, atta daa da yaqın oldı.
-10-11. Bunıñ uzerine, Allaһ qulına vahiyini bildirdi. (Kozlerinen) korgenini qalbi yalanlamadı.
+5. Çünki, onı kuçlü-quvetli ve ustün yaratılışlı biri (Cebrail) ogretti. Soñra eñ yuksek ufuqta olğanda, asıl şeklinen doğruldı.
+6. [5 ayetine baq.]
+7. [5 ayetine baq.]
+8. Soñra (Muһammedge) yaqınlaştı, derken, daa da yaqınlaştı. O qadar ki (birleştirilgen) eki yay arası qadar, atta daa da yaqın oldı.
+9. [8 ayetine baq.]
+10. Bunıñ uzerine, Allaһ qulına vahiyini bildirdi. (Kozlerinen) korgenini qalbi yalanlamadı.
+11. [10 ayetine baq.]
 12. Onıñ korgenleri aqqında şimdi onıñnen tartışacaqsıñızmı?
 
-13-14. Ant olsun, onı Sidretu’l-Muntehaanıñ yanında evelde bir kere daa korgen edi.
+13. Ant olsun, onı Sidretu’l-Muntehaanıñ yanında evelde bir kere daa korgen edi.
+14. [13 ayetine baq.]
 15. Cennetu’l-Me’vaa da onıñ yanındadır.
 16. Sidreni qaplağan qaplamış edi.
 17. Kozü qıyığından baqmadı ve sıñırnı aşmadı.
@@ -6960,7 +7161,8 @@ Mekkede engen, 62 ayettir. Yalıñız 32-nci ayeti Medinede nazil olğan. Bismil
 34. Azaçıq berip, soñunda bermemekte tirelgenni?
 
 35. Aceba, ğaybnıñ bilgisi oz yanında da, kormektemi? (33-35-nci ayetlerniñ musulman olğandan soñ, muşriklikke döngen Veliid b. Muğiire aqqında engeni rivayet etile).
-36-37. Yoqsa, Musanıñ ve ahtına vefa kostergen İbrahimniñ saifelerinde yazılğanlar oña haber berilmedimi?
+36. Yoqsa, Musanıñ ve ahtına vefa kostergen İbrahimniñ saifelerinde yazılğanlar oña haber berilmedimi?
+37. [36 ayetine baq.]
 
 38. Aqiqaten, iç bir gunahkâr başqasınıñ gunah yuküni yuklenalmaz.
 
@@ -6975,7 +7177,8 @@ Mekkede engen, 62 ayettir. Yalıñız 32-nci ayeti Medinede nazil olğan. Bismil
 43. Doğrusı, kuldirgen de, ağlatqan da, Odır.
 
 44. Oldürgen de, tiriltken de Odır.
-45-46. Şu yeri muaqqaq ki, (rahimge) qoyulğanda nutfeden, erkek ve ırğaçıdan ibaret olğan eki çiftni O yarattı.
+45. Şu yeri muaqqaq ki, (rahimge) qoyulğanda nutfeden, erkek ve ırğaçıdan ibaret olğan eki çiftni O yarattı.
+46. [45 ayetine baq.]
 
 47. Şubesiz, tekrar tiriltmek de Oña aittir.
 
@@ -7022,7 +7225,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 5. Bu buyuk bir ikmettir. Faqat (üz çevirgenge) tenbiyeler ne fayda berir!
 6. Çağırğannıñ korülmegen bir şeyge çağırğan kunü, sen de olardan yuz çevir.
 
-7-8. Sanki etrafqa yayılğan çegertki sürüsi kibi, baqışları perişan (utanğandan yerge baqar) bir alda ve davetçige çapışıp, qabirlerden çıqarlar. O esnada kâfirler: Bu, pek çetin bir kundir! derler.
+7. Sanki etrafqa yayılğan çegertki sürüsi kibi, baqışları perişan (utanğandan yerge baqar) bir alda ve davetçige çapışıp, qabirlerden çıqarlar. O esnada kâfirler: Bu, pek çetin bir kundir! derler.
+8. [7 ayetine baq.]
 9. Olardan evel Nuһnıñ qavmı da yalanladı, em de qulumıznıñ yalancı olğanında israr eterek: O, delirdi, dediler. Ve (Nuһ davetten vazgeçmege) mecbur etildi.
 10. Bunıñ uzerine, Rabbiñye: Men yeñildim, maña yardım et! diyerek yalvardı.
 11. Biz de der’al nehir kibi devamlı aqqan bir suvnen kokniñ qapularını açtıq.
@@ -7050,7 +7254,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 32. Ant olsun, biz Qur’annı añlaşılıp, ogüt alınuvı içün qolaylaştırdıq. O alda, tüşünip, ogüt alğan yoqmı?
 33. Luutnıñ qavmı da, tenbiyeci peyğamberlerni yalanladı.
 
-34-35. Biz de ustlerine taş (yağıdrğan bir fırtına) yolladıq. Ancaq, Luut ailesi istisna, qatımızdan bir nimet olaraq, olarnı saar vaqtında qurtardıq. Biz şukür etkenni, işte boyle mukâfatlandırırmız.
+34. Biz de ustlerine taş (yağıdrğan bir fırtına) yolladıq. Ancaq, Luut ailesi istisna, qatımızdan bir nimet olaraq, olarnı saar vaqtında qurtardıq. Biz şukür etkenni, işte boyle mukâfatlandırırmız.
+35. [34 ayetine baq.]
 36. Ant olsun ki, Luut olarnı bizim şiddetli azabımıznen tenbiyeledi. Faqat bular bu tehdidlerni şubenen qarşıladılar.
 
 37. Olar Luutnıñ musafirlerine nisbeten yamanlıq yapmaqnı qararlaştırğan ediler. Aman biz olarnıñ kozlerini silme kor ettik. «Aydı, azabımnı ve tenbiyelerimni tatıñ!» (dedik). (Luutnıñ qavmı; yaş yigitler şeklinde Az. Luutqa kelgen meleklerge tecavuz yapmaq istegen ediler).
@@ -7070,14 +7275,18 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 51. Ant olsun, biz, sizge beñzegenlerni ep elâk ettik. Tüşünip, ibret alğan yoqmı?
 52. Yapqan er şeyleri kitaplarda (amel defterlerinde) mevcuttır.
 53. Kuçük-buyuk er şey satır-satır yazılğandır. (Buña kore, melekler yapılğanlarnı amel defterlerine qayd etmektedirler. Areket ve davranışnıñ, gunah ve savapnıñ episi levh-i mahfezda qayd etilgendir).
-54-55. Taqva saipleri cennetlerde ve irmaqlarnıñ kenarlarında, kuçlü ve Yuce Allaһnıñ uzurında haq meclisindedirler.
+54. Taqva saipleri cennetlerde ve irmaqlarnıñ kenarlarında, kuçlü ve Yuce Allaһnıñ uzurında haq meclisindedirler.
+55. [54 ayetine baq.]
 
 # 55. er-PAXMAAH
 
 Mekkede engen. 78 ayettir. İlk kelime olğan «er-rahmaan» surege ad olğan. Bu surede Allaһnıñ nimetleri sayıla. Bular sayılır eken, butün şuurlı varlıqlarğa hitaben: «O alda, Rabbiñizniñ nimetlerinden angisini yalanlamaqtasıñız?», manasındaki ayet sıqsıq tekrar etilir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-4. Rahmaan Qur’annı ogretti. İnsannı yarattı. Oña beyan etmekni ogretti.
+1. Rahmaan Qur’annı ogretti. İnsannı yarattı. Oña beyan etmekni ogretti.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
 5. Kuneş ve ay bir esapqa kore (areket etmekte)dir.
 6. Osümlikler ve terekler secde eterler. («Osümlikler» diye tercme etilgen «necm» kelimesi «yıldız» manasına da kelir).
 7. Kokni Allaһ yukseltti ve mizannı (olçüni) O qoydı. (Keçken ayetlerde bildirilgenine kore, ozüne laqırdı etüv ve tüşünüv hususiyetleri berilgen insan, diger canlılardan farqlıdır. Ay ve kuneş belgilengen ve bilingen bir olçüge kore, oz yollarında aqıp ketmekteler. Kok ve yer yaratılğan, aralarında musaviylik ve tertip teminlengen).
@@ -7219,18 +7428,21 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 9. Soldakiler, ne bahtsızdırlar olar!
 10. (Hayırda) ogde olğanlar, (ecirde de) ogdedirler.
 
-11-12. İşte bular, naim cennetlerinde (Allaһqa) eñ yaqın olğanlardır.
+11. İşte bular, naim cennetlerinde (Allaһqa) eñ yaqın olğanlardır.
+12. [11 ayetine baq.]
 13. (Olarnıñ) çoqu evelki ummetlerden,
 14. Bir azı da, soñrakilerdendir.
 
-15-16. Cevherlernen işlengen tahtlar uzerindedir, qarşı-qarşığa oturıp yaslanırlar. (Üqarıda keçken ayetlerde qıyamet ve ahiret ayatınıñ bir bolümi añlatılmaqta. Buña kore, ahirette insanlar uçv sınıfqa ayırılacaqlar. Bularnıñ ekisi cennetke, biri ceennemge kirecek. Cennetke kirecek «sağdakiler» - amel defterleri sağından berilecek bahtiyar mu’minler demektir. «Soldakiler» de - kitapları sollarından berilgen ve ceennemge kirecek olğan inkârcı ve gunahkâr kimselerdir. Cennetke kirecek o bir gruppanıñ adı da «ogciler»dir. Bular inanç ve amellerinen hayır yarışında ogde olğanlardır. Allaһqa eñ yaqın, ruhiy kemalatta eñ ileri seviyege irişken kimselerdir. Bularnıñ eñ maqbul toplumnı teşkil etkenleri Qur’an-ı Kerimde añlatılğan. Ayrıca, İslâmğa birinci kirgenler içün de, aynı termin qullanılır).
+15. Cevherlernen işlengen tahtlar uzerindedir, qarşı-qarşığa oturıp yaslanırlar. (Üqarıda keçken ayetlerde qıyamet ve ahiret ayatınıñ bir bolümi añlatılmaqta. Buña kore, ahirette insanlar uçv sınıfqa ayırılacaqlar. Bularnıñ ekisi cennetke, biri ceennemge kirecek. Cennetke kirecek «sağdakiler» - amel defterleri sağından berilecek bahtiyar mu’minler demektir. «Soldakiler» de - kitapları sollarından berilgen ve ceennemge kirecek olğan inkârcı ve gunahkâr kimselerdir. Cennetke kirecek o bir gruppanıñ adı da «ogciler»dir. Bular inanç ve amellerinen hayır yarışında ogde olğanlardır. Allaһqa eñ yaqın, ruhiy kemalatta eñ ileri seviyege irişken kimselerdir. Bularnıñ eñ maqbul toplumnı teşkil etkenleri Qur’an-ı Kerimde añlatılğan. Ayrıca, İslâmğa birinci kirgenler içün de, aynı termin qullanılır).
+16. [15 ayetine baq.]
 17. Çevrelerinde, (hızmet içün) olümsiz gençler dolaşır;
 18. Maiin çeşmesinden toldurılğan testiler, ıbrıqlar ve qadelernen.
 19. Bu şaraptan ne başları ağrıtılır, ne de aqılları coydırılır.
 20. (Olarğa) begengen meyvalarından,
 21. Canları istegen quş etlerinden,
 
-22-23. Saqlı incileri kibi, iri kozlü uriylerden,
+22. Saqlı incileri kibi, iri kozlü uriylerden,
+23. [22 ayetine baq.]
 24. Yapqanlarına qarşılıq olaraq (berilir).
 25. O yerde boş bir söz ve gunahqa soqqan bir laf eşitmezler.
 26. Söylenilecek yalıñız «selâm, selâm»dır. (Hayır yarışında ileri ketken reberlerniñ (saabiquunnıñ) qavuşacaq nimetlerine, yuqarıdaki ayetlerde de işaret etilgen. Bu nimetlerden biri de, asla eksilip bitmegen bir çoqraqtan aqqan ve ondan savutlar toldurılğan Maiin adlı cennet şarabıdır).
@@ -7240,18 +7452,21 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 30. Uzağan kolgeler,
 31. Şırıldayaraq aqqan suvlar,
 
-32-33. Tükenmegen ve yasaqlanmağan, sayısız meyvalar içindedirler.
+32. Tükenmegen ve yasaqlanmağan, sayısız meyvalar içindedirler.
+33. [32 ayetine baq.]
 34. Ve qabartılğan töşekler ustündedirler.
 35. Aqiqaten, biz uriylerni bam-başqa biçimde yañçıq yarattıq.
 
-36-37. Olarnı eşlerine fedakâr ve yaşdaş bakireler qıldıq.
+36. Olarnı eşlerine fedakâr ve yaşdaş bakireler qıldıq.
+37. [36 ayetine baq.]
 38. Butün bular sağdakiler içündir.
 39. Bularnıñ bir çoqu evelki ummetlerdendir.
 40. Bir çoqu da soñrakilerdendir. (Üqarıdaki ayetlerde sağdakilerniñ cennetteki ayatları añlatılmaqta. Ayetlerniñ tefsirinde cennet ehliniñ otuz ya da otuz uçv yaşında gençler olaraq cennetke kirecekleri, uriylerniñ, doğuv adisesi olmadan, yaratılacaqları ya da dünyadaki ihtiyar qadınlarnıñ, bakire qızlar alına ketirilecekleri rivayetleri mevcuttır).
 
 41. Soldakiler; ne yazıq o soldakilerge!
 42. İçlerini yaqqan bir ateş ve qaynağan suv içinde,
-43-44. Serin ve hoş olmağan qap-qara dumandan bir kolge altındadırlar;
+43. Serin ve hoş olmağan qap-qara dumandan bir kolge altındadırlar;
+44. [43 ayetine baq.]
 45. Çünki, olar bundan evel varlıq içinde sefağa dalğan ediler.
 46. Buyuk gunahnı işlemekte tirelip tura ediler.
 47. Ve dey ediler ki: Biz olgenden, topraq ve kemik obası alına kelgenden soñ, biz bir daa tirilecekmizmi?
@@ -7285,7 +7500,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 75. Yoq! Yıldızlarnıñ yerlerine yemin eterim ki, (Bugunki kunde bilim araştıruvları neticesinde bu ayette semadaki «qara delikler»ge işaret etilgeni yorumlanmaqta).
 76. Bilir iseñiz, aqiqaten bu, buyuk bir yemindir.
 
-77-78. Şubesiz, bu, muafaza etilgen bir kitapta bulunğan degerli bir Qur’andır.
+77. Şubesiz, bu, muafaza etilgen bir kitapta bulunğan degerli bir Qur’andır.
+78. [77 ayetine baq.]
 79. Oña, ancaq temizlengenler toquna bilir. (Ayette keçken kitapnıñ elimizdeki mushaf ya da levh-i mahfezdaki aslı olğanı söylengen. Mushaf olğanı yolundaki yorumğa kore, Kur’annıñ abdestsiz elge alınmaycağına uküm etilgen. Qur’an abdestsiz tutulmaz, faqat ezberden oqula bilir. Cünüp kimse ise, Qur’anğa el tiydirmegeni kibi, ezberden de oquyalmaz).
 80. O, alemlerniñ Rabbinden endirilgendir.
 81. Şimdi siz bu sözge emiyet bermemektesiñizmi?
@@ -7567,7 +7783,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Ey, Peyğamber! Qadınlarnı ayıracağıñızda, olarnı iddetlerini kozeterek ayırıñ ve iddetni de sayıñ. Rabbiñiz Allaһtan qorquñ. Ap-açıq bir ayasızlıq yapuvları alı bir taraftan, olarnı evlerinden çıqarmañ, ozleri de çıqmasınlar. Bular Allaһnıñ sıñırlarıdır. Kim Allaһnıñ sıñırlarını keçse, şubesiz, ozüne zulum etken olur. Bilalmazsıñ, belki, Allaһ bundan soñ bir alnı ortağa çıqara qoyar. (Ayette, Az.Peyğamberge hitap etilse de, uküm umumiydir, butün ummetke aittir. Ayetke kore, ayırılması istengen qadınlar, iddetleri diqqatqa alınaraq, adetten temizlengenlerinden soñ ayırılır. Ayırılğan qadınnıñ da, iddetine riayet etilir, yani uç hayz ya da temizlenüv muddeti tamamlanmadan, -ric’ıy talaqta- qoca qadınına qayta bilir. Bu muddet tolğandan soñ, ayırılmaq kesen-kesleşir. Ayırılğan qadınlarğa zarar bermemek ayette beyan etilgen uzür ortağa çıqmağance, iddetleri bitkenge qadar, evde qaluvları teminlenir. Ayette bu muddet içün de yañı bir vaziyet ortağa çıqa bilecegi hatırlatılmaqta ki, bu nefretniñ sevgige dönüvi, peşmanlıqnıñ yuz berüvi ve çiftler arasında uzlaşuvnıñ meydanğa kelüvidir. Aslında bir hadiste bildirilgenine kore, ayırmaq, elâl olmaqnen beraber, Allaһ begenmegen bir elâldır).
-2-3. İddet muddetlerini toldırğanlarında, olarnı ya diniy olçüler içerisinde (nikâhıñız altında) tugıñ, ya da olardan diniy olçülerge kore ayırılıñ. Arañızdan adalet saibi eki adamnı da şaat tutıñ. Şaatlıqnı Allaһ içün yapıñ. İşte, bu Allaһqa ve ahiret kunüne inanğanlarğa berilgen ogüttir. Kim Allaһtan qorqsa, Allaһ oña bir çıqış yolu ihsan eter ve oña beklemegen yerinden rızıq berir. Kim Allaһqa işansa, O, oña yeter. Şubesiz, Allaһ emrini yerine ketiricidir. Allaһ er şey içün bir olçü qoyğandır. (Ayet beklev muddetiniñ soñuna yaqlaşqan qadınnen bağlı olaraq, qocası yapacaq işlerini sıralay. Bular, ya tekrar almaq, ya da cezalandırıp, zararğa soqmadan ayırmaqtır. Er eki vaziyette de, eki şaat olması şart. Yuqaradaki ayetlerde keçken talaaqnen bağlı emirler boyle beyan etile bilir: Ayıruvnı sunnetke uyğun şekilde yapmaq, iddetni saymaq, qadınnı evinden çıqarmamaq, ayıruv sırasında şaat tutmaq, şaatlıqnı haq olçüleri içinde yapmaq).
+2. İddet muddetlerini toldırğanlarında, olarnı ya diniy olçüler içerisinde (nikâhıñız altında) tugıñ, ya da olardan diniy olçülerge kore ayırılıñ. Arañızdan adalet saibi eki adamnı da şaat tutıñ. Şaatlıqnı Allaһ içün yapıñ. İşte, bu Allaһqa ve ahiret kunüne inanğanlarğa berilgen ogüttir. Kim Allaһtan qorqsa, Allaһ oña bir çıqış yolu ihsan eter ve oña beklemegen yerinden rızıq berir. Kim Allaһqa işansa, O, oña yeter. Şubesiz, Allaһ emrini yerine ketiricidir. Allaһ er şey içün bir olçü qoyğandır. (Ayet beklev muddetiniñ soñuna yaqlaşqan qadınnen bağlı olaraq, qocası yapacaq işlerini sıralay. Bular, ya tekrar almaq, ya da cezalandırıp, zararğa soqmadan ayırmaqtır. Er eki vaziyette de, eki şaat olması şart. Yuqaradaki ayetlerde keçken talaaqnen bağlı emirler boyle beyan etile bilir: Ayıruvnı sunnetke uyğun şekilde yapmaq, iddetni saymaq, qadınnı evinden çıqarmamaq, ayıruv sırasında şaat tutmaq, şaatlıqnı haq olçüleri içinde yapmaq).
+3. [2 ayetine baq.]
 4. Qadınlarıñız arasından adetten kesilmiş olğanlarnen, adet kormegenler hususında şube etseñiz, olarnıñ beklemek muddetleri uç aydır. Yuklü olğanlarnıñ beklemek muddeti ise, yuklerini bıraquvları (doğuruvları)dır. Kim Allaһtan qorqsa, Allaһ oña işinde bir qolaylıq berir.
 5. İşte, bu Allaһnıñ sizge endirgen emridir. Kim Allaһtan qorqsa, Allaһ onıñ yamanlıqlarını qapatır ve onıñ mukâfatını arttırır.
 6. Olarnı kuçüñiz olçüsinde oturğan yeriñizniñ bir bolüminde oturtıñ, olarnı sıqıştırıp (ketüvlerini teminlemek içün), olarğa zarar bermege qalqışmañ. Eger yuklü iseler, doğurğanlarına qadar nefaqalarını beriñ. Siz içün balanı emizseler, olarğa aqlarını beriñ, arañızda uyğun bir şekilde añlaşıñ. Eger añlaşalmasañız, balanı başqa bir qadın emizecek.
@@ -7680,23 +7897,33 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Mekkede nazil olğan, 52 ayettir. «Nuun» suresi diye de anılır. Adını ilk ayetindeki «qalem» kelimesinden alğan.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-2. Nuun. Qalemge ve (qalem tutqanlarnıñ) yazğanlarına ant olsun ki, (Resulım), sen Rabbiñniñ nimeti sayesinde- mecnun degilsiñ. («Nuun», bir fikrge kore, eca ariflerindendir, manasını yalıñız Allaһ bilir. Bunıñ manasını bermek ceetine barğanlar ise, daa ziyade «Hoqqa» kelimesinen manalandırğanlar. Boylece, bu yerdeki yemin hoqqanen qalemge ve qalemnen yazılğanlarğa etilmektedir. Bu sureden evel nazil olğan Alâq suresinde de, oqumağa diqqat çekilgeni bu mananı tasdiqlamaqta. Muşriklerniñ evelleri Az.Peyğamberni deli-divane degenlerine cevap olğan 2nci ayette ise, Resul-ı Ekremniñ Allaһnıñ nimeti ile Peyğamberlik mertebesine iriikeni beyan etilmekte ve zaten er çeşit kemalat alâmetleri ozünde mevcut olğan Az.Peyğamberge nisbeten bu iftirada bulunğan muşriklerniñ yalancılıqları yuzlerine urulmaqta).
+1. Nuun. Qalemge ve (qalem tutqanlarnıñ) yazğanlarına ant olsun ki, (Resulım), sen Rabbiñniñ nimeti sayesinde- mecnun degilsiñ. («Nuun», bir fikrge kore, eca ariflerindendir, manasını yalıñız Allaһ bilir. Bunıñ manasını bermek ceetine barğanlar ise, daa ziyade «Hoqqa» kelimesinen manalandırğanlar. Boylece, bu yerdeki yemin hoqqanen qalemge ve qalemnen yazılğanlarğa etilmektedir. Bu sureden evel nazil olğan Alâq suresinde de, oqumağa diqqat çekilgeni bu mananı tasdiqlamaqta. Muşriklerniñ evelleri Az.Peyğamberni deli-divane degenlerine cevap olğan 2nci ayette ise, Resul-ı Ekremniñ Allaһnıñ nimeti ile Peyğamberlik mertebesine iriikeni beyan etilmekte ve zaten er çeşit kemalat alâmetleri ozünde mevcut olğan Az.Peyğamberge nisbeten bu iftirada bulunğan muşriklerniñ yalancılıqları yuzlerine urulmaqta).
+2. [1 ayetine baq.]
 3. İç şubesiz, sen içün bitmegen-tükenmegen bir mukâfat bar.
 4. Ve sen, elbette yuce bir ahlâq uzerindesiñ.
 
-5-6. Angiñizde delilik olğanını yaqında sen de koreceksiñ, olar da.
+5. Angiñizde delilik olğanını yaqında sen de koreceksiñ, olar da.
+6. [5 ayetine baq.]
 7. Doğrusı, Rabbiñ oz yolundan sapqan insannı eñ yahşı bilicidir, hidayetke irişkenlerni de eñ yahşı bilici Odır.
 8. O alda, (aqiqatnı) yalan sayğanlarğa boyun egme!
 9. Olar isterler ki, sen yımşaq davransañ da, olar da saña yımşaq davransınlar. (Muşriklerniñ Resulullahtan tevhid kureşinde yımşaq davranuvı meselesindeki isteklerine işaret etilmekte).
-10-14. (Resulım!) Çoq yemin etken, menfur, daima qusur qıdırıp, tenqit etken, toqtamadan laf taşığan, yahşılıqqa ep mani olğan, tecavuzkâr, gunahqa tatınğan, qaba ve sert, butün bulardan soñ, bir de soyzızlıqnen tamğalanğan kimselerden iç birine, malı ve oğulları bardır diye, saqın boyun egme.
+10. (Resulım!) Çoq yemin etken, menfur, daima qusur qıdırıp, tenqit etken, toqtamadan laf taşığan, yahşılıqqa ep mani olğan, tecavuzkâr, gunahqa tatınğan, qaba ve sert, butün bulardan soñ, bir de soyzızlıqnen tamğalanğan kimselerden iç birine, malı ve oğulları bardır diye, saqın boyun egme.
+11. [10 ayetine baq.]
+12. [10 ayetine baq.]
+13. [10 ayetine baq.]
+14. [10 ayetine baq.]
 15. Oña ayetlerimiz oqulğan vaqıtta o: «Evelkelerniñ masalları!», der.
 16. Biz yaqında onıñ burnuna tamğa uracaqmız (Kibrini qırıp, rezil etecekmiz).
 
-17-18. Biz vaqtı ile «bağça saipleri»ne belâ bergenimiz kibi, olarğa da belâ berdik. O vaqıtta olar (bağça saipleri), saba olğanda (kimse kormeden) onı (mahsullarnı) toplaycaqlarına yemin etken ediler. Olar istisna da etmey ediler. («İnşaallaaһ» demey ediler ya da yoqsullarnıñ payını ayırmay ediler).
-19-20. Faqat olar daa yuquda olğanda, Rabbiñniñ qatından (öllanğan) quşatıcı bir afat (ateş) bağçanı sara qoydı da, bağça qap-qara kesildi.
-21-22. (Bu tarafta ise) olar, saba olğanınen: Madem toplaycaqsıñız, aydı, erte-yarıq mahsulıñıznıñ başına barıñ! diye bir-birilerine seslendiler.
+17. Biz vaqtı ile «bağça saipleri»ne belâ bergenimiz kibi, olarğa da belâ berdik. O vaqıtta olar (bağça saipleri), saba olğanda (kimse kormeden) onı (mahsullarnı) toplaycaqlarına yemin etken ediler. Olar istisna da etmey ediler. («İnşaallaaһ» demey ediler ya da yoqsullarnıñ payını ayırmay ediler).
+18. [17 ayetine baq.]
+19. Faqat olar daa yuquda olğanda, Rabbiñniñ qatından (öllanğan) quşatıcı bir afat (ateş) bağçanı sara qoydı da, bağça qap-qara kesildi.
+20. [19 ayetine baq.]
+21. (Bu tarafta ise) olar, saba olğanınen: Madem toplaycaqsıñız, aydı, erte-yarıq mahsulıñıznıñ başına barıñ! diye bir-birilerine seslendiler.
+22. [21 ayetine baq.]
 
-23-24. Derken: Aman, bugun o yerde iç bir yoqsul yanıñızğa soqulmasın! diye fısıldaşafısıldaşa yolğa qoyuldılar.
+23. Derken: Aman, bugun o yerde iç bir yoqsul yanıñızğa soqulmasın! diye fısıldaşafısıldaşa yolğa qoyuldılar.
+24. [23 ayetine baq.]
 25. (Ebet, yoqsullarğa yardımğa) kuçleri yetkeni alda, olarnı yardımdan mahrum etmek niyeti ve azmi ile erte yolğa tüştiler.
 26. Faqat bağçanı korgenlerinde: mıtlaqa yolumıznı şaşırğan olmalımız! dediler.
 (Yañlış yerge kelmegenlerini añlağanlarınen de, boyle dediler:)
@@ -7757,18 +7984,24 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 11. Şubesiz, suv basqan vaqıtta, sizni gemide biz taşıdıq;
 
 12. Onı siz içün bir ibret ve ogüt yapayıq ve añlayışlı qulaqlar onı añlayaraq saqlasın diye. (Nuһ tufanına ve Nuһ (a.s.)nıñ gemisine işaret etilmekte. «Sizni taşıdıq», «Siziñ atalarñıznı qurtardıq; olarnı qurtarmasa edik, sizler de ayat bulamaycaq ediñiz», manasındadır).
-13-15. Artıq Suurğa bir defa uflengen, yer yuzü ve dağlar koterilip bir-birine bir çarpışnen çarpılıp, darma-dağın etilgen vaqıtta, işte o kunü olacaq olur (qıyamet qopar).
+13. Artıq Suurğa bir defa uflengen, yer yuzü ve dağlar koterilip bir-birine bir çarpışnen çarpılıp, darma-dağın etilgen vaqıtta, işte o kunü olacaq olur (qıyamet qopar).
+14. [13 ayetine baq.]
+15. [13 ayetine baq.]
 
 16. Kok de yarılır ve artıq o kunü o, çökmege yuz tutar.
 
 17. Melekler onıñ (kokniñ) etrafındadır. O kunü Rabbiñniñ arşını, bularnıñ da ustünde sekiz (melek) yuklenir. («Arş» içün һuud suresiniñ 7-nci ayeti izaatına baq.).
 
 18. (Ey, insanlar!) O kunü (esap içün) uzurğa alınırsıñız; sizge ait iç bir sır gizli qalmaz.
-19-20. Kitabı sağ tarafından berilgen: Alıñ, kitabımnı oquñ; doğrusı men, esabımnen qarşılaşacağımnı, zaten bile edim, der.
-21-23. Artıq o, meyvaları sarqqan yuce bir cennette hoşnut qalacaq bir ayat içindedir.
+19. Kitabı sağ tarafından berilgen: Alıñ, kitabımnı oquñ; doğrusı men, esabımnen qarşılaşacağımnı, zaten bile edim, der.
+20. [19 ayetine baq.]
+21. Artıq o, meyvaları sarqqan yuce bir cennette hoşnut qalacaq bir ayat içindedir.
+22. [21 ayetine baq.]
+23. [21 ayetine baq.]
 
 24. (Olarğa denilir ki:) Keçken kunlerde işlegenleriñizge (yahşı amelleriñizge) qarşılıq afiyetnen aşañ, içiñ.
-25-26. Kitabı sol tarafından berilgenge kelgende, o: Keşke, der, maña kitabım berilmese edi de, esabımnıñ ne olğanını bilmese edim!
+25. Kitabı sol tarafından berilgenge kelgende, o: Keşke, der, maña kitabım berilmese edi de, esabımnıñ ne olğanını bilmese edim!
+26. [25 ayetine baq.]
 
 27. Keşke, onıñnen (olümimnen) er iş olup bitse edi!
 
@@ -7789,8 +8022,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 35. Bu sebepnen, bugun bu yerde onıñ bir can dostu yoqtır.
 
-36-37. Ancaq, gunahkârlarnıñ aşağan qanlı irinden başqa aşaycağı da yoqtır.
-38-39. Kore bilgenleriñiz ve koralmağanlarıñız uzerine yemin eterim ki,
+36. Ancaq, gunahkârlarnıñ aşağan qanlı irinden başqa aşaycağı da yoqtır.
+37. [36 ayetine baq.]
+38. Kore bilgenleriñiz ve koralmağanlarıñız uzerine yemin eterim ki,
+39. [38 ayetine baq.]
 
 40. İç şubesiz, o (Qur’an), çoq şerefli bir elçiniñ sözüdir. (Sözniñ asıl saibi, şubesiz, Cenab-ı Allaһtır. Elçi (Peyğamber ya da Cebrail) vastasınen tebliğ etilgeninden, «söz» elçige nisbet berilgen).
 41. Ve o, bir şair sözü degil. Ne de az iman etmektesiñiz!
@@ -7811,7 +8046,9 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Mekkede nazil olğan bu sure 44 ayettir. Adını uçünci ayetindeki «el-meaaric» kelimesinden alğan. Meaaric «ma’rec»niñ çoqluğı olup, «ükselüv dereceleri» demektir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-3. Birisi, yukselüv dereceleriniñ saibi olğan Allaһ qatından inkârcılarğa kelecek olğan ve iç kimse mani olalmaycaq azapnı istedi! (Bu yerde qıyametni ve ahiret azabını alayğa alp, Az.Peyğamberden bir an evel onı ketirmesini istegen Nadr b. Haris ve Ebu Cehil kibi muşriklerge işaret etilmekte).
+1. Birisi, yukselüv dereceleriniñ saibi olğan Allaһ qatından inkârcılarğa kelecek olğan ve iç kimse mani olalmaycaq azapnı istedi! (Bu yerde qıyametni ve ahiret azabını alayğa alp, Az.Peyğamberden bir an evel onı ketirmesini istegen Nadr b. Haris ve Ebu Cehil kibi muşriklerge işaret etilmekte).
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
 4. Melekler ve Ruh (Cebrail), o yerge, miqdarı (dünya senesi ile) elli biñ yıl olğan bir kunde yukselip çıqar. (Ayetteki «kun»niñ manası içün baq. Secde, 32/5-niñ izaatı).
 5. (Resulım!) Şimdi sen guzelce sabır et.
 6. Doğrusı, olar, o azapnı (itimaldan) uzaq kormekteler.
@@ -7820,32 +8057,44 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 9. Dağlar da atılğan yunge döner.
 10. Dost, dostnı soramaz.
 
-11-14. Bir-birilerine kosterilirler (faqat er kes oz derdinendir). Gunahkâr kimse ister ki, o kunniñ azabından (qurtulış içün), oğullarını, qadınını, qardaşını, ozüni qorçalap sığındırğan (barındırğan) butün ailesini ve yer yuzünde kim bar ise, episini fidye olaraq bersin de, tek ozüni qurtarsın.
+11. Bir-birilerine kosterilirler (faqat er kes oz derdinendir). Gunahkâr kimse ister ki, o kunniñ azabından (qurtulış içün), oğullarını, qadınını, qardaşını, ozüni qorçalap sığındırğan (barındırğan) butün ailesini ve yer yuzünde kim bar ise, episini fidye olaraq bersin de, tek ozüni qurtarsın.
+12. [11 ayetine baq.]
+13. [11 ayetine baq.]
+14. [11 ayetine baq.]
 15. Faqat mumkünmi! Bilinmeli ki, o (ceennem) alevlengen bir ateştir.
 16. Terilerni qavurıp sıdırır. («Terilerini» diye mana berilgen «şevaa» esasen qafa terisi demektir. Vucutnıñ, baş, el, ayaq kibi uc azaları manasına da kele).
-17-18. Yuz çevirip, keri döngen, (servet) toplap yığğan kimseni (ozüne) çağırır!
+17. Yuz çevirip, keri döngen, (servet) toplap yığğan kimseni (ozüne) çağırır!
+18. [17 ayetine baq.]
 19. Aqiqaten, insan pek hırslı (ve sabırsız) yaratılğandır.
 20. Oña yamanlıq toqunğanda, sızlanır, feryad eter.
 21. Oña imkân berilgende ise, saran kesilir.
 
-22-23. Ancaq bular oyle degildir: Namaz qılğanlar, ki olar namazlarında devamlıdırlar
+22. Ancaq bular oyle degildir: Namaz qılğanlar, ki olar namazlarında devamlıdırlar
+23. [22 ayetine baq.]
 (tenbellik etmezler;)
-24-25. Mallarında, istegenge ve (istep olalmağanı içün) mahrum qalğanğa belli bir aq tanığanlar;
+24. Mallarında, istegenge ve (istep olalmağanı içün) mahrum qalğanğa belli bir aq tanığanlar;
+25. [24 ayetine baq.]
 26. Ceza (ve esap) kunüniñ doğrulığına inanğanlar;
 
-27-28. Rabbleriniñ azabından qorqqanlar, ki Rabbleriniñ azabı(na qarşı) emin olunamaz;
-29-31. Irızlarını qorçalağanlar -ancaq qadınlarına ve cariyelerine qarşı istisna; çünki, olar azarlanmaz; bundan başqağa (keçmek) istegenler ise, olar adden aşqanlarnıñ tam ozleridir-;
+27. Rabbleriniñ azabından qorqqanlar, ki Rabbleriniñ azabı(na qarşı) emin olunamaz;
+28. [27 ayetine baq.]
+29. Irızlarını qorçalağanlar -ancaq qadınlarına ve cariyelerine qarşı istisna; çünki, olar azarlanmaz; bundan başqağa (keçmek) istegenler ise, olar adden aşqanlarnıñ tam ozleridir-;
+30. [29 ayetine baq.]
+31. [29 ayetine baq.]
 32. Emanetlerine ve ahtlarına riayet etkenler;
 33. Şaatlıqlarını (dos-doğru) yapqanlar;
 34. Namazlarını qorçalağanlar;
 35. İşte, bular cennetlerde ikramğa nail olğanlardır. (Maqbul qullarnıñ hususiyetleri sayılır eken, başında ve soñunda namazğa yer berilüvi, namaznıñ muimligini açıq bir şekilde ortağa qoymaqta. 22 ve 23nci ayetlerde namazğa devam etmek ve bu meselede tenbellik kostermemek noqtasına işaret etilgen edi; 34-nci ayette ise, namaznıñ butün aqlarını bermekniñ, yani bir taraftan, erkânı ve edebine riayet etmekniñ, diger taraftan, namaz tışındaki davranışlarında da, namaznıñ qazandırğan ulviy hısletlerini qorçalamaqnıñ muimligine işaret etile).
-36-37. (Resulım!) O kâfirlerge ne olmaqta ki, top-top sağdan ve soldan saña doğru çapışmaqtalar.
+36. (Resulım!) O kâfirlerge ne olmaqta ki, top-top sağdan ve soldan saña doğru çapışmaqtalar.
+37. [36 ayetine baq.]
 38. Olardan er biri nimet cennetine qoyulacağını umüt etemi? (Muşrikler top-top kelerek, Az.Peyğamberniñ etrafındakilerniñ arasına qarışa, onıñ sözlerini diñlep: «Eger bular, Muһammedniñ degeni kibi, cennetke kirecek isler, biz, elbette olardan evel cennetke kirermiz», diye alay ete ediler).
 39. Yoq (iç umüt etmesinler!) Şubesiz, biz olarnı, ozleriniñ de bilgen şeylerinden yarattıq (faqat ibret almadılar, imanğa kelmediler).
 
-40-41. O alda, (işniñ kerçegi) oyle (umüt etkenleri kibi) degil! Şarqlarnıñ ve ğarplarnıñ Rabbine yemin eterim ki, şubesiz, olarnıñ yerine daa yahşılarını ketirmege bizim kuçümiz yeter. Ve kimse bizim ogümizge keçalmaz.
+40. O alda, (işniñ kerçegi) oyle (umüt etkenleri kibi) degil! Şarqlarnıñ ve ğarplarnıñ Rabbine yemin eterim ki, şubesiz, olarnıñ yerine daa yahşılarını ketirmege bizim kuçümiz yeter. Ve kimse bizim ogümizge keçalmaz.
+41. [40 ayetine baq.]
 42. Amma, sen olarnı (şimdilik) bıraq da, tehdid etilgen kunlerine qavuşqanğace dalsınlar, oynay tursınlar.
-43-44. O kunü olar, sanki tiklengen bir şeyge çapışqan kibi, kozleri horluqtan aşağı engen ve ozleri zilletke burüngen bir alda qabirlerinden fırlap-fırlap çıqarlar. İşte, bu, olarnıñ tehdid etile kelgen kunleridir! («Tikilgen şey» tabınmaq içün tiklengen putlar ya da er angi bir nişan olaraq tefsir etilmekte).
+43. O kunü olar, sanki tiklengen bir şeyge çapışqan kibi, kozleri horluqtan aşağı engen ve ozleri zilletke burüngen bir alda qabirlerinden fırlap-fırlap çıqarlar. İşte, bu, olarnıñ tehdid etile kelgen kunleridir! («Tikilgen şey» tabınmaq içün tiklengen putlar ya da er angi bir nişan olaraq tefsir etilmekte).
+44. [43 ayetine baq.]
 
 # 71. NUһ
 
@@ -7854,7 +8103,9 @@ Mekkede nazil olğan; 28 ayettir. Az. Nuһnıñ ilâhiy elçi olaraq yollanıluv
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Olarğa yaqıcı bir azap kelmeden evel, qavmıñnı tenbiyele, diye Nuһnı oz qavmına yolladıq.
-2-4. Nuһ boyle dedi: Ey, qavmım! Şubeñiz olmasın ki, men sizni «Allaһqa qullıq etiñ; oña qarşı kelüvden saqınıñ ve maña itaat etiñ ki, Allaһ bir qısım gunahlarıñıznı bağışlasıñ ve sizni belli bir vadege qadar keçiktirsin (esapqa çekmeden yaşatsın)» diyerek, ap-açıq tenbiyelegen bir kimseyim. Bilinmeli ki, Allaһnıñ tayin etken vadesi kelgeninen, artıq o keçiktirilmez. Keşke bilse ediñiz! («Bir qısım gunahlarıñıznı»» denilir eken, imanğa kelmeden, evelki gunahlarnını ya da qul aqqından ğayrı gunahlarnıñ kozde tutulğanı tefsirlerde beyan etilgen).
+2. Nuһ boyle dedi: Ey, qavmım! Şubeñiz olmasın ki, men sizni «Allaһqa qullıq etiñ; oña qarşı kelüvden saqınıñ ve maña itaat etiñ ki, Allaһ bir qısım gunahlarıñıznı bağışlasıñ ve sizni belli bir vadege qadar keçiktirsin (esapqa çekmeden yaşatsın)» diyerek, ap-açıq tenbiyelegen bir kimseyim. Bilinmeli ki, Allaһnıñ tayin etken vadesi kelgeninen, artıq o keçiktirilmez. Keşke bilse ediñiz! («Bir qısım gunahlarıñıznı»» denilir eken, imanğa kelmeden, evelki gunahlarnını ya da qul aqqından ğayrı gunahlarnıñ kozde tutulğanı tefsirlerde beyan etilgen).
+3. [2 ayetine baq.]
+4. [2 ayetine baq.]
 
 5. (Soñ Nuһ:) Rabbim! dedi, doğrusı, men qavmımnı gece-kundüz (imanğa) davet ettim.
 
@@ -7884,7 +8135,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 18. Soñ sizni kene o yerge döndürecek ve sizni yañıdan çıqaracaq.
 
-19-20. Allaһ, onda keniş yollar tutıp, dolaşa bilesiñiz diye, yer yuzüni siz içün bir sergi yapqan.
+19. Allaһ, onda keniş yollar tutıp, dolaşa bilesiñiz diye, yer yuzüni siz içün bir sergi yapqan.
+20. [19 ayetine baq.]
 21. (Ogütleriniñ fayda bermegeni uzerine) Nuһ: Rabbim! dedi, doğrusı, bular maña qarşı çıqtılar da, malı ve balası oz ziyanını arttıruvdan başqa işke yaramağan kimsege uydılar. (Az. Nuһ qavmınıñ malı, şanı ve evlâdı ile ğururlanğan adamlarnıñ aşşalıq yollarına uyuvlarından şikâyet ete edi).
 22. Bular da, buyuk iyleler, buyuk tuzaqlar qurdılar!
 23. Ve dediler ki: Saqın ilâhlarıñıznı bıraqmañ; Vedden, Suaadan, Yeguustan, Yeuuqtan ve Nesirden asla vazgeçmeñ! (Bular o qavm tabınğan eñ muim putlarnıñ adları edi).
@@ -7897,7 +8149,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Mekkede nazil olğan, 28 ayettir. Cinlerniñ Qur’an diñlep, hidayetke kelgenleri añlatılğanı sebebinden, sure bu ismni alğan. Az. Peyğamber emcesi Ebu Talip ve qadını Az. Haticeni ğayıp etkenden soñ, Taifke ketken, o yerde çirkin davranışlarğa rastkelgen edi. Bu sıralarda Qureyş muşrikleri de, musulmanlarğa nisbeten duşmanlıqlarını yahşıca arttırğan ediler. İşte, Taiften qaytqanda nazil olaraq, Resul-ı Ekremge teselli bergen bu sure, yalıñız insanlarnıñ degil, cinlerniñ de, Qur’anğa tabiy olğanlarını bildirmekte, İslâmnıñ muzafferiyetini mujdelemekte edi.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-2. (Resulım!) De ki: Cinlerden bir toplulıqnıñ (men oqğan Qur’annı) diñlep de, boyle söylegenleri maña vahiy olunğandır: Aqiqaten, biz doğru yolğa qavuştırğan alelhusus guzel bir Qur’an diñledik de, oña iman ettik. (Artıq) kimseni Rabbimizge asla ortaq qoşmaycaqmız. (Az. Peyğamberniñ Taiften qaytqanda Batn-ı Nahli denilgen yerde qıldırğan saba namazı vaqtında tilge alınğan cinler Qur’annı eşitken, diñlegen ediler. Tefsirler bu sırada Az. Peyğamberniñ olarnı kormegenini, vaziyetniñ soñunda bu ayetlernen oña beyan etilgenini añlatmaqta).
+1. (Resulım!) De ki: Cinlerden bir toplulıqnıñ (men oqğan Qur’annı) diñlep de, boyle söylegenleri maña vahiy olunğandır: Aqiqaten, biz doğru yolğa qavuştırğan alelhusus guzel bir Qur’an diñledik de, oña iman ettik. (Artıq) kimseni Rabbimizge asla ortaq qoşmaycaqmız. (Az. Peyğamberniñ Taiften qaytqanda Batn-ı Nahli denilgen yerde qıldırğan saba namazı vaqtında tilge alınğan cinler Qur’annı eşitken, diñlegen ediler. Tefsirler bu sırada Az. Peyğamberniñ olarnı kormegenini, vaziyetniñ soñunda bu ayetlernen oña beyan etilgenini añlatmaqta).
+2. [1 ayetine baq.]
 3. Aqiqat şu ki, Rabbimizniñ şanı çoq yucedir. O, ne eş, ne de bala edingendir.
 4. Doğrusı, bizim fikrsizlerimiz (İblis ya da yoldan azğan cinler), Allaһ aqqında adden ziyade yalanlar uydurmaqta eken.
 5. Albuki, biz, ister insanlar, ister cinler, Allaһ aqqında asla yalan söylemezler, bellegen edik.
@@ -7912,7 +8165,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 14. Aramızda, (Allaһqa) teslimiyet kostergenler de bar, haq yoldan sapqanlar da bar. Teslimiyet kostergen kimseler, doğru yolnı qıdırğanlardır.
 15. Haq yoldan sapqanlarğa kelgende, olar ceennemge odun olğanlardır.
 (Cinlerniñ bu sözlerini Resulına haber bergenden soñ, Allaһ Taalâ boyle buyurır:)
-16-17. Eger doğru yolda yurseler edi, bu hususta ozlerini sınamamız içün, olarğa bol suv berir edik. Kim Rabbiniñ zikrinden yuz çevirse, (Rabbiñ) onı ket-kete artqan çetin bir azapqa oğratır.
+16. Eger doğru yolda yurseler edi, bu hususta ozlerini sınamamız içün, olarğa bol suv berir edik. Kim Rabbiniñ zikrinden yuz çevirse, (Rabbiñ) onı ket-kete artqan çetin bir azapqa oğratır.
+17. [16 ayetine baq.]
 18. Mescitler şubesiz Allaһnıñdır. O alda, Allaһnen birlikte başqa kimsege yalvarmañ (ve qullıq etmeñ). (Ayetteki «mescitler» kelimesi şu şekillerde tefsir etilgen: 1). Namaz qılmaq içün qurulğan yerler; 2). Namaz ve ibadet yalıñız camilerge ve belli yerlerge ait olmağanından, butün yer yuzü; 3). Butün mescitlerniñ qıblası olğanından, «Mescid-i Haram»; 4). Secdede yerge toqunğan azalar. Bu ayette hristianlarnıñ kilselerine ve yeudiylerniñ havralarına kirgen vaqıtlarında, yapqanları kibi, Allaһqa ortaq tutulmaması hatırlatılmaqta).
 19. Allaһnıñ qulı, Oña yalvarmağa (namazğa) qalqqanınen, aman-aman, onıñ etrafında kiyiz kibi, bir-birilerine kirişecek ediler. (Resul-ı Ekrem namazğa qalqqanınen, cinler Qur’annı diñlemek isteginen birbirine yapışqan vaziyette, onıñ etrafında toplana ediler. Bu ayet içün putperest insanlarnıñ ve cinlerniñ Az. Peyğamberniñ dinini yoq etüv ğayesinen birbirilerine sarılışqanları tefsiri de yapılğan).
 20. (Resulım!) De ki: Men ancaq Rabbime yalvarırım ve oña kimseni ortaq qoşmam.
@@ -7932,7 +8186,9 @@ Mekkede nazil olğan; 10, 11 ve 20-nci ayetleriniñ Medinede nazil olağanı riv
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Ey, ortünip burüngen (Resulım)! (İlk vahiy kelgenden soñ, Az. Peyğamber ilk kere Cebrailni aslıy şeklinen korgen, vucudını bir urkov ve titrev qaplağan. Doğru evine barıp, qadını Az. Haticege: «Meni ortüñ» degen. İşte, bu vaqianıñ artından Cebrail aleyhisselâm kene oña vahiynen kelgen ve Resul-ı Ekeremge şu şekilde hitap etken).
-2-4. Bir azı istisna, geceleri qalq, namaz qıl (geceniñ) yarısını (qıl). Yahut bunı biraz azalt, ya da çoqlaştır ve Qur’annı dane-dane oqu.
+2. Bir azı istisna, geceleri qalq, namaz qıl (geceniñ) yarısını (qıl). Yahut bunı biraz azalt, ya da çoqlaştır ve Qur’annı dane-dane oqu.
+3. [2 ayetine baq.]
+4. [2 ayetine baq.]
 5. Doğrusı, biz saña (taşıması) ağır bir söz vahiy etecekmiz.
 6. Şubesiz, gece qalqışı - (ürek ve azalar arasında) tam bir uyuvğa ve sağlam bir qıraatqa daa elverişlidir.
 7. Zira, kundüz vaqıtı saña uzun bir meşğuliyet bar.
@@ -7941,7 +8197,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 10. Olarnıñ (muşriklerniñ) söylegenlerine qatlan ve olardan guzelliknen ayırıl.
 11. Nimet içinde yaldağan o yalancılarnı maña bıraq ve olarğa biraz muhlet ber.
 
-12-13. İç şubesiz, bizim nezdimizde (olar içün azırlanğan) moysalar, yaqıcı bir ateş, boğazdan keçmez bir aşalacaq ve elem berici bir azap bar.
+12. İç şubesiz, bizim nezdimizde (olar içün azırlanğan) moysalar, yaqıcı bir ateş, boğazdan keçmez bir aşalacaq ve elem berici bir azap bar.
+13. [12 ayetine baq.]
 14. O kunü (qıyamet kunü) yer yuzü ve dağlar sarsılır; dağlar çöküntinen aqıp ketken qum obasına döner.
 15. Nasıl Fıravunğa bir elçi yollağan olsaq, doğrusı, sizge de, aqqıñızda şaatlıq etecek bir peyğamber yolladıq.
 16. Amma, Fıravun o peyğamberge qarşı kelgen, biz de onı ağır ve çetin bir şekilde esapqa çekken edik.
@@ -7967,7 +8224,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 9. İşte, o kun zorlu bir kundir.
 10. Kâfirler içün (iç de) qolay degildir.
 
-11-14. Tek olaraq yaratıp, oña bol servet ve kozü ogünde turğan oğullar berdigim, ozü içün (nimetlerni ogüne) serdikçe serdigim o kimseni maña bıraq!
+11. Tek olaraq yaratıp, oña bol servet ve kozü ogünde turğan oğullar berdigim, ozü içün (nimetlerni ogüne) serdikçe serdigim o kimseni maña bıraq!
+12. [11 ayetine baq.]
+13. [11 ayetine baq.]
+14. [11 ayetine baq.]
 15. Bunıñ ustüne o (nimetlerimni) daa da arttıruvımnı umüt etmekte.
 16. Asla (umüt etmesin)! Çünki, o, bizim ayetlerimizge nisbeten tekmil inatçıdır.
 17. Men onı sarp bir yoquşqa tırmaştıracağım!
@@ -7975,7 +8235,11 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 19. Canı çıqsın, ne şekilde olçedi-biçti!
 20. Soñ canı çıqsın, tekrar (olçedi-biçti); nasıl olçedi-biçti ise!
 
-21-25. Soñ baqtı. Soñ qaşlarını çattı, yuzüni ekşitti. Eñ soñunda kibrini yeñalmayıp, arqa çevirdi de: «Bu (Qur’an) dedi, olsa-olsa (sihirbazlardan ogrenilip) naql etilgen bir tılsımdır. Bu, insan sözünden başqa bir şey degil». (Rivayetke kore, Velid b. Muğiireniñ Az. Peyğamber oquğan Qur’annı diñlegeninen, çoq tesirlengenini añlağan Qureyş muşrikleri «Ey, vaah! dediler, Velid dininden döngen. Artıq oña baqıp, butün Qureyş dininden dönecek!». Bunıñ uzerine, qardaşınıñ oğlu Ebu Cehil Velidge barıp, ğururına sığmaycaq sözlernen onı qandırdı. Soñ birlikte muşriklerniñ yanına keldiler. Velid olarğa Az. Muһammed (s.a.)ge «mecnun», «kâhin», «şair» ve «yalancı»» lağaplarınen hitap etüvniñ yerli olmaycağını añlattı; niayet, uzundan uzatsiya tüşünip-taşınğan soñ: «Olğan-olacağı o bir sihirbazdır. Kormeysiñizmi, insannı ailesinden, evlâdından, hızmetkârından ayırmaqta», dedi. Muşrikler bu sözlerni çoq begendiler ve Az. Peyğamberge «sihirbaz» diye hitap etmege başladılar. Bu, Resul-ı Ekremge ziyade toqundı).
+21. Soñ baqtı. Soñ qaşlarını çattı, yuzüni ekşitti. Eñ soñunda kibrini yeñalmayıp, arqa çevirdi de: «Bu (Qur’an) dedi, olsa-olsa (sihirbazlardan ogrenilip) naql etilgen bir tılsımdır. Bu, insan sözünden başqa bir şey degil». (Rivayetke kore, Velid b. Muğiireniñ Az. Peyğamber oquğan Qur’annı diñlegeninen, çoq tesirlengenini añlağan Qureyş muşrikleri «Ey, vaah! dediler, Velid dininden döngen. Artıq oña baqıp, butün Qureyş dininden dönecek!». Bunıñ uzerine, qardaşınıñ oğlu Ebu Cehil Velidge barıp, ğururına sığmaycaq sözlernen onı qandırdı. Soñ birlikte muşriklerniñ yanına keldiler. Velid olarğa Az. Muһammed (s.a.)ge «mecnun», «kâhin», «şair» ve «yalancı»» lağaplarınen hitap etüvniñ yerli olmaycağını añlattı; niayet, uzundan uzatsiya tüşünip-taşınğan soñ: «Olğan-olacağı o bir sihirbazdır. Kormeysiñizmi, insannı ailesinden, evlâdından, hızmetkârından ayırmaqta», dedi. Muşrikler bu sözlerni çoq begendiler ve Az. Peyğamberge «sihirbaz» diye hitap etmege başladılar. Bu, Resul-ı Ekremge ziyade toqundı).
+22. [21 ayetine baq.]
+23. [21 ayetine baq.]
+24. [21 ayetine baq.]
+25. [21 ayetine baq.]
 26. Men onı seqarğa (ceennem tübine) soqacam.
 27. Sen seqar nedir bilesiñmi?
 28. Em (butün bedenni elâk eter, iç bir şey) qaldırmaz, em (eski alğa ketirip, tekrar azap etüvden) vazgeçmez o.
@@ -7986,10 +8250,14 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 33. Dönüp ketmekte olğan gecege,
 34. Ağarmaqta olğan sabağa ant olsun ki,
 
-35-37. O (ceennem), insanlıq içün, sizden ileri ketmek ya da keri qalmaq istegen kimseler içün, buyuk tenbiyeleyici musibetlerden biridir.
+35. O (ceennem), insanlıq içün, sizden ileri ketmek ya da keri qalmaq istegen kimseler içün, buyuk tenbiyeleyici musibetlerden biridir.
+36. [35 ayetine baq.]
+37. [35 ayetine baq.]
 38. Er nefis (insan) qazanğanına nisbeten bir rehindir;
 39. Ancaq sağdakiler istisna. («Sağdakiler» aqqında baq. 56/16-nıñ manası).
-40-42. Olar cennetler içindedir. Gunahkârlarğa: Sizni şu yaqıcı ateşke soqqan nedir? diye uzaqtan-uzaqqa sorarlar.
+40. Olar cennetler içindedir. Gunahkârlarğa: Sizni şu yaqıcı ateşke soqqan nedir? diye uzaqtan-uzaqqa sorarlar.
+41. [40 ayetine baq.]
+42. [40 ayetine baq.]
 43. Olar boyle cevap berirler: Biz namaz qılğanlardan degil edik,
 44. Yoqsulnı toyurmay edik,
 45. (Batılğa) dalğanlarnen birlikte dala edik,
@@ -7997,7 +8265,9 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 47. Soñunda bizge olüm keldi çattı.
 48. Artıq şefaatçılarnıñ şefaatı olarğa fayda bermez.
 
-49-51. Boyle eken, olarğa ne ola ki, sanki arslandan urkip, qaçqan kiyik eşekler kibi (alâ) ogütten yuz çevireler?
+49. Boyle eken, olarğa ne ola ki, sanki arslandan urkip, qaçqan kiyik eşekler kibi (alâ) ogütten yuz çevireler?
+50. [49 ayetine baq.]
+51. [49 ayetine baq.]
 
 52. Daa doğrusı, olardan er biri, ozüne, (ogünde) açılğan saifeler (ilâhiy vahiy) berilgenni istey.
 53. Yoq! Aslında olar ahiretten qorqmaylar.
@@ -8018,7 +8288,9 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 5. Faqat insan ogündekini (qıyametni) yalanlamaq ister. (Ayetke «Faqat insan ilerige doğru devaml yamanlıq yapmaq ister» manası da berile bilir).
 6. «Qıyamet kunü ne zaman eken?», diye sorar.
 
-7-9. İşte, koz qamaşqan, ay tutulğan, kuneşnen ay bir yerge ketirilgen vaqıtta!
+7. İşte, koz qamaşqan, ay tutulğan, kuneşnen ay bir yerge ketirilgen vaqıtta!
+8. [7 ayetine baq.]
+9. [7 ayetine baq.]
 10. O kunü insan «Qaçılacaq yer neresi!» deycek.
 11. Yoq, yoq! (Qaçıp) sığınacaq yer yoqtır!
 12. O kunü barıp toqtalacaq yer, sadece Rabbiñniñ uzurıdır.
@@ -8030,7 +8302,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 18. O alda, biz onı oquğan vaqtımızda, sen onıñ oqulışını taqip et.
 19. Soñra, şubeñ olmasın ki, onı izaatlamaq da bizge aittir.
 
-20-21. Yoq! Doğrusı, siz, çar-çabuk geceni (dünya ayatını ve nimetlerini) sevmekte, ahiretni bıraqmaqtasıñız.
+20. Yoq! Doğrusı, siz, çar-çabuk geceni (dünya ayatını ve nimetlerini) sevmekte, ahiretni bıraqmaqtasıñız.
+21. [20 ayetine baq.]
 22. Yuzler bar ki, o kunü balq-balq parıldaycaq.
 
 23. Rabblerine baqacaqlar (Onı korecekler).
@@ -8039,7 +8312,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 26. Artıq kozüñizni açıñ! Ne vaqıt ki, can ğırtlaq kemigine kelip dayanır,
 27. «Tedaviy ete bilecek kim?», denilir.
 
-28-29. (Can çekişken) bunıñ aqiqaten bir ayırıluv olğanını añlar. Ve ayaqları çarpışır.
+28. (Can çekişken) bunıñ aqiqaten bir ayırıluv olğanını añlar. Ve ayaqları çarpışır.
+29. [28 ayetine baq.]
 30. İşte, o kunü yollanılacaq yer, sadece Rabbiñniñ uzurıdır. (27-nci ayette hastanıñ etrafındakilerniñ yahut meleklerniñ, soñki bir çareniñ bulunıp-bulunmağanını qıdırğanlarına işaret etilmekte. 29-nci ayette can çekişken kimseniñ qıbırdamaycaq bir alğa kelüvi, ya da dünyadan ayırıluv derdinen ahiretke yoneliş accısınıñ bir-birinen kureşüvi añlatılmaqta).
 31. İşte, o (Peyğamberniñ ketirgenini) doğru qabul etmegen, namaz da qılmagan edi.
 32. Aksine, yalan sayğan ve yuz çevirgen edi.
@@ -8085,7 +8359,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 13. O arada kursilerge qurulğan olaraq bulunırlar; ne yaqıcı sıcaq korülir o yerde, ne de buzlatıcı suvuq.
 
 14. (Cennet terekleriniñ) kolgeleri uzerlerine sarqar; qolaylıqnen qoparıla bilgen meyvaları faydalanuvlarına taqdim etilir.
-15-16. Yanlarında, kumüş savutlar ve bullür qadelernen, kumüş beyazlığında (bullür kibi) şeffaf taslar dolaşılır ki, saqiyler bunı (cennet şarabını) belli olçüge kore tayin ve taqdir eterler. (Tefsirciler cennet savutları, taslarnıñ kumüş ve bullürnen tanıtıluvınıñ, sadece bilinmegenni bilingennen añlatmaq maqsadında yapılğan bir beñzetüv olğanını ifade eteler. Bunıñ kibi, Abdullah b. Abbas, «Cenneteki nimetlernen dünyadakiler arasında isimlerinden baiqa bir beñzerlik yoqtır», degen).
+15. Yanlarında, kumüş savutlar ve bullür qadelernen, kumüş beyazlığında (bullür kibi) şeffaf taslar dolaşılır ki, saqiyler bunı (cennet şarabını) belli olçüge kore tayin ve taqdir eterler. (Tefsirciler cennet savutları, taslarnıñ kumüş ve bullürnen tanıtıluvınıñ, sadece bilinmegenni bilingennen añlatmaq maqsadında yapılğan bir beñzetüv olğanını ifade eteler. Bunıñ kibi, Abdullah b. Abbas, «Cenneteki nimetlernen dünyadakiler arasında isimlerinden baiqa bir beñzerlik yoqtır», degen).
+16. [15 ayetine baq.]
 
 17. Olarğa o yerde bir tastan içirilir ki, (bu şarapnıñ) qarışmasında zencefil (inbir) bardır.
 
@@ -8128,10 +8403,14 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 3. (Aqiqat ve hayırlarnı) yaydıqça-yağanlarğa;
 4. (Haqnen batılnı) bir-birilerinden guzelce ayırğanlarğa;
 
-5-6. (Allaһqa yonelgenlerni) arındırmaq, (yamanlarnı) saqındırmaq içün, ogüt telqin etkenlerge;
+5. (Allaһqa yonelgenlerni) arındırmaq, (yamanlarnı) saqındırmaq içün, ogüt telqin etkenlerge;
+6. [5 ayetine baq.]
 7. Biliñ ki, sizge vade olunğan şey kerçekleşecek!
 
-8-11. Yıldızlarnıñ ışığı söndürilgen, kok qubbesi yarılğan, dağlar ufalıp savurılğan ve peyğamberlerniñ (ummetleri aqqında şaatlıq) vaqıtı tayin etilgen zaman (artıq qıyamet qopqandır).
+8. Yıldızlarnıñ ışığı söndürilgen, kok qubbesi yarılğan, dağlar ufalıp savurılğan ve peyğamberlerniñ (ummetleri aqqında şaatlıq) vaqıtı tayin etilgen zaman (artıq qıyamet qopqandır).
+9. [8 ayetine baq.]
+10. [8 ayetine baq.]
+11. [8 ayetine baq.]
 12. (Bu alâmetler) nasıl vaqıtqa keçiktirilgendir?
 13. Ayırma kunüne.
 
@@ -8143,16 +8422,19 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 19. O kunü (aqiqatlarnı) yalan sayğanlarnıñ vay alına!
 20. (Ey, insanlar!) Biz sizni zayıf bir suvdan yaratmadıqmı?
 
-21-22. İşte, o suvnı, belli bir muddetke qadar sağlam bir yerge yerleştirdik.
+21. İşte, o suvnı, belli bir muddetke qadar sağlam bir yerge yerleştirdik.
+22. [21 ayetine baq.]
 23. Biz buña kuç yetkizgendirmiz. Ve bizim kuçümiz ne buyuktir! (Ayetke «Onı biz taqdir ettik ve biz ne guzel taqdir eticimiz» şeklinde de mana berilgen).
 24. O kunü (aqiqatlarnı) yalan sayğanlarnıñ alına vay!
 
-25-26. Biz yer yuzüni tirilerge ve olülerge toplanuv yeri yapmadıqmı?
+25. Biz yer yuzüni tirilerge ve olülerge toplanuv yeri yapmadıqmı?
+26. [25 ayetine baq.]
 27. Yer yuzünde yuksek dağlar yarattıq, sizlerge tatlı suvlar içirdik.
 28. O kunü, (aqiqatlarnı) yalan sayğanlarnıñ alına vay!
 29. (İnkârcılarğa o kunü boyle denilir:) Yalan sayıp keldigiñiz azapqa barıñ!
 
-30-31. Uç pıtaqqa ayırılğan, (amma) ne kolge bergen, ne de alevden qorçalaycaq bir kolgege barıñ.
+30. Uç pıtaqqa ayırılğan, (amma) ne kolge bergen, ne de alevden qorçalaycaq bir kolgege barıñ.
+31. [30 ayetine baq.]
 32. O, saray kibi qocaman qığılçım septirir.
 33. Er bir qığılçım sanki birer sarı deve kibidir.
 34. O kunü, (aqiqatlarnı) yalan sayğanlarnıñ alına vay!
@@ -8163,7 +8445,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 39. (Azaptan qurtuluvıñız içün) bir iyleñiz bar ise, kosteriñ maña iyleñizni!
 40. O kunü, (aqiqatlarnı) yalan sayğanlarnıñ alına vay!
 
-41-42. Şubesiz, (o kunü) taqva saipleri, kolgeliklerde ve çoqraq başlarında, canları çekkeninden çeşit-çeşit meyvalar arasında olacaqlar.
+41. Şubesiz, (o kunü) taqva saipleri, kolgeliklerde ve çoqraq başlarında, canları çekkeninden çeşit-çeşit meyvalar arasında olacaqlar.
+42. [41 ayetine baq.]
 43. (Olarğa:) «Yapqanlarıñıznıñ qarşılığı olaraq şimdi afiyetnen aşañ, içiñ», (denilir).
 44. İşte, biz yahşıdıq yapqanlarnı boyle mukâfatlandırırmız.
 45. O kunü, (aqiqatlarnı) yalan sayğanlarnıñ alına vay!
@@ -8181,12 +8464,13 @@ Meaaricden soñ engen, ilk mekkiy surelerden olup, 40 ayettir. «Nebe’» - hab
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Bir-birilerinden neni soraylar?
-
-2-3. (İnanıp-inanmamaqta) ihtilâfqa töşken buyuk habernimi?
+2. (İnanıp-inanmamaqta) ihtilâfqa töşken buyuk habernimi?
+3. [2 ayetine baq.]
 4. Yoq! Añlaycaqlar!
 5. Kene yoq! Olar añlaycaqlar!
 
-6-7. Biz yer yuzüni bir töşek, dağlarnı da birer qazıq yapmadıqmı?
+6. Biz yer yuzüni bir töşek, dağlarnı da birer qazıq yapmadıqmı?
+7. [6 ayetine baq.]
 8. Sizni çift-çift yarattıq.
 9. Yuquñıznı bir raatlanuv yaptıq.
 10. Geceni bir ortü yaptıq.
@@ -8194,20 +8478,29 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 12. Ustüñizde yedi qat sağlam kokler bina ettik.
 13. (O yerde) alev-alev yanğan bir qandil yarattıq.
 
-14-16. Sizge urluqlar, osümlikler (tereklerni), bir-birilerine bitişik bağlar-bağçalar yetiştirmek içün, ust-ustüne toplanıp sıqışqan bulutlardan şırıl-şırıl aqqan suvlar endirdik.
+14. Sizge urluqlar, osümlikler (tereklerni), bir-birilerine bitişik bağlar-bağçalar yetiştirmek içün, ust-ustüne toplanıp sıqışqan bulutlardan şırıl-şırıl aqqan suvlar endirdik.
+15. [14 ayetine baq.]
+16. [14 ayetine baq.]
 17. Şubesiz, uküm kunü - vaqıt olaraq tayin etilgendir.
 18. Suurğa uflengen kunü, top-top Allaһqa kelirsiñiz.
 19. Kok yuzü açılır ve o yerde qapular peyda olur;
 20. Dağlar yurütilir, ılğım alına kelir.
 
-21-22. Şubesiz, yoldan azğanlarnıñ barınacaq (sığınacaq yeri) ceennem pusuda beklemektedir.
-23-26. (Öldan azğanlar) o yerde asırlar boyu qalırlar, o yerde bir serinlik ya da (suvsızlıq ketkizgen) bir içimlik tatmazlar, ancaq (dünyada yapqanlarına) uyğun qarşılıq olaraq, qaynaq suv ve irin tatarlar.
+21. Şubesiz, yoldan azğanlarnıñ barınacaq (sığınacaq yeri) ceennem pusuda beklemektedir.
+22. [21 ayetine baq.]
+23. (Öldan azğanlar) o yerde asırlar boyu qalırlar, o yerde bir serinlik ya da (suvsızlıq ketkizgen) bir içimlik tatmazlar, ancaq (dünyada yapqanlarına) uyğun qarşılıq olaraq, qaynaq suv ve irin tatarlar.
+24. [23 ayetine baq.]
+25. [23 ayetine baq.]
+26. [23 ayetine baq.]
 27. Çünki, olar ceza kunüniñ (kelecegini) umüt etmez ediler.
 28. Bizim ayetlerimizni yalanlağandan-yalanlağan ediler.
 29. Biz ise, er şeyni bir kitapta sayıp yazğandırmız.
 30. Tatıñ! Bundan soñ ancaq azabıñıznı arttıracaqmız.
 
-31-34. Şubesiz, taqva saipleri içün umüt etilgenni tapqan yerleri - bağçalar, yuzüm bağları, koküsleri ğonce kibi qabarğan aqrandaş qızlar, içki tolu qadeler bardır.
+31. Şubesiz, taqva saipleri içün umüt etilgenni tapqan yerleri - bağçalar, yuzüm bağları, koküsleri ğonce kibi qabarğan aqrandaş qızlar, içki tolu qadeler bardır.
+32. [31 ayetine baq.]
+33. [31 ayetine baq.]
+34. [31 ayetine baq.]
 
 35. Olar o yerde ne boş bir laqırdı, ne de yalan eşitirler.
 36. Bular Rabbiñniñ yeterli bir ihsanı, mukâfatıdır.
@@ -8221,15 +8514,23 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Nebe’ suresinden soñ, Mekkede engen, 46 ayettir. Adını, «söküp çıqrğanlar» yahut «çekip çıqarğanlar» manasındaki «naaziaat» kelimesinden alğan. Esas fikir olaraq qıyametni añlatır. Cenab-ı Allaһ sureniñ başında ilki beş ayette beyan etilgen kuç ve melekelernen donatqan varlıqlarğa yemin etmekte.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-5. Söküp çıqrğanlarğa, yavaşça çekkenlerge, yaldağanlardan-yaldağanlarğa, yarışqandan-yarışqanlarğa, iş trtiplegenlerge ant olsun;
-6-9. Birinci uflev (kâinatnı) sarsqan, onı ekinci uflevni taqip etken kunü, işte, o kunü yurekler qayğıdan titrer, kozler yorğun olur. 10-11. «Olgenden soñ biz, (dünyadaki) ilki alımızğa qaytarılacaqmızmı, (em de) çürügen kemikler olğandan soñmı?» derler. 12. «O zaman bu, ziyanlı bir qaytuv olur», dediler.
+1. Söküp çıqrğanlarğa, yavaşça çekkenlerge, yaldağanlardan-yaldağanlarğa, yarışqandan-yarışqanlarğa, iş trtiplegenlerge ant olsun;
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
+6. Birinci uflev (kâinatnı) sarsqan, onı ekinci uflevni taqip etken kunü, işte, o kunü yurekler qayğıdan titrer, kozler yorğun olur. 10-11. «Olgenden soñ biz, (dünyadaki) ilki alımızğa qaytarılacaqmızmı, (em de) çürügen kemikler olğandan soñmı?» derler. 12. «O zaman bu, ziyanlı bir qaytuv olur», dediler.
+7. [6 ayetine baq.]
+8. [6 ayetine baq.]
+9. [6 ayetine baq.]
 10. Bu dönüş, sadece bir seslenüvge baqar.
 11. Birden ozlerini mahşerde bula qoyarlar.
 12. (Habibim!) Saña Musanıñ haberi keldimi?
 13. Muqaddes vadiy Tuvaada Rabbi oña boyle seslengen:
 14. Fıravunğa bar! Çünki, o çoq adden aştı.
 
-15-16. De ki: Arınuvnı ve seni Rabbimniñ yoluna qavuştıruvımnı istersiñmi? Boylece, ondan qorqarsıñ.
+15. De ki: Arınuvnı ve seni Rabbimniñ yoluna qavuştıruvımnı istersiñmi? Boylece, ondan qorqarsıñ.
+16. [15 ayetine baq.]
 17. Ve oña eñ buyuk mucizeni kosterdi.
 18. (O ise) aman yalanladı ve isyan etti.
 19. Soñra (inkâr içün) bar ğayretini kostererek, sırtını çevirdi.
@@ -8239,11 +8540,21 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 22. Allaһ onı, (er keske ibret olaraq) dünya ve ahiret azabınen cezalandırdı.
 23. Elbette, bunda, korqqan kimseler içün, buyuk bir ibret bar.
 
-24-26. Sizni yaratmaq daa kuçmi, yoqsa, kok yuzüni yaratmaqmı ki, onı Allaһ bina etti, onı yukseltip, nizamğa qoydı. Gecesini qararttı, kundüzini ağarttı.
-27-30. Ondan soñ da, yer qurresini töşedi. Ozüñiz ve ayvanlarıñız içün bir faydalanuv olmaq uzre, yerden suvnı ve otlağını çıqardı ve dağlarnı qavi bir şekilde yerleştirdi.
-31-33. Er şeyni alt-ust etken o buyuk felâket kelgen vaqıtta, insan yapıp-etkenlerini hatırlaycaq kunü ve korgenge ceennem açıq bir şekilde kosterilgen vaqıtta;
-34-36. Adden aşqanğa ve dünya ayatını ahiretten ustün korgenge, şubesiz, ceennem tek barınılacaq (sığınılacaq) yerdir.
-37-38. Rabbiniñ maqamından qorqqan ve nefsini fena isteklerden uzaqlaştırğanlar içün ise, şubesiz cennet yekâne sığınılacaq yerdir.
+24. Sizni yaratmaq daa kuçmi, yoqsa, kok yuzüni yaratmaqmı ki, onı Allaһ bina etti, onı yukseltip, nizamğa qoydı. Gecesini qararttı, kundüzini ağarttı.
+25. [24 ayetine baq.]
+26. [24 ayetine baq.]
+27. Ondan soñ da, yer qurresini töşedi. Ozüñiz ve ayvanlarıñız içün bir faydalanuv olmaq uzre, yerden suvnı ve otlağını çıqardı ve dağlarnı qavi bir şekilde yerleştirdi.
+28. [27 ayetine baq.]
+29. [27 ayetine baq.]
+30. [27 ayetine baq.]
+31. Er şeyni alt-ust etken o buyuk felâket kelgen vaqıtta, insan yapıp-etkenlerini hatırlaycaq kunü ve korgenge ceennem açıq bir şekilde kosterilgen vaqıtta;
+32. [31 ayetine baq.]
+33. [31 ayetine baq.]
+34. Adden aşqanğa ve dünya ayatını ahiretten ustün korgenge, şubesiz, ceennem tek barınılacaq (sığınılacaq) yerdir.
+35. [34 ayetine baq.]
+36. [34 ayetine baq.]
+37. Rabbiniñ maqamından qorqqan ve nefsini fena isteklerden uzaqlaştırğanlar içün ise, şubesiz cennet yekâne sığınılacaq yerdir.
+38. [37 ayetine baq.]
 39. Senden qıyametni sorarlar: Kelip çatuvı ne vaqıt? (derler).
 40. Sen onı ne yerden bilip, bildirejdeksiñ?
 41. Onıñ soñ ilmi yalıñız Rabbiñye aittir.
@@ -8255,11 +8566,23 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Mekkede engen, 42 ayettir. Adını, «üzüni ekşitti, burüştirdi» manasındaki ilk kelimesinden alğan. Bu sureniñ enüv sebebinen bağlı boyle bir adise naql etilgen: Efendimiz Velid, Umeyye b. Halef, Utbe b. Rabiya kibi Qureyşniñ ileri kelgenlerine İslâmnı añlatqan bir vaqıtta, kor Abdullah b. Ummu Mektum kelip: «Ya Resulallah! Allaһnıñ saña ogretkenlerinden maña da ogret», dey. O esnada Resulullah (s.a.) cevap bermey. Çünki, Qureyşniñ bu ileri kelgen kimseleri, zaten ozlerine ayrıca muamele etilmesini istey ediler. Efendimiz olarnı kederlendirmek istemey. Abdullah tekrar seslengeninen, elinde olmadan, yuzü deñişe. Bu esnada olar turıp keteler. Birazdan soñ, bu ayetler kele. Resulullahnıñ bazı areketlerini teñkit etmek ve onı tenbiyelemek maqsadında kelgen bu ve olarğa beñzegen ayetler, onıñ haq peyğamber olğanına eñ buyuk delildir. Zira, iç kimse ozüni bu şekilde tenqit etmez.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-4. (Peyğamber) korniñ oña kelüvi sebebinden, yuzüni ekşitti ve keri döndi. (Resulım! Onıñ alını) saña kim bildirdi! Belki o temizlenecek, yahut ogüt alacaq da, o ogüt oña fayda berecek.
+1. (Peyğamber) korniñ oña kelüvi sebebinden, yuzüni ekşitti ve keri döndi. (Resulım! Onıñ alını) saña kim bildirdi! Belki o temizlenecek, yahut ogüt alacaq da, o ogüt oña fayda berecek.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
 
-5-7. Ozüni (saña) muhtac kormegenge kelgende, sen oña yonelmektesiñ. Albuki, onıñ temizlenip, arınuvından sen mesul degilsiñ.
-8-10. Faqat çapışaraq ve (Allaһtan) qorqaraq saña kelgennen de meraqlanmaysıñ.
-11-16. Yoq! Şubesiz, bular (ayetler) degerli ve işançlı kâtiplerniñ ellerinen (yazılıp) tertemiz qılıngan, yuce maqamlarğa çıqarılğan muqaddes saifelerinde (yazılı) bir ogüttir; istegen ondan (Qur’andan) ogüt alır.
+5. Ozüni (saña) muhtac kormegenge kelgende, sen oña yonelmektesiñ. Albuki, onıñ temizlenip, arınuvından sen mesul degilsiñ.
+6. [5 ayetine baq.]
+7. [5 ayetine baq.]
+8. Faqat çapışaraq ve (Allaһtan) qorqaraq saña kelgennen de meraqlanmaysıñ.
+9. [8 ayetine baq.]
+10. [8 ayetine baq.]
+11. Yoq! Şubesiz, bular (ayetler) degerli ve işançlı kâtiplerniñ ellerinen (yazılıp) tertemiz qılıngan, yuce maqamlarğa çıqarılğan muqaddes saifelerinde (yazılı) bir ogüttir; istegen ondan (Qur’andan) ogüt alır.
+12. [11 ayetine baq.]
+13. [11 ayetine baq.]
+14. [11 ayetine baq.]
+15. [11 ayetine baq.]
+16. [11 ayetine baq.]
 17. Qahr olsun o insan! Ne inkârcıdır!
 18. Allaһ onı neden yarattı?
 19. Bir nutfeden (spermadan) yarattı da, oña şekil berdi.
@@ -8269,14 +8592,26 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 23. Yoq! (İnsan) Allaһnıñ emir etkenini yapmadı.
 24. İnsan aşağanına bir baqsın.
 
-25-32. Oyle ki: Yağmurlar yağdırdıq. Soñ topraqnı koz-koz yardıq da, o yerden osümlikler, yuzüm bağları, sebzeler, zeytun ve hurma tereklerini, iri ve sıq terekli bağçalar, meyvalar ve çayırlar yarattıq. (Butün bular) sizni ve ayvanlarıñıznı faydalandırmaq içündir.
+25. Oyle ki: Yağmurlar yağdırdıq. Soñ topraqnı koz-koz yardıq da, o yerden osümlikler, yuzüm bağları, sebzeler, zeytun ve hurma tereklerini, iri ve sıq terekli bağçalar, meyvalar ve çayırlar yarattıq. (Butün bular) sizni ve ayvanlarıñıznı faydalandırmaq içündir.
+26. [25 ayetine baq.]
+27. [25 ayetine baq.]
+28. [25 ayetine baq.]
+29. [25 ayetine baq.]
+30. [25 ayetine baq.]
+31. [25 ayetine baq.]
+32. [25 ayetine baq.]
 33. Qulaqlarnı sağır etici o ses kelgende,
 
-34-36. İşte, o kunü insan qardaşından, anasından, babasından, eşinden ve balasından qaçar.
+34. İşte, o kunü insan qardaşından, anasından, babasından, eşinden ve balasından qaçar.
+35. [34 ayetine baq.]
+36. [34 ayetine baq.]
 37. O kunü, er kesniñ ozünden yetip artacaq bir derdi bardır.
 
-38-39. O kunü bir taqım yuzler parlaq, kuler ve sevinçlidir.
-40-42. Kene o kunü bir taqım yuzlerni de keder sarğan, qasevetten qap-qara kesilgendir. İşte, bular kâfirlerdir, gunahkârlardır.
+38. O kunü bir taqım yuzler parlaq, kuler ve sevinçlidir.
+39. [38 ayetine baq.]
+40. Kene o kunü bir taqım yuzlerni de keder sarğan, qasevetten qap-qara kesilgendir. İşte, bular kâfirlerdir, gunahkârlardır.
+41. [40 ayetine baq.]
+42. [40 ayetine baq.]
 
 # 81. et-TEKVİİR
 
@@ -8298,18 +8633,22 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 7. Ruhlar (bedenlernen) birleştirilgende,
 
-8-9. Tirileyin topraqqa komülgen qızğa, angi gunah sebebinen, oldürilgeni soralğanda,
+8. Tirileyin topraqqa komülgen qızğa, angi gunah sebebinen, oldürilgeni soralğanda,
+9. [8 ayetine baq.]
 10. (Ameller yazılı olğan) defterler açılğanda,
 11. Kok yuzü sokülip alınğanda,
 
-12-13. Ceennem tutaştırılğanda ve cennet yaqlaştırılğanda,
+12. Ceennem tutaştırılğanda ve cennet yaqlaştırılğanda,
+13. [12 ayetine baq.]
 14. İnsan neler ketirgenini bilecek.
 
-15-16. Yoq! Aqıp ketken, bir ğayıp olup, bir etrafnı aydınlatqan yıldızlarğa ant olsun,
+15. Yoq! Aqıp ketken, bir ğayıp olup, bir etrafnı aydınlatqan yıldızlarğa ant olsun,
+16. [15 ayetine baq.]
 17. Qararmağa yuz tutqanda, gecege ant olsun,
 18. Ağarmağa başlağanda, sabağa ant olsun ki,
 
-19-20. O (Qur’an), şubesiz degerli, kuçlü ve Arşnıñ saibi (Allaһnıñ) qatında itibarlı bir elçi (Cebrail) ketirgen sözdir.
+19. O (Qur’an), şubesiz degerli, kuçlü ve Arşnıñ saibi (Allaһnıñ) qatında itibarlı bir elçi (Cebrail) ketirgen sözdir.
+20. [19 ayetine baq.]
 21. O, o yerde itibarlı, işanılğan (bir elçi)dir.
 22. Arqadaşıñız (Muһammed) de mecnun degildir.
 23. Ant olsun ki, onı (Cebrailni) ap-açıq ufuqta korgendir.
@@ -8317,7 +8656,8 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 25. O lânetlengen şeytannıñ sözü de degildir.
 26. Al boyle eken, ne yerge barmaqtasıñız.
 
-27-28. O, er kes içün, sizden doğru yolda yurmek istegenler içün, bir ogüttir.
+27. O, er kes içün, sizden doğru yolda yurmek istegenler içün, bir ogüttir.
+28. [27 ayetine baq.]
 29. Alemlerniñ Rabbi Allaһ istemegence, siz istep olamazsıñız. (Ayetteki «ğayb» sözü - duyğu azalarınen idrak etilalmağan ve faqat inanılması kerek olğan iman esaslarını içine almaqta. Allaһ Resulı olar aqqında saranlıqnen davranmağanı, yani er angi bir şeyni gizlemegeni izaatlanğan).
 
 # 82. el-İNFİTAAR
@@ -8325,20 +8665,38 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Naaziaat suresinden soñ, Mekkede engen, 19 ayettir. Manası «yarılmaq»tır. Semanıñ yarıluvından söz eterek başlanğanı içün, bu adnı alğan. Mevzusı - ahiret alemidir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-5. Kok yuzü yarılğan, yıldızdar tökülgen, deñizler bir-birine qarışqan, qabirlerniñ içindekiler tışqa çıqarılğan vaqıtta, insan oğlu (yapıp) yollağanlarını ve (yapamayıp) artta qaldırğanlarını birer-birer añlar.
-6-8. Ey, insan! Seni yaratıp, seni tertipli ve olçüli yapqan, seni istegen bir şeklinde birleştirgen, ihsanı bol Rabbiñye nisbeten seni aldatqan nedir?
+1. Kok yuzü yarılğan, yıldızdar tökülgen, deñizler bir-birine qarışqan, qabirlerniñ içindekiler tışqa çıqarılğan vaqıtta, insan oğlu (yapıp) yollağanlarını ve (yapamayıp) artta qaldırğanlarını birer-birer añlar.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
+6. Ey, insan! Seni yaratıp, seni tertipli ve olçüli yapqan, seni istegen bir şeklinde birleştirgen, ihsanı bol Rabbiñye nisbeten seni aldatqan nedir?
+7. [6 ayetine baq.]
+8. [6 ayetine baq.]
 
-9-12. Yoq! Butün bularğa baqmadan, siz kene de dinni yalanlaysıñız. Şunı yahşı biliñ ki, uzeriñizde bekçiler, degerli yazıcılar bardır; olar yapmaqta olğanlarıñıznı bilir.
-13-16. Yahşılar muaqqaq cennette, yamanlar da ceennemdedirler. Ceza kunünde o yerge kirerler. Olar (kâfirler) o yerden bir daa da ayrılmazlar.
-17-19. Ceza kunü nedir bilirsiñizmi? Nedir, aceba o ceza kunü? O kunü iç bir kimse başqası içün bir şey yapalmaz. O kunü iş Allaһqa qalğandır. (Soñki cumleni «O kunü emir Allaһnıñdır. Yalıñız Allaһ emir eter», şeklinde de tercime etmek mumkün).
+9. Yoq! Butün bularğa baqmadan, siz kene de dinni yalanlaysıñız. Şunı yahşı biliñ ki, uzeriñizde bekçiler, degerli yazıcılar bardır; olar yapmaqta olğanlarıñıznı bilir.
+10. [9 ayetine baq.]
+11. [9 ayetine baq.]
+12. [9 ayetine baq.]
+13. Yahşılar muaqqaq cennette, yamanlar da ceennemdedirler. Ceza kunünde o yerge kirerler. Olar (kâfirler) o yerden bir daa da ayrılmazlar.
+14. [13 ayetine baq.]
+15. [13 ayetine baq.]
+16. [13 ayetine baq.]
+17. Ceza kunü nedir bilirsiñizmi? Nedir, aceba o ceza kunü? O kunü iç bir kimse başqası içün bir şey yapalmaz. O kunü iş Allaһqa qalğandır. (Soñki cumleni «O kunü emir Allaһnıñdır. Yalıñız Allaһ emir eter», şeklinde de tercime etmek mumkün).
+18. [17 ayetine baq.]
+19. [17 ayetine baq.]
 
 # 83. el-MUTAFFİFİİN
 
 Mekkede engen, 36 ayettir. Olçü ve tartuvlarında iyle yapqanlarnı yamanlayaraq başlanğanı içün, bu adnı alğan.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-3. İnsanlardan alğanda olçep- tartqanlarında tam, olarğa bermek içün olçeptartqanlarında ise, eksik tutqan iylekârlarğa yazıqlar oslun!
-4-6. Olar tüşünmezlermi ki, buyuk bir kunde (esap bermek içün) tiriltilecekler! Oyle bir kun ki, insanlar o kunde alemlerniñ Rabbi uzurında tik turacaqlar. (İbn Umer bu sureni oquğanda, altıncı ayetke kelgeninen, okür-okür ağlağan. Bir bedeviy de Abdullah b. Mervanğa: «Allaһnıñ olçü ve çekisinde iyle yapqanlar aqqında ne söylegenini bilgeniñ alda, musulmanlarnıñ malını olçüsiz, çekisiz ve zahmetsiz almaqta devam etesiñ!» degen edi).
+1. İnsanlardan alğanda olçep- tartqanlarında tam, olarğa bermek içün olçeptartqanlarında ise, eksik tutqan iylekârlarğa yazıqlar oslun!
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. Olar tüşünmezlermi ki, buyuk bir kunde (esap bermek içün) tiriltilecekler! Oyle bir kun ki, insanlar o kunde alemlerniñ Rabbi uzurında tik turacaqlar. (İbn Umer bu sureni oquğanda, altıncı ayetke kelgeninen, okür-okür ağlağan. Bir bedeviy de Abdullah b. Mervanğa: «Allaһnıñ olçü ve çekisinde iyle yapqanlar aqqında ne söylegenini bilgeniñ alda, musulmanlarnıñ malını olçüsiz, çekisiz ve zahmetsiz almaqta devam etesiñ!» degen edi).
+5. [4 ayetine baq.]
+6. [4 ayetine baq.]
 7. Doğrusı, gunahkârlırnıñ yazısı, muaqqaq Sicciinde olmaqtır.
 8. Secciin nedir, bilesiñmi? (Tefsirlerde Sicciinge çeşit manalar berilgen: a). Ziyade tar bir zindan; b). Ceennemde bir quyu; v). Kâfirlerniñ amelleri yazılğan kitap; g). Ya da insanlarnen cinlerniñ amelleri qayd etilgen defter).
 9. (O gunahkârlarnıñ yazısı) ameller sayılıp yazılğan bir kitaptır.
@@ -8376,20 +8734,29 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 İnfitaar suresinden soñ, Mekkede engen, 25 ayettir. Kokniñ yarıluvından söz etkeni içün, bu adnı alğan.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-2. Kok yarılğan, Rabbiñye qulaq asıp, boyun egecek alğa ketirilgen vaqıtta,
-3-5. Yer tüm-tüz etilgen, içinde olğanlarnı atıp boşalğan ve Rabbini diñlep, Oña haqqı ile itaatqa mecbur etilgen vaqıtta (insan oğlu yapqanlarınen qarşılaşır).
+1. Kok yarılğan, Rabbiñye qulaq asıp, boyun egecek alğa ketirilgen vaqıtta,
+2. [1 ayetine baq.]
+3. Yer tüm-tüz etilgen, içinde olğanlarnı atıp boşalğan ve Rabbini diñlep, Oña haqqı ile itaatqa mecbur etilgen vaqıtta (insan oğlu yapqanlarınen qarşılaşır).
+4. [3 ayetine baq.]
+5. [3 ayetine baq.]
 6. Ey, insan! Şube yoq ki, sen Rabbiñge nisbeten ğayret ustüne ğayret kostermektesiñ; soñunda Oña baracaqsıñ.
 7. Kimniñ kitabı sağından berilse,
 8. Qolay bir esap ile esapqa çekilecek;
 9. Ve sevinçli olaraq ailesine dönecek.
 
-10-13. Kimniñ de kitabı artından berilse, der’al yoq olmaqnı isteycek; alevli ateşke kirecek. Zira o, (dünyada) ailesi içinde (mal-mulk sebebinen) qopayğan edi.
+10. Kimniñ de kitabı artından berilse, der’al yoq olmaqnı isteycek; alevli ateşke kirecek. Zira o, (dünyada) ailesi içinde (mal-mulk sebebinen) qopayğan edi.
+11. [10 ayetine baq.]
+12. [10 ayetine baq.]
+13. [10 ayetine baq.]
 
 (Bu ayetlerde dünyada zengin olup, etrafına yardımm etmegen, menliknen yaşağan, zenginligini ozü içün bir imtiyaz sayaraq, faqırlarnı, yoqsullarnı iç de tüşünmegen kimselerniñ ahiretteki elemli al kosterilmekte. Bu ayetten kerekli ibret dersini almağanlar, olümnen ozlerini azapnıñ ve ateşniñ içinde bulacaqlar. Albuki, olar zenginlik ve ferahlq al devam etecek, yañıdan tirilgen taqdirlerinde, dünyadaki vazifelerine kore tirilecek belley ediler. Netice beklegenleri kibi olmaycaq).
 14. O, iç bir vaqıt Rabbine dönmeycek belledi.
 15. Albuki, aqiqaten, Rabbi onı kormekte edi.
 
-16-19. Yoq! Çabaqqa, gecege ve onda basqan qaranlıqqa, tolğun ayğa yemin eterim ki, al-aldan keçersiñiz.
+16. Yoq! Çabaqqa, gecege ve onda basqan qaranlıqqa, tolğun ayğa yemin eterim ki, al-aldan keçersiñiz.
+17. [16 ayetine baq.]
+18. [16 ayetine baq.]
+19. [16 ayetine baq.]
 20. Boyle eken, olar, aceba, niçün iman etmezler?
 21. Olar ozlerine Qur’an oqulğanınen, secde de etmezler. (Manada keçken «secde etmezler» ifadesi şu şekillerde izaatlanğan:
 1. Sayğı kostermezler;
@@ -8405,8 +8772,15 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Şems suresinden soñ, Mekkede engen, 22 ayettir. «Buruuc» - burc kelimesiniñ çoqluğıdır. Surede burcları olğan kok yuzüne, qıyamet kunüne ve o kunge şaatlıq eteceklernen, kene o kunü muşaade etilecek vaziyetlerge yemin etilgenden soñ, Yemende olup keçken bir vaziyetke işaret etile: Yeudiy Zuunuvas ve onıñ adamları, yeudiylikni qabul etmegen Necran hristianlarını, endek içinde yaqılğan bir ateşke atıp yaqarlar ve yanayatqan insanlarnı seyir eterler. Bu şekilde eskencenen yaqılıp oldürilgen kimseler inançları oğurında olgenlerdir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-7. Burclarğa saip kok yuzüne, kelecegi bildirilgen kunge, (o kunde) şaatlıq etkenge ve etilgenge ant olsun ki, ateşnen tolu endekke atılğanlar (yaqılıp) oldürildi. Olar (yaqqanlar) da başlarına oturğanlar, mu’minlerge yapayatqan eskenceni seyir ete ediler.
-8-9. Olardan yalıñız koklerniñ ve yerniñ mulkü ozüne ait olğan, aziz ve hamid Allaһqa iman etkenleri içün intiqam aldılar. Albuki, Allaһ er şeyni korer.
+1. Burclarğa saip kok yuzüne, kelecegi bildirilgen kunge, (o kunde) şaatlıq etkenge ve etilgenge ant olsun ki, ateşnen tolu endekke atılğanlar (yaqılıp) oldürildi. Olar (yaqqanlar) da başlarına oturğanlar, mu’minlerge yapayatqan eskenceni seyir ete ediler.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
+6. [1 ayetine baq.]
+7. [1 ayetine baq.]
+8. Olardan yalıñız koklerniñ ve yerniñ mulkü ozüne ait olğan, aziz ve hamid Allaһqa iman etkenleri içün intiqam aldılar. Albuki, Allaһ er şeyni korer.
+9. [8 ayetine baq.]
 10. Şubesiz, inanğan erkeklernen, inanğan qadınlarğa eskence etip, soñ tövbe de etmegenlerge ceennem azabı ve (o yerde) yanmaq cezası bardır.
 
 11. İman etip, salih ameller işlegenlerge ise, zemininden irmaqlar aqqan cennetler bardır. İşte, buyuk qurtulış budır.
@@ -8416,34 +8790,61 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 15. Şerefli Arşnıñ saibidir.
 16. İstegen şeylerini mıtlaqa yapıcıdır.
 
-17-18. Ordularnıñ, Fıravun ve Semuudnıñ (oğrağan felâketleriniñ) haberi saña keldimi?
+17. Ordularnıñ, Fıravun ve Semuudnıñ (oğrağan felâketleriniñ) haberi saña keldimi?
+18. [17 ayetine baq.]
 19. Doğrusı, inkârcılar (aqiqatnı) yalanlap turarlar.
 20. Allaһ olarnı artlarından sarıp alğandır.
 
-21-22. Aqiqatta o (yalanlağanları, aslı) lehv-i mahfuzda bulunğan şerefli Qur’andır. («Ordularnıñ haberi» - evelki milletlerge kelgen peyğamberlerge qarşı kureşkenlerniñ facsial bir şekilde yeñilüvleridir. Bu haberlerni araplar bilmekte ediler. Buña rağmen, aralarından yollanılğan bir peyğamberge qarşı kureştiler. Olarnıñ soñu ne ise, bularnıñ da soñu odır).
+21. Aqiqatta o (yalanlağanları, aslı) lehv-i mahfuzda bulunğan şerefli Qur’andır. («Ordularnıñ haberi» - evelki milletlerge kelgen peyğamberlerge qarşı kureşkenlerniñ facsial bir şekilde yeñilüvleridir. Bu haberlerni araplar bilmekte ediler. Buña rağmen, aralarından yollanılğan bir peyğamberge qarşı kureştiler. Olarnıñ soñu ne ise, bularnıñ da soñu odır).
+22. [21 ayetine baq.]
 
 # 86. et-TAARİQ
 
 Beled suresinden soñ, Mekkede engen, 17 ayettir. Adını 1-nci ayette keçken «taariq» kelimesinden alğan. Taariq - geceleyin kelgen, şiddetliknen urğan, qapunı qaqqan demektir. Surede keçken taariq ise, gece ziyade nur saçqan saba yıldızıdır. Micaziy olaraq, namlı adamğa da aytılır. Bir bediiy ifade olaraq da, cahiliye devrinde kelgen Az. Peyğamber de, geceni aydınlatqan ve sabanı mujdelegen saba yıldızına beñzetilgen ola bilir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-4. Kok yuzüne ve taariqqa (saba yıldızına) yemin eterim. Taariqnıñ ne olğanını ne yerden bileceksiñ? (O, qaranlıqnı) delici yıldızdır. İç kimse yoqtır ki, uzerinde bir qorçalayıcı, bir kozetici olmasın.
-5-8. İnsan neden yaratılğanına bir baqsın! Atılğan bir suvdan yaratıldı. (O suv) sırtnen koküs qafesi arasından sıqar. İşte, Allaһ (başlanğıçta bu şekilde yarattığı) insannı tekrar yaratmağa da qadirdir.
-9-10. Gizlengenlerniñ ortağa çıqqan kunde, insan içün ne bir kuç, ne de bir yardımcı bar.
-11-17. Dönüş saibi olğan (yağmur yağdırğan) kokke, (osümliknen) yarılğan yerge yemin eterim ki, Qur’an (haq ile batılnı) ayırğan bir sözdir. O, asla bir şaqa degildir. Olar bir tuzaq qurarlar, men de bir tuzaq qurarım. Kâfirlerge muhlet ber, olarnı biraz oz allarına bıraq (pek yaqında saña yardımımız kelecek).
+1. Kok yuzüne ve taariqqa (saba yıldızına) yemin eterim. Taariqnıñ ne olğanını ne yerden bileceksiñ? (O, qaranlıqnı) delici yıldızdır. İç kimse yoqtır ki, uzerinde bir qorçalayıcı, bir kozetici olmasın.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. İnsan neden yaratılğanına bir baqsın! Atılğan bir suvdan yaratıldı. (O suv) sırtnen koküs qafesi arasından sıqar. İşte, Allaһ (başlanğıçta bu şekilde yarattığı) insannı tekrar yaratmağa da qadirdir.
+6. [5 ayetine baq.]
+7. [5 ayetine baq.]
+8. [5 ayetine baq.]
+9. Gizlengenlerniñ ortağa çıqqan kunde, insan içün ne bir kuç, ne de bir yardımcı bar.
+10. [9 ayetine baq.]
+11. Dönüş saibi olğan (yağmur yağdırğan) kokke, (osümliknen) yarılğan yerge yemin eterim ki, Qur’an (haq ile batılnı) ayırğan bir sözdir. O, asla bir şaqa degildir. Olar bir tuzaq qurarlar, men de bir tuzaq qurarım. Kâfirlerge muhlet ber, olarnı biraz oz allarına bıraq (pek yaqında saña yardımımız kelecek).
+12. [11 ayetine baq.]
+13. [11 ayetine baq.]
+14. [11 ayetine baq.]
+15. [11 ayetine baq.]
+16. [11 ayetine baq.]
+17. [11 ayetine baq.]
 
 # 87. el-A’LYaA
 
 Allaһnıñ «üce» manadaki adınen başlanğanı içün, «el-A’lâa» denilgen bu sure 19 ayet olup, Mekkede engen ilki surelerdendir. Cenab-ı Allaһ bu surede kâinatnıñ sırlarını, yaratılışını, çalışuvını esaslı bir şekilde ifade etken.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-5. Yaratıp, tertipke qoyğan, taqdir etip, yol kostergen, (topraqtan) yeşil otnı çıqarıp, soñ onı qap-qara bir sel çöpligine çevirgen yuce Rabbiñniñ adını tesbih (ve taqdis) et.
-6-7. Saña (Qur’annı) oqutacaqmız; artıq Allaһnıñ istegeni istisna, sen iç unutmaycaqsıñ. Şubesiz, Allaһ aşkârnı ve gizlini bilir.
-8-9. Seni eñ qolayğa muvaffaq etecekmiz. O alda, eger ogüt fayda berse, ogüt ber.
-10-13. (Allaһtan) qorqqan - ogütten faydalanacaq. Eñ buyuk ateşke kirecek fena kimse ise, ogütten qaçınır. Soñ o, ateşte ne olür, ne de yaşar.
-14-15. Temizlengen, Rabbiñniñ adını añıp, Oña qullıq etken kimse, şubesiz qurtulışqa irişkendir.
-16-17. Faqat siz (ey, insanlar!) ahiret daa hayırlı ve daa devamlı olğanı alda, dünya ayatını ustün kormektesiñiz.
-18-19. Şubesiz, bu (añlatılğanlar), evelki kitaplarda, İbrahim ve Musanıñ kitaplarında da bardır.
+1. Yaratıp, tertipke qoyğan, taqdir etip, yol kostergen, (topraqtan) yeşil otnı çıqarıp, soñ onı qap-qara bir sel çöpligine çevirgen yuce Rabbiñniñ adını tesbih (ve taqdis) et.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
+6. Saña (Qur’annı) oqutacaqmız; artıq Allaһnıñ istegeni istisna, sen iç unutmaycaqsıñ. Şubesiz, Allaһ aşkârnı ve gizlini bilir.
+7. [6 ayetine baq.]
+8. Seni eñ qolayğa muvaffaq etecekmiz. O alda, eger ogüt fayda berse, ogüt ber.
+9. [8 ayetine baq.]
+10. (Allaһtan) qorqqan - ogütten faydalanacaq. Eñ buyuk ateşke kirecek fena kimse ise, ogütten qaçınır. Soñ o, ateşte ne olür, ne de yaşar.
+11. [10 ayetine baq.]
+12. [10 ayetine baq.]
+13. [10 ayetine baq.]
+14. Temizlengen, Rabbiñniñ adını añıp, Oña qullıq etken kimse, şubesiz qurtulışqa irişkendir.
+15. [14 ayetine baq.]
+16. Faqat siz (ey, insanlar!) ahiret daa hayırlı ve daa devamlı olğanı alda, dünya ayatını ustün kormektesiñiz.
+17. [16 ayetine baq.]
+18. Şubesiz, bu (añlatılğanlar), evelki kitaplarda, İbrahim ve Musanıñ kitaplarında da bardır.
+19. [18 ayetine baq.]
 
 # 88. el-ĞAAŞİYE
 
@@ -8453,77 +8854,156 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. (Resulım!) Deşeti er şeyni qaplağan qıyametniñ haberi saña keldimi?
 
-2-7. O kunü bir taqım yuzler zelildir, toqtamadan çalışır, (faqat boşuna) yorulır, qızğın ateşke kirer. Olarğa qaynap turğan suv çoqrağından içirilir, olar içün quruğan tikenden başqa yemek yoqtır, o ise, ne besler, ne de açlıqnı ketkizir.
-8-11. O kunü bir taqım yuzler de bardır ki, bahtlıdırlar; (dünyadaki) ğayretlerinden hoşnut olğandırlar, yuce bir cennettedirler. O yerde boş bir söz eşitmezler.
+2. O kunü bir taqım yuzler zelildir, toqtamadan çalışır, (faqat boşuna) yorulır, qızğın ateşke kirer. Olarğa qaynap turğan suv çoqrağından içirilir, olar içün quruğan tikenden başqa yemek yoqtır, o ise, ne besler, ne de açlıqnı ketkizir.
+3. [2 ayetine baq.]
+4. [2 ayetine baq.]
+5. [2 ayetine baq.]
+6. [2 ayetine baq.]
+7. [2 ayetine baq.]
+8. O kunü bir taqım yuzler de bardır ki, bahtlıdırlar; (dünyadaki) ğayretlerinden hoşnut olğandırlar, yuce bir cennettedirler. O yerde boş bir söz eşitmezler.
+9. [8 ayetine baq.]
+10. [8 ayetine baq.]
+11. [8 ayetine baq.]
 
-12-16. O yerde (cennette) devamlı aqqan bir çoqraq, o yerde yukseltilgen tahtlar, qoyulğan qadeler, sıra-sıra tizili yastıqlar, töşelgen kilimler bar.
-17-20. (İnsanlar) deveniñ nasıl yaratılğanına, kokniñ nasıl yukseltilgenine, dağlarnıñ nasıl tiklengenine, yer yuzüniñ nasıl yayılğanına bir baqmazlarmı?
-21-26. O alda (Resulım), ogüt ber. Çünki, sen ancaq ogüt bericisiñ. Olarnıñ ustünde bir zorbacı degilsiñ. Ancaq yuz çevirip, inkâr etkenge kelgende, işte, oylesini Allaһ eñ buyuk azap ile cezalandırır. Şubesiz, olarnıñ dönüşi sadece bizgedir. Soñ olarnıñ sorğuğa çekilüvi de, sadece bizge aittir.
+12. O yerde (cennette) devamlı aqqan bir çoqraq, o yerde yukseltilgen tahtlar, qoyulğan qadeler, sıra-sıra tizili yastıqlar, töşelgen kilimler bar.
+13. [12 ayetine baq.]
+14. [12 ayetine baq.]
+15. [12 ayetine baq.]
+16. [12 ayetine baq.]
+17. (İnsanlar) deveniñ nasıl yaratılğanına, kokniñ nasıl yukseltilgenine, dağlarnıñ nasıl tiklengenine, yer yuzüniñ nasıl yayılğanına bir baqmazlarmı?
+18. [17 ayetine baq.]
+19. [17 ayetine baq.]
+20. [17 ayetine baq.]
+21. O alda (Resulım), ogüt ber. Çünki, sen ancaq ogüt bericisiñ. Olarnıñ ustünde bir zorbacı degilsiñ. Ancaq yuz çevirip, inkâr etkenge kelgende, işte, oylesini Allaһ eñ buyuk azap ile cezalandırır. Şubesiz, olarnıñ dönüşi sadece bizgedir. Soñ olarnıñ sorğuğa çekilüvi de, sadece bizge aittir.
+22. [21 ayetine baq.]
+23. [21 ayetine baq.]
+24. [21 ayetine baq.]
+25. [21 ayetine baq.]
+26. [21 ayetine baq.]
 
 # 89. el-FECR
 
 Fecr - tañ yeriniñ ağaruvı ve çabaq manasındadır. Fecr suresi Leyl suresinden soñ, Mekkede engen, 30 aittir. Bu surede eski qavmlarğa ait qıssalar hatırlatıla. İnsan oğlunıñ fenalıqqa yonelmekte olğanı bildirelerek, bunıñ yaman neticesi, dünya ayatından soñki ayat ve o yerdeki vaziyetler qısqadan añlatıla.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-5. Fecrge, on gecege (hacnıñ on gecesine) çiftke, tekke, (er şeyni qaranlığınen) ortken anda gecege yemin eterim ki, bularda aqıl saibi içün elbette, birer yemin (degeri) bar. (Er kunniñ fecri, Zilhicceniñ on gecesi, musbet ve menfiy qutup diye bilingen çiftlerden teşkil olğan barlq alemi, bularnı yaratqan ve tek olğan Allaһ, er şeyni ortüp, yoq kibi etken gece qaranlığı yeminge mevzu etilgen, soñra da bularnıñ yeminge degerli şeyler olğanı qayd etilgen).
-6-14. Kormediñmi, Rabbiñ ne yaptı Aad qavmına; direkleri (üksek binaları) olğan, ulkelerde oña beñzegeni yaratılmağan İrem şeerine, o vadiyde qayalarnı yonğan Semuud qavmına, qazıqlar (çadırlar, ordular) saibi Fıravunğa! Ki olarnıñ episi ulkelerinde adden aştılar. O yerlerde yamanlıqnı arttırdılar. Bu sebepten, Rabbiñ olarnıñ ustüne azap qamçısı yağdırdı. Çünki, Rabbiñ (er an) kozetmektedir. (Bazı tefsircilerge kore, Fıravun yerge dört qazıq qaqtıra, eskence etecek kimselerni ellerinden ve ayaqlarından bu qazıqlarğa bağlata, o şekilde eskence ete eken. Şunıñ içün oña «zu’l-evtaad - qazıqlar saibi» denilgen).
+1. Fecrge, on gecege (hacnıñ on gecesine) çiftke, tekke, (er şeyni qaranlığınen) ortken anda gecege yemin eterim ki, bularda aqıl saibi içün elbette, birer yemin (degeri) bar. (Er kunniñ fecri, Zilhicceniñ on gecesi, musbet ve menfiy qutup diye bilingen çiftlerden teşkil olğan barlq alemi, bularnı yaratqan ve tek olğan Allaһ, er şeyni ortüp, yoq kibi etken gece qaranlığı yeminge mevzu etilgen, soñra da bularnıñ yeminge degerli şeyler olğanı qayd etilgen).
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
+6. Kormediñmi, Rabbiñ ne yaptı Aad qavmına; direkleri (üksek binaları) olğan, ulkelerde oña beñzegeni yaratılmağan İrem şeerine, o vadiyde qayalarnı yonğan Semuud qavmına, qazıqlar (çadırlar, ordular) saibi Fıravunğa! Ki olarnıñ episi ulkelerinde adden aştılar. O yerlerde yamanlıqnı arttırdılar. Bu sebepten, Rabbiñ olarnıñ ustüne azap qamçısı yağdırdı. Çünki, Rabbiñ (er an) kozetmektedir. (Bazı tefsircilerge kore, Fıravun yerge dört qazıq qaqtıra, eskence etecek kimselerni ellerinden ve ayaqlarından bu qazıqlarğa bağlata, o şekilde eskence ete eken. Şunıñ içün oña «zu’l-evtaad - qazıqlar saibi» denilgen).
+7. [6 ayetine baq.]
+8. [6 ayetine baq.]
+9. [6 ayetine baq.]
+10. [6 ayetine baq.]
+11. [6 ayetine baq.]
+12. [6 ayetine baq.]
+13. [6 ayetine baq.]
+14. [6 ayetine baq.]
 15. İnsan bar ya, Rabbi onı imtian etip de, ikramda bulunğanında ve bol nimet bergeninde: «Rabim maña ikram etti», der.
 16. Onı imtian etip, rızqını tarlaştırğanında ise: «Rabbim maña emiyet bermedi», der.
-17-20. Yoq! Doğrusı, siz yetimge ikram etmemektesiñiz, yoqsulnı toydurmağa birbiriñizni teşviq etmemektesiñiz. Aram-elâl demeden, mirasnı aşamaqtasıñız. Malnı adden aşırı sevmektesiñiz.
+17. Yoq! Doğrusı, siz yetimge ikram etmemektesiñiz, yoqsulnı toydurmağa birbiriñizni teşviq etmemektesiñiz. Aram-elâl demeden, mirasnı aşamaqtasıñız. Malnı adden aşırı sevmektesiñiz.
+18. [17 ayetine baq.]
+19. [17 ayetine baq.]
+20. [17 ayetine baq.]
 
 (Cahiliye devrinde araplar mirastan qadınlarğa, balalarğa ve yetimlerge pay bermey ediler).
-21-22. Amma, yer yuzü parça-parça olğan, Rabbiñ(niñ emri) kelgen ve melekler saf-saf tizilgen vaqıtta (er şey ortağa çıqacaq).
+21. Amma, yer yuzü parça-parça olğan, Rabbiñ(niñ emri) kelgen ve melekler saf-saf tizilgen vaqıtta (er şey ortağa çıqacaq).
+22. [21 ayetine baq.]
 23. O kunü ceennem ketirilir, insan yapqanlarını birer-birer hatırlar. Faqat bu hatırlavnıñ ne faydası bar!
 24. (İşte, o vaqıtta insan:) «Keşke bu ayatım içün bir şeyler yapıp yollasa edim!», der.
 25. Artıq o kunü Allaһnıñ etecek azabını kimse etalmaz.
 26. Onıñ uracaq buğavını kimse uralmaz.
 
-27-30. Ey, raatlıqqa qavuşqan insan! Sen Ondan hoşnut, O da senden hoşnut olaraq, Rabbiñye dön. (Seçken) qullarım arasına qoşul ve cennetime kir!
+27. Ey, raatlıqqa qavuşqan insan! Sen Ondan hoşnut, O da senden hoşnut olaraq, Rabbiñye dön. (Seçken) qullarım arasına qoşul ve cennetime kir!
+28. [27 ayetine baq.]
+29. [27 ayetine baq.]
+30. [27 ayetine baq.]
 
 # 90. el-BELED
 
 Mekkede, Qaf suresinden soñ engen, 20 ayettir. Adını ilk ayette keçken, Mekkeni añlatqan ve «şeer» manasındaki «beled» kelimesinden alğan. Bu surede insannıñ yaratılışından, onıñ bazı davranışlarından, insanğa berilgen ustün vasıflardan, o vasıflarnı eyilikke qullanmağannıñ fena aqibetinden, eyilikke qullanğanlarnıñ da, bahtlı keleceklerinden söz etile.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-4. Bu bolgege -ki sen bu bolgedesiñ-, babağa ve ondan meydanğa kelgen balağa yemin eterim ki, biz insannı (koz-kozge kelecek nice) zorluqlar içinde yarattıq.
+1. Bu bolgege -ki sen bu bolgedesiñ-, babağa ve ondan meydanğa kelgen balağa yemin eterim ki, biz insannı (koz-kozge kelecek nice) zorluqlar içinde yarattıq.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
 5. İnsan, iç kimse oña kuç yetiştiralmaycaq belleymi? 6. «Pek çoq mal arcladım» dey. (Bazı tefsirlerge kore, ayette, muşriklerniñ Az. Peyğamberge duşmanlıq oğrunda yapqan arcalamalarından söz etüvlerine işaret olunmaqta).
 6. Kimse onı kormedi belleymi?
 
-7-9. Biz oña eki koz, bir til ve eki dudaq bermedikmi? Oña eki yol (doğru ve egrini) kostermedikmi?
-10-15. Faqat o, sarp yoquşnı aşalmadı. O sarp yoquş ne olğanını bilesiñmi? Hızmetkâr azat etmek ya da açlıq kunünde yaqını olğan bir yetimni, yahut ap-açıq bir yoqsulnı toyurmaqtır.
-16-17. Soñ iman etkenlerden, bir-birilerine sabır tevsiye etkenlerden ve bir-birilerini acımaqnı ogütlegenlerden olmaqtır. İşte, bular sağdakilerdir. (Qur’anda keçken «sağdakiler» ve «soldakiler» tabirleriniñ manası içün Vaqıa suresi, 8, 9, 16-nci ayetleriniñ izaatlarına baq.).
-18-19. Ayetlerimizni inkâr etkenler ise, işte olar soldakilerdir. Cezaları, qapuları ustlerine sım-sıq qapatılğan bir ateştir.
+7. Biz oña eki koz, bir til ve eki dudaq bermedikmi? Oña eki yol (doğru ve egrini) kostermedikmi?
+8. [7 ayetine baq.]
+9. [7 ayetine baq.]
+10. Faqat o, sarp yoquşnı aşalmadı. O sarp yoquş ne olğanını bilesiñmi? Hızmetkâr azat etmek ya da açlıq kunünde yaqını olğan bir yetimni, yahut ap-açıq bir yoqsulnı toyurmaqtır.
+11. [10 ayetine baq.]
+12. [10 ayetine baq.]
+13. [10 ayetine baq.]
+14. [10 ayetine baq.]
+15. [10 ayetine baq.]
+16. Soñ iman etkenlerden, bir-birilerine sabır tevsiye etkenlerden ve bir-birilerini acımaqnı ogütlegenlerden olmaqtır. İşte, bular sağdakilerdir. (Qur’anda keçken «sağdakiler» ve «soldakiler» tabirleriniñ manası içün Vaqıa suresi, 8, 9, 16-nci ayetleriniñ izaatlarına baq.).
+17. [16 ayetine baq.]
+18. Ayetlerimizni inkâr etkenler ise, işte olar soldakilerdir. Cezaları, qapuları ustlerine sım-sıq qapatılğan bir ateştir.
+19. [18 ayetine baq.]
 
 # 91. eş-ŞEMS
 
 Qadir suresinden soñ, Mekkede engen, 15 ayettir. Adını sureniñ ilk kelimesi olğan ve «kuneş» manasındaki «şems»ten alğan. Bu surede insannıñ yaratılışında mevcut eki hususiyet añlatıla: yahşılıq ve yamanlıq. İnsannıñ yaratılışında yahşı olmaq da, yaman olmaq da qabiliyet olaraq bardır.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-10. Kuneşke ve quşluq vaqtındaki aydınlığına, kuneşni taqip etkeninde ayğa, onı aşkâr etken kundüzge, onı ortkeninde gecege, kok yuzüne ve onı bina etkende, yerge ve onı yapıp töşegenge, nefiske ve oña bir taqım qabiliyetler berip de, yahşılıq ve yamanlıqlarnı ilham etkenge yemin eterim ki, nefsini fenalıqlardan arındırğan, qurtulışqa irişken, onı fenalıqlarğa komgen de, ziyan etkendir.
-11-15. Semuud qavmı adden aşqanı sebebinden (Allaһnıñ elçisini) yalanladı. Olarnıñ eñ bedbahtı (deveni soymaq içün) atılğanda, Allaһnıñ Resulı olarğa: «Allaһnıñ devesine ve onıñ suv aqqına toqunmañ!», dedi. Amma, olar onı yalanladılar ve deveni soydılar. Bunıñ ustüne, Rabbleri, gunahları sebebinden, olarğa buyuk bir felâket yolladı da, episini elâk etti. (Allaһ bu şekilde azap etüvniñ) aqibetinden qorqacaq degil ya! (Allaһ Semuud qavmına Salih Peyğamberni yollağan edi. Ondan mucize istediler. Allaһ oña pek guzel bir ırğaçı deve yolladı. Bu deveniñ otlaqlarda serbest dolaşuvı, belli bir kunde suv içüvi, devege kimseniñ fenalıq yapmaması emir etildi. Qudar b. Salif adlı birisi Az. Salihni yalanladı. Soñ deveni soydılar. Allaһ olarnıñ memleketlerini başlarına yıqtı ve olarnı elâk etti. Olardan qalğan harabeler alâ mevcuttır).
+1. Kuneşke ve quşluq vaqtındaki aydınlığına, kuneşni taqip etkeninde ayğa, onı aşkâr etken kundüzge, onı ortkeninde gecege, kok yuzüne ve onı bina etkende, yerge ve onı yapıp töşegenge, nefiske ve oña bir taqım qabiliyetler berip de, yahşılıq ve yamanlıqlarnı ilham etkenge yemin eterim ki, nefsini fenalıqlardan arındırğan, qurtulışqa irişken, onı fenalıqlarğa komgen de, ziyan etkendir.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
+6. [1 ayetine baq.]
+7. [1 ayetine baq.]
+8. [1 ayetine baq.]
+9. [1 ayetine baq.]
+10. [1 ayetine baq.]
+11. Semuud qavmı adden aşqanı sebebinden (Allaһnıñ elçisini) yalanladı. Olarnıñ eñ bedbahtı (deveni soymaq içün) atılğanda, Allaһnıñ Resulı olarğa: «Allaһnıñ devesine ve onıñ suv aqqına toqunmañ!», dedi. Amma, olar onı yalanladılar ve deveni soydılar. Bunıñ ustüne, Rabbleri, gunahları sebebinden, olarğa buyuk bir felâket yolladı da, episini elâk etti. (Allaһ bu şekilde azap etüvniñ) aqibetinden qorqacaq degil ya! (Allaһ Semuud qavmına Salih Peyğamberni yollağan edi. Ondan mucize istediler. Allaһ oña pek guzel bir ırğaçı deve yolladı. Bu deveniñ otlaqlarda serbest dolaşuvı, belli bir kunde suv içüvi, devege kimseniñ fenalıq yapmaması emir etildi. Qudar b. Salif adlı birisi Az. Salihni yalanladı. Soñ deveni soydılar. Allaһ olarnıñ memleketlerini başlarına yıqtı ve olarnı elâk etti. Olardan qalğan harabeler alâ mevcuttır).
+12. [11 ayetine baq.]
+13. [11 ayetine baq.]
+14. [11 ayetine baq.]
+15. [11 ayetine baq.]
 
 # 92. el-LEYL
 
 Gecege yeminnen başlanğanı içün, surege «Leyl» denilgen. Mekkede engen, 21 ayettir. Bu surede insan oğlunıñ eki zıt (ters) areketinden - cumertlik ve saranlıqtan baas etile. İmanlı olmaqnen cumertlik, imansızlıqnen saranlıq arasındaki bağlılıqqa diqqat çekile.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-4. (Qaranlığınen etrafnı) burüp ortken vaqıtta gecege, açılıp ağarğan vaqıtta kundüzge, erkekni ve ırğaçını yaratqanğa yemin eterim ki, işleriñiz başqa-başqadır.
-5-7. Artıq kim berir ve saqınır ise, eñ yahşısı da, tasdiq eter ise, biz de onı eñ qolayğa azırlarmız (onda muvafaqiyetli yaparmız).
+1. (Qaranlığınen etrafnı) burüp ortken vaqıtta gecege, açılıp ağarğan vaqıtta kundüzge, erkekni ve ırğaçını yaratqanğa yemin eterim ki, işleriñiz başqa-başqadır.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. Artıq kim berir ve saqınır ise, eñ yahşısı da, tasdiq eter ise, biz de onı eñ qolayğa azırlarmız (onda muvafaqiyetli yaparmız).
+6. [5 ayetine baq.]
+7. [5 ayetine baq.]
 
-8-11. Kim saranlıq etip, ozüni muhtac saymaz, eñ yahşısı da, yalanlar ise, biz de onı eñ zoruna azırlarmız. Tüşken vaqtında da, malı ozüne iç fayda bermez.
-12-13. Doğru yolnı kostermek bizge aittir. Şubesiz, ahiret de, dünya da bizimdir.
+8. Kim saranlıq etip, ozüni muhtac saymaz, eñ yahşısı da, yalanlar ise, biz de onı eñ zoruna azırlarmız. Tüşken vaqtında da, malı ozüne iç fayda bermez.
+9. [8 ayetine baq.]
+10. [8 ayetine baq.]
+11. [8 ayetine baq.]
+12. Doğru yolnı kostermek bizge aittir. Şubesiz, ahiret de, dünya da bizimdir.
+13. [12 ayetine baq.]
 14. (Ey, insanlar!) Alev-alev yanğan bir ateşnen sizni tenbiyeledim.
 
-15-16. O ateşke, ancaq yalanlap yuz çevirgen yamanlar, kirer.
-17-18. Temizlenmek uzre, malını hayırğa bergen yahşılar ondan (ateşten) uzaq tutular.
-19-21. Yuce Rabbiniñ rizasını istemekten başqa, onıñ nezdinde iç bir kimsege ait şukran ile qarşılanacaq bir nimet yoqtır. Ve o (buña qavuşaraq) hoşnut olacaq.
+15. O ateşke, ancaq yalanlap yuz çevirgen yamanlar, kirer.
+16. [15 ayetine baq.]
+17. Temizlenmek uzre, malını hayırğa bergen yahşılar ondan (ateşten) uzaq tutular.
+18. [17 ayetine baq.]
+19. Yuce Rabbiniñ rizasını istemekten başqa, onıñ nezdinde iç bir kimsege ait şukran ile qarşılanacaq bir nimet yoqtır. Ve o (buña qavuşaraq) hoşnut olacaq.
+20. [19 ayetine baq.]
+21. [19 ayetine baq.]
 
 # 93. ed-DUһAA
 
 Duһaa - quşluq vaqtı demektir. Sure adını ilk ayette keçken bu kelimeden ala, Fecr suresinden soñ, Mekkede engen, 11 ayettir. Surede ahırzaman Peyğamberiniñ hususiyetlerinden biri yani yetim olğanı tilge alına ve oña teselli berile.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-3. Quşluq vaqtına ve sukünetke irişkeniñde gecege yemin eterim ki, Rabbiñ seni bıraqmadı ve saña darılmadı. (Biraz vaqıt vahiyniñ kelüvi keçikti. Muşrikler: «Rabbi onı terk etti, oña darıldı!», dediler. Bu laqırdılar ve sataşuvlar Efendimizge ağır kele edi. İşte, bu, husus ayetlernen izaat etildi).
+1. Quşluq vaqtına ve sukünetke irişkeniñde gecege yemin eterim ki, Rabbiñ seni bıraqmadı ve saña darılmadı. (Biraz vaqıt vahiyniñ kelüvi keçikti. Muşrikler: «Rabbi onı terk etti, oña darıldı!», dediler. Bu laqırdılar ve sataşuvlar Efendimizge ağır kele edi. İşte, bu, husus ayetlernen izaat etildi).
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
 4. Aqiqaten, sen içün ahiret dünyadan daa hayırlıdır.
 5. Pek yaqında Rabbiñ saña berecek de, hoşnut olacaqsıñ.
 6. O, seni yetim bulıp, barındırmadımı?
@@ -8541,16 +9021,23 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Biz seniñ koksüñni açıp kenişletmedikmi?
 
-2-3. Beliñni bukken yuküñni senden alıp atmadıqmı?
+2. Beliñni bukken yuküñni senden alıp atmadıqmı?
+3. [2 ayetine baq.]
 4. Seniñ şanıñnı ve şuretiñni yuceltmedikmi?
 
-5-6. Elbette, qıyınlıqnıñ yanında bir qolaylıq bar. Aqiqaten, zorluqnen beraber, bir qolaylıq daa bardır.
-7-8. Boş qaldıñmı, aman (başqa) işke sarıl ve yalıñız Rabbiñye yonel! (Bazı tefsirciler bitirilgen işni, bazıları da, başlanacaq işni «ibadet» olaraq yorumlağanlar. Bu yorumlarnıñ beraberlik noqtası dünya ve ahiret arasındaki olçüge diqqat etilüvi kerekligine berilüvidir).
+5. Elbette, qıyınlıqnıñ yanında bir qolaylıq bar. Aqiqaten, zorluqnen beraber, bir qolaylıq daa bardır.
+6. [5 ayetine baq.]
+7. Boş qaldıñmı, aman (başqa) işke sarıl ve yalıñız Rabbiñye yonel! (Bazı tefsirciler bitirilgen işni, bazıları da, başlanacaq işni «ibadet» olaraq yorumlağanlar. Bu yorumlarnıñ beraberlik noqtası dünya ve ahiret arasındaki olçüge diqqat etilüvi kerekligine berilüvidir).
+8. [7 ayetine baq.]
 
 # 95. et-TİİN
 
 «Tiin» - dağ adı ya da incir demektir. Buruuc suresinden soñ Mekkede engen, 8 ayettir. Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-5. İncirge, zeytunğa, Sina dağına ve şu emin bolgege yemin eterim ki, biz insannı eñ guzel biçimde yarattıq. Soñ onı aşşağılarnıñ aşşağısına endirdik. (Allaһ Taalâ insannı, ruh ve beden qabiliyetleri noqtai nazarından, canlılarnıñ eñ mukemmeli yapqan. Surede «eñ guzel biçimde yarattıq» ifadesi bu hususnı añlatmaqta. İnsan serbest iradesinen, ya bu qabiliyetlerni guzel qullanaraq, «kâmil insan» olacaq, ya da aks tarafnı tutaraq, şuurl barlıqlarnıñ ve canlılarnıñ eñ aşşağı mertebesinden yer alacaq).
+1. İncirge, zeytunğa, Sina dağına ve şu emin bolgege yemin eterim ki, biz insannı eñ guzel biçimde yarattıq. Soñ onı aşşağılarnıñ aşşağısına endirdik. (Allaһ Taalâ insannı, ruh ve beden qabiliyetleri noqtai nazarından, canlılarnıñ eñ mukemmeli yapqan. Surede «eñ guzel biçimde yarattıq» ifadesi bu hususnı añlatmaqta. İnsan serbest iradesinen, ya bu qabiliyetlerni guzel qullanaraq, «kâmil insan» olacaq, ya da aks tarafnı tutaraq, şuurl barlıqlarnıñ ve canlılarnıñ eñ aşşağı mertebesinden yer alacaq).
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
 6. Faqat iman etip, salih amel işegenler içün, eksilmegen, devamlı bir ecir bar.
 7. Artıq bundan soñ ceza kunü mevzusında seni kim yalanlay bilir?
 8. Allaһ - uküm bericilerniñ eñ ustüni degilmi?
@@ -8560,16 +9047,27 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Alaq - insannıñ yaratılış devirlerinden olğan aşlanğan yımırtanı ifade eter. Bu surege «İqra’ suresi» de denilir. Mekkede engen, 19 ayettir. İlk beş ayeti Qur’annıñ birinci engen ayetleridir. Bu surede oqumaqnıñ, ogrenmekniñ ustünligi, insannıñ yaratılışı, qalemniñ muimligi, bularnıñ insanğa Allaһ ihsanı olğanı, insannıñ bularnı tüşünüvi, Rabbine itaat etüvi kerekligi, aks alda azapqa oğraycağı añlatıla.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-2. Yaratqan Rabbiñniñ adınen oqu! O, insannı bir aşlanğan yımırtadan yarattı.
+1. Yaratqan Rabbiñniñ adınen oqu! O, insannı bir aşlanğan yımırtadan yarattı.
+2. [1 ayetine baq.]
 
-3-5. Oqu! İnsanğa bilmegenlerini bildirgen, qalemnen (yazmaqnı) ogretken Rabbiñ eñ buyuk kerem saibidir.
-6-8. Aqiqat şu ki, insan ozüni ozüne yeterli korerek, adden aşar. Şubesiz, dönüş Rabbiñyedir.
-9-10. Namaz qılğanda bir qulnı (Peyğamberni namazdan) men etkenni kordiñmi?
+3. Oqu! İnsanğa bilmegenlerini bildirgen, qalemnen (yazmaqnı) ogretken Rabbiñ eñ buyuk kerem saibidir.
+4. [3 ayetine baq.]
+5. [3 ayetine baq.]
+6. Aqiqat şu ki, insan ozüni ozüne yeterli korerek, adden aşar. Şubesiz, dönüş Rabbiñyedir.
+7. [6 ayetine baq.]
+8. [6 ayetine baq.]
+9. Namaz qılğanda bir qulnı (Peyğamberni namazdan) men etkenni kordiñmi?
+10. [9 ayetine baq.]
 (Bu ayetler Peyğamberimizge namaz qılğanda sataşqan Ebu Cehil aqqında engen. O ve oña beñzegenler aqqında boyle buyurılmaqta:)
-11-12. Ne dersiñ, o (Peyğamber) doğru yolda ise, yahut taqvanı emir etmekte ise!
+11. Ne dersiñ, o (Peyğamber) doğru yolda ise, yahut taqvanı emir etmekte ise!
+12. [11 ayetine baq.]
 13. Ne dersiñ, o (men etken, Peyğambreni) yalanlamaqta ve doğru yoldan yuz çevirmekte ise!
 14. (Bu adam) Allaһnıñ, (yapqanlarını) korgenini bilmezmi!
-15-19. Yoq, yoq! Eger vazgeçmese, der’al onı mañlayından (perçeminden), o yalancı, gunahkâr mañlaydan (perçemden) yaqalarmız (ceennemge atarmız). O, aman barıp, meclisini (ozüniñ tarafdarlarını) çağırsın. Biz de zebaniylerni çağıracaqmız. Yoq! Oña uyma! Allaһqa secde et ve (yalıñız Oña) yaqlaş!
+15. Yoq, yoq! Eger vazgeçmese, der’al onı mañlayından (perçeminden), o yalancı, gunahkâr mañlaydan (perçemden) yaqalarmız (ceennemge atarmız). O, aman barıp, meclisini (ozüniñ tarafdarlarını) çağırsın. Biz de zebaniylerni çağıracaqmız. Yoq! Oña uyma! Allaһqa secde et ve (yalıñız Oña) yaqlaş!
+16. [15 ayetine baq.]
+17. [15 ayetine baq.]
+18. [15 ayetine baq.]
+19. [15 ayetine baq.]
 
 # 97. el-QADR
 
@@ -8590,7 +9088,8 @@ Açıq delil manasına kelgen ve birinci ayette keçken «beyyine» kelimesi sur
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 
 1. Ap-açıq delil olarğa kelgenge qadar, ehl-i kitaptan ve muşriklerden inkârcılar (kufürden) ayrılacaq degil ediler.
-2-3. (İşte, o ap-açıq delil) Allaһ tarafından yollanılğan ve eñ doğru ukümlerni içine alğan, ter-temiz saifelerni oquğan bir elçidir.
+2. (İşte, o ap-açıq delil) Allaһ tarafından yollanılğan ve eñ doğru ukümlerni içine alğan, ter-temiz saifelerni oquğan bir elçidir.
+3. [2 ayetine baq.]
 4. Ozlerine kitap berilgenler ancaq o açıq delil (Peyğamber) olarğa kelgenden soñ bolündiler.
 5. Albuki, olar ancaq dinni yalıñız Oña has qılaraq ve hanifler olaraq, Allaһqa qullıq etüvleri, namaz qıluvları ve zekât berüvleri emir olunğan edi. Dos-doğru din de - budır. («Hanif» ne olğanı aqqında Ruum suresiniñ 30-nci ayeti izaatına baq.).
 6. Ehl-i kitap ve muşriklerden olğan inkârcılar içinde ebediy olaraq qalacaq ceennemleri ateşindedirler. İşte, halqnıñ eñ şerrlileri olardır.
@@ -8602,7 +9101,11 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Teprenüv demek olğan «zilzaal» kelimesi sureniñ ilki ayetinde keçe. Nisaa suresinden soñ, Medinede engen, 8 ayettir. Qıyametniñ qopuvından, insanlarnıñ ğayrıdan tirilip, esap berüvlerinden, er kesniñ -yahşı ya da yaman- yapqanını bulacağından baas etile.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-5. Yer qurresi ozüne has sarsıntısınen sallanğan, topraq ağırlıqlarını tışqa çıqarğan ve insan: «Ne olmqta buña!», degen vaqıtta, işte, o kunü (er) Rabbiñniñ oña bildirüvinen, butün haberlerini añlatır.
+1. Yer qurresi ozüne has sarsıntısınen sallanğan, topraq ağırlıqlarını tışqa çıqarğan ve insan: «Ne olmqta buña!», degen vaqıtta, işte, o kunü (er) Rabbiñniñ oña bildirüvinen, butün haberlerini añlatır.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
 6. O kunü insanlar amellerini korüvleri (qarşılığını aluvları) içün darmadağınıq keri qaytıp kelirler.
 7. Kim zerre miqdarı hayır yapqan ise, onı korer.
 8. Kim de zerre miqdarı şerr işlegen ise, onı korer. (Er ağırlığını tışqa çıqaruvı bir-qaç türlü tefsir etilgen.
@@ -8615,46 +9118,71 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Aadiyaat - qoşu atları demektir. Asr suresinden soñ, Mekkede engen, 11 ayettir. Bu surede insan oğlunıñ nakorliginden, qıyamet kunü ortağa çıqacaq aşkâr vaziyetten söz etile.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-8. Har-har qoşqanlarğa, (nallarınen) çaqaraq, qığılçım saçqanlarğa, (apansızdan) saba basqını yapqanlarğa, o yerde toznı dumanğa qatqanlarğa, derken o yerde bir toplulıqnıñ ta ortasına kirgenlerge yemin eterim ki, insan Rabbine nisbeten pek nankordir, şubesiz, buña ozü de şaattır ve o, mal sevgisine de adden aşır derecede hırslıdır.
-9-11. Qabirlerde bulunğanlar tiriltilip, tışqa çıqarılğan ve qalplerde gizlengenler ortağa qoyulğan vaqıtta insan (alınıñ ne olacağını) tüşünmezmi? Şubesiz, Rabbleri o kunü olardan tamamınen haberdardır.
+1. Har-har qoşqanlarğa, (nallarınen) çaqaraq, qığılçım saçqanlarğa, (apansızdan) saba basqını yapqanlarğa, o yerde toznı dumanğa qatqanlarğa, derken o yerde bir toplulıqnıñ ta ortasına kirgenlerge yemin eterim ki, insan Rabbine nisbeten pek nankordir, şubesiz, buña ozü de şaattır ve o, mal sevgisine de adden aşır derecede hırslıdır.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
+6. [1 ayetine baq.]
+7. [1 ayetine baq.]
+8. [1 ayetine baq.]
+9. Qabirlerde bulunğanlar tiriltilip, tışqa çıqarılğan ve qalplerde gizlengenler ortağa qoyulğan vaqıtta insan (alınıñ ne olacağını) tüşünmezmi? Şubesiz, Rabbleri o kunü olardan tamamınen haberdardır.
+10. [9 ayetine baq.]
+11. [9 ayetine baq.]
 
 # 101. el-QAARİA
 
 Qaaria - qapunı qaqqan demektir ve qıyamet koz ogünde tutulmaqta. Qureyş suresinden soñ, Mekkede engen, 11 ayettir. Bu surede qıyametniñ qopuvından meydanğa kelecek vaqialardan ve insannıñ aqibetinden söz etile.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-3. Qapu qaqqan! Nedir o kapu qaqqan? O qapu qaqqannıñ ne olğanını bilesiñmi?
-4-5. İnsanlarnıñ, ateşniñ etrafını sarğan pervaneler kibi olğanı, dağlarnıñ da avağa atılğan renkli yunge çevirilgen kunüdir (o Qaaria!).
-6-7. O kunü kimniñ tartılğan imeli ağır kelse, işte o, hoşnut etici bir yaşayış içinde olur.
-8-9. Ameli yengil olğanğa kelgende, işte onıñ anası (eri, yurtı) Haaviyedir. (Amelniñ ağır kelüvi, hayır ve yahşılıqlarnıñ ziyade oluvı; yengil kelüvi ise, hayır ve savapnıñ kefesine (teraze kozüne) qoyulacaq amelniñ azlığı ya da olmağanı demektir).
-10-11. Nedir o (Haaviye) bilesiñmi? Qızğın ateş!
+1. Qapu qaqqan! Nedir o kapu qaqqan? O qapu qaqqannıñ ne olğanını bilesiñmi?
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. İnsanlarnıñ, ateşniñ etrafını sarğan pervaneler kibi olğanı, dağlarnıñ da avağa atılğan renkli yunge çevirilgen kunüdir (o Qaaria!).
+5. [4 ayetine baq.]
+6. O kunü kimniñ tartılğan imeli ağır kelse, işte o, hoşnut etici bir yaşayış içinde olur.
+7. [6 ayetine baq.]
+8. Ameli yengil olğanğa kelgende, işte onıñ anası (eri, yurtı) Haaviyedir. (Amelniñ ağır kelüvi, hayır ve yahşılıqlarnıñ ziyade oluvı; yengil kelüvi ise, hayır ve savapnıñ kefesine (teraze kozüne) qoyulacaq amelniñ azlığı ya da olmağanı demektir).
+9. [8 ayetine baq.]
+10. Nedir o (Haaviye) bilesiñmi? Qızğın ateş!
+11. [10 ayetine baq.]
 
 # 102. et-TEKYaASUR
 
 Tekâasur - çoqluq yarışı ve çoqluqnen maqtanmaq demektir. Kevser suresinden soñ, Mekkede engen, 8 ayettir. Cdahiliye arapları mal, evlât ve aqrabalarınıñ çoqluğını bir ğurur ve şeref saya, atta bu hususta yaşağanlarnen qanaatlenmeyip, qabileleriniñ ustünligini keçmişlerinen de isbat etmek içün, qabirlerge bara, olgen aqrabalarınıñ çoqluğunen maqtana ediler. Surede olarnıñ bu yapqanları tenqit etilmekte ve aqiqiy ustünlikniñ ahirette ortağa çıqacağı añlatılmaqta.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-2. Çoqluq quruntısı sizni o derece meşğul etti ki, niayet qabirlerni ziyaret ettiñiz.
-3-4. Yoq! Yaqında bileceksiñiz! Elbette, yaqında bileceksiñiz!
-5-8. Aqiqat oyle degil! Kesen-kes bilgi ile bilgen olsa ediñiz, (o yerde) mıtlaqa ceennem ateşini korer ediñiz. Soñra ahirette onı açıq koznen koreceksiñiz. Niayet, o kunü (dünyada faydalanğan) nimetleriñizden, elbette ve elbette esapqa çekileceksiñiz.
+1. Çoqluq quruntısı sizni o derece meşğul etti ki, niayet qabirlerni ziyaret ettiñiz.
+2. [1 ayetine baq.]
+3. Yoq! Yaqında bileceksiñiz! Elbette, yaqında bileceksiñiz!
+4. [3 ayetine baq.]
+5. Aqiqat oyle degil! Kesen-kes bilgi ile bilgen olsa ediñiz, (o yerde) mıtlaqa ceennem ateşini korer ediñiz. Soñra ahirette onı açıq koznen koreceksiñiz. Niayet, o kunü (dünyada faydalanğan) nimetleriñizden, elbette ve elbette esapqa çekileceksiñiz.
+6. [5 ayetine baq.]
+7. [5 ayetine baq.]
+8. [5 ayetine baq.]
 
 # 103. el-ASR
 
 Asr - yuz yıl, ekindi vaqtı ve meyvanıñ suvını çıqarmaq kibi manalardadır. «Asr»ğa yemin ile sözge başlanğanı içün, bu adnı alğan. İnşiraah suresinden soñ, Mekkede engen, 3 ayettir. Surede qurtulışnıñ imanğa, yahşı işler yapmağa, haqnı ve sabırnı tevsiye etmege bağlı olğanı añlatıla.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-3. Asrğa yemin eterim ki, insan, aqiqaten zarar içindedir. Bundan, ancaq iman etip, yahşı ameller işlegenler, bir-birilerine haqnı tevsiye etkenler ve sabırnı tevsiye etkenler istisnadır.
+1. Asrğa yemin eterim ki, insan, aqiqaten zarar içindedir. Bundan, ancaq iman etip, yahşı ameller işlegenler, bir-birilerine haqnı tevsiye etkenler ve sabırnı tevsiye etkenler istisnadır.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
 
 # 104. el-һUMEZE һumeze - birisini artından oşeklemek, onıñnen alay etmek, goñlüni qırmaq ve ıncıtmaq manasına kele. Qıyame suresinden soñ, Mekkede engen, 9 ayettir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-2. Arttan söz etmekni, yuzge qarşı til uzatmaqnı adet etken er kesniñ alına vay! O ki, mal toplağan ve onı sayıp turğandır.
+1. Arttan söz etmekni, yuzge qarşı til uzatmaqnı adet etken er kesniñ alına vay! O ki, mal toplağan ve onı sayıp turğandır.
+2. [1 ayetine baq.]
 3. (O), malı onı ebediy yapacaq belley.
 4. Yoq! Ant olsun ki, o Hutamege atılacaq.
 5. Hutameniñ ne olğanını bilesiñmi?
 
-6-7. Allaһnıñ tutaştırılğan, (yandıqça) tırmanıp, yureklerniñ tam ustüne çıqqan ateşidir.
-8-9. Olar (bu ateş içinde) uzatılğan direklerge bağlanğanlar ve o vaziyette o (ateş) ustlerine qapatılgandır.
+6. Allaһnıñ tutaştırılğan, (yandıqça) tırmanıp, yureklerniñ tam ustüne çıqqan ateşidir.
+7. [6 ayetine baq.]
+8. Olar (bu ateş içinde) uzatılğan direklerge bağlanğanlar ve o vaziyette o (ateş) ustlerine qapatılgandır.
+9. [8 ayetine baq.]
 
 # 105. el-FİİL
 
@@ -8673,7 +9201,10 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Qureyşke cahiliye devrinde berilgen bazı imtiyazlardan baas etkeni içün bu adnı alğan. Tiin suresinden soñ, Mekkede engen, 4 ayettir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-4. Qureyşke qolaylaştırılğanı, ebet, qış ve yaz seyaatları olarğa qolaylaştırılğanı içün, olar ozlerini açlıqtan toyurğan ve er çeşit qorqudan emin qılğan şu evniñ Rabbine qullıq etsinler. (Qureyş qabilesi butün araplar arasında muqaddes sayılğan Kâbeni kozetüv ve baquv vazifesinde olğanları içün, butün qabileler olarğa sayğı kostere edi; bu sayede olar yazda Taaifniñ serin yaylâlarına, qışta da Yemenniñ sıcaq bolgülerine serbest bara ediler. İşte, bu, Allaһnıñ olarğa bir ihsanı edi, çünki, bu şekilde serbest dolaşuv, soñunda buyuk olçüde, ticaret yapa ve qazanç elde ete ediler).
+1. Qureyşke qolaylaştırılğanı, ebet, qış ve yaz seyaatları olarğa qolaylaştırılğanı içün, olar ozlerini açlıqtan toyurğan ve er çeşit qorqudan emin qılğan şu evniñ Rabbine qullıq etsinler. (Qureyş qabilesi butün araplar arasında muqaddes sayılğan Kâbeni kozetüv ve baquv vazifesinde olğanları içün, butün qabileler olarğa sayğı kostere edi; bu sayede olar yazda Taaifniñ serin yaylâlarına, qışta da Yemenniñ sıcaq bolgülerine serbest bara ediler. İşte, bu, Allaһnıñ olarğa bir ihsanı edi, çünki, bu şekilde serbest dolaşuv, soñunda buyuk olçüde, ticaret yapa ve qazanç elde ete ediler).
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
 
 # 107. el-MAAUUN
 
@@ -8685,22 +9216,27 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 2. İşte, o, yetimni itep, qaqar;
 3. Yoqsulnı toyurmağa teşviq etmez;
 
-4-5. Yazıqlar olsun, o namaz qılğanlarğa ki, olar namazlarını ciddiyge almazlar.
-6-7. Olar kosteriş yapıcılardıң; hayırğa da mani olurlar. (Bazı kimseler namazlarına riya qatarlar, bazıları da, namaznıñ erkânını tolu eda etmezler. Ayette bularğa işaret etilgen).
+4. Yazıqlar olsun, o namaz qılğanlarğa ki, olar namazlarını ciddiyge almazlar.
+5. [4 ayetine baq.]
+6. Olar kosteriş yapıcılardıң; hayırğa da mani olurlar. (Bazı kimseler namazlarına riya qatarlar, bazıları da, namaznıñ erkânını tolu eda etmezler. Ayette bularğa işaret etilgen).
+7. [6 ayetine baq.]
 
 # 108. el-KEVSER
 
 Kevser - bol nimet demektir; ayrıca cennette bir havuznıñ da adıdır. Aadiyaat suresinden soñ, Mekkede engen bu sure 3 ayettir. Oğlan balaları yaşamağanı içün Peyğamberimizge muşrikler nesili kesilgen manasında «ebter» dediler. Surede buña cevap berilgen.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-3. (Resulım!) Şubesiz, biz saña Kevserni berdik. Şimdi sen Rabbiñye qullıq et ve qurban çal. Aslı soñu kesilgen, şubesiz saña boğuz kutücidir. (Bu surede qurban çaluv emir etilgen. Kurban - yaqınlıq demektir. Qurban çaluvdan asıl maqsat, bu ibadetnen Allaһqa yaqınlıq qazanmaqtır).
+1. (Resulım!) Şubesiz, biz saña Kevserni berdik.
+2. Şimdi sen Rabbiñye qullıq et ve qurban çal.
+3. Aslı soñu kesilgen, şubesiz saña boğuz kutücidir. (Bu surede qurban çaluv emir etilgen. Kurban - yaqınlıq demektir. Qurban çaluvdan asıl maqsat, bu ibadetnen Allaһqa yaqınlıq qazanmaqtır).
 
 # 109. el-KYaAFİRUUN
 
 Kâfirlerden söz yursetilgeni içün, bu adnı alğan. Maauun suresinden soñ, Mekkede engen, 6 ayettir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-2. (Resulım!) De ki: Ey, kâfirler! Men siz tabınayatqanlarıñızğa tabınmam.
+1. (Resulım!) De ki: Ey, kâfirler! Men siz tabınayatqanlarıñızğa tabınmam.
+2. [1 ayetine baq.]
 3. Siz de menim tabınğanıma tabınmaysıñız.
 4. Men de siziñ tabınğanlarıñızğa asla tabınacaq degilim.
 5. Ebet, siz de menim tabınğanımğa tabınamakta degilsiñiz.
@@ -8711,33 +9247,51 @@ Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
 Nasr - yardım demektir. Surede Allaһnıñ Az. Peyğamberge yardım eterek, fetihlerge qavuştırğanı ifade etilgeni içün, bu adnı alğan. Bu sure Mekkeniñ fethi sırasında engen olmaqnen beraber, Medine devrinde icretten soñ engeni içün, mediniy (Medinede engen) surelerdendir, 3 ayettir. İslâm zaferinden haber berir. İbn Umerden kelgen rivayetke kore, bu sure engenden soñ, Peyğamberimiz 80 kun yaşağan.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-3. Allaһnıñ yardımı ve zaferi kelip de, insanlarnıñ top-top Allaһnıñ dinine kirgenlerini korgen vaqtıñda, Rabbiñye hamd eterek, Onı tesbih et ve Ondan mağfiret tile. Çünki, O, tövbelerni çoq qabul eticidir.
+1. Allaһnıñ yardımı ve zaferi kelip de, insanlarnıñ top-top Allaһnıñ dinine kirgenlerini korgen vaqtıñda, Rabbiñye hamd eterek, Onı tesbih et ve Ondan mağfiret tile. Çünki, O, tövbelerni çoq qabul eticidir.
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
 
 # 111. TEBBET
 
 Tebbet - «qurusın» manasındaki bedduadır. Ebu Leheb aqqında engen. Zira o, eziyet etmek maqsadınen, Resulullahnıñ yoluna gizliden tiken qoyğan, bu işte oña qadını da yardım etken edi. Sure «Mesed suresi» diye de añılır. Faatiһa suresinden soñ, Mekkede engen, 5 ayettir. (Bir rivayetke kore, Şuaraa suresiniñ 124-nci ayeti kelgeninen, Efendimiz yaqın aqarabasını çağıraraq, olarnı İslâmğa davet etken edi. Emcesi Ebu Leһeb ğaliz sözler aytaraq: «Bizni bunıñ içün çağırdıñmı?», degen edi. Bunıñ uzerine bu sure endi).
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-5. Ebu Leһebniñ eki eli qurusın! Qurudı da. Malı ve qazanğanları oña fayda bermedi. O alevli bir ateşte yanacaq. Odun taşıyıcı olaraq ve boynunda hurma lifinden bukülgen bir yip olğanı alda, qadını da (ateşke kirecek).
+1. Ebu Leһebniñ eki eli qurusın! Qurudı da. Malı ve qazanğanları oña fayda bermedi. O alevli bir ateşte yanacaq. Odun taşıyıcı olaraq ve boynunda hurma lifinden bukülgen bir yip olğanı alda, qadını da (ateşke kirecek).
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
 
 # 112. el-İHLYaAS
 
 İhlâas - samimiy olmaq, dinge yurekten bağlanmaq, esaslarını tek Allaһ rizası içün tedbiq etmek manasındadır. Mekkede engen, 4 ayettir. İslâmnıñ tevhid qaidesiniñ eñ esaslı ve añlayışlı ifadesidir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-4. De ki: O, Allaһ birdir. Allaһ sameddir. O, doğurmağan ve doğmağandır. Onıñ iç bir teñyeşi (beñzegeni) yoqtır. (Samed - iç bir şeyge muhtac olmağan, aksine er şey oña muhtacdır, demektir).
+1. De ki: O, Allaһ birdir. Allaһ sameddir. O, doğurmağan ve doğmağandır. Onıñ iç bir teñyeşi (beñzegeni) yoqtır. (Samed - iç bir şeyge muhtac olmağan, aksine er şey oña muhtacdır, demektir).
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
 
 # 113. el-FELYaQ
 
 Felâq - saba mansında olğanı kibi, yarmaq manasını da bere. Bundan soñ kelgen Naas suresinen birlikte, ekisini «eki qorçalayıcı» manasında «muavvizeteyn» denilir. Bu surelerniñ şifa maqsadınen oqulğanına dair hadisler bar. Medinede engen, 5 ayettir.
 
 Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-5. De ki: Yarattığı şeylerniñ şerrinden, qaranlığı çökken zamanı geceniñ şerrinden, dügümlerge ufürip, tılsım yapqan ufleyicilerniñ şerrinden ve qızğanğan vaqtında qızğanç insannıñ şerrinden sabanıñ Rabbine sığınırım!
+1. De ki: Yarattığı şeylerniñ şerrinden, qaranlığı çökken zamanı geceniñ şerrinden, dügümlerge ufürip, tılsım yapqan ufleyicilerniñ şerrinden ve qızğanğan vaqtında qızğanç insannıñ şerrinden sabanıñ Rabbine sığınırım!
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
 
 # 114. en-NAAS
 
 Naas - insanlar demektir. Medinede engen, 6 ayettir. Bismilâaһirraһmaanirraһiim (Rahman ve rahim olğan Allaһnıñ adınen).
-1-6. De ki: İnsanlarnıñ qalplerine vesvese soqqan, (insan Allaһnı añğanında) pusuğa çekilgen cin ve insan şeytanınıñ şerrinden insanlarnıñ Rabbine, insanlarnıñ melikine (mutlaq saip ve akimine) insanlarnıñ İlâhine sığınırım!
+1. De ki: İnsanlarnıñ qalplerine vesvese soqqan, (insan Allaһnı añğanında) pusuğa çekilgen cin ve insan şeytanınıñ şerrinden insanlarnıñ Rabbine, insanlarnıñ melikine (mutlaq saip ve akimine) insanlarnıñ İlâhine sığınırım!
+2. [1 ayetine baq.]
+3. [1 ayetine baq.]
+4. [1 ayetine baq.]
+5. [1 ayetine baq.]
+6. [1 ayetine baq.]
 
 İlâveler
 
