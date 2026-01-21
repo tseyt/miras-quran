@@ -12,13 +12,14 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY || 'AIzaSyAWRmqsY7hPU0Gq0qLf3I
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 const CORE_DIR = path.resolve('src/data/core');
-const TR_DIR = path.resolve('src/data/translations/tr/elmalili');
+const TR_ELMALILI_DIR = path.resolve('src/data/translations/tr/elmalili');
+const TR_DIYANET_DIR = path.resolve('src/data/translations/tr/diyanet');
 const CRH_DIR = path.resolve('src/data/translations/crh/dizen-qurtnezir');
 const EN_DIR = path.resolve('src/data/translations/en/haleem');
 
-// Rate limiting
-const DELAY_MS = 2000; // Delay between API calls to avoid rate limits
-const MAX_RETRIES = 3; // Max retries on rate limit
+// Rate limiting - optimized for Gemini 2.0 Flash throughput
+const DELAY_MS = 500; // Delay between API calls (Gemini supports ~60 RPM)
+const MAX_RETRIES = 5; // Max retries on rate limit
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -132,7 +133,7 @@ Example output format: ["segment 1", "segment 2", "segment 3"]`;
 /**
  * Process a single surah for a language
  */
-async function processSurah(surahId, language = 'tr') {
+async function processSurah(surahId, language = 'tr', translator = 'elmalili') {
     const paddedId = String(surahId).padStart(3, '0');
 
     // Find matching files
@@ -145,8 +146,13 @@ async function processSurah(surahId, language = 'tr') {
     const coreFile = path.join(CORE_DIR, coreFiles[0]);
     const coreData = yaml.load(fs.readFileSync(coreFile, 'utf8'));
 
-    // Find translation file
-    const transDir = language === 'tr' ? TR_DIR : CRH_DIR;
+    // Find translation file based on language and translator
+    let transDir;
+    if (language === 'tr') {
+        transDir = translator === 'diyanet' ? TR_DIYANET_DIR : TR_ELMALILI_DIR;
+    } else {
+        transDir = CRH_DIR;
+    }
     const transFiles = fs.readdirSync(transDir).filter(f => f.startsWith(paddedId));
     if (transFiles.length === 0) {
         console.log(`  No ${language} translation file found for surah ${surahId}`);
@@ -219,11 +225,13 @@ async function processSurah(surahId, language = 'tr') {
 async function main() {
     const args = process.argv.slice(2);
     const language = args[0] || 'tr';
-    const surahStart = parseInt(args[1]) || 1;
-    const surahEnd = parseInt(args[2]) || 114;
+    const translator = args[1] || 'elmalili';
+    const surahStart = parseInt(args[2]) || 1;
+    const surahEnd = parseInt(args[3]) || 114;
 
     console.log(`\nCID Mapping Script`);
     console.log(`Language: ${language}`);
+    console.log(`Translator: ${translator}`);
     console.log(`Surahs: ${surahStart} to ${surahEnd}`);
     console.log(`Using Gemini API for intelligent segmentation\n`);
 
@@ -231,7 +239,7 @@ async function main() {
 
     for (let i = surahStart; i <= surahEnd; i++) {
         try {
-            const count = await processSurah(i, language);
+            const count = await processSurah(i, language, translator);
             if (count) totalUpdated += count;
         } catch (error) {
             console.error(`Error processing surah ${i}: ${error.message}`);

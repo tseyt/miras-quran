@@ -54,14 +54,10 @@ verses:
         cid: 1
       - text: ' ederiz kulluğu, ibadeti'
         cid: 2
-      - text: ' ve '
-        cid: 0
-      - text: ancak senden
-        cid: 1
-      - text: ' dileriz yardımı, inayeti.'
+      - text: ' ve ancak senden'
         cid: 3
-      - text: ' (Ya Rab!).'
-        cid: 0
+      - text: ' dileriz yardımı, inayeti.'
+        cid: 4
   - verse: 6
     segments:
       - text: Hidayet eyle bizi
@@ -72,15 +68,21 @@ verses:
         cid: 2
   - verse: 7
     segments:
-      - text: O kendilerine nimet verdiğin mutlu kimselerin
+      - text: yoluna
+        cid: 1
+      - text: ' o'
         cid: 2
-      - text: yoluna;
-        cid: 1
-      - text: o gazaba uğramışların
+      - text: ' nimet verdiğin'
         cid: 3
-      - text: ve
-        cid: 0
-      - text: o sapmışların
+      - text: ' mutlu kimselerin;'
         cid: 4
-      - text: yoluna değil.
-        cid: 1
+      - text: ' değil'
+        cid: 5
+      - text: ' gazaba uğramışların'
+        cid: 6
+      - text: ' yoluna'
+        cid: 7
+      - text: ' ve'
+        cid: 8
+      - text: ' sapmışların.'
+        cid: 9
