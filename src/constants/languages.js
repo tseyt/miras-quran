@@ -24,6 +24,7 @@ export const LANGUAGES = {
         name: 'Crimean Tatar',
         label: 'CRH',
         themeKey: 'crh',
+        hasScriptToggle: true,
         translations: [
             { id: 'dizen-qurtnezir', author: 'Sait Dizen & Zakir Qurtnezir' }
         ]

@@ -3,7 +3,7 @@ import LangBadge from './LangBadge';
 import CollapsibleCommentary from './CollapsibleCommentary';
 import { COLORS, THEMES, HOVER_STYLES, LAYOUT_STYLES } from '../constants/theme';
 import { LANGUAGES } from '../constants/languages';
-import { transliterate } from '../utils/transliteration';
+import { transliterate, transliterateCrh } from '../utils/transliteration';
 
 // Minimum words for commentary to be collapsible
 const MIN_WORDS_FOR_COLLAPSE = 5;
@@ -200,7 +200,9 @@ export default function VerseCard({
                                                 {segments.map((seg, idx) => {
                                                     let text = isLatin && (langCode === 'ru' || langCode === 'ua')
                                                         ? transliterate(seg.text, langCode)
-                                                        : seg.text;
+                                                        : !isLatin && langCode === 'crh'
+                                                            ? transliterateCrh(seg.text, true)
+                                                            : seg.text;
                                                     // Apply collapsible commentary for applicable languages
                                                     const renderedContent = renderTextWithCommentary(text, verse.id, idx);
                                                     return (

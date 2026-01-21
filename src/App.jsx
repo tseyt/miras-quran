@@ -15,7 +15,7 @@ function App() {
     const [showControls, setShowControls] = useState(true); // Default to true as it is inline now
     const [baseFontSize, setBaseFontSize] = useState(20);
     const [spacingUnit, setSpacingUnit] = useState(1);
-    const [isLatin, setIsLatin] = useState(false);
+    const [isLatin, setIsLatin] = useState(true);
 
     // Modular Translation State
     const [activeLanguages, setActiveLanguages] = useState(new Set(['ar', 'ar-lat', 'en', 'crh']));
