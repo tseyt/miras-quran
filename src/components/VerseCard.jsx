@@ -99,7 +99,7 @@ export default function VerseCard({
     };
 
     const getSegmentClass = (verseId, cid) => {
-        if (cid === 0) return "text-slate-400 dark:text-slate-500";
+        if (cid === 0) return "text-slate-500 dark:text-slate-400";
         const isActive = activeSegment && activeSegment.verseId === verseId && activeSegment.cid === cid;
         const colorClass = COLORS[cid % 6] || COLORS.default;
         return `${HOVER_STYLES} ${isActive ? `${colorClass} shadow-sm` : `hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-600 dark:text-slate-300`}`;
@@ -134,9 +134,7 @@ export default function VerseCard({
                 <span className="text-xs font-bold text-slate-400 bg-slate-50 dark:bg-slate-800 px-1.5 py-0.5 rounded">
                     {verse.verse}
                 </span>
-                {verse.context_mapped && (
-                    <span className="w-2 h-2 rounded-full bg-emerald-500" title="Context Mapped"></span>
-                )}
+
             </div>
 
             <div className="absolute bottom-1 right-1 z-10">
