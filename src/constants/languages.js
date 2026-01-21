@@ -17,7 +17,15 @@ export const LANGUAGES = {
         themeKey: 'english',
         translations: [
             { id: 'haleem', author: 'Abdel Haleem' },
-            { id: 'sahih', author: 'Sahih International' }
+        ]
+    },
+    'tr': {
+        name: 'Turkish',
+        label: 'TR',
+        themeKey: 'turkish',
+        translations: [
+            { id: 'elmalili', author: 'Elmalılı Hamdi Yazır' },
+            { id: 'diyanet', author: 'Diyanet İşleri Başkanlığı' }
         ]
     },
     'crh': {
@@ -27,14 +35,6 @@ export const LANGUAGES = {
         hasScriptToggle: true,
         translations: [
             { id: 'dizen-qurtnezir', author: 'Sait Dizen & Zakir Qurtnezir' }
-        ]
-    },
-    'tr': {
-        name: 'Turkish',
-        label: 'TR',
-        themeKey: 'turkish',
-        translations: [
-            { id: 'elmalili', author: 'Elmalılı Hamdi Yazır' }
         ]
     },
     'ru': {
