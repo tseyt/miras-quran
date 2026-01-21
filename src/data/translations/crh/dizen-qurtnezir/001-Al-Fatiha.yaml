@@ -6,11 +6,11 @@ verses:
     segments:
       - text: Rahman
         cid: 3
-      - text: ' ve '
+      - text: ve
         cid: 0
       - text: rahim
         cid: 4
-      - text: ' olğan '
+      - text: olğan
         cid: 0
       - text: Allahnıñ
         cid: 2
@@ -20,7 +20,7 @@ verses:
     segments:
       - text: Hamd
         cid: 1
-      - text: ' (maqtav ve maqtalmaq) '
+      - text: (maqtav ve maqtalmaq)
         cid: 0
       - text: alemlerniñ
         cid: 4
@@ -30,13 +30,9 @@ verses:
         cid: 2
   - verse: 3
     segments:
-      - text: 'O '
-        cid: 0
-      - text: rahmandır
+      - text: O rahmandır
         cid: 1
-      - text: ' ve '
-        cid: 0
-      - text: rahimdir.
+      - text: ve rahimdir.
         cid: 2
   - verse: 4
     segments:
@@ -48,18 +44,16 @@ verses:
         cid: 1
   - verse: 5
     segments:
-      - text: '(Rabbimiz!) '
+      - text: (Rabbimiz!)
         cid: 0
       - text: Yalıñız Saña
         cid: 1
       - text: qullıq etermiz
         cid: 2
-      - text: ' ve '
-        cid: 0
-      - text: yalıñız Senden
-        cid: 1
-      - text: medet umüt etermiz.
+      - text: ve yalıñız Senden
         cid: 3
+      - text: medet umüt etermiz.
+        cid: 4
   - verse: 6
     segments:
       - text: Bizge
@@ -72,15 +66,21 @@ verses:
         cid: 1
   - verse: 7
     segments:
-      - text: Ozlerine lütf ve ikram etken kimseleriñniñ
+      - text: Ozlerine
         cid: 2
+      - text: lütf ve ikram etken
+        cid: 3
+      - text: kimseleriñniñ
+        cid: 4
       - text: yolunı;
         cid: 1
       - text: ğadapqa oğrağanlarnıñ
-        cid: 3
+        cid: 6
       - text: ve
-        cid: 0
+        cid: 8
       - text: sapqanlarnıñ
-        cid: 4
-      - text: yolunı degil!
-        cid: 1
+        cid: 9
+      - text: yolunı
+        cid: 7
+      - text: degil!
+        cid: 5
