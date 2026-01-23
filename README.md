@@ -9,7 +9,7 @@ Unlike traditional word-by-word translations that often break under the weight o
 * **Semantic Highlighting:** Hover over a word in any language to see its equivalent concept in all other languages.  
 * **Fluid Typography:** A custom density engine that scales padding, gaps, and font sizes together for optimal reading comfort.  
 * **Multi-Language Support:** Built-in support for Arabic (Uthmani), English, Crimean Tatar (Latin), and Turkish.  
-* **Developer Friendly:** Data is managed in strict YAML and compiled to JSON, making it easy for backend engineers to extend.
+* **Developer Friendly:** Data is managed in strict YAML and compiled to JSON, making it easy to extend.
 
 ## **Getting Started**
 
@@ -29,30 +29,74 @@ Unlike traditional word-by-word translations that often break under the weight o
 
 ## **Contributing Data**
 
-The project separates data from logic. The source of truth is `src/data/quran_data.yaml`.
+The project uses a **modular file structure** that separates core Arabic data from translations, making it easy to add and maintain different language versions.
 
-### **1. Adding a New Surah**
+### **Directory Structure**
 
-Open `src/data/quran_data.yaml` and add a new entry under `surahs`:
-
-```yaml
-  - id: 114
-    title: "An-Nas"
-    english: "Mankind"
-    type: "Meccan"
-    total_verses: 6
-    content:
-      - verse: 1
-        segments:
-          arabic: ...
-          english: ...
+```
+src/data/
+├── core/                    # Arabic source text (114 files)
+│   ├── 001-Al-Fatiha.yaml
+│   ├── 002-Al-Baqarah.yaml
+│   └── ...
+├── translations/            # Translations organized by language/author
+│   ├── en/
+│   │   └── haleem/
+│   │       ├── 001-Al-Fatiha.yaml
+│   │       └── ...
+│   ├── tr/
+│   │   ├── elmalili/
+│   │   └── diyanet/
+│   ├── crh/                 # Crimean Tatar
+│   ├── ru/                  # Russian
+│   └── ua/                  # Ukrainian
+├── quranData.js             # Dynamic loader for surahs & translations
+└── translationAvailability.json
 ```
 
-### **2. Adding a New Language**
+### **1. Core Surah Files**
 
-1. Add the language metadata to the `meta.languages` list in `src/data/quran_data.yaml`.
-2. Add the segments to every verse in `content`.
-3. Update `src/components/VerseCard.jsx` and `src/constants/theme.js` to render the new language block.
+Each surah in `src/data/core/` follows this format:
+
+```yaml
+id: 1
+title: "Al-Fatihah"
+english: The Opener
+type: Makkah
+total_verses: 7
+verses:
+  - verse: 1
+    context_mapped: true
+    segments:
+      ar:
+        - text: "بِسْمِ"
+          cid: 1
+        - text: "ٱللَّهِ"
+          cid: 2
+      ar-lat:
+        - text: "bismi"
+          cid: 1
+        - text: "l-lahi"
+          cid: 2
+```
+
+### **2. Adding a New Translation**
+
+1. Create a folder under `src/data/translations/<lang-code>/<author-id>/`
+2. Add YAML files matching the core surah filenames (e.g., `001-Al-Fatiha.yaml`)
+3. Register the language/author in `src/constants/languages.js`
+
+Translation files map segments to the same CIDs defined in the core Arabic:
+
+```yaml
+verses:
+  - verse: 1
+    segments:
+      - text: "In the name of"
+        cid: 1
+      - text: "God"
+        cid: 2
+```
 
 ### **3. Context Mapping (Concept IDs)**
 
@@ -64,18 +108,20 @@ Miras uses **Concept IDs (CIDs)** to map semantic chunks across languages.
 
 ### **4. Validation**
 
-After editing the YAML, run the validation script to ensure data integrity:
+After editing YAML files, run the validation script to ensure CID mapping integrity:
 
 ```bash
-python3 scripts/validate_data.py
+node scripts/validate_mapping.js
 ```
 
-This script checks that every Concept ID (CID) used in a translation actually exists in the Arabic source text.
+This script checks that every Concept ID (CID) used in translations exists in the corresponding Arabic core file.
 
 ## **Architecture**
 
 * **VerseCard.jsx**: The main React component for displaying verses.
-* **src/data/quran_data.yaml**: The single source of truth for Quranic data.
+* **src/data/core/**: Arabic source files (one per surah) with CID-mapped segments.
+* **src/data/translations/**: Translation files organized by `<language>/<author>/`.
+* **src/data/quranData.js**: Dynamic loader for surahs and translations.
 * **scripts/validate_data.py**: The data integrity validation tool.
 
 ## **Credits**
