@@ -2,133 +2,79 @@
 
 **Miras Quran** is a modern, React-based Quranic language study tool designed to bridge the linguistic gap between the source Arabic and translations using **Semantic Concept Mapping**.
 
-Unlike traditional word-by-word translations that often break under the weight of different grammar rules (like SVO vs SOV languages), Miras assigns a **Concept ID (CID)** to semantic chunks. This allows us to map "The Master of the Day of Judgment" (English) to "Ceza kunüniñ saibidir" (Crimean Tatar) accurately, even though the word order is completely reversed.
+Unlike traditional word-by-word translations that often break under the weight of different grammar rules (like SVO vs SOV languages), Miras assigns a **Concept ID (CID)** to semantic chunks. This allows us to map "The Master of the Day of Judgment" (English) to "Ceza kününiñ saibidir" (Crimean Tatar) accurately, even though the word order is completely reversed.
 
 ## **Features**
 
 * **Semantic Highlighting:** Hover over a word in any language to see its equivalent concept in all other languages.  
 * **Fluid Typography:** A custom density engine that scales padding, gaps, and font sizes together for optimal reading comfort.  
-* **Multi-Language Support:** Built-in support for Arabic (Uthmani), English, Crimean Tatar (Latin), and Turkish.  
-* **Developer Friendly:** Data is managed in strict YAML and compiled to JSON, making it easy to extend.
+* **Multi-Language & Dual-Script Support:** Built-in support for Arabic (Uthmani), English, Crimean Tatar (official Latin `crh-Latn` and Cyrillic `crh-Cyrl` script toggle), Turkish (`Diyanet` & `Elmalılı`), Russian, and Ukrainian.  
+* **Collapsible Exegetical Commentary (*İzaat*):** Automatically collapses multi-sentence parenthetical commentary blocks (preserving internal numbered/lettered sub-clauses) for distraction-free verse reading.  
+* **Tarteel QUL & Quran.com Exports:** Ready-to-import datasets (`simple.json`, `translation-with-footnote-tags.json`, `grouped-verses.json`, localized 114 Surah metadata, and optional `.sqlite` exports) for onboarding Crimean Tatar (`crh`) onto [Tarteel QUL](https://qul.tarteel.ai) and [Quran.com](https://quran.com).
 
 ## **Getting Started**
 
 ### **Prerequisites**
 
 * Node.js & NPM  
-* Python 3 (for the data pipeline)
+* Python 3 + `poppler-utils` (`pdftotext`, for regenerating CRH from the 2005 PDF)
 
 ### **Installation**
 
 1. Clone the repository.  
 2. Install dependencies:  
-   npm install
+   `npm install`
 
 3. Run the development server:  
-   npm run dev
+   `npm run dev`
 
-## **Contributing Data**
-
-The project uses a **modular file structure** that separates core Arabic data from translations, making it easy to add and maintain different language versions.
+## **Contributing & Regenerating Data**
 
 ### **Directory Structure**
 
 ```
 src/data/
-├── core/                    # Arabic source text (114 files)
-│   ├── 001-Al-Fatiha.yaml
-│   ├── 002-Al-Baqarah.yaml
-│   └── ...
-├── translations/            # Translations organized by language/author
-│   ├── en/
-│   │   └── haleem/
-│   │       ├── 001-Al-Fatiha.yaml
-│   │       └── ...
-│   ├── tr/
-│   │   ├── elmalili/
-│   │   └── diyanet/
-│   ├── crh/                 # Crimean Tatar
-│   ├── ru/                  # Russian
-│   └── ua/                  # Ukrainian
-├── quranData.js             # Dynamic loader for surahs & translations
+├── core/                        # Arabic source text (114 files, 6,236 verses)
+├── glossary/
+│   └── crh-quranic-glossary.json # 495-entry Crimean Tatar Quranic Glossary (2005 pp. 549-561)
+├── translations/                # Translations organized by language/author
+│   ├── crh/
+│   │   ├── dizen-qurtnezir/     # 114 aligned CRH Surah YAML files
+│   │   └── dizen-qurtnezir-merged-ranges.json # 325 author-merged ranges + surah intros
+│   ├── en/haleem/
+│   ├── tr/{diyanet,elmalili}/
+│   ├── ru/kuliev/
+│   └── ua/yakubovych/
+├── quranData.js                 # Dynamic loader for surahs & translations
 └── translationAvailability.json
+
+exports/quran-com/               # Tarteel QUL & Quran.com submission packages (crh-Latn & crh-Cyrl)
+docs/
+├── QURAN_COM_SUBMISSION.md      # Step-by-step QUL / Quran.com onboarding guide & issue templates
+└── GASPIRALI_CRH_TR_ANALYSIS.md # Empirical 6,236-verse CRH<->TR study & JEV architectural analysis
 ```
 
-### **1. Core Surah Files**
-
-Each surah in `src/data/core/` follows this format:
-
-```yaml
-id: 1
-title: "Al-Fatihah"
-english: The Opener
-type: Makkah
-total_verses: 7
-verses:
-  - verse: 1
-    context_mapped: true
-    segments:
-      ar:
-        - text: "بِسْمِ"
-          cid: 1
-        - text: "ٱللَّهِ"
-          cid: 2
-      ar-lat:
-        - text: "bismi"
-          cid: 1
-        - text: "l-lahi"
-          cid: 2
-```
-
-### **2. Adding a New Translation**
-
-1. Create a folder under `src/data/translations/<lang-code>/<author-id>/`
-2. Add YAML files matching the core surah filenames (e.g., `001-Al-Fatiha.yaml`)
-3. Register the language/author in `src/constants/languages.js`
-
-Translation files map segments to the same CIDs defined in the core Arabic:
-
-```yaml
-verses:
-  - verse: 1
-    segments:
-      - text: "In the name of"
-        cid: 1
-      - text: "God"
-        cid: 2
-```
-
-### **3. Context Mapping (Concept IDs)**
-
-Miras uses **Concept IDs (CIDs)** to map semantic chunks across languages.
-- `cid: 0` is used for particles or words that don't map directly to a core concept in the other language.
-- `cid: >0` represents a unique semantic concept within that verse.
-
-**Rule:** A CID used in a translation MUST exist in the Arabic source.
-
-### **4. Validation**
-
-After editing YAML files, run the validation script to ensure CID mapping integrity:
+### **Data Pipeline & Validation**
 
 ```bash
+# 1. Rebuild canonical CRH Markdown, 114 YAMLs, merged ranges & Glossary from the 2005 PDF
+python3 scripts/rebuild_crh_from_pdf.py
+
+# 2. Export Tarteel QUL / Quran.com datasets (crh-Latn & crh-Cyrl)
+python3 scripts/export_quran_com.py
+
+# 3. Validate all 114 Surahs, 6,236 verses, orthography, parentheses & QUL exports
+python3 scripts/validate_data.py
+
+# 4. Validate Concept ID (CID) mappings against Arabic core
 node scripts/validate_mapping.js
 ```
 
-This script checks that every Concept ID (CID) used in translations exists in the corresponding Arabic core file.
-
-## **Architecture**
-
-* **VerseCard.jsx**: The main React component for displaying verses.
-* **src/data/core/**: Arabic source files (one per surah) with CID-mapped segments.
-* **src/data/translations/**: Translation files organized by `<language>/<author>/`.
-* **src/data/quranData.js**: Dynamic loader for surahs and translations.
-* **scripts/validate_data.py**: The data integrity validation tool.
-
 ## **Credits**
 
-* **Crimean Tatar Translation:** Sait Dizen & Zakir Qurtnezir  
+* **Crimean Tatar Translation:** Sait Dizen & Zakir Qurtnezir (*Qur'an-ı Kerim ve izaatlı manası*, 2nd ed., Qırım Musulmanları Diniy İdaresi, Simferopol, 2005)  
 * **English Translation:** M.A.S. Abdel Haleem (Oxford World's Classics)  
-* **Turkish Translation:** Elmalılı Hamdi Yazır
+* **Turkish Translations:** Diyanet İşleri Başkanlığı & Elmalılı Hamdi Yazır
 
 ## **License**
 
