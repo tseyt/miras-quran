@@ -118,3 +118,8 @@ dist
 
 # macOS
 .DS_Store
+
+# Python & SQLite build artifacts
+__pycache__/
+*.py[cod]
+*.sqlite
