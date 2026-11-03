@@ -1,0 +1,34 @@
+{
+  "iso_code": "crh",
+  "bcp47_tags": [
+    "crh",
+    "crh-Latn",
+    "crh-Cyrl"
+  ],
+  "name": "Crimean Tatar",
+  "native_name": "Qırımtatarca",
+  "native_name_cyrl": "Къырымтатарджа",
+  "direction": "ltr",
+  "default_script": "Latn",
+  "es_analyzer_default": "turkish",
+  "resources": [
+    {
+      "slug": "crh-dizen-qurtnezir-latn",
+      "name": "Sait Dizen & Zakir Qurtnezir (Latin)",
+      "author_name": "Sait Dizen, Zakir Qurtnezir",
+      "language_iso_code": "crh",
+      "script": "Latn",
+      "source_book": "Qur'an-ı Kerim ve izaatlı manası (2-ci neşiri, Aqmescit / Simferopol, 2005)",
+      "institutional_approval": "Qırım Musulmanları Diniy İdaresi (Muftiyat) Decision 15/10/2004"
+    },
+    {
+      "slug": "crh-dizen-qurtnezir-cyrl",
+      "name": "Саит Дизен ве Закир Къуртнезир (Кирилл)",
+      "author_name": "Саит Дизен, Закир Къуртнезир",
+      "language_iso_code": "crh",
+      "script": "Cyrl",
+      "source_book": "Къур'ан-ы Керим ве изаатлы манасы (2-джи нешири, Акъмесджит / Симферополь, 2005)",
+      "institutional_approval": "Къырым Мусульманлары Диний Идареси (Муфтият) 15/10/2004 къарары"
+    }
+  ]
+}
