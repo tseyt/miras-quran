@@ -8,6 +8,24 @@ import { transliterate, transliterateCrh } from '../utils/transliteration';
 // Minimum words for commentary to be collapsible
 const MIN_WORDS_FOR_COLLAPSE = 5;
 
+// Detect internal list-item markers inside parenthetical commentary (e.g., "a). ", "b). ", "v). ", "1). ", "2) ")
+// so they do not prematurely close an outer CollapsibleCommentary block.
+const LIST_MARKER_AT_CLOSE_RE = /(?:(?:^\s*|[:;!?]\s+|[»"”]\.?\s+|\p{L}{2,}\.\s+)[1-9]|(?:^\s*|[:;!?]\s+|[»"”]\.?\s+|\p{L}{2,}[.,]\s+)[abvgdeабвгде])\)$/iu;
+const AFTER_LIST_MARKER_RE = /^(?:\.\s+\S|\s+\S)/;
+
+export function isListMarkerClose(text, openIdx, closeIdx) {
+    if (closeIdx <= openIdx + 3) {
+        const inner = text.slice(openIdx + 1, closeIdx).trim().toLowerCase();
+        if (/^[abvgdeабвгде123]$/.test(inner)) {
+            const rest = text.slice(closeIdx + 1);
+            return /(?:[:;.!?]\s+|[»"”]\.?\s+)[bvgd2бвгд]\)/i.test(rest);
+        }
+    }
+    const prefix = text.slice(openIdx + 1, closeIdx + 1);
+    const suffix = text.slice(closeIdx + 1);
+    return LIST_MARKER_AT_CLOSE_RE.test(prefix) && AFTER_LIST_MARKER_RE.test(suffix);
+}
+
 export default function VerseCard({
     verse,
     activeSegment,
@@ -61,7 +79,7 @@ export default function VerseCard({
             let closeIdx = openIdx + 1;
             while (closeIdx < text.length && depth > 0) {
                 if (text[closeIdx] === '(') depth++;
-                else if (text[closeIdx] === ')') depth--;
+                else if (text[closeIdx] === ')' && !isListMarkerClose(text, openIdx, closeIdx)) depth--;
                 closeIdx++;
             }
 
