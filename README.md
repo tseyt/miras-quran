@@ -60,13 +60,16 @@ docs/
 # 1. Rebuild canonical CRH Markdown, 114 YAMLs, merged ranges & Glossary from the 2005 PDF
 python3 scripts/rebuild_crh_from_pdf.py
 
-# 2. Export Tarteel QUL / Quran.com datasets (crh-Latn & crh-Cyrl)
+# 2. Align Crimean Tatar (Dizen & Qurtnezir) and Turkish (Diyanet & Elmalılı) segments to Core Arabic CIDs
+python3 scripts/map_cid_translations.py
+
+# 3. Export Tarteel QUL / Quran.com datasets (crh-Latn & crh-Cyrl)
 python3 scripts/export_quran_com.py
 
-# 3. Validate all 114 Surahs, 6,236 verses, orthography, parentheses & QUL exports
+# 4. Validate all 114 Surahs, 6,236 verses, CID coverage, orthography, parentheses & QUL exports
 python3 scripts/validate_data.py
 
-# 4. Validate Concept ID (CID) mappings against Arabic core
+# 5. Validate Concept ID (CID) mappings against Arabic core
 node scripts/validate_mapping.js
 ```
 

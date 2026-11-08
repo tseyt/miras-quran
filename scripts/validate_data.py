@@ -163,16 +163,18 @@ def main() -> int:
         yfiles = sorted(tdir.glob("*.yaml"))
         assert len(yfiles) == 114, f"{lang}/{author}: expected 114 files, found {len(yfiles)}"
         v_sum = 0
+        mapped_v_sum = 0
+        cross_ref_re = re.compile(r"^\[[\d,\-\s]+ayet(?:ine|lerine)\s+baq\.\]$", re.I)
         for sid in range(1, 115):
             fname = str(core_specs[sid]["file"])
             yp = tdir / fname
             assert yp.exists(), f"Missing {yp}"
             tsid, _, tvlist = parse_yaml_verses_and_cids(yp, is_core=False)
-            if lang == "crh":
-                assert tsid == sid, f"{yp}: surah_id {tsid} != {sid}"
-                if _pyyaml is not None:
-                    parsed_doc = _pyyaml.safe_load(yp.read_text(encoding="utf-8"))
-                    assert len(parsed_doc["verses"]) == int(core_specs[sid]["total"]), f"PyYAML count mismatch in {fname}"
+            assert tsid == sid, f"{yp}: surah_id {tsid} != {sid}"
+            if _pyyaml is not None:
+                loader = getattr(_pyyaml, "CSafeLoader", _pyyaml.SafeLoader)
+                parsed_doc = _pyyaml.load(yp.read_text(encoding="utf-8"), Loader=loader)
+                assert len(parsed_doc["verses"]) == int(core_specs[sid]["total"]), f"PyYAML count mismatch in {lang}/{author}/{fname}"
             vnums = [v[0] for v in tvlist]
             exp_tot = int(core_specs[sid]["total"])
             assert vnums == list(range(1, exp_tot + 1)), f"{lang}/{author}/{fname}: expected 1..{exp_tot}, got len={len(vnums)}"
@@ -184,16 +186,22 @@ def main() -> int:
                 for c in cids:
                     if c != 0 and c not in core_cid_map[vnum]:
                         raise AssertionError(f"Invalid CID {c} in {lang}/{author}/{fname}:{vnum}")
+                if any(c != 0 for c in cids):
+                    mapped_v_sum += 1
+                else:
+                    assert lang == "crh" and cross_ref_re.match(vtxt.strip()), (
+                        f"Unmapped content verse in {lang}/{author}/{fname}:{vnum}: {vtxt[:80]!r}"
+                    )
                 if lang == "crh":
                     assert not CYRILLIC_RE.search(vtxt), f"Cyrillic char leaked into CRH Latin YAML {fname}:{vnum}: {vtxt[:80]!r}"
                     verify_balanced_commentaries(vtxt, f"CRH YAML {fname}:{vnum}")
 
         assert v_sum == 6236, f"{lang}/{author}: total verses {v_sum} != 6236"
-        print(f"  ✅ Translation [{lang}/{author}]: 114/114 Surahs, 6,236/6,236 verses, valid CIDs.")
+        print(f"  ✅ Translation [{lang}/{author}]: 114/114 Surahs, {mapped_v_sum}/{v_sum} content verses mapped to valid CIDs.")
 
     # Check 114-An-Nas.yaml has zero appendix bleed
     nas_lines = (REPO_ROOT / "src/data/translations/crh/dizen-qurtnezir/114-An-Nas.yaml").read_text(encoding="utf-8").splitlines()
-    assert len(nas_lines) <= 50, f"Appendix bleed detected in 114-An-Nas.yaml ({len(nas_lines)} lines)"
+    assert len(nas_lines) <= 60, f"Appendix bleed detected in 114-An-Nas.yaml ({len(nas_lines)} lines)"
 
     # 3. Validate Canonical CRH Markdown Editions & Glossary
     lat_md = (REPO_ROOT / "translations" / "quran-crh-dizen-qurtnezir-lat.md").read_text(encoding="utf-8")

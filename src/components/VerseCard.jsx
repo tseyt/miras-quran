@@ -117,7 +117,7 @@ export default function VerseCard({
     };
 
     const getSegmentClass = (verseId, cid) => {
-        if (cid === 0) return "text-slate-500 dark:text-slate-400";
+        if (cid === 0) return "text-slate-500 dark:text-slate-400 mx-0.5";
         const isActive = activeSegment && activeSegment.verseId === verseId && activeSegment.cid === cid;
         const colorClass = COLORS[((cid - 1) % 6) + 1] || COLORS.default;
         return `${HOVER_STYLES} ${isActive ? `${colorClass} shadow-sm` : `hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-600 dark:text-slate-300`}`;
