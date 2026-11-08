@@ -5,20 +5,29 @@ verses:
   - verse: 1
     segments:
       - text: >-
-          De ki: O Allah bir tektir.
-        cid: 0
+          De ki:
+        cid: 1
+      - text: O
+        cid: 2
+      - text: Allah bir tektir.
+        cid: 3
   - verse: 2
     segments:
-      - text: >-
-          Allah her şeyden müstağni ve her şey O'na muhtaçtır.
+      - text: Allah her şeyden müstağni
+        cid: 1
+      - text: ve her şey O'na muhtaçtır.
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          O doğurmamış ve doğmamıştır.
+      - text: O doğurmamış
+        cid: 1
+      - text: ve
         cid: 0
+      - text: doğmamıştır.
+        cid: 4
   - verse: 4
     segments:
-      - text: >-
-          Hiçbir şey O'na denk değildir.
-        cid: 0
+      - text: Hiçbir şey O'na
+        cid: 5
+      - text: denk değildir.
+        cid: 4

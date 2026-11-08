@@ -4,56 +4,93 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Kuşluk vaktine and olsun;
-        cid: 0
+      - text: Kuşluk vaktine and olsun;
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Sükun erdiği zaman geceye and olsun ki,
+      - text: Sükun erdiği
         cid: 0
+      - text: zaman geceye and olsun ki,
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Rabbin seni ne bıraktı ve ne de sana darıldı.
+      - text: Rabbin
+        cid: 3
+      - text: seni ne
+        cid: 1
+      - text: bıraktı
+        cid: 2
+      - text: ve ne de
         cid: 0
+      - text: sana darıldı.
+        cid: 5
   - verse: 4
     segments:
-      - text: >-
-          Doğrusu ahiret senin için dünyadan daha hayırlıdır.
-        cid: 0
+      - text: Doğrusu ahiret senin için dünyadan
+        cid: 1
+      - text: daha hayırlıdır.
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Rabbin şüphesiz sana verecek ve sen de hoşnut olacaksın.
-        cid: 0
+      - text: Rabbin şüphesiz
+        cid: 3
+      - text: sana verecek
+        cid: 2
+      - text: ve sen de
+        cid: 4
+      - text: hoşnut
+        cid: 1
+      - text: olacaksın.
+        cid: 4
   - verse: 6
     segments:
-      - text: >-
-          Seni öksüz bulup da barındırmadı mı?
-        cid: 0
+      - text: Seni
+        cid: 1
+      - text: öksüz
+        cid: 3
+      - text: bulup da
+        cid: 1
+      - text: barındırmadı mı?
+        cid: 4
   - verse: 7
     segments:
-      - text: >-
-          Seni şaşırmış bulup, doğru yola eriştirmedi mi?
-        cid: 0
+      - text: Seni
+        cid: 1
+      - text: şaşırmış
+        cid: 2
+      - text: bulup, doğru
+        cid: 1
+      - text: yola eriştirmedi mi?
+        cid: 3
   - verse: 8
     segments:
-      - text: >-
-          Seni fakir bulup zenginleştirmedi mi?
-        cid: 0
+      - text: Seni
+        cid: 1
+      - text: fakir
+        cid: 2
+      - text: bulup
+        cid: 1
+      - text: zenginleştirmedi mi?
+        cid: 3
   - verse: 9
     segments:
-      - text: >-
-          Öyleyse sakın öksüze kötü muamele etme;
-        cid: 0
+      - text: Öyleyse
+        cid: 1
+      - text: sakın
+        cid: 3
+      - text: öksüze kötü muamele etme;
+        cid: 2
   - verse: 10
     segments:
-      - text: >-
-          Ve sakın bir şey isteyeni azarlama;
-        cid: 0
+      - text: Ve sakın bir şey isteyeni
+        cid: 1
+      - text: azarlama;
+        cid: 3
   - verse: 11
     segments:
-      - text: >-
-          Yalnızca Rabbinin nimetini anlat.
-        cid: 0
+      - text: Yalnızca Rabbinin
+        cid: 3
+      - text: nimetini
+        cid: 2
+      - text: anlat.
+        cid: 4

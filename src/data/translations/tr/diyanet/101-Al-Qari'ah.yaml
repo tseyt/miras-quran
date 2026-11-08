@@ -4,56 +4,85 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Gürültü koparacak olan
-        cid: 0
+      - text: Gürültü koparacak olan
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Nedir o gürültü koparacak olan?
+      - text: Nedir o
+        cid: 1
+      - text: gürültü koparacak
+        cid: 2
+      - text: olan?
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          O gürültü koparacak olanın ne olduğunu sen bilir misin?
-        cid: 0
+      - text: O gürültü koparacak olanın
+        cid: 4
+      - text: ne olduğunu
+        cid: 3
+      - text: sen bilir misin?
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          O gün insanlar, ateş etrafında çırpınıp dökülen pervaneye dönecekler.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: insanlar, ateş etrafında çırpınıp dökülen
+        cid: 3
+      - text: pervaneye dönecekler.
+        cid: 4
   - verse: 5
     segments:
-      - text: >-
-          Dağlar, atılmış renkli yüne benzeyecekler.
-        cid: 0
+      - text: Dağlar,
+        cid: 2
+      - text: atılmış
+        cid: 4
+      - text: renkli yüne benzeyecekler.
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          Ama tartıları ağır gelen kimse hoş bir hayat içinde olacaktır.
+      - text: Ama
+        cid: 1
+      - text: tartıları
+        cid: 4
+      - text: ağır gelen
+        cid: 3
+      - text: kimse
+        cid: 2
+      - text: hoş bir hayat içinde olacaktır.
         cid: 0
   - verse: 7
     segments:
-      - text: >-
-          Ama tartıları ağır gelen kimse hoş bir hayat içinde olacaktır.
+      - text: Ama tartıları ağır gelen kimse
         cid: 0
+      - text: hoş
+        cid: 4
+      - text: bir hayat
+        cid: 3
+      - text: içinde olacaktır.
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Tartıları hafif gelenler ise,
-        cid: 0
+      - text: Tartıları
+        cid: 4
+      - text: hafif gelenler ise,
+        cid: 3
   - verse: 9
     segments:
-      - text: >-
-          Onların yeri bir çukurdur.
-        cid: 0
+      - text: Onların yeri bir
+        cid: 2
+      - text: çukurdur.
+        cid: 1
   - verse: 10
     segments:
-      - text: >-
-          O çukurun ne olduğunu sen bilir misin?
+      - text: O
         cid: 0
+      - text: çukurun ne olduğunu
+        cid: 3
+      - text: sen bilir misin?
+        cid: 2
   - verse: 11
     segments:
-      - text: >-
-          O, kızgın bir ateştir.
-        cid: 0
+      - text: O, kızgın
+        cid: 2
+      - text: bir ateştir.
+        cid: 1

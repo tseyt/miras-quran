@@ -4,106 +4,634 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Ey inananlar! Benim de düşmanım, sizin de düşmanınız olanları dost edinmeyin.
-          Onlar, size gelen gerçeği inkar etmişken, onlara sevgi gösteriyorsunuz; oysa
-          onlar, Rabbiniz olan Allah'a inandığınızdan ötürü sizi ve Peygamberi yurdunuzdan
-          çıkarıyorlar. Eğer sizler Benim yolumda savaşmak ve rızamı kazanmak için
-          çıkmışsanız onlara nasıl sevgi gösterirsiniz? Ben, sizin gizlediğinizi de, açığa
-          vurduğunuzu da bilirim. İçinizden onlara sevgi gösteren kimse, şüphesiz doğru
-          yoldan sapmıştır.
+      - text: Ey
+        cid: 1
+      - text: inananlar!
+        cid: 3
+      - text: Benim
         cid: 0
+      - text: de düşmanım, sizin de düşmanınız
+        cid: 7
+      - text: olanları
+        cid: 31
+      - text: dost
+        cid: 8
+      - text: edinmeyin.
+        cid: 4
+      - text: Onlar,
+        cid: 13
+      - text: size gelen
+        cid: 15
+      - text: gerçeği
+        cid: 17
+      - text: inkar etmişken,
+        cid: 13
+      - text: onlara
+        cid: 10
+      - text: sevgi gösteriyorsunuz;
+        cid: 11
+      - text: oysa
+        cid: 36
+      - text: onlar,
+        cid: 13
+      - text: Rabbiniz olan
+        cid: 24
+      - text: Allah'a
+        cid: 23
+      - text: inandığınızdan ötürü
+        cid: 22
+      - text: sizi
+        cid: 20
+      - text: ve
+        cid: 0
+      - text: Peygamberi
+        cid: 19
+      - text: yurdunuzdan çıkarıyorlar.
+        cid: 18
+      - text: Eğer
+        cid: 25
+      - text: sizler
+        cid: 9
+      - text: Benim yolumda
+        cid: 29
+      - text: savaşmak
+        cid: 30
+      - text: ve
+        cid: 0
+      - text: rızamı
+        cid: 32
+      - text: kazanmak için
+        cid: 31
+      - text: çıkmışsanız
+        cid: 27
+      - text: onlara
+        cid: 34
+      - text: nasıl
+        cid: 33
+      - text: sevgi gösterirsiniz?
+        cid: 35
+      - text: Ben,
+        cid: 36
+      - text: sizin gizlediğinizi de,
+        cid: 39
+      - text: açığa vurduğunuzu da
+        cid: 41
+      - text: bilirim.
+        cid: 37
+      - text: İçinizden
+        cid: 35
+      - text: onlara
+        cid: 34
+      - text: sevgi gösteren
+        cid: 35
+      - text: kimse,
+        cid: 2
+      - text: şüphesiz doğru
+        cid: 47
+      - text: yoldan
+        cid: 48
+      - text: sapmıştır.
+        cid: 46
   - verse: 2
     segments:
-      - text: >-
-          Eğer sizi elegeçirirlerse sizin onlara gösterdiğiniz sevgiyi göstermezler, size
-          düşman olurlar, ellerini ve dillerini fenalık etmek için uzatırlar, keşke inkar
-          etseniz isterler.
-        cid: 0
+      - text: Eğer
+        cid: 1
+      - text: sizi elegeçirirlerse sizin onlara gösterdiğiniz sevgiyi göstermezler,
+        cid: 2
+      - text: size
+        cid: 7
+      - text: düşman olurlar,
+        cid: 5
+      - text: ellerini
+        cid: 8
+      - text: ve dillerini fenalık etmek için
+        cid: 9
+      - text: uzatırlar,
+        cid: 6
+      - text: keşke
+        cid: 12
+      - text: inkar etseniz
+        cid: 13
+      - text: isterler.
+        cid: 11
   - verse: 3
     segments:
-      - text: >-
-          Yakınlarınız ve çocuklarınız size kıyamet gününde bir fayda veremezler. Allah
-          onlarla sizi ayırır. Allah işlediklerinizi görendir.
+      - text: Yakınlarınız ve
         cid: 0
+      - text: çocuklarınız
+        cid: 5
+      - text: size
+        cid: 2
+      - text: kıyamet
+        cid: 7
+      - text: gününde
+        cid: 6
+      - text: bir fayda veremezler.
+        cid: 2
+      - text: Allah
+        cid: 10
+      - text: onlarla
+        cid: 9
+      - text: sizi
+        cid: 5
+      - text: ayırır.
+        cid: 8
+      - text: Allah
+        cid: 10
+      - text: işlediklerinizi
+        cid: 12
+      - text: görendir.
+        cid: 13
   - verse: 4
     segments:
-      - text: >-
-          İbrahim ve onunla beraber olanlarda, sizin için uyulacak güzel bir örnek
-          vardır. Onlar milletlerine şöyle demişlerdi: "Biz sizden ve Allah'tan başka
-          taptıklarınızdan uzağız; sizin dininizi inkar ediyoruz; bizimle sizin aranızda
-          yalnız Allah'a inanmanıza kadar ebedi düşmanlık ve öfke başgöstermiştir."
-          -Yalnız, İbrahim'in, babasına: "And olsun ki, senin için mağfiret dileyeceğim,
-          fakat sana Allah'tan gelecek herhangi bir şeyi savmaya gücüm yetmez" sözü bu
-          örneğin dışındadır- "Rabbimiz! Sana güvendik, Sana yöneldik; dönüş Sanadır."
+      - text: İbrahim
+        cid: 7
+      - text: ve
         cid: 0
+      - text: onunla beraber olanlarda, sizin için uyulacak
+        cid: 9
+      - text: güzel
+        cid: 5
+      - text: bir örnek
+        cid: 4
+      - text: vardır.
+        cid: 2
+      - text: Onlar
+        cid: 11
+      - text: milletlerine
+        cid: 21
+      - text: şöyle
+        cid: 25
+      - text: >-
+          demişlerdi:
+        cid: 11
+      - text: >-
+          "Biz
+        cid: 13
+      - text: sizden
+        cid: 15
+      - text: ve
+        cid: 0
+      - text: Allah'tan
+        cid: 20
+      - text: başka
+        cid: 18
+      - text: taptıklarınızdan
+        cid: 17
+      - text: uzağız;
+        cid: 14
+      - text: sizin dininizi inkar
+        cid: 0
+      - text: ediyoruz; bizimle sizin aranızda
+        cid: 24
+      - text: yalnız
+        cid: 33
+      - text: Allah'a
+        cid: 31
+      - text: inanmanıza kadar ebedi
+        cid: 30
+      - text: düşmanlık
+        cid: 26
+      - text: ve
+        cid: 0
+      - text: >-
+          öfke başgöstermiştir."
+        cid: 18
+      - text: >-
+          -Yalnız,
+        cid: 33
+      - text: İbrahim'in,
+        cid: 35
+      - text: >-
+          babasına:
+        cid: 36
+      - text: >-
+          "And olsun ki, senin için
+        cid: 4
+      - text: mağfiret dileyeceğim,
+        cid: 37
+      - text: fakat
+        cid: 39
+      - text: sana
+        cid: 47
+      - text: Allah'tan
+        cid: 20
+      - text: gelecek herhangi
+        cid: 44
+      - text: bir şeyi savmaya
+        cid: 45
+      - text: gücüm yetmez" sözü
+        cid: 40
+      - text: bu örneğin dışındadır-
+        cid: 4
+      - text: >-
+          "Rabbimiz!
+        cid: 46
+      - text: Sana
+        cid: 47
+      - text: güvendik,
+        cid: 48
+      - text: Sana
+        cid: 47
+      - text: yöneldik;
+        cid: 50
+      - text: dönüş
+        cid: 52
+      - text: >-
+          Sanadır."
+        cid: 51
   - verse: 5
     segments:
       - text: >-
-          "Rabbimiz! Bizi, inkar edenlerle deneme; bizi bağışla, doğrusu Sen, güçlü olan,
+          "Rabbimiz!
+        cid: 9
+      - text: Bizi,
+        cid: 8
+      - text: inkar edenlerle deneme;
+        cid: 6
+      - text: bizi
+        cid: 8
+      - text: bağışla, doğrusu
+        cid: 7
+      - text: Sen,
+        cid: 11
+      - text: güçlü olan,
+        cid: 12
+      - text: >-
           Hakim olansın."
-        cid: 0
+        cid: 13
   - verse: 6
     segments:
-      - text: >-
-          And olsun ki, sizlerden, Allah'ı ve ahiret gününü uman kimse için, bunlarda
-          güzel örnekler vardır. Kim yüz çevirirse kendi aleyhine olur, doğrusu Allah
-          müstağnidir, övülmeğe layıktır.
+      - text: And olsun ki,
+        cid: 1
+      - text: sizlerden,
+        cid: 3
+      - text: Allah'ı
+        cid: 10
+      - text: ve
         cid: 0
+      - text: ahiret
+        cid: 12
+      - text: gününü
+        cid: 11
+      - text: uman
+        cid: 9
+      - text: kimse için, bunlarda
+        cid: 7
+      - text: güzel
+        cid: 6
+      - text: örnekler
+        cid: 5
+      - text: vardır.
+        cid: 2
+      - text: Kim
+        cid: 13
+      - text: yüz çevirirse kendi aleyhine olur, doğrusu
+        cid: 14
+      - text: Allah
+        cid: 16
+      - text: müstağnidir,
+        cid: 18
+      - text: övülmeğe layıktır.
+        cid: 19
   - verse: 7
     segments:
-      - text: >-
-          Allah'ın sizinle, düşmanlık gösterdiğiniz kimseler arasında bir sevgi yaratması
-          umulur; Allah Kadir'dir, Allah bağışlayandır, acıyandır.
-        cid: 0
+      - text: Allah'ın
+        cid: 2
+      - text: sizinle,
+        cid: 5
+      - text: düşmanlık gösterdiğiniz kimseler
+        cid: 7
+      - text: arasında
+        cid: 6
+      - text: bir sevgi yaratması
+        cid: 10
+      - text: umulur;
+        cid: 1
+      - text: Allah
+        cid: 11
+      - text: Kadir'dir,
+        cid: 12
+      - text: Allah
+        cid: 13
+      - text: bağışlayandır, acıyandır.
+        cid: 14
   - verse: 8
     segments:
-      - text: >-
-          Allah, din uğrunda sizinle savaşmayan, sizi yurdunuzdan çıkarmayan kimselere
-          iyilik yapmanızı ve onlara karşı adil davranmanızı yasak kılmaz; doğrusu Allah
-          adil olanları sever.
+      - text: Allah,
+        cid: 3
+      - text: din
+        cid: 9
+      - text: uğrunda
+        cid: 2
+      - text: sizinle
+        cid: 6
+      - text: savaşmayan,
+        cid: 7
+      - text: sizi
+        cid: 11
+      - text: yurdunuzdan
+        cid: 12
+      - text: çıkarmayan
+        cid: 11
+      - text: kimselere
+        cid: 5
+      - text: iyilik
+        cid: 14
+      - text: yapmanızı
+        cid: 21
+      - text: ve
         cid: 0
+      - text: onlara karşı
+        cid: 17
+      - text: adil
+        cid: 21
+      - text: davranmanızı
+        cid: 16
+      - text: yasak kılmaz;
+        cid: 2
+      - text: doğrusu Allah
+        cid: 19
+      - text: adil olanları
+        cid: 21
+      - text: sever.
+        cid: 20
   - verse: 9
     segments:
-      - text: >-
-          Allah, ancak sizinle din uğrunda savaşanları, sizi yurtlarınızdan çıkaranları
-          ve çıkarılmanıza yardım edenleri dost edinmenizi yasak eder; kim onları dost
-          edinirse, işte onlar zalimdir.
+      - text: Allah,
+        cid: 3
+      - text: ancak
+        cid: 1
+      - text: sizinle
+        cid: 6
+      - text: din
+        cid: 8
+      - text: uğrunda
+        cid: 2
+      - text: savaşanları,
+        cid: 6
+      - text: sizi
+        cid: 2
+      - text: yurtlarınızdan
+        cid: 10
+      - text: çıkaranları
+        cid: 9
+      - text: ve
         cid: 0
+      - text: çıkarılmanıza
+        cid: 13
+      - text: yardım edenleri
+        cid: 12
+      - text: dost edinmenizi
+        cid: 15
+      - text: yasak eder;
+        cid: 2
+      - text: kim
+        cid: 17
+      - text: onları
+        cid: 20
+      - text: dost edinirse,
+        cid: 18
+      - text: işte
+        cid: 19
+      - text: onlar
+        cid: 20
+      - text: zalimdir.
+        cid: 21
   - verse: 10
     segments:
+      - text: Ey
+        cid: 1
+      - text: inananlar!
+        cid: 3
+      - text: İnanmış
+        cid: 14
+      - text: kadınlar hicret
+        cid: 6
+      - text: ederek
+        cid: 7
+      - text: size gelirlerse
+        cid: 5
+      - text: onları deneyin,
+        cid: 15
+      - text: hicretlerinin sebebini inceleyin.
+        cid: 28
+      - text: Allah
+        cid: 9
+      - text: onların imanlarını
+        cid: 11
+      - text: çok iyi bilir.
+        cid: 10
+      - text: Onların mümin kadınlar
+        cid: 6
+      - text: olduklarını öğrenirseniz,
+        cid: 14
+      - text: inkarcılara
+        cid: 18
+      - text: geri
+        cid: 15
+      - text: çevirmeyin.
+        cid: 49
+      - text: Bu
+        cid: 48
+      - text: kadınlar,
+        cid: 6
+      - text: o inkarcılara
+        cid: 18
+      - text: helal
+        cid: 21
+      - text: değildir
+        cid: 23
+      - text: Onlar da
+        cid: 24
+      - text: bunlara
+        cid: 26
+      - text: helal olmazlar.
+        cid: 21
+      - text: İnkarcıların
+        cid: 18
+      - text: bu
+        cid: 48
+      - text: kadınlara
+        cid: 6
+      - text: verdikleri
+        cid: 36
+      - text: mehirleri iade
+        cid: 28
       - text: >-
-          Ey inananlar! İnanmış kadınlar hicret ederek size gelirlerse onları deneyin,
-          hicretlerinin sebebini inceleyin. Allah onların imanlarını çok iyi bilir.
-          Onların mümin kadınlar olduklarını öğrenirseniz, inkarcılara geri çevirmeyin. Bu
-          kadınlar, o inkarcılara helal değildir Onlar da bunlara helal olmazlar.
-          İnkarcıların bu kadınlara verdikleri mehirleri iade edin: Bu kadınların
-          mehirlerini kendilerine verdiğiniz zaman, onlarla evlenmenizde bir engel yoktur.
-          İnkarcı kadınları nikahınızda tutmayın; onlara verdiğiniz mehri isteyin; inkarcı
-          erkekler de hicret eden mümin kadınlara verdikleri mehirleri istesinler.
-          Allah'ın hükmü budur; aranızda O hükmeder. Allah bilendir, Hakim'dir.
-        cid: 0
+          edin:
+        cid: 8
+      - text: Bu
+        cid: 48
+      - text: kadınların
+        cid: 6
+      - text: mehirlerini
+        cid: 28
+      - text: kendilerine verdiğiniz
+        cid: 36
+      - text: zaman,
+        cid: 4
+      - text: onlarla
+        cid: 27
+      - text: evlenmenizde bir engel
+        cid: 34
+      - text: yoktur.
+        cid: 30
+      - text: İnkarcı
+        cid: 18
+      - text: kadınları nikahınızda
+        cid: 6
+      - text: tutmayın;
+        cid: 39
+      - text: onlara
+        cid: 22
+      - text: verdiğiniz
+        cid: 36
+      - text: mehri
+        cid: 43
+      - text: isteyin;
+        cid: 42
+      - text: inkarcı
+        cid: 18
+      - text: erkekler de hicret eden
+        cid: 42
+      - text: mümin kadınlara
+        cid: 6
+      - text: verdikleri
+        cid: 36
+      - text: mehirleri
+        cid: 28
+      - text: istesinler.
+        cid: 45
+      - text: Allah'ın
+        cid: 50
+      - text: hükmü budur;
+        cid: 49
+      - text: aranızda
+        cid: 52
+      - text: O hükmeder.
+        cid: 51
+      - text: Allah
+        cid: 53
+      - text: bilendir,
+        cid: 54
+      - text: Hakim'dir.
+        cid: 55
   - verse: 11
     segments:
-      - text: >-
-          Ey mümin erkekler! Eğer inkar eden (kafir olan) eşlerinize sarfettiklerinizden
-          inkarcılara bir şey geçecek olursa ganimetten, eşleri giden mümin erkeklere
-          sarfettikleri miktar kadarını verin. İnandığınız Allah'a karşı gelmekten
-          sakının.
+      - text: Ey mümin
         cid: 0
+      - text: erkekler! Eğer
+        cid: 1
+      - text: inkar eden
+        cid: 7
+      - text: (kafir olan)
+        cid: 0
+      - text: eşlerinize
+        cid: 4
+      - text: sarfettiklerinizden
+        cid: 15
+      - text: inkarcılara
+        cid: 7
+      - text: bir şey geçecek olursa ganimetten,
+        cid: 3
+      - text: eşleri
+        cid: 12
+      - text: giden mümin erkeklere
+        cid: 10
+      - text: sarfettikleri miktar kadarını
+        cid: 15
+      - text: verin.
+        cid: 9
+      - text: İnandığınız
+        cid: 21
+      - text: Allah'a karşı
+        cid: 17
+      - text: gelmekten
+        cid: 8
+      - text: sakının.
+        cid: 16
   - verse: 12
     segments:
-      - text: >-
-          Ey Peygamber! İnanmış kadınlar, Allah'a hiçbir ortak koşmamak, hırsızlık
-          yapmamak, zina etmemek, çocuklarını öldürmemek, başkasının çocuğunu sahiplenerek
-          kocasına isnadda bulunmamak ve uygun olanı işlemekte sana karşı gelmemek
-          şartıyla sana beyat etmek üzere geldikleri zaman, onları kabul et; onlara
-          Allah'tan bağışlanma dile; doğrusu Allah, bağışlayandır, acıyandır.
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: Peygamber!
+        cid: 2
+      - text: İnanmış kadınlar,
+        cid: 5
+      - text: Allah'a
+        cid: 11
+      - text: hiçbir
+        cid: 12
+      - text: ortak
+        cid: 8
+      - text: koşmamak,
+        cid: 9
+      - text: hırsızlık
+        cid: 14
+      - text: yapmamak,
+        cid: 30
+      - text: zina
+        cid: 16
+      - text: etmemek,
+        cid: 14
+      - text: çocuklarını
+        cid: 19
+      - text: öldürmemek, başkasının
+        cid: 18
+      - text: çocuğunu sahiplenerek kocasına isnadda bulunmamak
+        cid: 19
+      - text: ve
+        cid: 13
+      - text: uygun olanı işlemekte
+        cid: 19
+      - text: sana
+        cid: 4
+      - text: karşı gelmemek şartıyla
+        cid: 28
+      - text: sana beyat etmek üzere geldikleri
+        cid: 4
+      - text: zaman,
+        cid: 3
+      - text: onları kabul et; onlara
+        cid: 33
+      - text: Allah'tan
+        cid: 34
+      - text: bağışlanma
+        cid: 37
+      - text: dile;
+        cid: 32
+      - text: doğrusu Allah,
+        cid: 36
+      - text: bağışlayandır, acıyandır.
+        cid: 37
   - verse: 13
     segments:
-      - text: >-
-          Ey inananlar! Allah'ın gazabına uğramış milleti dost edinmeyin; inkarcıların
-          kabirde bulunan kimselerden umutlarını kestikleri gibi, onlar da, ahiretten
-          umutlarını kesmişlerdir.
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: inananlar!
+        cid: 3
+      - text: Allah'ın
+        cid: 8
+      - text: gazabına uğramış
+        cid: 7
+      - text: milleti
+        cid: 6
+      - text: dost edinmeyin;
+        cid: 4
+      - text: inkarcıların
+        cid: 16
+      - text: kabirde bulunan
+        cid: 19
+      - text: kimselerden
+        cid: 2
+      - text: umutlarını kestikleri gibi,
+        cid: 15
+      - text: onlar da,
+        cid: 9
+      - text: ahiretten
+        cid: 13
+      - text: umutlarını
+        cid: 15
+      - text: kesmişlerdir.
+        cid: 11

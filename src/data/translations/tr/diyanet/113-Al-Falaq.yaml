@@ -5,35 +5,85 @@ verses:
   - verse: 1
     segments:
       - text: >-
-          De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden,
-          düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin
-          şerrinden, tan yerini ağartan Rabbe sığınırım."
+          De ki:
+        cid: 1
+      - text: >-
+          "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden
+          büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan
         cid: 0
+      - text: Rabbe
+        cid: 3
+      - text: >-
+          sığınırım."
+        cid: 2
   - verse: 2
     segments:
       - text: >-
-          De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden,
-          düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin
-          şerrinden, tan yerini ağartan Rabbe sığınırım."
+          De ki:
+        cid: 0
+      - text: >-
+          "Yaratıkların
+        cid: 4
+      - text: >-
+          şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin
+          şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan
+        cid: 0
+      - text: yerini ağartan
+        cid: 2
+      - text: >-
+          Rabbe sığınırım."
         cid: 0
   - verse: 3
     segments:
       - text: >-
-          De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden,
-          düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin
-          şerrinden, tan yerini ağartan Rabbe sığınırım."
+          De ki: "Yaratıkların şerrinden,
+        cid: 0
+      - text: bastırdığı
+        cid: 2
+      - text: zaman
+        cid: 4
+      - text: karanlığın
+        cid: 5
+      - text: şerrinden, düğümlere nefes eden
+        cid: 0
+      - text: büyücülerin şerrinden,
+        cid: 2
+      - text: >-
+          hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım."
         cid: 0
   - verse: 4
     segments:
       - text: >-
-          De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden,
-          düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin
-          şerrinden, tan yerini ağartan Rabbe sığınırım."
+          De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın
+        cid: 0
+      - text: şerrinden,
+        cid: 2
+      - text: düğümlere
+        cid: 4
+      - text: nefes eden
+        cid: 2
+      - text: >-
+          büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan
+          Rabbe sığınırım."
         cid: 0
   - verse: 5
     segments:
       - text: >-
-          De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden,
-          düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin
-          şerrinden, tan yerini ağartan Rabbe sığınırım."
+          De ki: "Yaratıkların
+        cid: 0
+      - text: şerrinden,
+        cid: 2
+      - text: >-
+          bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden,
+        cid: 0
+      - text: hased ettiği
+        cid: 5
+      - text: zaman
+        cid: 4
+      - text: hasedcilerin
+        cid: 3
+      - text: şerrinden, tan
+        cid: 2
+      - text: >-
+          yerini ağartan Rabbe sığınırım."
         cid: 0

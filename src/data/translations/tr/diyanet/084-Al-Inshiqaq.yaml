@@ -4,137 +4,255 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Gök yarılıp Rabbine boyun eğdiği zaman, ki gök boyun eğecektir.
+      - text: Gök
+        cid: 2
+      - text: yarılıp
+        cid: 3
+      - text: Rabbine boyun eğdiği zaman, ki
+        cid: 0
+      - text: gök
+        cid: 2
+      - text: boyun eğecektir.
         cid: 0
   - verse: 2
     segments:
-      - text: >-
-          Gök yarılıp Rabbine boyun eğdiği zaman, ki gök boyun eğecektir.
+      - text: Gök yarılıp
         cid: 0
+      - text: Rabbine
+        cid: 2
+      - text: boyun eğdiği zaman, ki
+        cid: 1
+      - text: gök
+        cid: 0
+      - text: boyun eğecektir.
+        cid: 3
   - verse: 3
     segments:
-      - text: >-
-          Yer düzeltilip, içinde olanları dışarı atarak boşaldığı zaman ve yer Rabbine
-          boyun eğdiği zaman, ki yer boyun eğecektir
+      - text: Yer düzeltilip,
+        cid: 2
+      - text: içinde olanları dışarı atarak boşaldığı
+        cid: 0
+      - text: zaman
+        cid: 1
+      - text: ve
+        cid: 0
+      - text: yer
+        cid: 2
+      - text: Rabbine boyun eğdiği zaman, ki
+        cid: 0
+      - text: yer
+        cid: 2
+      - text: boyun eğecektir
         cid: 0
   - verse: 4
     segments:
-      - text: >-
-          Yer düzeltilip, içinde olanları dışarı atarak boşaldığı zaman ve yer Rabbine
-          boyun eğdiği zaman, ki yer boyun eğecektir
+      - text: Yer düzeltilip,
+        cid: 0
+      - text: içinde olanları
+        cid: 2
+      - text: dışarı atarak
+        cid: 1
+      - text: boşaldığı
+        cid: 4
+      - text: zaman ve yer Rabbine boyun eğdiği zaman, ki yer boyun eğecektir
         cid: 0
   - verse: 5
     segments:
-      - text: >-
-          Yer düzeltilip, içinde olanları dışarı atarak boşaldığı zaman ve yer Rabbine
-          boyun eğdiği zaman, ki yer boyun eğecektir
+      - text: Yer düzeltilip, içinde olanları dışarı atarak boşaldığı zaman ve yer
         cid: 0
+      - text: Rabbine
+        cid: 2
+      - text: boyun eğdiği zaman, ki
+        cid: 1
+      - text: yer
+        cid: 0
+      - text: boyun eğecektir
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          Ey insanoğlu! Sen Rabbine kavuşuncaya kadar çalışıp çabalarsın, sonunda O'na
-          kavuşacaksın.
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: insanoğlu!
+        cid: 2
+      - text: Sen
+        cid: 3
+      - text: Rabbine kavuşuncaya kadar çalışıp
+        cid: 6
+      - text: çabalarsın, sonunda
+        cid: 4
+      - text: O'na kavuşacaksın.
+        cid: 8
   - verse: 7
     segments:
+      - text: Amel defteri
+        cid: 0
+      - text: kendisine sağından
+        cid: 5
+      - text: verilen
+        cid: 3
+      - text: kimse,
+        cid: 2
       - text: >-
-          Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba
-          çekilir ve arkadaşlarının yanına sevinçle döner.
+          kolay geçireceği bir hesaba çekilir ve arkadaşlarının yanına sevinçle döner.
         cid: 0
   - verse: 8
     segments:
-      - text: >-
-          Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba
-          çekilir ve arkadaşlarının yanına sevinçle döner.
+      - text: Amel defteri kendisine sağından verilen kimse,
+        cid: 0
+      - text: kolay geçireceği
+        cid: 4
+      - text: bir hesaba
+        cid: 3
+      - text: çekilir
+        cid: 2
+      - text: ve arkadaşlarının yanına sevinçle döner.
         cid: 0
   - verse: 9
     segments:
       - text: >-
-          Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba
-          çekilir ve arkadaşlarının yanına sevinçle döner.
+          Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba çekilir
+          ve
         cid: 0
+      - text: arkadaşlarının yanına sevinçle
+        cid: 4
+      - text: döner.
+        cid: 1
   - verse: 10
     segments:
+      - text: Ama amel defteri kendisine
+        cid: 0
+      - text: arkasından
+        cid: 5
+      - text: verilen
+        cid: 3
       - text: >-
-          Ama amel defteri kendisine arkasından verilen kimse: "Mahvoldum" diye bağırır
-          ve çılgın alevli cehenneme girer.
+          kimse:
+        cid: 2
+      - text: >-
+          "Mahvoldum" diye bağırır ve çılgın alevli cehenneme girer.
         cid: 0
   - verse: 11
     segments:
+      - text: Ama amel
+        cid: 0
+      - text: defteri kendisine
+        cid: 2
       - text: >-
-          Ama amel defteri kendisine arkasından verilen kimse: "Mahvoldum" diye bağırır
-          ve çılgın alevli cehenneme girer.
+          arkasından verilen kimse: "Mahvoldum" diye bağırır ve çılgın alevli cehenneme girer.
         cid: 0
   - verse: 12
     segments:
       - text: >-
-          Ama amel defteri kendisine arkasından verilen kimse: "Mahvoldum" diye bağırır
-          ve çılgın alevli cehenneme girer.
+          Ama amel defteri kendisine arkasından verilen kimse: "Mahvoldum" diye bağırır ve
         cid: 0
+      - text: çılgın alevli cehenneme
+        cid: 2
+      - text: girer.
+        cid: 1
   - verse: 13
     segments:
-      - text: >-
-          Çünkü o, dünyada, adamlarının yanında iken zevk içindeydi.
-        cid: 0
+      - text: Çünkü o, dünyada, adamlarının
+        cid: 1
+      - text: yanında iken zevk içindeydi.
+        cid: 5
   - verse: 14
     segments:
-      - text: >-
-          Zira; o, bir daha dirilip dönmeyeceğini sanmıştı.
-        cid: 0
+      - text: Zira; o, bir daha dirilip
+        cid: 1
+      - text: dönmeyeceğini
+        cid: 5
+      - text: sanmıştı.
+        cid: 2
   - verse: 15
     segments:
-      - text: >-
-          Bilin ki, Rabbi onu şüphesiz görmekteydi.
+      - text: Bilin
         cid: 0
+      - text: ki, Rabbi
+        cid: 3
+      - text: onu
+        cid: 5
+      - text: şüphesiz
+        cid: 2
+      - text: görmekteydi.
+        cid: 6
   - verse: 16
     segments:
-      - text: >-
-          Akşamın alaca karanlığına and olsun;
-        cid: 0
+      - text: Akşamın alaca karanlığına
+        cid: 3
+      - text: and olsun;
+        cid: 2
   - verse: 17
     segments:
-      - text: >-
-          Geceye ve gecenin içinde olan şeylere and olsun;
+      - text: Geceye ve gecenin içinde
+        cid: 1
+      - text: olan
         cid: 0
+      - text: şeylere
+        cid: 2
+      - text: and olsun;
+        cid: 1
   - verse: 18
     segments:
+      - text: Dolunay halindeki
+        cid: 3
       - text: >-
-          Dolunay halindeki aya and olsun ki:
-        cid: 0
+          aya and olsun ki:
+        cid: 1
   - verse: 19
     segments:
-      - text: >-
-          Şüphesiz siz bir durumdan diğerine uğratılacaksınız. (tabakadan tabakaya
-          bineceksiniz)
+      - text: Şüphesiz siz bir durumdan diğerine uğratılacaksınız.
+        cid: 1
+      - text: (tabakadan tabakaya bineceksiniz)
         cid: 0
   - verse: 20
     segments:
-      - text: >-
-          Onlara ne oluyor da inanmıyorlar?
-        cid: 0
+      - text: Onlara ne oluyor da
+        cid: 2
+      - text: inanmıyorlar?
+        cid: 4
   - verse: 21
     segments:
-      - text: >-
-          Onlara Kuran okunduğu zaman neden secde etmiyorlar?
-        cid: 0
+      - text: Onlara
+        cid: 3
+      - text: Kuran
+        cid: 4
+      - text: okunduğu
+        cid: 2
+      - text: zaman neden
+        cid: 1
+      - text: secde etmiyorlar?
+        cid: 6
   - verse: 22
     segments:
-      - text: >-
-          Aksine, inkarcılar yalanlıyorlar.
-        cid: 0
+      - text: Aksine, inkarcılar
+        cid: 2
+      - text: yalanlıyorlar.
+        cid: 4
   - verse: 23
     segments:
-      - text: >-
-          Oysa, Allah, onların sakladıklarını çok iyi bilir.
-        cid: 0
+      - text: Oysa, Allah, onların sakladıklarını
+        cid: 1
+      - text: çok iyi bilir.
+        cid: 2
   - verse: 24
     segments:
-      - text: >-
-          Onlara can yakıcı azabı müjde et.
-        cid: 0
+      - text: Onlara
+        cid: 1
+      - text: can yakıcı
+        cid: 3
+      - text: azabı
+        cid: 2
+      - text: müjde et.
+        cid: 1
   - verse: 25
     segments:
-      - text: >-
-          Yalnız, inanıp yararlı işler işleyenlere, onlara, kesintisiz ecir vardır.
-        cid: 0
+      - text: Yalnız, inanıp
+        cid: 3
+      - text: yararlı işler işleyenlere,
+        cid: 5
+      - text: onlara,
+        cid: 6
+      - text: kesintisiz ecir
+        cid: 9
+      - text: vardır.
+        cid: 6

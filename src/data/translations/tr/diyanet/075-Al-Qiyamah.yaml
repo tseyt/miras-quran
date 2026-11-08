@@ -4,214 +4,379 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Kıyamet gününe yemin ederim.
-        cid: 0
+      - text: Kıyamet
+        cid: 4
+      - text: gününe
+        cid: 3
+      - text: yemin ederim.
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Ve nedamet çeken nefse yemin ederim.
+      - text: Ve nedamet
         cid: 0
+      - text: çeken nefse
+        cid: 3
+      - text: yemin ederim.
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          İnsan, kemiklerini bir araya toplayamayız mı sanıyor?
-        cid: 0
+      - text: İnsan,
+        cid: 2
+      - text: kemiklerini
+        cid: 5
+      - text: bir araya toplayamayız mı
+        cid: 3
+      - text: sanıyor?
+        cid: 1
   - verse: 4
     segments:
+      - text: Evet, Biz
+        cid: 1
       - text: >-
-          Evet, Biz onu, parmak uçlarına varıncaya kadar bütün incelikleriyle yeniden
-          yapmaya kadiriz.
-        cid: 0
+          onu, parmak uçlarına varıncaya kadar bütün incelikleriyle yeniden yapmaya kadiriz.
+        cid: 6
   - verse: 5
     segments:
+      - text: Ama, insanoğlu gelecekte de suç işlemek
+        cid: 3
       - text: >-
-          Ama, insanoğlu gelecekte de suç işlemek ister de: "Kıyamet günü ne zamanmış! "
-          der.
+          ister de:
+        cid: 2
+      - text: >-
+          "Kıyamet günü ne zamanmış! " der.
         cid: 0
   - verse: 6
     segments:
       - text: >-
-          Ama, insanoğlu gelecekte de suç işlemek ister de: "Kıyamet günü ne zamanmış! "
-          der.
+          Ama, insanoğlu gelecekte de suç işlemek ister de:
+        cid: 0
+      - text: >-
+          "Kıyamet
+        cid: 4
+      - text: günü ne
+        cid: 3
+      - text: zamanmış!
+        cid: 2
+      - text: >-
+          " der.
         cid: 0
   - verse: 7
     segments:
+      - text: Gözün
+        cid: 3
+      - text: kamaştığı, ayın
+        cid: 2
+      - text: tutulduğu, güneş ve ayın bir araya getirildiği
+        cid: 0
+      - text: zaman, işte
+        cid: 1
       - text: >-
-          Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman,
-          işte o gün insan: "kaçacak yer nerede?" der.
+          o gün insan: "kaçacak yer nerede?" der.
         cid: 0
   - verse: 8
     segments:
+      - text: Gözün kamaştığı, ayın
+        cid: 0
+      - text: tutulduğu,
+        cid: 1
       - text: >-
-          Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman,
-          işte o gün insan: "kaçacak yer nerede?" der.
+          güneş ve ayın bir araya getirildiği zaman, işte o gün insan: "kaçacak yer nerede?"
+          der.
         cid: 0
   - verse: 9
     segments:
+      - text: Gözün kamaştığı, ayın tutulduğu,
+        cid: 0
+      - text: güneş
+        cid: 2
+      - text: ve
+        cid: 0
+      - text: ayın bir araya getirildiği
+        cid: 1
       - text: >-
-          Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman,
-          işte o gün insan: "kaçacak yer nerede?" der.
+          zaman, işte o gün insan: "kaçacak yer nerede?" der.
         cid: 0
   - verse: 10
     segments:
       - text: >-
-          Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman,
-          işte o gün insan: "kaçacak yer nerede?" der.
+          Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman, işte
         cid: 0
+      - text: o gün
+        cid: 3
+      - text: >-
+          insan:
+        cid: 2
+      - text: >-
+          "kaçacak yer
+        cid: 5
+      - text: >-
+          nerede?"
+        cid: 4
+      - text: der.
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Hayır; hayır; bir sığınak yoktur.
-        cid: 0
+      - text: Hayır; hayır;
+        cid: 1
+      - text: bir sığınak
+        cid: 3
+      - text: yoktur.
+        cid: 2
   - verse: 12
     segments:
-      - text: >-
-          O gün, sen, Rabbinin huzuruna varıp durursun.
-        cid: 0
+      - text: O gün, sen,
+        cid: 2
+      - text: Rabbinin huzuruna
+        cid: 1
+      - text: varıp durursun.
+        cid: 4
   - verse: 13
     segments:
-      - text: >-
-          O gün, insanoğluna önde ve sonda yaptığı ne varsa bildirilir.
+      - text: O gün,
+        cid: 3
+      - text: insanoğluna önde
+        cid: 2
+      - text: ve
         cid: 0
+      - text: sonda yaptığı ne varsa bildirilir.
+        cid: 5
   - verse: 14
     segments:
-      - text: >-
-          Özürlerini sayıp dökse de, insanoğlu, artık kendi kendinin şahididir.
+      - text: Özürlerini sayıp dökse de,
         cid: 0
+      - text: insanoğlu, artık
+        cid: 2
+      - text: kendi kendinin şahididir.
+        cid: 3
   - verse: 15
     segments:
-      - text: >-
-          Özürlerini sayıp dökse de, insanoğlu, artık kendi kendinin şahididir.
+      - text: Özürlerini sayıp dökse de,
+        cid: 3
+      - text: insanoğlu, artık kendi kendinin şahididir.
         cid: 0
   - verse: 16
     segments:
-      - text: >-
-          Cebrail sana Kuran okurken, unutmamak için acele edip onunla beraber söyleme,
-          yalnız dinle.
+      - text: Cebrail sana
         cid: 0
+      - text: Kuran okurken, unutmamak için acele edip
+        cid: 5
+      - text: onunla beraber söyleme, yalnız dinle.
+        cid: 3
   - verse: 17
     segments:
-      - text: >-
-          Doğrusu o vahyolunanı kalbine yerleştirmek ve onu sana okutturmak Bize düşer.
+      - text: Doğrusu o vahyolunanı kalbine yerleştirmek ve
         cid: 0
+      - text: onu sana
+        cid: 3
+      - text: okutturmak
+        cid: 4
+      - text: Bize düşer.
+        cid: 2
   - verse: 18
     segments:
-      - text: >-
-          Biz onu Cebrail'e okuttuğumuz zaman, onun okumasını dinle.
-        cid: 0
+      - text: Biz onu Cebrail'e okuttuğumuz
+        cid: 2
+      - text: zaman,
+        cid: 1
+      - text: onun okumasını dinle.
+        cid: 4
   - verse: 19
     segments:
-      - text: >-
-          Sonra onu sana açıklamak Bize düşer.
-        cid: 0
+      - text: Sonra
+        cid: 1
+      - text: onu sana açıklamak
+        cid: 4
+      - text: Bize düşer.
+        cid: 3
   - verse: 20
     segments:
-      - text: >-
-          Hayır, hayır! Sizler, çabuk elde edeceğiniz dünya nimetlerini seversiniz.
-        cid: 0
+      - text: Hayır, hayır!
+        cid: 1
+      - text: Sizler,
+        cid: 3
+      - text: çabuk elde edeceğiniz dünya nimetlerini
+        cid: 4
+      - text: seversiniz.
+        cid: 3
   - verse: 21
     segments:
-      - text: >-
-          Ahireti bırakırsınız.
-        cid: 0
+      - text: Ahireti
+        cid: 2
+      - text: bırakırsınız.
+        cid: 1
   - verse: 22
     segments:
-      - text: >-
-          O gün bir takım yüzler Rablerine bakıp parlayacaktır.
+      - text: O gün
+        cid: 2
+      - text: bir takım yüzler
+        cid: 1
+      - text: Rablerine bakıp
         cid: 0
+      - text: parlayacaktır.
+        cid: 3
   - verse: 23
     segments:
-      - text: >-
-          O gün bir takım yüzler Rablerine bakıp parlayacaktır.
+      - text: O gün bir takım yüzler
+        cid: 0
+      - text: Rablerine
+        cid: 2
+      - text: bakıp
+        cid: 3
+      - text: parlayacaktır.
         cid: 0
   - verse: 24
     segments:
-      - text: >-
-          O gün bir takım yüzler de asıktır.
-        cid: 0
+      - text: O gün bir takım
+        cid: 2
+      - text: yüzler de
+        cid: 1
+      - text: asıktır.
+        cid: 3
   - verse: 25
     segments:
-      - text: >-
-          Kendisinin belkemiğinin kırılacağını sanır.
-        cid: 0
+      - text: Kendisinin
+        cid: 4
+      - text: belkemiğinin kırılacağını sanır.
+        cid: 5
   - verse: 26
     segments:
+      - text: Dikkat
+        cid: 0
+      - text: edin; can boğaza gelip
+        cid: 3
+      - text: köprücük kemiklerine
+        cid: 4
+      - text: dayandığı
+        cid: 3
       - text: >-
-          Dikkat edin; can boğaza gelip köprücük kemiklerine dayandığı zaman: "Çare bulan
-          yok mudur?" denir.
+          zaman:
+        cid: 2
+      - text: >-
+          "Çare bulan yok mudur?" denir.
         cid: 0
   - verse: 27
     segments:
       - text: >-
-          Dikkat edin; can boğaza gelip köprücük kemiklerine dayandığı zaman: "Çare bulan
-          yok mudur?" denir.
+          Dikkat edin; can boğaza gelip köprücük kemiklerine dayandığı zaman: "Çare bulan yok
         cid: 0
+      - text: mudur?" denir.
+        cid: 1
   - verse: 28
     segments:
-      - text: >-
-          Artık ayrılık vaktinin geldiğini sanır.
-        cid: 0
+      - text: Artık ayrılık vaktinin geldiğini sanır.
+        cid: 3
   - verse: 29
     segments:
-      - text: >-
-          Bacaklar birbirine dolaşır.
-        cid: 0
+      - text: Bacaklar birbirine
+        cid: 2
+      - text: dolaşır.
+        cid: 1
   - verse: 30
     segments:
-      - text: >-
-          O gün sevk Rabbin huzurunadır.
-        cid: 0
+      - text: O gün
+        cid: 3
+      - text: sevk
+        cid: 4
+      - text: Rabbin huzurunadır.
+        cid: 2
   - verse: 31
     segments:
+      - text: O, Peygamberi
+        cid: 0
+      - text: doğrulamamış,
+        cid: 2
+      - text: namaz kılmamış, ama
+        cid: 4
       - text: >-
-          O, Peygamberi doğrulamamış, namaz kılmamış, ama yalanlayıp yüz çevirmiş, sonra
-          da salına salına kendinden yana olanlara gitmişti.
+          yalanlayıp yüz çevirmiş, sonra da salına salına kendinden yana olanlara gitmişti.
         cid: 0
   - verse: 32
     segments:
-      - text: >-
-          O, Peygamberi doğrulamamış, namaz kılmamış, ama yalanlayıp yüz çevirmiş, sonra
-          da salına salına kendinden yana olanlara gitmişti.
+      - text: O, Peygamberi doğrulamamış, namaz kılmamış, ama
+        cid: 0
+      - text: yalanlayıp yüz
+        cid: 2
+      - text: çevirmiş,
+        cid: 3
+      - text: sonra da salına salına kendinden yana olanlara gitmişti.
         cid: 0
   - verse: 33
     segments:
-      - text: >-
-          O, Peygamberi doğrulamamış, namaz kılmamış, ama yalanlayıp yüz çevirmiş, sonra
-          da salına salına kendinden yana olanlara gitmişti.
+      - text: O, Peygamberi doğrulamamış, namaz kılmamış, ama yalanlayıp yüz çevirmiş,
         cid: 0
+      - text: sonra da salına salına kendinden yana olanlara
+        cid: 1
+      - text: gitmişti.
+        cid: 2
   - verse: 34
     segments:
-      - text: >-
-          Sana yazıklar olsun, yazıklar!
-        cid: 0
+      - text: Sana
+        cid: 2
+      - text: yazıklar olsun, yazıklar!
+        cid: 1
   - verse: 35
     segments:
-      - text: >-
-          Daha ne olsun, sana yazıklar olsun, yazıklar!
-        cid: 0
+      - text: Daha ne olsun,
+        cid: 2
+      - text: sana
+        cid: 3
+      - text: yazıklar olsun, yazıklar!
+        cid: 2
   - verse: 36
     segments:
-      - text: >-
-          İnsanoğlu kendisinin başıboş bırakılacağını mı sanır?
-        cid: 0
+      - text: İnsanoğlu
+        cid: 2
+      - text: kendisinin
+        cid: 1
+      - text: başıboş
+        cid: 5
+      - text: bırakılacağını mı
+        cid: 3
+      - text: sanır?
+        cid: 1
   - verse: 37
     segments:
-      - text: >-
-          O, katılan bir meni damlası değil miydi?
+      - text: O,
         cid: 0
+      - text: katılan bir meni damlası
+        cid: 4
+      - text: değil miydi?
+        cid: 1
   - verse: 38
     segments:
-      - text: >-
-          Sonra kan pıhtısı olmuş, sonra Allah onu yaratıp şekil vermişti.
-        cid: 0
+      - text: Sonra
+        cid: 1
+      - text: kan pıhtısı olmuş,
+        cid: 3
+      - text: sonra
+        cid: 1
+      - text: Allah onu
+        cid: 3
+      - text: yaratıp
+        cid: 4
+      - text: şekil vermişti.
+        cid: 5
   - verse: 39
     segments:
-      - text: >-
-          Ondan, erkek, dişi iki cins yaratmıştı.
-        cid: 0
+      - text: Ondan,
+        cid: 2
+      - text: erkek,
+        cid: 4
+      - text: dişi
+        cid: 5
+      - text: iki cins
+        cid: 3
+      - text: yaratmıştı.
+        cid: 4
   - verse: 40
     segments:
-      - text: >-
-          Bunları yapan Allah'ın ölüleri diriltmeye gücü yetmez mi? Elbette yeter.
-        cid: 0
+      - text: Bunları yapan
+        cid: 2
+      - text: Allah'ın
+        cid: 6
+      - text: ölüleri
+        cid: 7
+      - text: diriltmeye
+        cid: 4
+      - text: gücü yetmez mi? Elbette yeter.
+        cid: 3

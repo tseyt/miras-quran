@@ -4,41 +4,63 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Senin gönlünü açmadık mı?
+      - text: Senin
         cid: 0
+      - text: gönlünü açmadık mı?
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Belini büken yükünü üzerinden almadık mı?
+      - text: Belini
         cid: 0
+      - text: büken yükünü
+        cid: 3
+      - text: üzerinden almadık mı?
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          Belini büken yükünü üzerinden almadık mı?
+      - text: Belini büken yükünü
         cid: 0
+      - text: üzerinden
+        cid: 1
+      - text: almadık
+        cid: 2
+      - text: mı?
+        cid: 3
   - verse: 4
     segments:
-      - text: >-
-          Senin şanını yükseltmedik mi?
-        cid: 0
+      - text: Senin şanını
+        cid: 3
+      - text: yükseltmedik mi?
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Elbette güçlükle beraber şüphesiz bir kolaylık vardır.
-        cid: 0
+      - text: Elbette güçlükle
+        cid: 3
+      - text: beraber şüphesiz
+        cid: 2
+      - text: bir kolaylık
+        cid: 4
+      - text: vardır.
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Gerçekten, güçlükle beraber bir kolaylık vardır.
-        cid: 0
+      - text: Gerçekten, güçlükle
+        cid: 3
+      - text: beraber
+        cid: 2
+      - text: bir kolaylık
+        cid: 4
+      - text: vardır.
+        cid: 1
   - verse: 7
     segments:
-      - text: >-
-          Öyleyse, bir işi bitirince diğerine giriş;
-        cid: 0
+      - text: Öyleyse, bir işi bitirince diğerine giriş;
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Ve ümit edeceğini yalnız Rabbinden iste.
+      - text: Ve ümit
         cid: 0
+      - text: edeceğini yalnız
+        cid: 3
+      - text: Rabbinden iste.
+        cid: 2

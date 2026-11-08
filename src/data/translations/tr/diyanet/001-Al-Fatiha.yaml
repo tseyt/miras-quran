@@ -4,37 +4,74 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Rahman ve Rahim olan Allah'ın adıyla:
+      - text: Rahman
+        cid: 3
+      - text: ve
         cid: 0
+      - text: Rahim olan
+        cid: 4
+      - text: Allah'ın
+        cid: 2
+      - text: >-
+          adıyla:
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Hamd, Alemlerin Rabbi Allah'a mahsustur.
-        cid: 0
+      - text: Hamd,
+        cid: 1
+      - text: Alemlerin
+        cid: 4
+      - text: Rabbi
+        cid: 3
+      - text: Allah'a mahsustur.
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          O Rahman ve Rahim'dir,
+      - text: O Rahman
+        cid: 1
+      - text: ve
         cid: 0
+      - text: Rahim'dir,
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Din Gününün sahibidir.
-        cid: 0
+      - text: Din
+        cid: 3
+      - text: Gününün
+        cid: 2
+      - text: sahibidir.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Ancak Sana kulluk eder ve yalnız Senden yardım dileriz.
-        cid: 0
+      - text: Ancak Sana
+        cid: 1
+      - text: kulluk eder
+        cid: 2
+      - text: ve yalnız Senden
+        cid: 3
+      - text: yardım dileriz.
+        cid: 4
   - verse: 6
     segments:
-      - text: >-
-          Bizi doğru yola eriştir.
-        cid: 0
+      - text: Bizi
+        cid: 1
+      - text: doğru
+        cid: 3
+      - text: yola eriştir.
+        cid: 2
   - verse: 7
     segments:
-      - text: >-
-          Nimete erdirdiğin kimselerin yoluna; gazaba uğrayanların, ya da sapıtanların
-          yoluna değil.
-        cid: 0
+      - text: Nimete erdirdiğin
+        cid: 3
+      - text: kimselerin
+        cid: 4
+      - text: yoluna;
+        cid: 1
+      - text: gazaba uğrayanların, ya da
+        cid: 6
+      - text: sapıtanların
+        cid: 9
+      - text: yoluna
+        cid: 1
+      - text: değil.
+        cid: 8

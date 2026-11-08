@@ -5,160 +5,490 @@ verses:
   - verse: 1
     segments:
       - text: >-
-          "Milletine can yakıcı bir azap gelmezden önce onları uyar" diye Nuh'u milletine
-          gönderdik.
-        cid: 0
+          "Milletine
+        cid: 5
+      - text: can yakıcı
+        cid: 14
+      - text: bir azap
+        cid: 13
+      - text: gelmezden
+        cid: 12
+      - text: önce
+        cid: 10
+      - text: onları
+        cid: 11
+      - text: >-
+          uyar"
+        cid: 7
+      - text: diye
+        cid: 6
+      - text: Nuh'u milletine
+        cid: 3
+      - text: gönderdik.
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          O da şöyle söyledi: "Ey Milletim! Şüphesiz ben, size gönderilmiş apaçık bir
-          uyarıcıyım."
+      - text: O da şöyle
         cid: 0
+      - text: >-
+          söyledi: "Ey Milletim!
+        cid: 2
+      - text: Şüphesiz ben,
+        cid: 3
+      - text: size gönderilmiş
+        cid: 4
+      - text: apaçık
+        cid: 6
+      - text: >-
+          bir uyarıcıyım."
+        cid: 5
   - verse: 3
     segments:
       - text: >-
-          "Allah'a kulluk edin; O'ndan sakının ve bana itaat edin ki Allah günahlarınızı
-          size bağışlasın ve sizi belli bir süreye kadar ertelesin; doğrusu Allah'ın
-          belirttiği süre gelince geri bırakılamaz; keşke bilseniz!"
+          "Allah'a
+        cid: 3
+      - text: kulluk edin;
+        cid: 2
+      - text: O'ndan
+        cid: 4
+      - text: sakının ve bana itaat edin ki
+        cid: 5
+      - text: Allah
+        cid: 3
+      - text: günahlarınızı size bağışlasın ve sizi belli bir süreye kadar ertelesin;
+        cid: 0
+      - text: doğrusu
+        cid: 5
+      - text: >-
+          Allah'ın belirttiği süre gelince geri bırakılamaz; keşke bilseniz!"
         cid: 0
   - verse: 4
     segments:
       - text: >-
-          "Allah'a kulluk edin; O'ndan sakının ve bana itaat edin ki Allah günahlarınızı
-          size bağışlasın ve sizi belli bir süreye kadar ertelesin; doğrusu Allah'ın
-          belirttiği süre gelince geri bırakılamaz; keşke bilseniz!"
+          "Allah'a kulluk edin; O'ndan sakının ve bana itaat edin ki Allah
         cid: 0
+      - text: günahlarınızı
+        cid: 4
+      - text: size
+        cid: 2
+      - text: bağışlasın
+        cid: 1
+      - text: ve sizi
+        cid: 5
+      - text: belli
+        cid: 8
+      - text: bir süreye kadar
+        cid: 7
+      - text: ertelesin;
+        cid: 5
+      - text: doğrusu
+        cid: 0
+      - text: Allah'ın
+        cid: 11
+      - text: belirttiği
+        cid: 8
+      - text: süre
+        cid: 10
+      - text: gelince geri bırakılamaz;
+        cid: 13
+      - text: keşke
+        cid: 16
+      - text: >-
+          bilseniz!"
+        cid: 18
   - verse: 5
     segments:
       - text: >-
-          Nuh dedi ki: "Rabbim! Doğrusu ben, milletimi gece gündüz çağırdım."
-        cid: 0
+          Nuh dedi ki:
+        cid: 1
+      - text: >-
+          "Rabbim!
+        cid: 2
+      - text: Doğrusu ben,
+        cid: 3
+      - text: milletimi
+        cid: 4
+      - text: gece
+        cid: 6
+      - text: >-
+          gündüz çağırdım."
+        cid: 7
   - verse: 6
     segments:
       - text: >-
-          "Fakat benim çağırmam, sadece benden uzaklıklarını artırdı."
-        cid: 0
+          "Fakat benim çağırmam,
+        cid: 1
+      - text: sadece benden uzaklıklarını
+        cid: 3
+      - text: >-
+          artırdı."
+        cid: 2
   - verse: 7
     segments:
       - text: >-
-          "Doğrusu ben Senin onları bağışlaman için kendilerini her çağırışımda,
-          parmaklarını kulaklarına tıkadılar, elbiselerine büründüler, direndiler,
+          "Doğrusu ben
+        cid: 1
+      - text: Senin onları
+        cid: 5
+      - text: bağışlaman için
+        cid: 4
+      - text: kendilerini
+        cid: 14
+      - text: her
+        cid: 2
+      - text: çağırışımda,
+        cid: 3
+      - text: parmaklarını
+        cid: 7
+      - text: kulaklarına tıkadılar,
+        cid: 9
+      - text: elbiselerine
+        cid: 1
+      - text: büründüler,
+        cid: 11
+      - text: direndiler,
+        cid: 12
+      - text: >-
           büyüklendikçe büyüklendiler."
-        cid: 0
+        cid: 13
   - verse: 8
     segments:
       - text: >-
-          "Sonra, doğrusu ben onları açıkça çağırdım."
-        cid: 0
+          "Sonra,
+        cid: 1
+      - text: doğrusu
+        cid: 3
+      - text: ben
+        cid: 2
+      - text: onları
+        cid: 3
+      - text: açıkça
+        cid: 4
+      - text: >-
+          çağırdım."
+        cid: 3
   - verse: 9
     segments:
       - text: >-
-          "Sonra onlara açıktan açığa, gizliden gizliye de söyledim."
-        cid: 0
+          "Sonra
+        cid: 1
+      - text: onlara
+        cid: 4
+      - text: açıktan açığa,
+        cid: 3
+      - text: >-
+          gizliden gizliye de söyledim."
+        cid: 5
   - verse: 10
     segments:
       - text: >-
-          Dedim ki: "Rabbinizden bağışlanma dileyin; doğrusu O, çok bağışlayandır. Size
-          gökten bol bol yağmur indirsin."
+          Dedim ki:
+        cid: 1
+      - text: >-
+          "Rabbinizden
+        cid: 3
+      - text: bağışlanma
+        cid: 5
+      - text: dileyin;
+        cid: 2
+      - text: doğrusu O,
+        cid: 4
+      - text: çok bağışlayandır.
+        cid: 5
+      - text: >-
+          Size gökten bol bol yağmur indirsin."
         cid: 0
   - verse: 11
     segments:
       - text: >-
-          Dedim ki: "Rabbinizden bağışlanma dileyin; doğrusu O, çok bağışlayandır. Size
-          gökten bol bol yağmur indirsin."
+          Dedim ki: "Rabbinizden bağışlanma dileyin; doğrusu O, çok bağışlayandır.
         cid: 0
+      - text: Size
+        cid: 1
+      - text: gökten
+        cid: 2
+      - text: >-
+          bol bol yağmur indirsin."
+        cid: 4
   - verse: 12
     segments:
       - text: >-
-          "Sizi, mallar ve oğullarla desteklesin; sizin için bahçeler var etsin, ırmaklar
-          akıtsın."
+          "Sizi, mallar
+        cid: 2
+      - text: ve oğullarla desteklesin;
+        cid: 3
+      - text: sizin
         cid: 0
+      - text: için bahçeler var
+        cid: 6
+      - text: etsin,
+        cid: 1
+      - text: >-
+          ırmaklar akıtsın."
+        cid: 9
   - verse: 13
     segments:
       - text: >-
-          "Ne oluyorsunuz ki Allah'a büyüklüğü yakıştıramıyorsunuz."
-        cid: 0
+          "Ne
+        cid: 1
+      - text: oluyorsunuz ki
+        cid: 2
+      - text: >-
+          Allah'a büyüklüğü yakıştıramıyorsunuz."
+        cid: 5
   - verse: 14
     segments:
       - text: >-
-          "Oysa sizi merhalelerden geçirerek O yaratmıştır."
-        cid: 0
+          "Oysa
+        cid: 1
+      - text: >-
+          sizi merhalelerden geçirerek O yaratmıştır."
+        cid: 2
   - verse: 15
     segments:
       - text: >-
-          "Allah'ın, göğü yedi kat üzerine nasıl yarattığını görmez misiniz?"
-        cid: 0
+          "Allah'ın,
+        cid: 5
+      - text: göğü
+        cid: 7
+      - text: yedi
+        cid: 6
+      - text: kat üzerine
+        cid: 8
+      - text: nasıl
+        cid: 3
+      - text: yarattığını
+        cid: 4
+      - text: görmez
+        cid: 1
+      - text: >-
+          misiniz?"
+        cid: 2
   - verse: 16
     segments:
       - text: >-
-          "Aralarında aya aydınlık vermiş ve güneşin ışık saçmasını sağlamıştır."
+          "Aralarında aya aydınlık vermiş ve
         cid: 0
+      - text: güneşin
+        cid: 6
+      - text: >-
+          ışık saçmasını sağlamıştır."
+        cid: 7
   - verse: 17
     segments:
       - text: >-
-          "Allah sizi yerden bitirir gibi yetiştirmiştir."
-        cid: 0
+          "Allah
+        cid: 1
+      - text: sizi
+        cid: 2
+      - text: yerden
+        cid: 4
+      - text: bitirir gibi
+        cid: 2
+      - text: >-
+          yetiştirmiştir."
+        cid: 5
   - verse: 18
     segments:
       - text: >-
-          "Sonra sizi oraya döndürür ve yine oradan çıkarır."
+          "Sonra sizi
+        cid: 1
+      - text: oraya döndürür
+        cid: 3
+      - text: ve
         cid: 0
+      - text: yine oradan
+        cid: 3
+      - text: >-
+          çıkarır."
+        cid: 5
   - verse: 19
     segments:
       - text: >-
-          "Yeryüzünde dolaşabilmeniz, orada yollar ve geniş geçitlerden geçebilmeniz
-          için, onu size yayan O'dur."
+          "Yeryüzünde dolaşabilmeniz, orada
+        cid: 4
+      - text: yollar ve geniş geçitlerden geçebilmeniz için, onu
         cid: 0
+      - text: >-
+          size yayan O'dur."
+        cid: 3
   - verse: 20
     segments:
       - text: >-
-          "Yeryüzünde dolaşabilmeniz, orada yollar ve geniş geçitlerden geçebilmeniz
-          için, onu size yayan O'dur."
+          "Yeryüzünde dolaşabilmeniz, orada
+        cid: 0
+      - text: yollar
+        cid: 3
+      - text: ve
+        cid: 0
+      - text: geniş geçitlerden geçebilmeniz için, onu
+        cid: 4
+      - text: >-
+          size yayan O'dur."
         cid: 0
   - verse: 21
     segments:
       - text: >-
-          Nuh: "Rabbim! Doğrusu bunlar bana baş kaldırdılar ve malı, çocuğu kendisine
-          sadece zarar getiren kimseye uydular; birbirinden büyük düzenler kurdular" dedi.
+          Nuh:
+        cid: 2
+      - text: >-
+          "Rabbim!
+        cid: 3
+      - text: Doğrusu
         cid: 0
+      - text: bunlar bana baş kaldırdılar
+        cid: 5
+      - text: ve
+        cid: 0
+      - text: malı,
+        cid: 10
+      - text: çocuğu
+        cid: 11
+      - text: kendisine sadece zarar getiren kimseye
+        cid: 10
+      - text: uydular;
+        cid: 6
+      - text: >-
+          birbirinden büyük düzenler kurdular"
+        cid: 0
+      - text: dedi.
+        cid: 1
   - verse: 22
     segments:
       - text: >-
-          Nuh: "Rabbim! Doğrusu bunlar bana baş kaldırdılar ve malı, çocuğu kendisine
-          sadece zarar getiren kimseye uydular; birbirinden büyük düzenler kurdular" dedi.
+          Nuh: "Rabbim! Doğrusu bunlar bana baş kaldırdılar ve malı, çocuğu kendisine sadece
+          zarar getiren kimseye uydular;
+        cid: 0
+      - text: birbirinden büyük düzenler
+        cid: 3
+      - text: >-
+          kurdular"
+        cid: 1
+      - text: dedi.
         cid: 0
   - verse: 23
     segments:
       - text: >-
-          İnsanlara: "Sakın tanrılarınızı bırakmayın, Ved, Suva, Yağus, Yeuk ve Nesr
-          putlarından asla vazgeçmeyin" dediler.
+          İnsanlara:
         cid: 0
+      - text: >-
+          "Sakın tanrılarınızı
+        cid: 4
+      - text: bırakmayın,
+        cid: 6
+      - text: Ved,
+        cid: 7
+      - text: Suva, Yağus,
+        cid: 9
+      - text: Yeuk
+        cid: 12
+      - text: ve
+        cid: 5
+      - text: >-
+          Nesr putlarından asla vazgeçmeyin"
+        cid: 13
+      - text: dediler.
+        cid: 1
   - verse: 24
     segments:
       - text: >-
-          "Böylece birçoğunu saptırdılar; Rabbim! Sen bu zalimlerin sadece şaşkınlığını
-          artır."
+          "Böylece birçoğunu saptırdılar;
         cid: 0
+      - text: Rabbim! Sen
+        cid: 5
+      - text: bu zalimlerin
+        cid: 6
+      - text: sadece şaşkınlığını
+        cid: 8
+      - text: >-
+          artır."
+        cid: 5
   - verse: 25
     segments:
-      - text: >-
-          Onlar, günahları yüzünden suda boğuldular; ateşe sokuldular, kendilerine
-          Allah'tan başka yardımcı bulamadılar.
-        cid: 0
+      - text: Onlar, günahları yüzünden suda
+        cid: 8
+      - text: boğuldular;
+        cid: 3
+      - text: ateşe
+        cid: 5
+      - text: sokuldular,
+        cid: 4
+      - text: kendilerine
+        cid: 8
+      - text: Allah'tan
+        cid: 11
+      - text: başka
+        cid: 9
+      - text: yardımcı
+        cid: 12
+      - text: bulamadılar.
+        cid: 7
   - verse: 26
     segments:
+      - text: Nuh
+        cid: 2
       - text: >-
-          Nuh dedi ki: "Rabbim! Yeryüzünde hiçbir inkarcı bırakma."
-        cid: 0
+          dedi ki:
+        cid: 1
+      - text: >-
+          "Rabbim!
+        cid: 3
+      - text: Yeryüzünde hiçbir
+        cid: 7
+      - text: inkarcı
+        cid: 9
+      - text: >-
+          bırakma."
+        cid: 4
   - verse: 27
     segments:
       - text: >-
-          "Doğrusu Sen onları bırakırsan kullarını saptırırlar; sadece ahlaksız ve çok
-          inkarcıdan başkasını doğurup yetiştirmezler."
-        cid: 0
+          "Doğrusu
+        cid: 7
+      - text: Sen
+        cid: 1
+      - text: onları bırakırsan
+        cid: 3
+      - text: kullarını saptırırlar;
+        cid: 5
+      - text: sadece ahlaksız
+        cid: 9
+      - text: ve
+        cid: 6
+      - text: çok inkarcıdan
+        cid: 10
+      - text: başkasını
+        cid: 8
+      - text: >-
+          doğurup yetiştirmezler."
+        cid: 7
   - verse: 28
     segments:
       - text: >-
-          "Rabbim! Beni, anamı, babamı, evime inanmış olarak gireni, inanan erkek ve
-          kadınları bağışla; zalimlerin de yalnız helakını artır."
-        cid: 0
+          "Rabbim!
+        cid: 1
+      - text: Beni,
+        cid: 3
+      - text: anamı, babamı,
+        cid: 4
+      - text: evime
+        cid: 7
+      - text: inanmış olarak
+        cid: 8
+      - text: gireni,
+        cid: 6
+      - text: inanan erkek
+        cid: 9
+      - text: ve
+        cid: 11
+      - text: kadınları
+        cid: 10
+      - text: bağışla;
+        cid: 2
+      - text: zalimlerin de
+        cid: 13
+      - text: yalnız helakını
+        cid: 15
+      - text: >-
+          artır."
+        cid: 12

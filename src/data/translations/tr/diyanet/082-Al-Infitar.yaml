@@ -4,103 +4,197 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Gök yarıldığı zaman,
-        cid: 0
+      - text: Gök
+        cid: 2
+      - text: yarıldığı
+        cid: 3
+      - text: zaman,
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Yıldızlar dağılıp döküldüğü zaman,
-        cid: 0
+      - text: Yıldızlar dağılıp döküldüğü
+        cid: 2
+      - text: zaman,
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Denizler kaynaştığı zaman,
-        cid: 0
+      - text: Denizler kaynaştığı
+        cid: 2
+      - text: zaman,
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          Kabirlerin içi dışa çıktığı zaman,
-        cid: 0
+      - text: Kabirlerin
+        cid: 2
+      - text: içi dışa çıktığı
+        cid: 3
+      - text: zaman,
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          İnsanoğlu, ne yaptığını ve ne yapmadığını görür.
+      - text: İnsanoğlu,
+        cid: 1
+      - text: ne
+        cid: 3
+      - text: yaptığını
+        cid: 4
+      - text: ve
         cid: 0
+      - text: ne yapmadığını görür.
+        cid: 3
   - verse: 6
     segments:
+      - text: Ey
+        cid: 1
+      - text: insanoğlu!
+        cid: 2
       - text: >-
-          Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan,
-          istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan
-          nedir?
+          Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni
+          terkip eden, çok cömert olan
         cid: 0
+      - text: Rabbine karşı
+        cid: 5
+      - text: seni
+        cid: 0
+      - text: aldatan
+        cid: 4
+      - text: nedir?
+        cid: 3
   - verse: 7
     segments:
-      - text: >-
-          Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan,
-          istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan
-          nedir?
+      - text: Ey insanoğlu!
+        cid: 0
+      - text: Seni yaratıp sonra
+        cid: 2
+      - text: şekil
+        cid: 0
+      - text: veren,
+        cid: 4
+      - text: düzenleyen, mütenasip kılan, istediği
+        cid: 3
+      - text: şekilde
+        cid: 0
+      - text: seni
+        cid: 2
+      - text: terkip eden, çok cömert olan Rabbine karşı
+        cid: 0
+      - text: seni
+        cid: 2
+      - text: aldatan nedir?
         cid: 0
   - verse: 8
     segments:
-      - text: >-
-          Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan,
-          istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan
-          nedir?
+      - text: Ey insanoğlu! Seni yaratıp sonra
+        cid: 0
+      - text: şekil
+        cid: 6
+      - text: veren, düzenleyen, mütenasip kılan, istediği
+        cid: 0
+      - text: şekilde
+        cid: 6
+      - text: seni
+        cid: 0
+      - text: terkip eden, çok cömert
+        cid: 6
+      - text: olan Rabbine karşı seni aldatan nedir?
         cid: 0
   - verse: 9
     segments:
-      - text: >-
-          Hayır, hayır; doğrusu siz dini yalanlıyorsunuz.
-        cid: 0
+      - text: Hayır, hayır;
+        cid: 1
+      - text: doğrusu siz
+        cid: 3
+      - text: dini
+        cid: 4
+      - text: yalanlıyorsunuz.
+        cid: 3
   - verse: 10
     segments:
-      - text: >-
-          Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.
+      - text: Oysa,
+        cid: 1
+      - text: yaptıklarınızı
+        cid: 2
+      - text: bilen değerli yazıcılar sizi gözetlemektedirler.
         cid: 0
   - verse: 11
     segments:
-      - text: >-
-          Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.
+      - text: Oysa, yaptıklarınızı bilen
         cid: 0
+      - text: değerli
+        cid: 1
+      - text: yazıcılar sizi gözetlemektedirler.
+        cid: 2
   - verse: 12
     segments:
-      - text: >-
-          Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.
+      - text: Oysa, yaptıklarınızı
+        cid: 3
+      - text: bilen
+        cid: 1
+      - text: değerli yazıcılar sizi gözetlemektedirler.
         cid: 0
   - verse: 13
     segments:
-      - text: >-
-          İyiler şüphesiz nimet içindedirler.
-        cid: 0
+      - text: İyiler
+        cid: 2
+      - text: şüphesiz
+        cid: 1
+      - text: nimet
+        cid: 4
+      - text: içindedirler.
+        cid: 3
   - verse: 14
     segments:
-      - text: >-
-          Allah'ın buyruğundan çıkanlar cehennemdedirler.
+      - text: Allah'ın buyruğundan
         cid: 0
+      - text: çıkanlar cehennemdedirler.
+        cid: 4
   - verse: 15
     segments:
-      - text: >-
-          Din Günü oraya girerler.
-        cid: 0
+      - text: Din Günü
+        cid: 2
+      - text: oraya girerler.
+        cid: 1
   - verse: 16
     segments:
-      - text: >-
-          Oradan bir daha ayrılamazlar.
-        cid: 0
+      - text: Oradan
+        cid: 2
+      - text: bir
+        cid: 3
+      - text: daha
+        cid: 4
+      - text: ayrılamazlar.
+        cid: 1
   - verse: 17
     segments:
-      - text: >-
-          Din gününün ne olduğunu sen nereden bilirsin?
-        cid: 0
+      - text: Din gününün
+        cid: 4
+      - text: ne olduğunu
+        cid: 3
+      - text: sen nereden bilirsin?
+        cid: 2
   - verse: 18
     segments:
-      - text: >-
-          Evet, din gününün ne olduğunu nereden bileceksin?
+      - text: Evet,
         cid: 0
+      - text: din gününün
+        cid: 5
+      - text: ne olduğunu nereden
+        cid: 4
+      - text: bileceksin?
+        cid: 3
   - verse: 19
     segments:
-      - text: >-
-          O gün, kimsenin kimseye hiçbir fayda sağlamayacağı bir gündür. O gün buyruk,
-          yalnız Allah'ındır.
-        cid: 0
+      - text: O gün,
+        cid: 8
+      - text: kimsenin
+        cid: 4
+      - text: kimseye hiçbir fayda sağlamayacağı
+        cid: 5
+      - text: bir gündür.
+        cid: 1
+      - text: O gün
+        cid: 8
+      - text: buyruk,
+        cid: 7
+      - text: yalnız Allah'ındır.
+        cid: 9

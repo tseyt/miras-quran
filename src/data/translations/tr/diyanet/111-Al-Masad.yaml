@@ -4,26 +4,49 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Ebu Leheb'in elleri kurusun; kurudu da!
-        cid: 0
+      - text: Ebu
+        cid: 3
+      - text: Leheb'in elleri
+        cid: 4
+      - text: kurusun;
+        cid: 1
+      - text: kurudu da!
+        cid: 5
   - verse: 2
     segments:
-      - text: >-
-          Malı ve kazandığı kendisine fayda vermedi.
+      - text: Malı
+        cid: 4
+      - text: ve
         cid: 0
+      - text: kazandığı
+        cid: 6
+      - text: kendisine
+        cid: 4
+      - text: fayda vermedi.
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          Alevli ateşe yaslanacaktır.
-        cid: 0
+      - text: Alevli
+        cid: 3
+      - text: ateşe yaslanacaktır.
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır.
+      - text: Karısı da,
+        cid: 1
+      - text: boynunda bir ip olduğu halde
         cid: 0
+      - text: ona
+        cid: 1
+      - text: odun taşıyacaktır.
+        cid: 3
   - verse: 5
     segments:
-      - text: >-
-          Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır.
+      - text: Karısı da,
+        cid: 0
+      - text: boynunda
+        cid: 1
+      - text: bir ip olduğu halde
+        cid: 3
+      - text: ona odun taşıyacaktır.
         cid: 0

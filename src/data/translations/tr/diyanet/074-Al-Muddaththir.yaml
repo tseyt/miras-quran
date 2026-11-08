@@ -4,311 +4,603 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Ey örtüye bürünen!
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: örtüye bürünen!
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Kalk da uyar.
-        cid: 0
+      - text: Kalk da
+        cid: 1
+      - text: uyar.
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          Rabbini yücelt.
-        cid: 0
+      - text: Rabbini yücelt.
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          Giydiklerini temiz tut.
-        cid: 0
+      - text: Giydiklerini temiz tut.
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Kötü şeyleri terke devam et.
-        cid: 0
+      - text: Kötü şeyleri terke devam
+        cid: 2
+      - text: et.
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Yaptığın iyiliği çok görerek başa kakma.
+      - text: Yaptığın
         cid: 0
+      - text: iyiliği çok görerek
+        cid: 3
+      - text: başa kakma.
+        cid: 2
   - verse: 7
     segments:
-      - text: >-
-          Rabbin için sabret.
-        cid: 0
+      - text: Rabbin için
+        cid: 1
+      - text: sabret.
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Sura üflendiği vakit, işte o gün, inkarcılara kolay olmayan zorlu bir gündür.
+      - text: Sura
+        cid: 3
+      - text: üflendiği vakit,
+        cid: 2
+      - text: işte o gün, inkarcılara kolay olmayan zorlu bir gündür.
         cid: 0
   - verse: 9
     segments:
-      - text: >-
-          Sura üflendiği vakit, işte o gün, inkarcılara kolay olmayan zorlu bir gündür.
+      - text: Sura üflendiği vakit,
         cid: 0
+      - text: işte
+        cid: 1
+      - text: o gün,
+        cid: 2
+      - text: inkarcılara kolay olmayan zorlu
+        cid: 0
+      - text: bir gündür.
+        cid: 3
   - verse: 10
     segments:
-      - text: >-
-          Sura üflendiği vakit, işte o gün, inkarcılara kolay olmayan zorlu bir gündür.
+      - text: Sura üflendiği vakit, işte o gün,
+        cid: 0
+      - text: inkarcılara
+        cid: 2
+      - text: kolay olmayan zorlu
+        cid: 4
+      - text: bir gündür.
         cid: 0
   - verse: 11
     segments:
+      - text: Tek olarak
+        cid: 4
+      - text: yaratıp
+        cid: 3
       - text: >-
-          Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim
-          ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.
+          kendisine bol bol mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça
+          yaydığım o kimseyi
         cid: 0
+      - text: Bana bırak.
+        cid: 1
   - verse: 12
     segments:
-      - text: >-
-          Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim
-          ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.
+      - text: Tek olarak yaratıp kendisine bol bol
+        cid: 0
+      - text: mal, çevresinde bulunan
+        cid: 3
+      - text: oğullar
+        cid: 0
+      - text: verdiğim
+        cid: 1
+      - text: ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.
         cid: 0
   - verse: 13
     segments:
-      - text: >-
-          Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim
-          ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.
+      - text: Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan
+        cid: 0
+      - text: oğullar
+        cid: 1
+      - text: verdiğim ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.
         cid: 0
   - verse: 14
     segments:
+      - text: Tek olarak yaratıp
+        cid: 0
+      - text: kendisine bol bol
+        cid: 2
       - text: >-
-          Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim
-          ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.
+          mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça yaydığım o kimseyi
+          Bana bırak.
         cid: 0
   - verse: 15
     segments:
-      - text: >-
-          Bir de verdiğim nimetten artırmamı umar;
+      - text: Bir de verdiğim
         cid: 0
+      - text: nimetten artırmamı umar;
+        cid: 3
   - verse: 16
     segments:
-      - text: >-
-          Hayır; hayır; çünkü o, Bizim ayetlerimize karşı son derece inatçıdır.
-        cid: 0
+      - text: Hayır; hayır;
+        cid: 1
+      - text: çünkü o,
+        cid: 2
+      - text: Bizim ayetlerimize karşı son derece
+        cid: 4
+      - text: inatçıdır.
+        cid: 5
   - verse: 17
     segments:
-      - text: >-
-          Onu sarp bir yokuşa sardıracağım.
-        cid: 0
+      - text: Onu sarp
+        cid: 1
+      - text: bir yokuşa
+        cid: 2
+      - text: sardıracağım.
+        cid: 1
   - verse: 18
     segments:
-      - text: >-
-          Çünkü o, düşündü, ölçtü biçti;
-        cid: 0
+      - text: Çünkü o,
+        cid: 1
+      - text: düşündü,
+        cid: 2
+      - text: ölçtü biçti;
+        cid: 3
   - verse: 19
     segments:
-      - text: >-
-          Canı çıkası, ne biçim ölçüp biçti!
-        cid: 0
+      - text: Canı çıkası, ne biçim ölçüp biçti!
+        cid: 3
   - verse: 20
     segments:
-      - text: >-
-          Canı çıkası; sonra yine ne biçim ölçüp biçti!
-        cid: 0
+      - text: Canı çıkası;
+        cid: 4
+      - text: sonra yine ne
+        cid: 1
+      - text: biçim ölçüp biçti!
+        cid: 4
   - verse: 21
     segments:
-      - text: >-
-          Sonra baktı;
-        cid: 0
+      - text: Sonra
+        cid: 1
+      - text: baktı;
+        cid: 2
   - verse: 22
     segments:
-      - text: >-
-          Sonra kaşlarını çattı, suratını aştı;
-        cid: 0
+      - text: Sonra
+        cid: 1
+      - text: kaşlarını çattı,
+        cid: 3
+      - text: suratını aştı;
+        cid: 2
   - verse: 23
     segments:
-      - text: >-
-          Sonra da sırt çevirip büyüklük tasladı.
-        cid: 0
+      - text: Sonra da sırt çevirip
+        cid: 1
+      - text: büyüklük tasladı.
+        cid: 3
   - verse: 24
     segments:
       - text: >-
-          "Bu sadece öğretilegelen bir sihirdir. Bu Kuran yalnızca bir insan sözüdür"
-          dedi.
+          "Bu
         cid: 0
+      - text: sadece öğretilegelen
+        cid: 6
+      - text: bir sihirdir.
+        cid: 5
+      - text: Bu Kuran yalnızca
+        cid: 3
+      - text: >-
+          bir insan sözüdür"
+        cid: 0
+      - text: dedi.
+        cid: 1
   - verse: 25
     segments:
       - text: >-
-          "Bu sadece öğretilegelen bir sihirdir. Bu Kuran yalnızca bir insan sözüdür"
-          dedi.
+          "Bu
+        cid: 2
+      - text: sadece öğretilegelen bir sihirdir. Bu Kuran yalnızca
+        cid: 0
+      - text: bir insan
+        cid: 5
+      - text: >-
+          sözüdür"
+        cid: 4
+      - text: dedi.
         cid: 0
   - verse: 26
     segments:
-      - text: >-
-          İşte bu adamı yakıcı bir ateşe yaslayacağım.
+      - text: İşte bu adamı
         cid: 0
+      - text: yakıcı bir ateşe yaslayacağım.
+        cid: 2
   - verse: 27
     segments:
-      - text: >-
-          Yakıcı ateşin ne olduğunu sen nerden bilirsin?
+      - text: Yakıcı
         cid: 0
+      - text: ateşin ne olduğunu
+        cid: 3
+      - text: sen nerden bilirsin?
+        cid: 2
   - verse: 28
     segments:
-      - text: >-
-          O, ne geri bırakır ne de azabdan vazgeçer.
-        cid: 0
+      - text: O, ne
+        cid: 3
+      - text: geri
+        cid: 1
+      - text: bırakır
+        cid: 4
+      - text: ne de azabdan vazgeçer.
+        cid: 3
   - verse: 29
     segments:
-      - text: >-
-          İnsanın derisini kavurur;
-        cid: 0
+      - text: İnsanın derisini
+        cid: 2
+      - text: kavurur;
+        cid: 1
   - verse: 30
     segments:
-      - text: >-
-          Orada ondokuz bekçi vardır.
-        cid: 0
+      - text: Orada ondokuz bekçi
+        cid: 2
+      - text: vardır.
+        cid: 1
   - verse: 31
     segments:
-      - text: >-
-          Cehennemin bekçilerini yalnız meleklerden kılmışızdır. Sayılarını bildirmekle
-          de, ancak inkar edenlerin denenmesini ve kendilerine kitap verilenlerin kesin
-          bilgi edinmesini ve inananların da imanlarının artmasını sağladık. Kendilerine
-          kitap verilenler ve inananlar şüpheye düşmesinler. Kalblerinde hastalık
-          bulunanlar ve inkarcılar: "Allah bu misalle neyi muradetti?" desinler. İşte
-          Allah, böylece, dilediğini saptırır, dilediğini de doğru yola eriştirir.
-          Rabbinin ordularını kendisinden başkası bilmez. Bu, insanoğluna bir öğütten
-          ibarettir.
+      - text: Cehennemin bekçilerini
+        cid: 4
+      - text: yalnız meleklerden kılmışızdır.
+        cid: 6
+      - text: Sayılarını
+        cid: 9
+      - text: bildirmekle de,
+        cid: 48
+      - text: ancak inkar edenlerin denenmesini
+        cid: 13
+      - text: ve
+        cid: 22
+      - text: kendilerine
+        cid: 16
+      - text: kitap
+        cid: 17
+      - text: verilenlerin kesin
+        cid: 16
+      - text: bilgi edinmesini
+        cid: 48
+      - text: ve
         cid: 0
+      - text: inananların da
+        cid: 20
+      - text: imanlarının
+        cid: 21
+      - text: artmasını sağladık.
+        cid: 18
+      - text: Kendilerine
+        cid: 16
+      - text: kitap
+        cid: 17
+      - text: verilenler
+        cid: 16
+      - text: ve inananlar şüpheye düşmesinler.
+        cid: 27
+      - text: Kalblerinde
+        cid: 31
+      - text: hastalık
+        cid: 32
+      - text: bulunanlar
+        cid: 30
+      - text: ve
+        cid: 0
+      - text: >-
+          inkarcılar:
+        cid: 13
+      - text: >-
+          "Allah
+        cid: 36
+      - text: bu
+        cid: 37
+      - text: >-
+          misalle neyi muradetti?"
+        cid: 38
+      - text: desinler.
+        cid: 28
+      - text: İşte Allah,
+        cid: 41
+      - text: böylece,
+        cid: 39
+      - text: dilediğini
+        cid: 43
+      - text: saptırır,
+        cid: 44
+      - text: dilediğini de
+        cid: 46
+      - text: doğru yola eriştirir.
+        cid: 44
+      - text: Rabbinin
+        cid: 50
+      - text: ordularını
+        cid: 49
+      - text: kendisinden
+        cid: 16
+      - text: başkası
+        cid: 51
+      - text: bilmez.
+        cid: 48
+      - text: Bu,
+        cid: 54
+      - text: insanoğluna bir öğütten ibarettir.
+        cid: 57
   - verse: 32
     segments:
+      - text: Hayır, hayır öğüt almazlar.
+        cid: 1
+      - text: Aya,
+        cid: 2
+      - text: dönüp gelen geceye, ağarmakta olan sabaha
+        cid: 0
+      - text: and olsun ki,
+        cid: 2
       - text: >-
-          Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and
-          olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu
-          uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
+          içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak
+          anlatılan cehennem büyük olaylardan biridir.
         cid: 0
   - verse: 33
     segments:
+      - text: Hayır, hayır öğüt almazlar. Aya,
+        cid: 0
+      - text: dönüp gelen
+        cid: 2
+      - text: geceye,
+        cid: 1
       - text: >-
-          Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and
-          olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu
-          uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
+          ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen
+          kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
         cid: 0
   - verse: 34
     segments:
+      - text: Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye,
+        cid: 0
+      - text: ağarmakta olan
+        cid: 2
+      - text: sabaha
+        cid: 1
       - text: >-
-          Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and
-          olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu
+          and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu
           uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
         cid: 0
   - verse: 35
     segments:
       - text: >-
-          Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and
-          olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu
-          uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
+          Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun
+          ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı
+          olarak anlatılan cehennem
         cid: 0
+      - text: büyük olaylardan
+        cid: 3
+      - text: biridir.
+        cid: 2
   - verse: 36
     segments:
       - text: >-
-          Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and
-          olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu
-          uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
+          Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun
+          ki,
+        cid: 0
+      - text: içinizden öne geçmek
+        cid: 2
+      - text: veya geri kalmak isteyen kimseye,
+        cid: 0
+      - text: insanoğlunu
+        cid: 2
+      - text: uyarıcı olarak anlatılan cehennem
+        cid: 1
+      - text: büyük olaylardan biridir.
         cid: 0
   - verse: 37
     segments:
       - text: >-
-          Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and
-          olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu
-          uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
+          Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun
+          ki, içinizden öne geçmek
+        cid: 0
+      - text: veya
+        cid: 6
+      - text: geri kalmak isteyen
+        cid: 7
+      - text: kimseye,
+        cid: 1
+      - text: insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
         cid: 0
   - verse: 38
     segments:
-      - text: >-
-          Herkes kazancına bağlı bir rehindir;
-        cid: 0
+      - text: Herkes
+        cid: 1
+      - text: kazancına bağlı
+        cid: 3
+      - text: bir rehindir;
+        cid: 5
   - verse: 39
     segments:
+      - text: Ancak,
+        cid: 0
+      - text: defteri sağdan verilenler böyle değildir;
+        cid: 3
       - text: >-
-          Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler.
-          Suçlulara: "Sizi bu yakıcı ateşe sürükleyen nedir?" diye sorarlar.
+          onlar cennettedirler. Suçlulara: "Sizi bu yakıcı ateşe sürükleyen nedir?" diye
+          sorarlar.
         cid: 0
   - verse: 40
     segments:
-      - text: >-
-          Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler.
-          Suçlulara: "Sizi bu yakıcı ateşe sürükleyen nedir?" diye sorarlar.
+      - text: Ancak, defteri sağdan verilenler böyle değildir;
         cid: 0
+      - text: onlar cennettedirler.
+        cid: 2
+      - text: >-
+          Suçlulara: "Sizi bu yakıcı ateşe sürükleyen nedir?" diye
+        cid: 0
+      - text: sorarlar.
+        cid: 3
   - verse: 41
     segments:
+      - text: Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler.
+        cid: 0
       - text: >-
-          Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler.
-          Suçlulara: "Sizi bu yakıcı ateşe sürükleyen nedir?" diye sorarlar.
+          Suçlulara:
+        cid: 2
+      - text: >-
+          "Sizi bu yakıcı ateşe sürükleyen nedir?" diye sorarlar.
         cid: 0
   - verse: 42
     segments:
       - text: >-
-          Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler.
-          Suçlulara: "Sizi bu yakıcı ateşe sürükleyen nedir?" diye sorarlar.
+          Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler. Suçlulara:
+        cid: 0
+      - text: >-
+          "Sizi
+        cid: 2
+      - text: bu yakıcı ateşe
+        cid: 4
+      - text: sürükleyen
+        cid: 2
+      - text: nedir?" diye
+        cid: 1
+      - text: sorarlar.
         cid: 0
   - verse: 43
     segments:
-      - text: >-
-          Onlar derler ki: "Namaz kılanlardan değildik."
+      - text: Onlar derler
         cid: 0
+      - text: >-
+          ki: "Namaz kılanlardan değildik."
+        cid: 5
   - verse: 44
     segments:
       - text: >-
-          "Düşkün kimseyi doyurmuyorduk."
-        cid: 0
+          "Düşkün
+        cid: 2
+      - text: kimseyi
+        cid: 3
+      - text: >-
+          doyurmuyorduk."
+        cid: 1
   - verse: 45
     segments:
       - text: >-
-          "Batıla dalanlarla biz de dalardık."
-        cid: 0
+          "Batıla dalanlarla
+        cid: 4
+      - text: biz de
+        cid: 1
+      - text: >-
+          dalardık."
+        cid: 2
   - verse: 46
     segments:
       - text: >-
-          "Ceza gününü yalanlardık."
-        cid: 0
+          "Ceza
+        cid: 4
+      - text: gününü
+        cid: 3
+      - text: >-
+          yalanlardık."
+        cid: 2
   - verse: 47
     segments:
       - text: >-
-          "Ölüm bize o haldeyken geldi."
-        cid: 0
+          "Ölüm
+        cid: 3
+      - text: >-
+          bize o haldeyken geldi."
+        cid: 2
   - verse: 48
     segments:
-      - text: >-
-          Artık onlara, şefaatçilerin şefaati fayda vermez.
-        cid: 0
+      - text: Artık
+        cid: 1
+      - text: onlara,
+        cid: 2
+      - text: şefaatçilerin
+        cid: 4
+      - text: şefaati
+        cid: 3
+      - text: fayda vermez.
+        cid: 2
   - verse: 49
     segments:
-      - text: >-
-          Öyleyken, bunlara ne oluyor ki öğütten yüz çeviriyorlar?
+      - text: Öyleyken,
         cid: 0
+      - text: bunlara ne oluyor ki
+        cid: 1
+      - text: öğütten
+        cid: 4
+      - text: yüz çeviriyorlar?
+        cid: 5
   - verse: 50
     segments:
-      - text: >-
-          Aslandan ürkerek kaçan yabani merkeplere benzerler.
+      - text: Aslandan ürkerek
         cid: 0
+      - text: kaçan
+        cid: 3
+      - text: yabani merkeplere benzerler.
+        cid: 2
   - verse: 51
     segments:
-      - text: >-
-          Aslandan ürkerek kaçan yabani merkeplere benzerler.
+      - text: Aslandan
+        cid: 2
+      - text: ürkerek
+        cid: 1
+      - text: kaçan yabani merkeplere benzerler.
         cid: 0
   - verse: 52
     segments:
-      - text: >-
-          Hayır; her biri önüne açılıvermiş sahifeler verilmesini ister.
-        cid: 0
+      - text: Hayır;
+        cid: 1
+      - text: her biri önüne
+        cid: 3
+      - text: açılıvermiş
+        cid: 9
+      - text: sahifeler
+        cid: 8
+      - text: verilmesini
+        cid: 7
+      - text: ister.
+        cid: 2
   - verse: 53
     segments:
-      - text: >-
-          Hayır; daha doğrusu ahiretten korkmazlar.
+      - text: Hayır;
+        cid: 1
+      - text: daha
         cid: 0
+      - text: doğrusu ahiretten
+        cid: 5
+      - text: korkmazlar.
+        cid: 4
   - verse: 54
     segments:
-      - text: >-
-          Hayır; şüphesiz bu Kuran bir öğüttür.
+      - text: Hayır;
+        cid: 1
+      - text: şüphesiz bu
         cid: 0
+      - text: Kuran bir öğüttür.
+        cid: 3
   - verse: 55
     segments:
-      - text: >-
-          Dileyen kimse öğüt alır.
-        cid: 0
+      - text: Dileyen
+        cid: 2
+      - text: kimse
+        cid: 1
+      - text: öğüt alır.
+        cid: 3
   - verse: 56
     segments:
-      - text: >-
-          Allah dilemeksizin öğüt alamazlar. O, kendisinden korkulmaya daha layıktır ve
-          bağışlamaya daha ehildir.
+      - text: Allah
+        cid: 6
+      - text: dilemeksizin
+        cid: 4
+      - text: öğüt
+        cid: 2
+      - text: alamazlar.
+        cid: 6
+      - text: O, kendisinden korkulmaya
+        cid: 8
+      - text: daha layıktır
+        cid: 11
+      - text: ve
         cid: 0
+      - text: bağışlamaya daha ehildir.
+        cid: 11

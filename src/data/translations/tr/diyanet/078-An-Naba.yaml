@@ -4,217 +4,408 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Neyi soruşturuyorlar?
-        cid: 0
+      - text: Neyi soruşturuyorlar?
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini
-          mi?
+      - text: Üzerinde anlaşmazlığa düştükleri,
         cid: 0
+      - text: büyük bir olay
+        cid: 3
+      - text: olan tekrar
+        cid: 0
+      - text: dirilme haberini mi?
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini
-          mi?
+      - text: Üzerinde
+        cid: 0
+      - text: anlaşmazlığa düştükleri,
+        cid: 4
+      - text: büyük bir olay olan tekrar dirilme haberini mi?
         cid: 0
   - verse: 4
     segments:
-      - text: >-
-          Hayır; şüphesiz görüp bileceklerdir.
+      - text: Hayır;
+        cid: 1
+      - text: şüphesiz
         cid: 0
+      - text: görüp bileceklerdir.
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Yine hayır; elbette görüp bileceklerdir.
+      - text: Yine hayır;
+        cid: 2
+      - text: elbette
         cid: 0
+      - text: görüp bileceklerdir.
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          Biz yeryüzünü bir beşik, dağları da onun için birer direk kılmadık mı?
+      - text: Biz yeryüzünü
+        cid: 2
+      - text: bir beşik,
+        cid: 4
+      - text: dağları da onun için birer direk kılmadık mı?
         cid: 0
   - verse: 7
     segments:
-      - text: >-
-          Biz yeryüzünü bir beşik, dağları da onun için birer direk kılmadık mı?
+      - text: Biz yeryüzünü bir beşik,
         cid: 0
+      - text: dağları da onun için
+        cid: 1
+      - text: birer direk kılmadık mı?
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Sizi çift çift yarattık;
-        cid: 0
+      - text: Sizi
+        cid: 1
+      - text: çift çift
+        cid: 2
+      - text: yarattık;
+        cid: 1
   - verse: 9
     segments:
-      - text: >-
-          Uykunuzu dinlenme vakti kıldık;
-        cid: 0
+      - text: Uykunuzu
+        cid: 2
+      - text: dinlenme vakti kıldık;
+        cid: 3
   - verse: 10
     segments:
-      - text: >-
-          Geceyi bir örtü yaptık;
-        cid: 0
+      - text: Geceyi
+        cid: 2
+      - text: bir örtü
+        cid: 3
+      - text: yaptık;
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Gündüzü geçimi sağlama vakti kıldık;
-        cid: 0
+      - text: Gündüzü
+        cid: 2
+      - text: geçimi sağlama vakti kıldık;
+        cid: 3
   - verse: 12
     segments:
-      - text: >-
-          Üstünüze yedi kat sağlam gök bina ettik;
-        cid: 0
+      - text: Üstünüze
+        cid: 2
+      - text: yedi kat
+        cid: 3
+      - text: sağlam
+        cid: 4
+      - text: gök
+        cid: 3
+      - text: bina ettik;
+        cid: 1
   - verse: 13
     segments:
-      - text: >-
-          Parlak ışık veren güneşi varettik;
-        cid: 0
+      - text: Parlak
+        cid: 3
+      - text: ışık veren güneşi
+        cid: 2
+      - text: varettik;
+        cid: 1
   - verse: 14
     segments:
       - text: >-
           Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış
-          bulutlardan bol yağmur yağdırdık.
         cid: 0
+      - text: bulutlardan bol yağmur yağdırdık.
+        cid: 3
   - verse: 15
     segments:
+      - text: Taneler, bitkiler, ağaçları
+        cid: 4
       - text: >-
-          Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış
-          bulutlardan bol yağmur yağdırdık.
+          sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur
+          yağdırdık.
         cid: 0
   - verse: 16
     segments:
-      - text: >-
-          Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış
-          bulutlardan bol yağmur yağdırdık.
+      - text: Taneler, bitkiler, ağaçları
+        cid: 0
+      - text: sarmaş dolaş
+        cid: 2
+      - text: bahçeler yetiştirmek için, yoğunlaşmış
+        cid: 1
+      - text: bulutlardan bol yağmur yağdırdık.
         cid: 0
   - verse: 17
     segments:
-      - text: >-
-          Doğrusu, hüküm gününün vakti elbette tesbit edilmiştir.
-        cid: 0
+      - text: Doğrusu, hüküm
+        cid: 3
+      - text: gününün
+        cid: 2
+      - text: vakti elbette tesbit edilmiştir.
+        cid: 4
   - verse: 18
     segments:
-      - text: >-
-          Sura üfürüldüğü gün hepiniz bölük bölük gelirsiniz.
-        cid: 0
+      - text: Sura üfürüldüğü
+        cid: 4
+      - text: gün hepiniz
+        cid: 1
+      - text: bölük bölük
+        cid: 6
+      - text: gelirsiniz.
+        cid: 5
   - verse: 19
     segments:
-      - text: >-
-          Gökler kapı kapı açılacaktır.
-        cid: 0
+      - text: Gökler
+        cid: 2
+      - text: kapı kapı
+        cid: 4
+      - text: açılacaktır.
+        cid: 1
   - verse: 20
     segments:
-      - text: >-
-          Dağlar yürütülüp serap olacaktır.
-        cid: 0
+      - text: Dağlar
+        cid: 2
+      - text: yürütülüp
+        cid: 1
+      - text: serap olacaktır.
+        cid: 4
   - verse: 21
     segments:
-      - text: >-
-          Cehennem, yalnız azgınları bekleyen yerdir. Dönecekleri yer orasıdır.
+      - text: Cehennem,
+        cid: 2
+      - text: yalnız azgınları bekleyen yerdir.
         cid: 0
+      - text: Dönecekleri yer orasıdır.
+        cid: 4
   - verse: 22
     segments:
-      - text: >-
-          Cehennem, yalnız azgınları bekleyen yerdir. Dönecekleri yer orasıdır.
+      - text: Cehennem,
+        cid: 0
+      - text: yalnız azgınları bekleyen
+        cid: 1
+      - text: yerdir.
+        cid: 2
+      - text: Dönecekleri yer orasıdır.
         cid: 0
   - verse: 23
     segments:
-      - text: >-
-          Orada çağlar boyunca (nice devirler) kalacaklardır.
+      - text: Orada
+        cid: 2
+      - text: çağlar boyunca
+        cid: 3
+      - text: (nice devirler)
         cid: 0
+      - text: kalacaklardır.
+        cid: 1
   - verse: 24
     segments:
-      - text: >-
-          Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve
-          irin....
+      - text: Orada
+        cid: 3
+      - text: ne
+        cid: 5
+      - text: serinlik
+        cid: 4
+      - text: ne de
+        cid: 5
+      - text: içilecek bir şey tatmazlar;
+        cid: 6
+      - text: sadece kaynar su ve irin....
         cid: 0
   - verse: 25
     segments:
-      - text: >-
-          Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve
-          irin....
+      - text: Orada ne serinlik ne de içilecek bir şey tatmazlar;
         cid: 0
+      - text: sadece kaynar su
+        cid: 2
+      - text: ve irin....
+        cid: 3
   - verse: 26
     segments:
-      - text: >-
-          Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve
-          irin....
+      - text: Orada ne serinlik ne de içilecek bir şey tatmazlar;
         cid: 0
+      - text: sadece kaynar su
+        cid: 1
+      - text: ve irin....
+        cid: 2
   - verse: 27
     segments:
-      - text: >-
-          Çünkü onlar, hesaba çekileceklerini sanmazlardı.
-        cid: 0
+      - text: Çünkü onlar,
+        cid: 1
+      - text: hesaba çekileceklerini sanmazlardı.
+        cid: 5
   - verse: 28
     segments:
-      - text: >-
-          Ayetlerimizi hep yalan sayıp dururlardı.
-        cid: 0
+      - text: Ayetlerimizi
+        cid: 2
+      - text: hep yalan sayıp dururlardı.
+        cid: 1
   - verse: 29
     segments:
-      - text: >-
-          Biz de herşeyi yazıp saymışızdır.
+      - text: Biz
         cid: 0
+      - text: de herşeyi
+        cid: 2
+      - text: yazıp
+        cid: 4
+      - text: saymışızdır.
+        cid: 3
   - verse: 30
     segments:
-      - text: >-
-          Şöyle deriz: "Artık tadınız, bundan böyle size azabdan başka bir şey
-          artırmayız."
+      - text: Şöyle
         cid: 0
+      - text: >-
+          deriz: "Artık
+        cid: 2
+      - text: tadınız, bundan böyle
+        cid: 1
+      - text: size
+        cid: 3
+      - text: azabdan
+        cid: 5
+      - text: başka bir şey
+        cid: 4
+      - text: >-
+          artırmayız."
+        cid: 3
   - verse: 31
     segments:
-      - text: >-
-          Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar,
-          yaşıtlar ve dolu kadehler vardır.
+      - text: Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş,
+        cid: 2
+      - text: bahçeler, bağlar, yaşıtlar ve dolu kadehler
         cid: 0
+      - text: vardır.
+        cid: 2
   - verse: 32
     segments:
-      - text: >-
-          Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar,
-          yaşıtlar ve dolu kadehler vardır.
+      - text: Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş,
+        cid: 0
+      - text: bahçeler,
+        cid: 1
+      - text: bağlar,
+        cid: 2
+      - text: yaşıtlar ve dolu kadehler vardır.
         cid: 0
   - verse: 33
     segments:
-      - text: >-
-          Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar,
-          yaşıtlar ve dolu kadehler vardır.
+      - text: Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar,
+        cid: 0
+      - text: yaşıtlar
+        cid: 2
+      - text: ve dolu kadehler vardır.
         cid: 0
   - verse: 34
     segments:
       - text: >-
-          Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar,
-          yaşıtlar ve dolu kadehler vardır.
+          Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve
+        cid: 0
+      - text: dolu
+        cid: 2
+      - text: kadehler
+        cid: 1
+      - text: vardır.
         cid: 0
   - verse: 35
     segments:
-      - text: >-
-          Orada boş ve yalan söz işitmezler.
-        cid: 0
+      - text: Orada
+        cid: 3
+      - text: boş
+        cid: 4
+      - text: ve
+        cid: 5
+      - text: yalan
+        cid: 6
+      - text: söz
+        cid: 4
+      - text: işitmezler.
+        cid: 1
   - verse: 36
     segments:
-      - text: >-
-          Bunlar Rabbinin katından, hesabları karşılığı verilenlerdir.
-        cid: 0
+      - text: Bunlar Rabbinin katından,
+        cid: 3
+      - text: hesabları
+        cid: 5
+      - text: karşılığı verilenlerdir.
+        cid: 1
   - verse: 37
     segments:
-      - text: >-
-          O, göklerin, yerin ve ikisi arasında olanların Rabbidir. O, önünde kimsenin
-          konuşmayacağı Rahman olan Allah'tır.
+      - text: O, göklerin,
+        cid: 2
+      - text: yerin
+        cid: 3
+      - text: ve
         cid: 0
+      - text: ikisi arasında olanların
+        cid: 5
+      - text: Rabbidir.
+        cid: 1
+      - text: O, önünde kimsenin
+        cid: 9
+      - text: konuşmayacağı
+        cid: 10
+      - text: Rahman olan
+        cid: 6
+      - text: Allah'tır.
+        cid: 8
   - verse: 38
     segments:
-      - text: >-
-          Cebrail ve meleklerin dizi dizi durdukları gün, Rahman olan Allah'ın izni
-          olmadan kimse konuşamayacaktır. Konuştuğu zaman da doğruyu söyleyecektir.
+      - text: Cebrail
         cid: 0
+      - text: ve meleklerin dizi dizi
+        cid: 4
+      - text: durdukları
+        cid: 2
+      - text: gün,
+        cid: 1
+      - text: Rahman olan
+        cid: 12
+      - text: Allah'ın izni olmadan
+        cid: 10
+      - text: kimse
+        cid: 9
+      - text: konuşamayacaktır. Konuştuğu zaman da
+        cid: 6
+      - text: doğruyu
+        cid: 14
+      - text: söyleyecektir.
+        cid: 13
   - verse: 39
     segments:
-      - text: >-
-          İşte gerçek gün budur. Dileyen kimse, Rabbine götürecek bir yol benimser.
-        cid: 0
+      - text: İşte
+        cid: 1
+      - text: gerçek
+        cid: 3
+      - text: gün budur.
+        cid: 2
+      - text: Dileyen
+        cid: 5
+      - text: kimse,
+        cid: 4
+      - text: Rabbine götürecek
+        cid: 8
+      - text: bir yol benimser.
+        cid: 9
   - verse: 40
     segments:
-      - text: >-
-          Sizi, yakın gelecekteki bir azabla uyardık; o gün kişi elleriyle sunduğuna
-          bakar ve inkarcı da: "Keşke toprak olaydım" der.
+      - text: Sizi,
+        cid: 2
+      - text: yakın gelecekteki
+        cid: 4
+      - text: bir azabla
+        cid: 3
+      - text: uyardık;
+        cid: 2
+      - text: o gün
+        cid: 5
+      - text: kişi
+        cid: 7
+      - text: elleriyle sunduğuna
+        cid: 10
+      - text: bakar
+        cid: 6
+      - text: ve
         cid: 0
+      - text: >-
+          inkarcı da:
+        cid: 12
+      - text: >-
+          "Keşke
+        cid: 13
+      - text: >-
+          toprak olaydım"
+        cid: 15
+      - text: der.
+        cid: 11

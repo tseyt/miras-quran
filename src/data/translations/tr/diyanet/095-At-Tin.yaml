@@ -4,42 +4,84 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          İncir ve zeytine and olsun,
-        cid: 0
+      - text: İncir
+        cid: 1
+      - text: ve zeytine
+        cid: 2
+      - text: and olsun,
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          And olsun Sina dağına,
+      - text: And
         cid: 0
+      - text: olsun Sina
+        cid: 2
+      - text: dağına,
+        cid: 1
   - verse: 3
     segments:
+      - text: And olsun
+        cid: 2
+      - text: bu
+        cid: 1
+      - text: güvenli Mekke
+        cid: 3
       - text: >-
-          And olsun bu güvenli Mekke şehrine ki:
-        cid: 0
+          şehrine ki:
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Biz insanı en güzel şekilde yarattık,
-        cid: 0
+      - text: Biz
+        cid: 2
+      - text: insanı
+        cid: 3
+      - text: en güzel şekilde
+        cid: 4
+      - text: yarattık,
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Sonra onu aşağıların en aşağısı kıldık.
-        cid: 0
+      - text: Sonra
+        cid: 1
+      - text: onu
+        cid: 2
+      - text: aşağıların en aşağısı kıldık.
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          Yalnız, inanıp yararlı iş işleyenler bunun dışındadır. Onlara kesintisiz ecir
-          vardır.
-        cid: 0
+      - text: Yalnız,
+        cid: 1
+      - text: inanıp
+        cid: 3
+      - text: yararlı iş
+        cid: 4
+      - text: işleyenler bunun dışındadır.
+        cid: 5
+      - text: Onlara
+        cid: 6
+      - text: kesintisiz ecir
+        cid: 9
+      - text: vardır.
+        cid: 6
   - verse: 7
     segments:
-      - text: >-
-          Öyleyken, sana dini yalan saydırtan nedir?
-        cid: 0
+      - text: Öyleyken, sana
+        cid: 2
+      - text: dini
+        cid: 4
+      - text: yalan saydırtan
+        cid: 2
+      - text: nedir?
+        cid: 1
   - verse: 8
     segments:
-      - text: >-
-          Allah, hükmedenlerin en iyi hükmedeni değil midir?
-        cid: 0
+      - text: Allah,
+        cid: 2
+      - text: hükmedenlerin
+        cid: 4
+      - text: en iyi
+        cid: 3
+      - text: hükmedeni
+        cid: 4
+      - text: değil midir?
+        cid: 1

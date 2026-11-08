@@ -4,127 +4,249 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          İçinde burçları bulunan göğe and olsun;
-        cid: 0
+      - text: İçinde burçları bulunan
+        cid: 3
+      - text: göğe and olsun;
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Söz verilen kıyamet gününe and olsun;
+      - text: Söz verilen
         cid: 0
+      - text: kıyamet gününe and olsun;
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Şahitlik edene ve edilene and olsun ki, insanlar öldükten sonra
-          diriltileceklerdir.
-        cid: 0
+      - text: Şahitlik edene
+        cid: 1
+      - text: ve edilene
+        cid: 2
+      - text: and olsun ki, insanlar öldükten sonra diriltileceklerdir.
+        cid: 1
   - verse: 4
     segments:
+      - text: Hazırladıkları hendekleri,
+        cid: 3
       - text: >-
-          Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde
-          oturup, inanmış kimselere dinlerinden dönmeleri için yaptıkları işkenceleri
-          seyredenler kahrolmuştur!
+          tutuşturulmuş ateşle doldurarak onun çevresinde oturup, inanmış kimselere
+          dinlerinden dönmeleri için yaptıkları işkenceleri seyredenler
         cid: 0
+      - text: kahrolmuştur!
+        cid: 1
   - verse: 5
     segments:
+      - text: Hazırladıkları hendekleri,
+        cid: 0
+      - text: tutuşturulmuş
+        cid: 3
+      - text: ateşle
+        cid: 1
+      - text: doldurarak onun çevresinde
+        cid: 2
       - text: >-
-          Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde
           oturup, inanmış kimselere dinlerinden dönmeleri için yaptıkları işkenceleri
           seyredenler kahrolmuştur!
         cid: 0
   - verse: 6
     segments:
-      - text: >-
-          Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde
-          oturup, inanmış kimselere dinlerinden dönmeleri için yaptıkları işkenceleri
-          seyredenler kahrolmuştur!
+      - text: Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde
+        cid: 0
+      - text: oturup, inanmış kimselere dinlerinden dönmeleri için
+        cid: 4
+      - text: yaptıkları işkenceleri seyredenler kahrolmuştur!
         cid: 0
   - verse: 7
     segments:
       - text: >-
-          Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde
-          oturup, inanmış kimselere dinlerinden dönmeleri için yaptıkları işkenceleri
-          seyredenler kahrolmuştur!
+          Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde oturup,
+          inanmış kimselere dinlerinden dönmeleri için
+        cid: 0
+      - text: yaptıkları işkenceleri
+        cid: 4
+      - text: seyredenler
+        cid: 6
+      - text: kahrolmuştur!
         cid: 0
   - verse: 8
     segments:
-      - text: >-
-          Bu inkarcıların, inananlara kızmaları; onların sadece, göklerin ve yerin
-          hükümranlığı kendisinin bulunan ve övülmeğe layık ve güçlü olan Allah'a inanmış
-          olmalarındandı. Allah her şeye şahiddir.
+      - text: Bu
+        cid: 0
+      - text: inkarcıların, inananlara kızmaları;
+        cid: 6
+      - text: onların sadece, göklerin ve yerin hükümranlığı kendisinin bulunan ve
+        cid: 0
+      - text: övülmeğe layık
+        cid: 9
+      - text: ve
+        cid: 0
+      - text: güçlü olan
+        cid: 8
+      - text: Allah'a
+        cid: 7
+      - text: inanmış olmalarındandı.
+        cid: 6
+      - text: Allah her şeye şahiddir.
         cid: 0
   - verse: 9
     segments:
-      - text: >-
-          Bu inkarcıların, inananlara kızmaları; onların sadece, göklerin ve yerin
-          hükümranlığı kendisinin bulunan ve övülmeğe layık ve güçlü olan Allah'a inanmış
-          olmalarındandı. Allah her şeye şahiddir.
+      - text: Bu inkarcıların, inananlara kızmaları;
         cid: 0
+      - text: onların sadece, göklerin
+        cid: 4
+      - text: ve yerin
+        cid: 5
+      - text: hükümranlığı kendisinin bulunan
+        cid: 3
+      - text: ve övülmeğe layık ve güçlü olan Allah'a inanmış olmalarındandı.
+        cid: 0
+      - text: Allah
+        cid: 6
+      - text: her
+        cid: 8
+      - text: şeye
+        cid: 9
+      - text: şahiddir.
+        cid: 10
   - verse: 10
     segments:
-      - text: >-
-          Ama inanmış erkek ve kadınlara işkence ederek onları dinlerinden çevirmeğe
-          uğraşanlar, eğer tevbe etmezlerse, onlara cehennem azabı vardır. Yakıcı azap da
-          onlaradır.
-        cid: 0
+      - text: Ama inanmış
+        cid: 5
+      - text: erkek
+        cid: 4
+      - text: ve
+        cid: 6
+      - text: kadınlara
+        cid: 5
+      - text: işkence
+        cid: 3
+      - text: ederek
+        cid: 8
+      - text: onları dinlerinden
+        cid: 9
+      - text: çevirmeğe uğraşanlar, eğer
+        cid: 8
+      - text: tevbe
+        cid: 7
+      - text: etmezlerse,
+        cid: 8
+      - text: onlara
+        cid: 9
+      - text: cehennem
+        cid: 11
+      - text: azabı
+        cid: 10
+      - text: vardır.
+        cid: 12
+      - text: Yakıcı
+        cid: 14
+      - text: azap da
+        cid: 13
+      - text: onlaradır.
+        cid: 9
   - verse: 11
     segments:
-      - text: >-
-          Şüphesiz inanıp yararlı işler işleyenlere, onlara, içlerinden ırmaklar akan
-          cennetler vardır. Bu, büyük kurtuluştur.
-        cid: 0
+      - text: Şüphesiz
+        cid: 1
+      - text: inanıp
+        cid: 3
+      - text: yararlı
+        cid: 4
+      - text: işler işleyenlere,
+        cid: 5
+      - text: onlara,
+        cid: 6
+      - text: içlerinden
+        cid: 10
+      - text: ırmaklar
+        cid: 11
+      - text: akan
+        cid: 8
+      - text: cennetler
+        cid: 7
+      - text: vardır.
+        cid: 6
+      - text: Bu, büyük
+        cid: 14
+      - text: kurtuluştur.
+        cid: 13
   - verse: 12
     segments:
-      - text: >-
-          Doğrusu Rabbinin yakalaması amansızdır.
-        cid: 0
+      - text: Doğrusu Rabbinin yakalaması amansızdır.
+        cid: 3
   - verse: 13
     segments:
-      - text: >-
-          Önce yaratıp sonra bunu tekrar eden O'dur.
+      - text: Önce
         cid: 0
+      - text: yaratıp sonra bunu tekrar eden
+        cid: 4
+      - text: O'dur.
+        cid: 2
   - verse: 14
     segments:
-      - text: >-
-          Yüce arşın sahibi, çok seven, bağışlayan O'dur.
+      - text: Yüce arşın sahibi,
         cid: 0
+      - text: çok seven,
+        cid: 3
+      - text: bağışlayan O'dur.
+        cid: 2
   - verse: 15
     segments:
-      - text: >-
-          Yüce arşın sahibi, çok seven, bağışlayan O'dur.
+      - text: Yüce
+        cid: 3
+      - text: arşın
+        cid: 2
+      - text: sahibi,
+        cid: 1
+      - text: çok seven, bağışlayan O'dur.
         cid: 0
   - verse: 16
     segments:
-      - text: >-
-          Her dilediğini mutlaka yapandır.
-        cid: 0
+      - text: Her dilediğini mutlaka yapandır.
+        cid: 1
   - verse: 17
     segments:
-      - text: >-
-          Firavun ve Semud ordularının haberi sana geldi mi?
+      - text: Firavun ve Semud
         cid: 0
+      - text: ordularının
+        cid: 4
+      - text: haberi
+        cid: 3
+      - text: sana geldi mi?
+        cid: 1
   - verse: 18
     segments:
-      - text: >-
-          Firavun ve Semud ordularının haberi sana geldi mi?
+      - text: Firavun
+        cid: 1
+      - text: ve Semud
+        cid: 2
+      - text: ordularının haberi sana geldi mi?
         cid: 0
   - verse: 19
     segments:
-      - text: >-
-          Doğrusu inkar edenler, hep yalanlayagelmişlerdir.
-        cid: 0
+      - text: Doğrusu
+        cid: 1
+      - text: inkar edenler,
+        cid: 3
+      - text: hep yalanlayagelmişlerdir.
+        cid: 5
   - verse: 20
     segments:
-      - text: >-
-          Oysa Allah onları ardlarından çevirmiştir.
-        cid: 0
+      - text: Oysa Allah
+        cid: 1
+      - text: onları ardlarından
+        cid: 2
+      - text: çevirmiştir.
+        cid: 3
   - verse: 21
     segments:
-      - text: >-
-          Doğrusu sana vahyedilen bu Kitap, Levhi Mahfuz'da bulunan şanlı bir Kuran'dır.
+      - text: Doğrusu sana vahyedilen bu Kitap, Levhi Mahfuz'da bulunan şanlı
         cid: 0
+      - text: bir Kuran'dır.
+        cid: 3
   - verse: 22
     segments:
-      - text: >-
-          Doğrusu sana vahyedilen bu Kitap, Levhi Mahfuz'da bulunan şanlı bir Kuran'dır.
+      - text: Doğrusu sana vahyedilen bu
+        cid: 0
+      - text: Kitap, Levhi Mahfuz'da bulunan şanlı
+        cid: 1
+      - text: bir Kuran'dır.
         cid: 0

@@ -4,351 +4,809 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Ha, Mim.
-        cid: 0
+      - text: Ha, Mim.
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Apaçık olan Kitap'a and olsun ki, Biz onu, kutlu bir gecede indirdik. Doğrusu
-          Biz, insanları uyarmaktayız.
+      - text: Apaçık olan
+        cid: 2
+      - text: Kitap'a and olsun ki,
+        cid: 1
+      - text: Biz onu, kutlu bir gecede indirdik. Doğrusu Biz, insanları uyarmaktayız.
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          Apaçık olan Kitap'a and olsun ki, Biz onu, kutlu bir gecede indirdik. Doğrusu
-          Biz, insanları uyarmaktayız.
+      - text: Apaçık olan Kitap'a and olsun ki,
         cid: 0
+      - text: Biz
+        cid: 1
+      - text: onu, kutlu
+        cid: 2
+      - text: bir gecede
+        cid: 3
+      - text: indirdik.
+        cid: 2
+      - text: Doğrusu
+        cid: 6
+      - text: Biz,
+        cid: 7
+      - text: insanları
+        cid: 5
+      - text: uyarmaktayız.
+        cid: 8
   - verse: 4
     segments:
+      - text: Katımızdan bir buyrukla,
+        cid: 0
+      - text: her
+        cid: 3
+      - text: hikmetli işe
+        cid: 5
+      - text: o gecede hükmedilir.
+        cid: 1
       - text: >-
-          Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir. Doğrusu Biz
-          öteden beri peygamberler göndermekteyiz. Eğer kesin olarak inanırsanız bilin ki,
-          bu senin Rabbinden, göklerin, yerin ve ikisi arasında bulunanların Rabbinden bir
-          rahmettir. O, işitendir, bilendir.
+          Doğrusu Biz öteden beri peygamberler göndermekteyiz. Eğer kesin olarak inanırsanız
+          bilin ki, bu senin Rabbinden, göklerin, yerin ve ikisi arasında bulunanların
+          Rabbinden bir rahmettir. O, işitendir, bilendir.
         cid: 0
   - verse: 5
     segments:
+      - text: Katımızdan bir buyrukla,
+        cid: 2
+      - text: her hikmetli işe o gecede hükmedilir. Doğrusu
+        cid: 0
+      - text: Biz öteden beri
+        cid: 4
+      - text: peygamberler göndermekteyiz.
+        cid: 6
       - text: >-
-          Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir. Doğrusu Biz
-          öteden beri peygamberler göndermekteyiz. Eğer kesin olarak inanırsanız bilin ki,
-          bu senin Rabbinden, göklerin, yerin ve ikisi arasında bulunanların Rabbinden bir
-          rahmettir. O, işitendir, bilendir.
+          Eğer kesin olarak inanırsanız bilin ki, bu senin Rabbinden, göklerin, yerin ve ikisi
+          arasında bulunanların Rabbinden bir rahmettir. O, işitendir, bilendir.
         cid: 0
   - verse: 6
     segments:
-      - text: >-
-          Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir. Doğrusu Biz
-          öteden beri peygamberler göndermekteyiz. Eğer kesin olarak inanırsanız bilin ki,
-          bu senin Rabbinden, göklerin, yerin ve ikisi arasında bulunanların Rabbinden bir
-          rahmettir. O, işitendir, bilendir.
+      - text: Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir.
         cid: 0
+      - text: Doğrusu
+        cid: 4
+      - text: >-
+          Biz öteden beri peygamberler göndermekteyiz. Eğer kesin olarak inanırsanız bilin ki,
+        cid: 0
+      - text: bu senin Rabbinden,
+        cid: 3
+      - text: göklerin, yerin ve ikisi arasında bulunanların
+        cid: 0
+      - text: Rabbinden
+        cid: 3
+      - text: bir rahmettir.
+        cid: 1
+      - text: O,
+        cid: 5
+      - text: işitendir,
+        cid: 6
+      - text: bilendir.
+        cid: 7
   - verse: 7
     segments:
       - text: >-
-          Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir. Doğrusu Biz
-          öteden beri peygamberler göndermekteyiz. Eğer kesin olarak inanırsanız bilin ki,
-          bu senin Rabbinden, göklerin, yerin ve ikisi arasında bulunanların Rabbinden bir
-          rahmettir. O, işitendir, bilendir.
+          Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir. Doğrusu Biz öteden
+          beri peygamberler göndermekteyiz.
+        cid: 0
+      - text: Eğer
+        cid: 6
+      - text: kesin olarak inanırsanız bilin ki,
+        cid: 8
+      - text: bu senin Rabbinden,
+        cid: 0
+      - text: göklerin,
+        cid: 2
+      - text: yerin
+        cid: 3
+      - text: ve
+        cid: 0
+      - text: ikisi arasında
+        cid: 5
+      - text: bulunanların
+        cid: 4
+      - text: Rabbinden bir rahmettir. O, işitendir, bilendir.
         cid: 0
   - verse: 8
     segments:
-      - text: >-
-          O'ndan başka tanrı yoktur; diriltir ve öldürür. Sizin de Rabbiniz önceki
-          atalarınızın da Rabbidir.
+      - text: O'ndan
+        cid: 4
+      - text: başka
+        cid: 3
+      - text: tanrı
+        cid: 2
+      - text: yoktur;
+        cid: 1
+      - text: diriltir
+        cid: 5
+      - text: ve öldürür.
+        cid: 6
+      - text: Sizin
         cid: 0
+      - text: de Rabbiniz
+        cid: 7
+      - text: önceki
+        cid: 10
+      - text: atalarınızın da
+        cid: 9
+      - text: Rabbidir.
+        cid: 8
   - verse: 9
     segments:
-      - text: >-
-          Ama inkarcılar, dirilmekten şüphededirler, bunu eğlenceye alırlar.
-        cid: 0
+      - text: Ama inkarcılar, dirilmekten
+        cid: 1
+      - text: şüphededirler, bunu eğlenceye alırlar.
+        cid: 4
   - verse: 10
     segments:
-      - text: >-
-          Göğün, insanları bürüyecek ve gözle görülecek bir duman çıkaracağı günü bekle;
-          bu, can yakan bir azabdır.
+      - text: Göğün,
+        cid: 4
+      - text: insanları bürüyecek ve
+        cid: 0
+      - text: gözle görülecek
+        cid: 1
+      - text: bir duman çıkaracağı
+        cid: 5
+      - text: günü
+        cid: 2
+      - text: bekle;
+        cid: 1
+      - text: bu, can yakan bir azabdır.
         cid: 0
   - verse: 11
     segments:
-      - text: >-
-          Göğün, insanları bürüyecek ve gözle görülecek bir duman çıkaracağı günü bekle;
-          bu, can yakan bir azabdır.
+      - text: Göğün,
         cid: 0
+      - text: insanları
+        cid: 2
+      - text: bürüyecek
+        cid: 1
+      - text: ve gözle görülecek bir duman çıkaracağı günü bekle;
+        cid: 0
+      - text: bu,
+        cid: 3
+      - text: can yakan
+        cid: 5
+      - text: bir azabdır.
+        cid: 4
   - verse: 12
     segments:
       - text: >-
-          İnsanlar: "Rabbimiz! Bu azabı bizden kaldır; doğrusu artık biz inananlarız"
-          derler.
-        cid: 0
+          İnsanlar: "Rabbimiz!
+        cid: 1
+      - text: Bu azabı
+        cid: 4
+      - text: bizden
+        cid: 3
+      - text: kaldır;
+        cid: 2
+      - text: doğrusu artık biz
+        cid: 5
+      - text: >-
+          inananlarız"
+        cid: 6
+      - text: derler.
+        cid: 3
   - verse: 13
     segments:
-      - text: >-
-          Nerde onlarda öğüt almak? Kendilerine gerçeği açıklayan bir peygamber gelmişti
-          ve ondan yüz çevirmişler, "Belletilmiş bir deli" demişlerdi.
+      - text: Nerde onlarda
+        cid: 2
+      - text: öğüt almak?
+        cid: 3
+      - text: Kendilerine gerçeği açıklayan
+        cid: 5
+      - text: bir peygamber
+        cid: 6
+      - text: gelmişti
+        cid: 5
+      - text: ve ondan yüz çevirmişler, "Belletilmiş bir deli" demişlerdi.
         cid: 0
   - verse: 14
     segments:
       - text: >-
           Nerde onlarda öğüt almak? Kendilerine gerçeği açıklayan bir peygamber gelmişti
-          ve ondan yüz çevirmişler, "Belletilmiş bir deli" demişlerdi.
         cid: 0
+      - text: ve
+        cid: 1
+      - text: ondan
+        cid: 3
+      - text: yüz çevirmişler, "Belletilmiş bir deli" demişlerdi.
+        cid: 2
   - verse: 15
     segments:
-      - text: >-
-          Biz sizden azabı az bir süre için kaldıracağız, siz yine de eski
-          inkarcılığınıza döneceksiniz.
-        cid: 0
+      - text: Biz
+        cid: 1
+      - text: sizden
+        cid: 5
+      - text: azabı az bir süre için
+        cid: 3
+      - text: kaldıracağız,
+        cid: 2
+      - text: siz yine de eski inkarcılığınıza
+        cid: 5
+      - text: döneceksiniz.
+        cid: 6
   - verse: 16
     segments:
-      - text: >-
-          Onları çarptıkça çarpacağımız gün öcümüzü şüphesiz alırız.
-        cid: 0
+      - text: Onları çarptıkça çarpacağımız
+        cid: 6
+      - text: gün öcümüzü
+        cid: 1
+      - text: şüphesiz alırız.
+        cid: 6
   - verse: 17
     segments:
+      - text: And olsun ki,
+        cid: 1
+      - text: onlardan önce,
+        cid: 3
+      - text: Firavun
+        cid: 5
+      - text: milletini denemiştik.
+        cid: 4
+      - text: Onlara gelen
+        cid: 6
+      - text: değerli
+        cid: 8
       - text: >-
-          And olsun ki, onlardan önce, Firavun milletini denemiştik. Onlara gelen değerli
           bir peygamber demişti ki:
-        cid: 0
+        cid: 7
   - verse: 18
     segments:
       - text: >-
-          "Ey Allah'ın kulları! Bana gelin, doğrusu ben size gönderilmiş güvenilir bir
-          elçiyim."
-        cid: 0
+          "Ey Allah'ın
+        cid: 5
+      - text: kulları!
+        cid: 4
+      - text: Bana gelin,
+        cid: 3
+      - text: doğrusu ben
+        cid: 6
+      - text: size
+        cid: 7
+      - text: gönderilmiş güvenilir
+        cid: 9
+      - text: >-
+          bir elçiyim."
+        cid: 8
   - verse: 19
     segments:
       - text: >-
-          "Allah'a karşı üstün gelmeye kalkışmayın; doğrusu ben size apaçık bir delil
+          "Allah'a
+        cid: 5
+      - text: karşı üstün gelmeye kalkışmayın;
+        cid: 4
+      - text: doğrusu ben
+        cid: 6
+      - text: size
+        cid: 7
+      - text: apaçık
+        cid: 9
+      - text: bir delil
+        cid: 8
+      - text: >-
           getirdim."
-        cid: 0
+        cid: 7
   - verse: 20
     segments:
       - text: >-
-          "Beni taşlamanızdan ötürü, benim de Rabbim, sizin de Rabbiniz olan Allah'a
-          sığındım."
-        cid: 0
+          "Beni
+        cid: 5
+      - text: taşlamanızdan ötürü, benim de
+        cid: 6
+      - text: Rabbim, sizin de
+        cid: 3
+      - text: Rabbiniz olan
+        cid: 4
+      - text: >-
+          Allah'a sığındım."
+        cid: 2
   - verse: 21
     segments:
       - text: >-
-          "Bana inanmazsanız, başımdan çekilin."
-        cid: 0
+          "Bana
+        cid: 4
+      - text: >-
+          inanmazsanız, başımdan çekilin."
+        cid: 2
   - verse: 22
     segments:
-      - text: >-
-          Bunlar, suçlu bir millet olduğu için, Rabbine yardım etmesi için yalvardı.
-        cid: 0
+      - text: Bunlar,
+        cid: 4
+      - text: suçlu bir millet olduğu için,
+        cid: 6
+      - text: Rabbine
+        cid: 2
+      - text: yardım etmesi için yalvardı.
+        cid: 1
   - verse: 23
     segments:
-      - text: >-
-          Allah da şöyle buyurdu: "Kullarımı geceleyin yola çıkar; şüphesiz takip
-          olunacaksınız."
+      - text: Allah da şöyle
         cid: 0
+      - text: >-
+          buyurdu: "Kullarımı
+        cid: 2
+      - text: geceleyin
+        cid: 3
+      - text: >-
+          yola çıkar; şüphesiz takip olunacaksınız."
+        cid: 5
   - verse: 24
     segments:
       - text: >-
-          "Denizi sakin iken geride bırak, doğrusu onlar suda boğulacak bir ordudur."
-        cid: 0
+          "Denizi sakin iken geride
+        cid: 2
+      - text: bırak, doğrusu
+        cid: 1
+      - text: onlar
+        cid: 4
+      - text: suda boğulacak
+        cid: 6
+      - text: >-
+          bir ordudur."
+        cid: 5
   - verse: 25
     segments:
-      - text: >-
-          Orada nice bahçeler, pınarlar, ekinler, güzel konaklar, eğlenip durdukları
-          nimetler bırakmışlardı.
+      - text: Orada
         cid: 0
+      - text: nice
+        cid: 1
+      - text: bahçeler,
+        cid: 3
+      - text: pınarlar, ekinler, güzel konaklar, eğlenip durdukları nimetler
+        cid: 0
+      - text: bırakmışlardı.
+        cid: 2
   - verse: 26
     segments:
-      - text: >-
-          Orada nice bahçeler, pınarlar, ekinler, güzel konaklar, eğlenip durdukları
-          nimetler bırakmışlardı.
+      - text: Orada nice bahçeler,
+        cid: 0
+      - text: pınarlar,
+        cid: 2
+      - text: ekinler,
+        cid: 1
+      - text: güzel konaklar, eğlenip durdukları
+        cid: 3
+      - text: nimetler bırakmışlardı.
         cid: 0
   - verse: 27
     segments:
-      - text: >-
-          Orada nice bahçeler, pınarlar, ekinler, güzel konaklar, eğlenip durdukları
-          nimetler bırakmışlardı.
+      - text: Orada
+        cid: 3
+      - text: nice bahçeler, pınarlar, ekinler, güzel konaklar, eğlenip durdukları
+        cid: 0
+      - text: nimetler
+        cid: 1
+      - text: bırakmışlardı.
         cid: 0
   - verse: 28
     segments:
-      - text: >-
-          Bu böyledir; onları başka bir millete miras bıraktık.
-        cid: 0
+      - text: Bu böyledir;
+        cid: 1
+      - text: onları
+        cid: 2
+      - text: başka
+        cid: 4
+      - text: bir millete
+        cid: 3
+      - text: miras bıraktık.
+        cid: 2
   - verse: 29
     segments:
-      - text: >-
-          Gök ve yer, onlar için gözyaşı dökmedi, onlar erteye bırakılmamışlardı.
-        cid: 0
+      - text: Gök
+        cid: 4
+      - text: ve yer,
+        cid: 5
+      - text: onlar için gözyaşı dökmedi, onlar erteye bırakılmamışlardı.
+        cid: 3
   - verse: 30
     segments:
-      - text: >-
-          And olsun ki, İsrailoğullarını, azgın bir zorba olan Firavun'un alçaltıcı
-          azabından kurtardık.
+      - text: And olsun ki,
+        cid: 1
+      - text: İsrailoğullarını, azgın bir zorba
+        cid: 4
+      - text: olan Firavun'un alçaltıcı
         cid: 0
+      - text: azabından
+        cid: 6
+      - text: kurtardık.
+        cid: 2
   - verse: 31
     segments:
-      - text: >-
-          And olsun ki, İsrailoğullarını, azgın bir zorba olan Firavun'un alçaltıcı
-          azabından kurtardık.
+      - text: And olsun ki, İsrailoğullarını, azgın bir zorba olan
+        cid: 0
+      - text: Firavun'un alçaltıcı
+        cid: 2
+      - text: azabından kurtardık.
         cid: 0
   - verse: 32
     segments:
-      - text: >-
-          And olsun ki, onların durumunu bilerek dünyaların üzerinde seçkin kıldık.
-        cid: 0
+      - text: And olsun ki, onların durumunu
+        cid: 1
+      - text: bilerek dünyaların
+        cid: 4
+      - text: üzerinde seçkin
+        cid: 5
+      - text: kıldık.
+        cid: 2
   - verse: 33
     segments:
-      - text: >-
-          Onlara, her birinde açıkça bir imtihan bulunan, mucizeler verdik.
-        cid: 0
+      - text: Onlara, her birinde
+        cid: 1
+      - text: açıkça bir imtihan
+        cid: 7
+      - text: bulunan, mucizeler
+        cid: 4
+      - text: verdik.
+        cid: 1
   - verse: 34
     segments:
+      - text: Doğrusu inkarcılar,
+        cid: 1
       - text: >-
-          Doğrusu inkarcılar, "Ölum bir defadır, tekrar diriltilmeyeceğiz. Eğer doğru
-          sözlü iseniz bize babalarımızı getirsenize" derler.
+          "Ölum bir
+        cid: 2
+      - text: defadır,
+        cid: 3
+      - text: >-
+          tekrar diriltilmeyeceğiz. Eğer doğru sözlü iseniz bize babalarımızı getirsenize"
+          derler.
         cid: 0
   - verse: 35
     segments:
+      - text: Doğrusu inkarcılar,
+        cid: 0
       - text: >-
-          Doğrusu inkarcılar, "Ölum bir defadır, tekrar diriltilmeyeceğiz. Eğer doğru
-          sözlü iseniz bize babalarımızı getirsenize" derler.
+          "Ölum bir defadır, tekrar
+        cid: 4
+      - text: diriltilmeyeceğiz.
+        cid: 8
+      - text: Eğer doğru sözlü iseniz
+        cid: 0
+      - text: bize
+        cid: 7
+      - text: babalarımızı getirsenize" derler.
         cid: 0
   - verse: 36
     segments:
+      - text: Doğrusu inkarcılar,
+        cid: 5
       - text: >-
-          Doğrusu inkarcılar, "Ölum bir defadır, tekrar diriltilmeyeceğiz. Eğer doğru
-          sözlü iseniz bize babalarımızı getirsenize" derler.
+          "Ölum bir defadır, tekrar diriltilmeyeceğiz.
         cid: 0
+      - text: Eğer
+        cid: 3
+      - text: doğru sözlü
+        cid: 5
+      - text: iseniz
+        cid: 4
+      - text: bize
+        cid: 0
+      - text: babalarımızı
+        cid: 2
+      - text: getirsenize" derler.
+        cid: 1
   - verse: 37
     segments:
-      - text: >-
-          Bunlar mı daha üstün yoksa Tubba milleti ve onlardan öncekiler mi? Onları yok
-          etmişizdir, çünkü onlar suçlu idiler.
+      - text: Bunlar mı
+        cid: 5
+      - text: daha üstün
+        cid: 1
+      - text: yoksa
+        cid: 3
+      - text: Tubba
+        cid: 5
+      - text: milleti
+        cid: 4
+      - text: ve
         cid: 0
+      - text: onlardan öncekiler mi?
+        cid: 8
+      - text: Onları yok etmişizdir,
+        cid: 9
+      - text: çünkü onlar
+        cid: 10
+      - text: suçlu
+        cid: 12
+      - text: idiler.
+        cid: 11
   - verse: 38
     segments:
-      - text: >-
-          Biz gökleri, yeri ve ikisinin arasında bulunanları oyun olsun diye yaratmadık.
+      - text: Biz
+        cid: 2
+      - text: gökleri,
+        cid: 3
+      - text: yeri
+        cid: 4
+      - text: ve
         cid: 0
+      - text: ikisinin
+        cid: 7
+      - text: arasında
+        cid: 6
+      - text: bulunanları
+        cid: 5
+      - text: oyun olsun diye
+        cid: 7
+      - text: yaratmadık.
+        cid: 2
   - verse: 39
     segments:
-      - text: >-
-          Biz onları, ancak ve ancak gerektiği gibi yarattık, ama insanların çoğu
-          bilmezler.
+      - text: Biz onları, ancak
+        cid: 6
+      - text: ve ancak gerektiği
         cid: 0
+      - text: gibi yarattık, ama
+        cid: 2
+      - text: insanların
+        cid: 5
+      - text: çoğu
+        cid: 6
+      - text: bilmezler.
+        cid: 7
   - verse: 40
     segments:
-      - text: >-
-          Doğrusu hüküm günü hepsinin bir arada bulunacağı gündür.
-        cid: 0
+      - text: Doğrusu hüküm
+        cid: 3
+      - text: günü
+        cid: 2
+      - text: hepsinin bir arada bulunacağı
+        cid: 5
+      - text: gündür.
+        cid: 4
   - verse: 41
     segments:
-      - text: >-
-          O gün, dostun dosta hiçbir faydası olmaz, yardım da görmezler.
-        cid: 0
+      - text: O gün,
+        cid: 1
+      - text: dostun
+        cid: 5
+      - text: dosta hiçbir
+        cid: 4
+      - text: faydası
+        cid: 3
+      - text: olmaz,
+        cid: 8
+      - text: yardım da görmezler.
+        cid: 10
   - verse: 42
     segments:
-      - text: >-
-          Yalnız, Allah'ın merhamet ettiği kimseler bunların dışındadır. O, şüphesiz
-          güçlüdür, merhametlidir.
-        cid: 0
+      - text: Yalnız, Allah'ın
+        cid: 4
+      - text: merhamet ettiği
+        cid: 8
+      - text: kimseler bunların dışındadır.
+        cid: 2
+      - text: O,
+        cid: 6
+      - text: şüphesiz
+        cid: 5
+      - text: güçlüdür,
+        cid: 7
+      - text: merhametlidir.
+        cid: 8
   - verse: 43
     segments:
-      - text: >-
-          Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda suyun kaynaması gibi
-          kaynayan, erimiş maden gibidir.
+      - text: Doğrusu günahkarların yiyeceği
+        cid: 0
+      - text: zakkum
+        cid: 3
+      - text: ağacıdır;
+        cid: 2
+      - text: karınlarda suyun kaynaması gibi kaynayan, erimiş maden gibidir.
         cid: 0
   - verse: 44
     segments:
+      - text: Doğrusu günahkarların yiyeceği
+        cid: 2
       - text: >-
-          Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda suyun kaynaması gibi
-          kaynayan, erimiş maden gibidir.
+          zakkum ağacıdır; karınlarda suyun kaynaması gibi kaynayan, erimiş maden gibidir.
         cid: 0
   - verse: 45
     segments:
-      - text: >-
-          Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda suyun kaynaması gibi
-          kaynayan, erimiş maden gibidir.
+      - text: Doğrusu günahkarların yiyeceği zakkum ağacıdır;
         cid: 0
+      - text: karınlarda
+        cid: 3
+      - text: suyun kaynaması gibi
+        cid: 0
+      - text: kaynayan,
+        cid: 2
+      - text: erimiş maden gibidir.
+        cid: 1
   - verse: 46
     segments:
-      - text: >-
-          Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda suyun kaynaması gibi
-          kaynayan, erimiş maden gibidir.
+      - text: Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda
+        cid: 0
+      - text: suyun
+        cid: 2
+      - text: kaynaması gibi
+        cid: 1
+      - text: kaynayan, erimiş maden gibidir.
         cid: 0
   - verse: 47
     segments:
       - text: >-
-          "Suçluyu yakalayın, cehennemin ortasına sürükleyin, sonra başına azap olarak
-          kaynar su dökün" denir, sonra ona: "Tad bakalım, hani şerefli olan, değerli olan
-          yalnız sendin. İşte bu, şüphelenip durduğunuz şeydir" denir.
+          "Suçluyu
+        cid: 0
+      - text: yakalayın, cehennemin
+        cid: 5
+      - text: ortasına
+        cid: 3
+      - text: sürükleyin,
+        cid: 2
+      - text: >-
+          sonra başına azap olarak kaynar su dökün" denir, sonra ona: "Tad bakalım, hani
+          şerefli olan, değerli olan yalnız sendin. İşte bu, şüphelenip durduğunuz şeydir"
+          denir.
         cid: 0
   - verse: 48
     segments:
       - text: >-
-          "Suçluyu yakalayın, cehennemin ortasına sürükleyin, sonra başına azap olarak
-          kaynar su dökün" denir, sonra ona: "Tad bakalım, hani şerefli olan, değerli olan
-          yalnız sendin. İşte bu, şüphelenip durduğunuz şeydir" denir.
+          "Suçluyu yakalayın, cehennemin ortasına sürükleyin,
+        cid: 0
+      - text: sonra
+        cid: 1
+      - text: başına
+        cid: 4
+      - text: azap olarak
+        cid: 5
+      - text: kaynar su
+        cid: 7
+      - text: dökün" denir,
+        cid: 2
+      - text: >-
+          sonra ona:
+        cid: 1
+      - text: >-
+          "Tad bakalım, hani şerefli olan, değerli olan yalnız sendin. İşte bu, şüphelenip
+          durduğunuz şeydir" denir.
         cid: 0
   - verse: 49
     segments:
       - text: >-
-          "Suçluyu yakalayın, cehennemin ortasına sürükleyin, sonra başına azap olarak
-          kaynar su dökün" denir, sonra ona: "Tad bakalım, hani şerefli olan, değerli olan
-          yalnız sendin. İşte bu, şüphelenip durduğunuz şeydir" denir.
+          "Suçluyu yakalayın, cehennemin ortasına sürükleyin, sonra başına azap olarak kaynar
+          su dökün" denir, sonra ona:
+        cid: 0
+      - text: >-
+          "Tad bakalım, hani
+        cid: 1
+      - text: şerefli olan, değerli
+        cid: 5
+      - text: olan
+        cid: 0
+      - text: yalnız sendin.
+        cid: 2
+      - text: İşte bu, şüphelenip durduğunuz şeydir" denir.
         cid: 0
   - verse: 50
     segments:
       - text: >-
-          "Suçluyu yakalayın, cehennemin ortasına sürükleyin, sonra başına azap olarak
-          kaynar su dökün" denir, sonra ona: "Tad bakalım, hani şerefli olan, değerli olan
-          yalnız sendin. İşte bu, şüphelenip durduğunuz şeydir" denir.
+          "Suçluyu yakalayın, cehennemin ortasına sürükleyin, sonra başına azap olarak kaynar
+          su dökün" denir, sonra ona: "Tad bakalım, hani şerefli olan, değerli olan yalnız
+          sendin.
         cid: 0
+      - text: İşte bu, şüphelenip durduğunuz
+        cid: 1
+      - text: şeydir" denir.
+        cid: 3
   - verse: 51
     segments:
-      - text: >-
-          Allah'a karşı gelmekten sakınmış olanlar ise, güvenli bir yerde, bahçelerde ve
-          pınar başlarındadırlar.
+      - text: Allah'a karşı gelmekten
+        cid: 0
+      - text: sakınmış olanlar ise,
+        cid: 2
+      - text: güvenli bir yerde,
+        cid: 5
+      - text: bahçelerde ve pınar başlarındadırlar.
         cid: 0
   - verse: 52
     segments:
-      - text: >-
-          Allah'a karşı gelmekten sakınmış olanlar ise, güvenli bir yerde, bahçelerde ve
-          pınar başlarındadırlar.
+      - text: Allah'a karşı gelmekten
+        cid: 3
+      - text: sakınmış olanlar ise, güvenli bir yerde,
         cid: 0
+      - text: bahçelerde
+        cid: 1
+      - text: ve pınar başlarındadırlar.
+        cid: 3
   - verse: 53
     segments:
-      - text: >-
-          İnce ipekten ve parlak atlastan giyinerek karşılıklı otururlar.
-        cid: 0
+      - text: İnce ipekten
+        cid: 2
+      - text: ve parlak atlastan
+        cid: 4
+      - text: giyinerek
+        cid: 1
+      - text: karşılıklı otururlar.
+        cid: 5
   - verse: 54
     segments:
-      - text: >-
-          Bu böyledir; onları iri siyah gözlü hurilerle eşlendiririz.
-        cid: 0
+      - text: Bu böyledir;
+        cid: 1
+      - text: onları
+        cid: 2
+      - text: iri siyah gözlü
+        cid: 4
+      - text: hurilerle eşlendiririz.
+        cid: 3
   - verse: 55
     segments:
-      - text: >-
-          Orada, güven içinde olarak her yemişi isteyebilirler.
-        cid: 0
+      - text: Orada,
+        cid: 2
+      - text: güven içinde olarak
+        cid: 5
+      - text: her yemişi
+        cid: 3
+      - text: isteyebilirler.
+        cid: 1
   - verse: 56
     segments:
-      - text: >-
-          Orada, ilk ölümden başka bir ölüm tatmazlar. Rabbin lütfuyla onları cehennem
-          azabından korumuştur. İşte büyük kurtuluş budur.
+      - text: Orada,
+        cid: 3
+      - text: ilk
+        cid: 7
+      - text: ölümden
+        cid: 6
+      - text: başka
+        cid: 5
+      - text: bir ölüm tatmazlar.
+        cid: 4
+      - text: Rabbin lütfuyla
+        cid: 0
+      - text: onları
+        cid: 8
+      - text: cehennem
+        cid: 10
+      - text: azabından
+        cid: 9
+      - text: korumuştur.
+        cid: 8
+      - text: İşte büyük kurtuluş budur.
         cid: 0
   - verse: 57
     segments:
-      - text: >-
-          Orada, ilk ölümden başka bir ölüm tatmazlar. Rabbin lütfuyla onları cehennem
-          azabından korumuştur. İşte büyük kurtuluş budur.
+      - text: Orada, ilk ölümden başka bir ölüm tatmazlar.
         cid: 0
+      - text: Rabbin
+        cid: 3
+      - text: lütfuyla
+        cid: 1
+      - text: onları cehennem azabından korumuştur.
+        cid: 0
+      - text: İşte
+        cid: 4
+      - text: büyük
+        cid: 7
+      - text: kurtuluş
+        cid: 6
+      - text: budur.
+        cid: 4
   - verse: 58
     segments:
-      - text: >-
-          Biz, öğüt alırlar diye, Kuran'ı senin dilinde indirerek kolayca anlaşılmasını
-          sağladık. Sen bekle, onlar da beklemektedirler.
+      - text: Biz,
+        cid: 2
+      - text: öğüt alırlar diye,
+        cid: 5
+      - text: Kuran'ı senin dilinde indirerek
+        cid: 3
+      - text: kolayca anlaşılmasını sağladık.
+        cid: 2
+      - text: Sen
+        cid: 3
+      - text: bekle, onlar da beklemektedirler.
         cid: 0
   - verse: 59
     segments:
       - text: >-
           Biz, öğüt alırlar diye, Kuran'ı senin dilinde indirerek kolayca anlaşılmasını
-          sağladık. Sen bekle, onlar da beklemektedirler.
+          sağladık. Sen
         cid: 0
+      - text: bekle,
+        cid: 1
+      - text: onlar da
+        cid: 2
+      - text: beklemektedirler.
+        cid: 3

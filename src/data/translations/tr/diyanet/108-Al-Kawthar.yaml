@@ -4,16 +4,25 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Doğrusu sana pek çok nimet vermişizdir.
-        cid: 0
+      - text: Doğrusu sana pek çok nimet vermişizdir.
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Öyleyse Rabbin için namaz kıl, kurban kes.
-        cid: 0
+      - text: Öyleyse
+        cid: 1
+      - text: Rabbin için
+        cid: 2
+      - text: namaz kıl,
+        cid: 1
+      - text: kurban kes.
+        cid: 3
   - verse: 3
     segments:
-      - text: >-
-          Doğrusu adı sanı ortadan kalkacak olan, sana kin tutan kimsedir.
+      - text: Doğrusu
         cid: 0
+      - text: adı sanı ortadan kalkacak
+        cid: 2
+      - text: olan,
+        cid: 0
+      - text: sana kin tutan kimsedir.
+        cid: 2

@@ -4,90 +4,426 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Göklerde olanlar da yerde olanlar da Allah'ı tesbih ederler. O, güçlüdür,
-          Hakim'dir.
-        cid: 0
+      - text: Göklerde
+        cid: 5
+      - text: olanlar da
+        cid: 1
+      - text: yerde
+        cid: 8
+      - text: olanlar da
+        cid: 1
+      - text: Allah'ı
+        cid: 2
+      - text: tesbih ederler.
+        cid: 1
+      - text: O,
+        cid: 9
+      - text: güçlüdür,
+        cid: 10
+      - text: Hakim'dir.
+        cid: 11
   - verse: 2
     segments:
-      - text: >-
-          Ey inananlar! Yapmayacağınız şeyi niçin söylersiniz?
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: inananlar!
+        cid: 3
+      - text: Yapmayacağınız
+        cid: 8
+      - text: şeyi
+        cid: 6
+      - text: niçin
+        cid: 4
+      - text: söylersiniz?
+        cid: 5
   - verse: 3
     segments:
-      - text: >-
-          Yapmayacağınız şeyi söylemeniz, Allah katında büyük gazaba sebep olur.
-        cid: 0
+      - text: Yapmayacağınız
+        cid: 9
+      - text: şeyi
+        cid: 7
+      - text: söylemeniz,
+        cid: 6
+      - text: Allah
+        cid: 4
+      - text: katında
+        cid: 3
+      - text: büyük
+        cid: 1
+      - text: gazaba sebep olur.
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Doğrusu Allah, kendi uğrunda, kenetlenmiş bir duvar gibi, saf halinde
-          çarpışanları sever.
-        cid: 0
+      - text: Doğrusu
+        cid: 7
+      - text: Allah,
+        cid: 2
+      - text: kendi uğrunda,
+        cid: 6
+      - text: kenetlenmiş bir duvar gibi,
+        cid: 11
+      - text: saf halinde
+        cid: 8
+      - text: çarpışanları
+        cid: 5
+      - text: sever.
+        cid: 3
   - verse: 5
     segments:
+      - text: Musa
+        cid: 3
       - text: >-
-          Musa milletine: "Ey milletim! Beni niçin incitirsiniz? Oysa, benim size
-          gönderilmiş Allah'ın bir peygamberi olduğumu biliyorsunuz" demişti. Ama onlar
-          yoldan sapınca, Allah da onların kalblerini saptırmıştı. Allah, yoldan çıkan
-          milleti doğru yola eriştirmez.
-        cid: 0
+          milletine:
+        cid: 4
+      - text: >-
+          "Ey milletim!
+        cid: 5
+      - text: Beni
+        cid: 7
+      - text: niçin
+        cid: 6
+      - text: incitirsiniz?
+        cid: 7
+      - text: Oysa,
+        cid: 8
+      - text: benim size
+        cid: 13
+      - text: gönderilmiş
+        cid: 11
+      - text: Allah'ın
+        cid: 12
+      - text: bir peygamberi olduğumu
+        cid: 11
+      - text: >-
+          biliyorsunuz"
+        cid: 9
+      - text: demişti.
+        cid: 2
+      - text: Ama onlar
+        cid: 15
+      - text: yoldan sapınca,
+        cid: 23
+      - text: Allah da
+        cid: 17
+      - text: onların kalblerini saptırmıştı.
+        cid: 18
+      - text: Allah,
+        cid: 19
+      - text: yoldan çıkan
+        cid: 23
+      - text: milleti
+        cid: 22
+      - text: doğru yola eriştirmez.
+        cid: 20
   - verse: 6
     segments:
+      - text: Meryem
+        cid: 5
+      - text: oğlu
+        cid: 4
       - text: >-
-          Meryem oğlu İsa: "Ey İsrailoğulları! Doğrusu ben, benden önce gelmiş olan
-          Tevrat'ı doğrulayan, benden sonra gelecek ve adı Ahmet olacak bir peygamberi
-          müjdeleyen, Allah'ın size gönderilmiş bir peygamberiyim" demişti. Ama o elçi,
-          kendilerine belgelerle geldiği zaman: "Bu, apaçık bir sihirdir" demişlerdi.
+          İsa:
+        cid: 3
+      - text: >-
+          "Ey
+        cid: 6
+      - text: İsrailoğulları!
+        cid: 7
+      - text: Doğrusu
+        cid: 12
+      - text: ben,
+        cid: 8
+      - text: benden
+        cid: 21
+      - text: önce
+        cid: 15
+      - text: gelmiş olan
+        cid: 26
+      - text: Tevrat'ı
+        cid: 17
+      - text: doğrulayan,
+        cid: 12
+      - text: benden
+        cid: 21
+      - text: sonra
+        cid: 22
+      - text: gelecek
+        cid: 20
+      - text: ve
         cid: 0
+      - text: adı Ahmet
+        cid: 24
+      - text: olacak
+        cid: 13
+      - text: bir peygamberi
+        cid: 9
+      - text: müjdeleyen,
+        cid: 18
+      - text: Allah'ın
+        cid: 10
+      - text: size gönderilmiş
+        cid: 11
+      - text: >-
+          bir peygamberiyim"
+        cid: 9
+      - text: demişti.
+        cid: 2
+      - text: Ama o elçi, kendilerine
+        cid: 19
+      - text: belgelerle
+        cid: 27
+      - text: geldiği
+        cid: 26
+      - text: >-
+          zaman:
+        cid: 25
+      - text: >-
+          "Bu,
+        cid: 29
+      - text: apaçık
+        cid: 31
+      - text: >-
+          bir sihirdir"
+        cid: 30
+      - text: demişlerdi.
+        cid: 2
   - verse: 7
     segments:
-      - text: >-
-          Müslüman olmağa çağırılmışken gelmeyip Allah'a karşı yalan uydurandan daha
-          zalim kimdir? Allah, zalim olan milleti doğru yola eriştirmez.
+      - text: Müslüman
         cid: 0
+      - text: olmağa çağırılmışken gelmeyip
+        cid: 9
+      - text: Allah'a
+        cid: 6
+      - text: karşı yalan
+        cid: 7
+      - text: uydurandan
+        cid: 4
+      - text: daha zalim
+        cid: 2
+      - text: kimdir?
+        cid: 3
+      - text: Allah,
+        cid: 12
+      - text: zalim olan
+        cid: 2
+      - text: milleti
+        cid: 15
+      - text: doğru yola eriştirmez.
+        cid: 13
   - verse: 8
     segments:
-      - text: >-
-          Ağızlarıyla Allah'ın nurunu söndürmek isterler. İnkarcılar ne kadar istemeseler
-          de, Allah nurunu, dinini tamamlayacaktır.
-        cid: 0
+      - text: Ağızlarıyla
+        cid: 5
+      - text: Allah'ın
+        cid: 4
+      - text: nurunu
+        cid: 3
+      - text: söndürmek
+        cid: 2
+      - text: isterler.
+        cid: 1
+      - text: İnkarcılar ne kadar
+        cid: 11
+      - text: istemeseler de,
+        cid: 1
+      - text: Allah
+        cid: 6
+      - text: nurunu, dinini
+        cid: 8
+      - text: tamamlayacaktır.
+        cid: 7
   - verse: 9
     segments:
-      - text: >-
-          Ortak koşanlar istemese de, dinini bütün dinlerden üstün kılmak için,
-          Peygamberini, doğruluk rehberi Kuran ve gerçek dinle gönderen O'dur.
+      - text: Ortak
         cid: 0
+      - text: koşanlar istemese de,
+        cid: 13
+      - text: dinini
+        cid: 6
+      - text: bütün
+        cid: 11
+      - text: dinlerden
+        cid: 10
+      - text: üstün
+        cid: 9
+      - text: kılmak için,
+        cid: 8
+      - text: Peygamberini,
+        cid: 4
+      - text: doğruluk rehberi Kuran
+        cid: 5
+      - text: ve
+        cid: 0
+      - text: gerçek
+        cid: 7
+      - text: dinle
+        cid: 6
+      - text: gönderen O'dur.
+        cid: 3
   - verse: 10
     segments:
-      - text: >-
-          Ey inananlar! Sizi can yakıcı bir azabdan kurtaracak, kazançlı bir yolu size
-          göstereyim mi?
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: inananlar!
+        cid: 3
+      - text: Sizi
+        cid: 8
+      - text: can yakıcı
+        cid: 11
+      - text: bir azabdan
+        cid: 9
+      - text: kurtaracak, kazançlı bir yolu
+        cid: 8
+      - text: size göstereyim mi?
+        cid: 5
   - verse: 11
     segments:
-      - text: >-
-          Allah'a ve Peygamberine inanırsınız; Allah yolunda canlarınızla, mallarınızla
-          cihat edersiniz; bilseniz, bu sizin için en iyi yoldur.
-        cid: 0
+      - text: Allah'a
+        cid: 2
+      - text: ve Peygamberine
+        cid: 3
+      - text: inanırsınız;
+        cid: 1
+      - text: Allah
+        cid: 7
+      - text: yolunda
+        cid: 5
+      - text: canlarınızla,
+        cid: 9
+      - text: mallarınızla
+        cid: 8
+      - text: cihat edersiniz;
+        cid: 4
+      - text: bilseniz, bu sizin için
+        cid: 15
+      - text: en iyi
+        cid: 11
+      - text: yoldur.
+        cid: 5
   - verse: 12
     segments:
-      - text: >-
-          Böyle yaparsanız, Allah günahlarınızı size bağışlar, sizi, içlerinden ırmaklar
-          akan cennetlere, Adn cennetlerinde hoş yerlere koyar. Büyük kurtuluş budur.
+      - text: Böyle
         cid: 0
+      - text: yaparsanız, Allah günahlarınızı
+        cid: 3
+      - text: size
+        cid: 2
+      - text: bağışlar,
+        cid: 1
+      - text: sizi,
+        cid: 4
+      - text: içlerinden
+        cid: 8
+      - text: ırmaklar
+        cid: 9
+      - text: akan
+        cid: 6
+      - text: cennetlere,
+        cid: 5
+      - text: Adn
+        cid: 14
+      - text: cennetlerinde
+        cid: 5
+      - text: hoş yerlere
+        cid: 10
+      - text: koyar.
+        cid: 4
+      - text: Büyük
+        cid: 17
+      - text: kurtuluş
+        cid: 16
+      - text: budur.
+        cid: 15
   - verse: 13
     segments:
+      - text: Bundan başka,
+        cid: 1
+      - text: sevdiğiniz
+        cid: 2
       - text: >-
-          Bundan başka, sevdiğiniz bir şey daha: Allah katından bir yardım ve yakın bir
-          zafer vardır. İnananlara müjde ver.
+          bir şey daha:
+        cid: 1
+      - text: Allah katından
+        cid: 5
+      - text: bir yardım
+        cid: 3
+      - text: ve
         cid: 0
+      - text: yakın
+        cid: 7
+      - text: bir zafer
+        cid: 3
+      - text: vardır.
+        cid: 1
+      - text: İnananlara
+        cid: 9
+      - text: müjde ver.
+        cid: 8
   - verse: 14
     segments:
+      - text: Ey
+        cid: 1
+      - text: inananlar!
+        cid: 3
+      - text: Allah'ın dininin
+        cid: 6
+      - text: yardımcıları olun.
+        cid: 5
+      - text: Nitekim,
+        cid: 7
+      - text: Meryem
+        cid: 11
+      - text: oğlu
+        cid: 10
+      - text: İsa,
+        cid: 9
       - text: >-
-          Ey inananlar! Allah'ın dininin yardımcıları olun. Nitekim, Meryem oğlu İsa,
-          Havarilere: "Allah'a giden yolda yardımcılarım kimlerdir?" deyince, Havariler:
-          "Allah'ın dininin yardımcıları biziz" demişlerdi. İsrailoğullarının bir takımı
-          böylece inanmış, bir takımı da inkar etmişti; ama Biz, inananları düşmanlarına
-          karşı destekledik de üstün geldiler.
-        cid: 0
+          Havarilere:
+        cid: 18
+      - text: >-
+          "Allah'a giden
+        cid: 16
+      - text: yolda
+        cid: 15
+      - text: yardımcılarım
+        cid: 14
+      - text: kimlerdir?" deyince,
+        cid: 13
+      - text: >-
+          Havariler:
+        cid: 18
+      - text: >-
+          "Allah'ın dininin
+        cid: 6
+      - text: yardımcıları
+        cid: 20
+      - text: >-
+          biziz"
+        cid: 19
+      - text: demişlerdi.
+        cid: 8
+      - text: İsrailoğullarının
+        cid: 26
+      - text: bir takımı böylece
+        cid: 23
+      - text: inanmış,
+        cid: 22
+      - text: bir takımı da
+        cid: 28
+      - text: inkar etmişti;
+        cid: 27
+      - text: ama
+        cid: 35
+      - text: Biz,
+        cid: 29
+      - text: inananları
+        cid: 31
+      - text: düşmanlarına
+        cid: 33
+      - text: karşı
+        cid: 32
+      - text: destekledik de
+        cid: 29
+      - text: üstün geldiler.
+        cid: 35

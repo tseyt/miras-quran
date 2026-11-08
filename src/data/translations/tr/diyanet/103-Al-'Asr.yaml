@@ -4,17 +4,39 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          İkindi vaktine (Asra; çağa) and olsun ki,
+      - text: İkindi vaktine
+        cid: 1
+      - text: (Asra; çağa)
         cid: 0
+      - text: and olsun ki,
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          İnsan hiç şüphesiz hüsran içindedir.
-        cid: 0
+      - text: İnsan hiç
+        cid: 2
+      - text: şüphesiz hüsran
+        cid: 1
+      - text: içindedir.
+        cid: 3
   - verse: 3
     segments:
-      - text: >-
-          Ancak inanıp yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve
-          sabırlı olmayı tavsiye edenler bunun dışındadır.
+      - text: Ancak
+        cid: 1
+      - text: inanıp
+        cid: 3
+      - text: yararlı iş
+        cid: 4
+      - text: işleyenler,
+        cid: 5
+      - text: birbirlerine
+        cid: 6
+      - text: gerçeği
+        cid: 7
+      - text: tavsiye edenler
+        cid: 6
+      - text: ve
         cid: 0
+      - text: sabırlı
+        cid: 9
+      - text: olmayı tavsiye edenler bunun dışındadır.
+        cid: 8

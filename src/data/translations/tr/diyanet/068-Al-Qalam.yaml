@@ -4,301 +4,673 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Nun; kalem ve onunla yazılanlara and olsun ki, sen Rabbinin nimetine uğramış
-          bir kimsesin, deli (cinlenmiş) değilsin.
+      - text: Nun;
+        cid: 1
+      - text: kalem
+        cid: 2
+      - text: ve
+        cid: 0
+      - text: onunla yazılanlara
+        cid: 4
+      - text: and olsun ki,
+        cid: 2
+      - text: sen Rabbinin nimetine uğramış bir kimsesin, deli (cinlenmiş) değilsin.
         cid: 0
   - verse: 2
     segments:
-      - text: >-
-          Nun; kalem ve onunla yazılanlara and olsun ki, sen Rabbinin nimetine uğramış
-          bir kimsesin, deli (cinlenmiş) değilsin.
+      - text: Nun; kalem ve onunla yazılanlara and olsun ki,
         cid: 0
+      - text: sen
+        cid: 2
+      - text: Rabbinin
+        cid: 4
+      - text: nimetine uğramış bir kimsesin,
+        cid: 3
+      - text: deli
+        cid: 5
+      - text: (cinlenmiş)
+        cid: 0
+      - text: değilsin.
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Doğrusu sana kesintisiz bir ecir vardır.
-        cid: 0
+      - text: Doğrusu sana
+        cid: 2
+      - text: kesintisiz bir ecir
+        cid: 5
+      - text: vardır.
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Şüphesiz sen büyük bir ahlaka sahipsindir.
-        cid: 0
+      - text: Şüphesiz sen
+        cid: 1
+      - text: büyük
+        cid: 4
+      - text: bir ahlaka sahipsindir.
+        cid: 3
   - verse: 5
     segments:
-      - text: >-
-          Hanginizin aklından zoru olduğunu yakında sen de göreceksin, onlar da
-          görecekler.
+      - text: Hanginizin aklından zoru olduğunu yakında sen de
         cid: 0
+      - text: göreceksin,
+        cid: 1
+      - text: onlar da görecekler.
+        cid: 2
   - verse: 6
     segments:
-      - text: >-
-          Hanginizin aklından zoru olduğunu yakında sen de göreceksin, onlar da
-          görecekler.
+      - text: Hanginizin aklından zoru olduğunu yakında sen de
+        cid: 1
+      - text: göreceksin, onlar da görecekler.
         cid: 0
   - verse: 7
     segments:
-      - text: >-
-          Doğrusu senin Rabbin, yolundan sapıtanları çok iyi bilir; O, doğru yolda
-          olanları da çok iyi bilir.
-        cid: 0
+      - text: Doğrusu
+        cid: 11
+      - text: senin Rabbin,
+        cid: 2
+      - text: yolundan
+        cid: 8
+      - text: sapıtanları
+        cid: 6
+      - text: çok iyi bilir;
+        cid: 4
+      - text: O, doğru yolda olanları da
+        cid: 11
+      - text: çok iyi bilir.
+        cid: 10
   - verse: 8
     segments:
-      - text: >-
-          Bundan böyle, yalanlayanlara itaat etme;
+      - text: Bundan
         cid: 0
+      - text: böyle, yalanlayanlara
+        cid: 3
+      - text: itaat etme;
+        cid: 2
   - verse: 9
     segments:
       - text: >-
           (Onlar sana indirilen ayetlerden beğenmediklerini bırakman suretiyle senin)
-          kendilerine yumuşak davranmanı isterler; böyle yapsan, onlar da seni över,
-          yumuşak davranırlar.
+          kendilerine yumuşak
         cid: 0
+      - text: davranmanı isterler;
+        cid: 1
+      - text: böyle yapsan, onlar da
+        cid: 4
+      - text: seni över, yumuşak davranırlar.
+        cid: 3
   - verse: 10
     segments:
       - text: >-
-          Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç
-          işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla
-          damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
+          Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen,
         cid: 0
+      - text: çok yemin eden alçak zorbaya,
+        cid: 4
+      - text: bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal
+        cid: 0
+      - text: ve
+        cid: 1
+      - text: oğulları vardır diye aldırış
+        cid: 0
+      - text: etmeyesin.
+        cid: 2
   - verse: 11
     segments:
+      - text: Diliyle iğneleyen, kovuculuk eden, iyiliği daima
+        cid: 0
+      - text: önleyen, aşırı
+        cid: 1
+      - text: giden, suç
+        cid: 2
+      - text: işleyen, çok
+        cid: 3
       - text: >-
-          Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç
-          işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla
-          damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
+          yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış
+          kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
         cid: 0
   - verse: 12
     segments:
+      - text: Diliyle iğneleyen, kovuculuk
+        cid: 0
+      - text: eden, iyiliği daima önleyen, aşırı giden, suç işleyen,
+        cid: 1
       - text: >-
-          Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç
-          işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla
-          damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
+          çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış
+          kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
         cid: 0
   - verse: 13
     segments:
       - text: >-
-          Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç
-          işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla
-          damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
+          Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen,
+          çok yemin eden alçak zorbaya,
+        cid: 0
+      - text: bütün bunlar dışında bir de soysuzlukla
+        cid: 3
+      - text: damgalanmış kimseye,
+        cid: 4
+      - text: mal ve oğulları vardır diye aldırış etmeyesin.
         cid: 0
   - verse: 14
     segments:
       - text: >-
-          Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç
-          işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla
-          damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
+          Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen,
+          çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış
+          kimseye,
+        cid: 0
+      - text: mal
+        cid: 4
+      - text: ve
+        cid: 0
+      - text: oğulları vardır
+        cid: 5
+      - text: diye aldırış
+        cid: 1
+      - text: etmeyesin.
         cid: 0
   - verse: 15
     segments:
+      - text: Ayetlerimiz ona
+        cid: 4
+      - text: okunduğu
+        cid: 2
       - text: >-
-          Ayetlerimiz ona okunduğu zaman: "Öncekilerin masalları" der.
-        cid: 0
+          zaman:
+        cid: 1
+      - text: >-
+          "Öncekilerin
+        cid: 7
+      - text: >-
+          masalları"
+        cid: 6
+      - text: der.
+        cid: 5
   - verse: 16
     segments:
-      - text: >-
-          Onun havada olan burnunu yakında yere sürteceğiz.
+      - text: Onun havada olan
         cid: 0
+      - text: burnunu yakında yere sürteceğiz.
+        cid: 3
   - verse: 17
     segments:
-      - text: >-
-          Biz bunları, vaktiyle bahçe sahiplerini denediğimiz gibi denedik. Sahipleri
-          daha sabah olmadan, bahçeyi devşireceklerine bir istisna payı bırakmaksızın
-          yemin etmişlerdi.
+      - text: Biz
+        cid: 1
+      - text: bunları, vaktiyle
+        cid: 2
+      - text: bahçe
+        cid: 6
+      - text: sahiplerini denediğimiz gibi denedik. Sahipleri
+        cid: 5
+      - text: daha sabah olmadan,
+        cid: 10
+      - text: bahçeyi devşireceklerine
+        cid: 9
+      - text: bir istisna payı bırakmaksızın
         cid: 0
+      - text: yemin etmişlerdi.
+        cid: 8
   - verse: 18
     segments:
       - text: >-
-          Biz bunları, vaktiyle bahçe sahiplerini denediğimiz gibi denedik. Sahipleri
-          daha sabah olmadan, bahçeyi devşireceklerine bir istisna payı bırakmaksızın
-          yemin etmişlerdi.
+          Biz bunları, vaktiyle bahçe sahiplerini denediğimiz gibi denedik. Sahipleri daha
+          sabah olmadan, bahçeyi devşireceklerine
+        cid: 0
+      - text: bir istisna payı bırakmaksızın
+        cid: 2
+      - text: yemin etmişlerdi.
         cid: 0
   - verse: 19
     segments:
-      - text: >-
-          Ama onlar daha uykudayken Rabbinin katından gönderilen bir salgın o bahçeyi
-          sarıvermişti de bahçe kapkara kesilmişti.
+      - text: Ama onlar daha uykudayken
+        cid: 6
+      - text: Rabbinin katından gönderilen bir salgın
+        cid: 5
+      - text: o bahçeyi
+        cid: 0
+      - text: sarıvermişti de
+        cid: 1
+      - text: bahçe kapkara kesilmişti.
         cid: 0
   - verse: 20
     segments:
-      - text: >-
-          Ama onlar daha uykudayken Rabbinin katından gönderilen bir salgın o bahçeyi
-          sarıvermişti de bahçe kapkara kesilmişti.
+      - text: Ama onlar daha uykudayken Rabbinin katından gönderilen bir salgın
         cid: 0
+      - text: o bahçeyi
+        cid: 1
+      - text: sarıvermişti de
+        cid: 0
+      - text: bahçe kapkara kesilmişti.
+        cid: 1
   - verse: 21
     segments:
+      - text: Sabah
+        cid: 2
       - text: >-
-          Sabah erken: "Ürünlerinizi devşirecekseniz erken çıkın" diye birbirlerine
-          seslendiler.
+          erken: "Ürünlerinizi devşirecekseniz erken çıkın" diye
         cid: 0
+      - text: birbirlerine seslendiler.
+        cid: 1
   - verse: 22
     segments:
+      - text: Sabah
+        cid: 0
       - text: >-
-          Sabah erken: "Ürünlerinizi devşirecekseniz erken çıkın" diye birbirlerine
-          seslendiler.
+          erken:
+        cid: 2
+      - text: >-
+          "Ürünlerinizi devşirecekseniz
+        cid: 6
+      - text: >-
+          erken çıkın"
+        cid: 2
+      - text: diye
+        cid: 1
+      - text: birbirlerine seslendiler.
         cid: 0
   - verse: 23
     segments:
       - text: >-
           "Bugün orada, hiçbir düşkün kimse yanımıza sokulmasın" diye gizli gizli
-          konuşarak yürüyorlardı.
         cid: 0
+      - text: konuşarak
+        cid: 3
+      - text: yürüyorlardı.
+        cid: 1
   - verse: 24
     segments:
       - text: >-
-          "Bugün orada, hiçbir düşkün kimse yanımıza sokulmasın" diye gizli gizli
-          konuşarak yürüyorlardı.
+          "Bugün orada,
+        cid: 4
+      - text: hiçbir düşkün kimse
+        cid: 6
+      - text: yanımıza
+        cid: 5
+      - text: >-
+          sokulmasın"
+        cid: 2
+      - text: diye gizli gizli
+        cid: 1
+      - text: konuşarak yürüyorlardı.
         cid: 0
   - verse: 25
     segments:
-      - text: >-
-          Yoksullara yardım etmeye güçleri yeterken böyle konuşarak erkenden gittiler.
+      - text: Yoksullara yardım
         cid: 0
+      - text: etmeye güçleri yeterken böyle konuşarak
+        cid: 4
+      - text: erkenden gittiler.
+        cid: 1
   - verse: 26
     segments:
       - text: >-
-          Bahçeyi gördüklerinde: "Herhalde yolumuzu şaşırmış olacağız; belki de biz
-          yoksun bırakıldık" dediler.
+          Bahçeyi gördüklerinde:
+        cid: 2
+      - text: >-
+          "Herhalde yolumuzu şaşırmış olacağız;
+        cid: 5
+      - text: >-
+          belki de biz yoksun bırakıldık"
         cid: 0
+      - text: dediler.
+        cid: 3
   - verse: 27
     segments:
       - text: >-
-          Bahçeyi gördüklerinde: "Herhalde yolumuzu şaşırmış olacağız; belki de biz
-          yoksun bırakıldık" dediler.
+          Bahçeyi gördüklerinde: "Herhalde yolumuzu şaşırmış olacağız; belki
+        cid: 0
+      - text: de biz
+        cid: 2
+      - text: >-
+          yoksun bırakıldık"
+        cid: 3
+      - text: dediler.
         cid: 0
   - verse: 28
     segments:
       - text: >-
-          Ortancaları: "Ben size Allah'ı anmanız gerekmez mi, dememiş miydim?" dedi.
-        cid: 0
+          Ortancaları:
+        cid: 2
+      - text: >-
+          "Ben
+        cid: 3
+      - text: size Allah'ı anmanız
+        cid: 5
+      - text: gerekmez mi,
+        cid: 6
+      - text: dememiş
+        cid: 3
+      - text: >-
+          miydim?"
+        cid: 6
+      - text: dedi.
+        cid: 1
   - verse: 29
     segments:
       - text: >-
-          "Rabbimizi tenzih ederiz; doğrusu biz yazık etmiştik" dediler.
-        cid: 0
+          "Rabbimizi tenzih ederiz;
+        cid: 3
+      - text: >-
+          doğrusu biz yazık etmiştik"
+        cid: 4
+      - text: dediler.
+        cid: 1
   - verse: 30
     segments:
-      - text: >-
-          Birbirlerini yermeye başladılar.
-        cid: 0
+      - text: Birbirlerini yermeye
+        cid: 2
+      - text: başladılar.
+        cid: 1
   - verse: 31
     segments:
-      - text: >-
-          Sonra şöyle dediler: "Yazıklar olsun bize; doğrusu azgınlık edenlerdendik."
+      - text: Sonra
         cid: 0
+      - text: >-
+          şöyle dediler:
+        cid: 1
+      - text: >-
+          "Yazıklar olsun bize;
+        cid: 2
+      - text: doğrusu
+        cid: 3
+      - text: >-
+          azgınlık edenlerdendik."
+        cid: 4
   - verse: 32
     segments:
       - text: >-
-          "Belki Rabbimiz bize bundan daha iyisini verir; doğrusu artık, Rabbimizden
-          dilemekteyiz."
-        cid: 0
+          "Belki
+        cid: 1
+      - text: Rabbimiz
+        cid: 9
+      - text: bize bundan
+        cid: 3
+      - text: daha iyisini
+        cid: 5
+      - text: verir;
+        cid: 4
+      - text: doğrusu artık,
+        cid: 10
+      - text: >-
+          Rabbimizden dilemekteyiz."
+        cid: 9
   - verse: 33
     segments:
-      - text: >-
-          İşte azap böyledir; ama ahiret azabı daha büyüktür; keşke bilseler!
-        cid: 0
+      - text: İşte
+        cid: 1
+      - text: azap
+        cid: 2
+      - text: böyledir;
+        cid: 1
+      - text: ama ahiret
+        cid: 4
+      - text: azabı
+        cid: 3
+      - text: daha büyüktür;
+        cid: 5
+      - text: keşke
+        cid: 6
+      - text: bilseler!
+        cid: 8
   - verse: 34
     segments:
-      - text: >-
-          Allah'a karşı gelmekten sakınanlara, Rableri katında nimet cennetleri vardır.
-        cid: 0
+      - text: Allah'a karşı gelmekten sakınanlara,
+        cid: 2
+      - text: Rableri
+        cid: 4
+      - text: katında
+        cid: 3
+      - text: nimet
+        cid: 6
+      - text: cennetleri
+        cid: 5
+      - text: vardır.
+        cid: 2
   - verse: 35
     segments:
-      - text: >-
-          Kendilerini Allah'a vermiş olanları hiç suçlular gibi tutar mıyız?
+      - text: Kendilerini Allah'a vermiş olanları
         cid: 0
+      - text: hiç suçlular gibi tutar
+        cid: 3
+      - text: mıyız?
+        cid: 1
   - verse: 36
     segments:
-      - text: >-
-          Ne oluyorsunuz? Ne biçim hükmediyorsunuz?
+      - text: Ne oluyorsunuz?
         cid: 0
+      - text: Ne biçim hükmediyorsunuz?
+        cid: 4
   - verse: 37
     segments:
-      - text: >-
-          Yoksa okuduğunuz bir kitabınız mı var?
-        cid: 0
+      - text: Yoksa
+        cid: 1
+      - text: okuduğunuz
+        cid: 5
+      - text: bir kitabınız mı
+        cid: 3
+      - text: var?
+        cid: 2
   - verse: 38
     segments:
-      - text: >-
-          Seçtikleriniz herhalde orada olacaktır.
-        cid: 0
+      - text: Seçtikleriniz herhalde orada olacaktır.
+        cid: 4
   - verse: 39
     segments:
-      - text: >-
-          Yoksa aleyhimizde, kıyamet gününe kadar süregidecek ahidleriniz mi var ki,
-          kendinize hükmettikleriniz sizin olacaktır?
-        cid: 0
+      - text: Yoksa aleyhimizde,
+        cid: 1
+      - text: kıyamet
+        cid: 8
+      - text: gününe kadar
+        cid: 7
+      - text: süregidecek ahidleriniz mi
+        cid: 5
+      - text: var ki, kendinize
+        cid: 2
+      - text: hükmettikleriniz sizin olacaktır?
+        cid: 12
   - verse: 40
     segments:
       - text: >-
-          Sor onlara: "Bunu kim üzerine alır?"
-        cid: 0
+          Sor onlara:
+        cid: 1
+      - text: >-
+          "Bunu kim üzerine alır?"
+        cid: 3
   - verse: 41
     segments:
-      - text: >-
-          Yoksa onların ortakları mı vardır? Doğru sözlü iseler ortaklarını getirsinler.
-        cid: 0
+      - text: Yoksa
+        cid: 1
+      - text: onların ortakları mı
+        cid: 5
+      - text: vardır?
+        cid: 2
+      - text: Doğru sözlü
+        cid: 8
+      - text: iseler
+        cid: 7
+      - text: ortaklarını
+        cid: 5
+      - text: getirsinler.
+        cid: 4
   - verse: 42
     segments:
+      - text: O gün işin dehşetinden
+        cid: 1
+      - text: baldırlar
+        cid: 7
+      - text: açılır;
+        cid: 2
       - text: >-
-          O gün işin dehşetinden baldırlar açılır; gözleri dönmüş olarak yüzlerini zillet
-          bürür; secdeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasağlam
-          oldukları zaman secdeye çağırılmışlardı.
+          gözleri dönmüş olarak yüzlerini zillet bürür; secdeye çağırılırlar ama buna
+        cid: 0
+      - text: güçleri yetmez.
+        cid: 8
+      - text: Oysa, kendileri
+        cid: 9
+      - text: sapasağlam oldukları zaman secdeye çağırılmışlardı.
         cid: 0
   - verse: 43
     segments:
-      - text: >-
-          O gün işin dehşetinden baldırlar açılır; gözleri dönmüş olarak yüzlerini zillet
-          bürür; secdeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasağlam
-          oldukları zaman secdeye çağırılmışlardı.
+      - text: O gün işin dehşetinden baldırlar açılır;
         cid: 0
+      - text: gözleri
+        cid: 2
+      - text: dönmüş olarak
+        cid: 3
+      - text: yüzlerini zillet
+        cid: 4
+      - text: bürür;
+        cid: 9
+      - text: secdeye
+        cid: 8
+      - text: çağırılırlar ama buna
+        cid: 7
+      - text: güçleri yetmez. Oysa, kendileri
+        cid: 0
+      - text: sapasağlam oldukları zaman
+        cid: 11
+      - text: secdeye
+        cid: 8
+      - text: çağırılmışlardı.
+        cid: 7
   - verse: 44
     segments:
-      - text: >-
-          Kuran'ı yalanlayanları Bana bırak; Biz onları bilmedikleri yerden yavaş yavaş
-          azaba yaklaştıracağız.
-        cid: 0
+      - text: Kuran'ı yalanlayanları
+        cid: 3
+      - text: Bana bırak;
+        cid: 1
+      - text: Biz onları
+        cid: 6
+      - text: bilmedikleri
+        cid: 10
+      - text: yerden yavaş yavaş azaba
+        cid: 7
+      - text: yaklaştıracağız.
+        cid: 6
   - verse: 45
     segments:
-      - text: >-
-          Onlara mehil veriyorum; doğrusu Benim tuzağım sağlamdır.
-        cid: 0
+      - text: Onlara mehil
+        cid: 2
+      - text: veriyorum;
+        cid: 1
+      - text: doğrusu
+        cid: 3
+      - text: Benim tuzağım
+        cid: 4
+      - text: sağlamdır.
+        cid: 5
   - verse: 46
     segments:
-      - text: >-
-          Yoksa, sen onlardan ücret istiyorsun da, ağır bir borç altında mı kalıyorlar?
-          Elbette hayır.
+      - text: Yoksa,
+        cid: 1
+      - text: sen
+        cid: 2
+      - text: onlardan
+        cid: 4
+      - text: ücret
+        cid: 3
+      - text: istiyorsun da,
+        cid: 2
+      - text: ağır
+        cid: 7
+      - text: bir borç
+        cid: 5
+      - text: altında mı
+        cid: 7
+      - text: kalıyorlar?
+        cid: 6
+      - text: Elbette hayır.
         cid: 0
   - verse: 47
     segments:
-      - text: >-
-          Yoksa, gaybın bilgisi kendilerinin katında da onlar mı yazıyorlar?
-        cid: 0
+      - text: Yoksa,
+        cid: 1
+      - text: gaybın bilgisi kendilerinin katında da
+        cid: 3
+      - text: onlar mı
+        cid: 4
+      - text: yazıyorlar?
+        cid: 5
   - verse: 48
     segments:
-      - text: >-
-          Sen Rabbinin hükmüne kadar sabret; balık sahibi (Yunus) gibi olma, o, pek üzgün
-          olarak Rabbine seslenmişti.
+      - text: Sen
+        cid: 1
+      - text: Rabbinin
+        cid: 3
+      - text: hükmüne kadar
+        cid: 2
+      - text: sabret;
+        cid: 1
+      - text: balık
+        cid: 7
+      - text: sahibi
+        cid: 6
+      - text: (Yunus)
         cid: 0
+      - text: gibi
+        cid: 6
+      - text: olma,
+        cid: 5
+      - text: o, pek üzgün olarak
+        cid: 10
+      - text: Rabbine
+        cid: 3
+      - text: seslenmişti.
+        cid: 9
   - verse: 49
     segments:
-      - text: >-
-          Rabbinin katından ona bir nimet ulaşmasaydı, kınanmış olarak sahile atılacaktı.
-        cid: 0
+      - text: Rabbinin katından
+        cid: 6
+      - text: ona
+        cid: 2
+      - text: bir nimet ulaşmasaydı,
+        cid: 4
+      - text: kınanmış olarak
+        cid: 10
+      - text: sahile
+        cid: 8
+      - text: atılacaktı.
+        cid: 7
   - verse: 50
     segments:
+      - text: Rabbi
+        cid: 2
+      - text: onu seçip
+        cid: 3
+      - text: iyilerden kıldı.
+        cid: 5
       - text: >-
-          Rabbi onu seçip iyilerden kıldı. Doğrusu inkar edenler, Kuran'ı dinlediklerinde
-          nerdeyse seni gözleriyle yıkıp devireceklerdi. "O delidir" diyorlardı.
+          Doğrusu inkar edenler, Kuran'ı dinlediklerinde nerdeyse seni gözleriyle yıkıp
+          devireceklerdi. "O delidir" diyorlardı.
         cid: 0
   - verse: 51
     segments:
-      - text: >-
-          Rabbi onu seçip iyilerden kıldı. Doğrusu inkar edenler, Kuran'ı dinlediklerinde
-          nerdeyse seni gözleriyle yıkıp devireceklerdi. "O delidir" diyorlardı.
+      - text: Rabbi onu seçip iyilerden kıldı.
         cid: 0
+      - text: Doğrusu inkar edenler,
+        cid: 4
+      - text: Kuran'ı dinlediklerinde
+        cid: 9
+      - text: nerdeyse
+        cid: 2
+      - text: seni
+        cid: 5
+      - text: gözleriyle yıkıp
+        cid: 6
+      - text: devireceklerdi.
+        cid: 5
+      - text: >-
+          "O
+        cid: 11
+      - text: >-
+          delidir"
+        cid: 12
+      - text: diyorlardı.
+        cid: 10
   - verse: 52
     segments:
-      - text: >-
-          Oysa Kuran, alemler için bir öğütten başka bir şey değildir.
+      - text: Oysa
         cid: 0
+      - text: Kuran, alemler için bir öğütten
+        cid: 5
+      - text: başka bir şey
+        cid: 3
+      - text: değildir.
+        cid: 1

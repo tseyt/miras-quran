@@ -4,150 +4,263 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Güneş dürülüp ışığı kalmadığı zaman;
-        cid: 0
+      - text: Güneş dürülüp ışığı kalmadığı
+        cid: 2
+      - text: zaman;
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Yıldızlar düşüp, söndüğü zaman;
-        cid: 0
+      - text: Yıldızlar düşüp, söndüğü
+        cid: 2
+      - text: zaman;
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Doğurması yaklaşmış develer başıboş bırakıldığı zaman;
+      - text: Doğurması
+        cid: 1
+      - text: yaklaşmış
+        cid: 2
+      - text: develer
+        cid: 3
+      - text: başıboş bırakıldığı zaman;
         cid: 0
   - verse: 4
     segments:
-      - text: >-
-          Doğurması yaklaşmış develer başıboş bırakıldığı zaman;
+      - text: Doğurması
         cid: 0
+      - text: yaklaşmış develer
+        cid: 2
+      - text: başıboş bırakıldığı
+        cid: 3
+      - text: zaman;
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Yabani hayvanlar bir araya toplatıldığı zaman;
-        cid: 0
+      - text: Yabani hayvanlar
+        cid: 2
+      - text: bir araya toplatıldığı
+        cid: 3
+      - text: zaman;
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Denizler kaynaştırıldığı zaman;
-        cid: 0
+      - text: Denizler
+        cid: 2
+      - text: kaynaştırıldığı
+        cid: 3
+      - text: zaman;
+        cid: 1
   - verse: 7
     segments:
-      - text: >-
-          Canlar bedenlerle birleştirildiği zaman;
+      - text: Canlar bedenlerle
         cid: 0
+      - text: birleştirildiği zaman;
+        cid: 1
   - verse: 8
     segments:
-      - text: >-
-          Kız çocuğun hangi suçtan ötürü öldürüldüğü kendisine sorulduğu zaman;
+      - text: Kız çocuğun
+        cid: 2
+      - text: hangi suçtan ötürü öldürüldüğü kendisine
         cid: 0
+      - text: sorulduğu
+        cid: 3
+      - text: zaman;
+        cid: 1
   - verse: 9
     segments:
-      - text: >-
-          Kız çocuğun hangi suçtan ötürü öldürüldüğü kendisine sorulduğu zaman;
+      - text: Kız çocuğun
+        cid: 0
+      - text: hangi suçtan ötürü
+        cid: 1
+      - text: öldürüldüğü kendisine
+        cid: 3
+      - text: sorulduğu zaman;
         cid: 0
   - verse: 10
     segments:
-      - text: >-
-          Amel defterleri açıldığı zaman;
-        cid: 0
+      - text: Amel defterleri
+        cid: 2
+      - text: açıldığı
+        cid: 3
+      - text: zaman;
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Gök yerinden oynatıldığı zaman;
-        cid: 0
+      - text: Gök yerinden oynatıldığı
+        cid: 2
+      - text: zaman;
+        cid: 1
   - verse: 12
     segments:
-      - text: >-
-          Cehennem alevlendirildiği zaman;
-        cid: 0
+      - text: Cehennem
+        cid: 2
+      - text: alevlendirildiği
+        cid: 3
+      - text: zaman;
+        cid: 1
   - verse: 13
     segments:
-      - text: >-
-          Cennet yaklaştırıldığı zaman;
-        cid: 0
+      - text: Cennet
+        cid: 2
+      - text: yaklaştırıldığı
+        cid: 3
+      - text: zaman;
+        cid: 1
   - verse: 14
     segments:
-      - text: >-
-          İnsanoğlu önceden ne hazırladığını görecektir.
-        cid: 0
+      - text: İnsanoğlu önceden
+        cid: 1
+      - text: ne hazırladığını görecektir.
+        cid: 3
   - verse: 15
     segments:
-      - text: >-
-          Gündüz sinip geceleri gözüken gezegenlere and olsun;
+      - text: Gündüz sinip
+        cid: 1
+      - text: geceleri
+        cid: 2
+      - text: gözüken
+        cid: 3
+      - text: gezegenlere and olsun;
         cid: 0
   - verse: 16
     segments:
-      - text: >-
-          Gündüz sinip geceleri gözüken gezegenlere and olsun;
+      - text: Gündüz sinip geceleri gözüken
         cid: 0
+      - text: gezegenlere and
+        cid: 1
+      - text: olsun;
+        cid: 2
   - verse: 17
     segments:
-      - text: >-
-          Kararmaya başlayan geceye and olsun;
+      - text: Kararmaya
         cid: 0
+      - text: başlayan geceye and olsun;
+        cid: 1
   - verse: 18
     segments:
-      - text: >-
-          Ağarmaya başlayan sabaha and olsun ki,
-        cid: 0
+      - text: Ağarmaya
+        cid: 1
+      - text: başlayan
+        cid: 3
+      - text: sabaha and olsun ki,
+        cid: 1
   - verse: 19
     segments:
-      - text: >-
-          Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güvenilen
-          şerefli bir elçinin getirdiği sözdür.
+      - text: Bu Kuran,
+        cid: 2
+      - text: arşın sahibi katında
         cid: 0
+      - text: değerli,
+        cid: 4
+      - text: güçlü,
+        cid: 0
+      - text: sözü dinlenen
+        cid: 2
+      - text: ve güvenilen
+        cid: 0
+      - text: şerefli bir elçinin
+        cid: 3
+      - text: getirdiği sözdür.
+        cid: 2
   - verse: 20
     segments:
-      - text: >-
-          Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güvenilen
-          şerefli bir elçinin getirdiği sözdür.
+      - text: Bu Kuran,
+        cid: 0
+      - text: arşın
+        cid: 5
+      - text: sahibi
+        cid: 4
+      - text: katında
+        cid: 3
+      - text: değerli,
+        cid: 0
+      - text: güçlü,
+        cid: 2
+      - text: sözü dinlenen ve güvenilen şerefli bir elçinin getirdiği sözdür.
         cid: 0
   - verse: 21
     segments:
-      - text: >-
-          Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güvenilen
-          şerefli bir elçinin getirdiği sözdür.
+      - text: Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve
+        cid: 0
+      - text: güvenilen
+        cid: 3
+      - text: şerefli bir elçinin getirdiği sözdür.
         cid: 0
   - verse: 22
     segments:
-      - text: >-
-          Arkadaşınız (Muhammed) asla deli değildir.
+      - text: Arkadaşınız
+        cid: 2
+      - text: (Muhammed)
         cid: 0
+      - text: asla
+        cid: 2
+      - text: deli
+        cid: 3
+      - text: değildir.
+        cid: 1
   - verse: 23
     segments:
-      - text: >-
-          And olsun ki, o, Cebrail'i apaçık ufukta görmüştür.
-        cid: 0
+      - text: And olsun ki,
+        cid: 1
+      - text: o, Cebrail'i
+        cid: 3
+      - text: apaçık
+        cid: 4
+      - text: ufukta
+        cid: 3
+      - text: görmüştür.
+        cid: 2
   - verse: 24
     segments:
-      - text: >-
-          Peygamber, görülmeyenler hakkında söylediklerinden ötürü töhmet altında
-          tutulamaz.
-        cid: 0
+      - text: Peygamber, görülmeyenler
+        cid: 4
+      - text: hakkında söylediklerinden ötürü töhmet altında tutulamaz.
+        cid: 3
   - verse: 25
     segments:
-      - text: >-
-          Bu Kuran, kovulmuş şeytanın sözü olamaz.
+      - text: Bu
         cid: 0
+      - text: Kuran, kovulmuş
+        cid: 5
+      - text: şeytanın
+        cid: 4
+      - text: sözü olamaz.
+        cid: 3
   - verse: 26
     segments:
-      - text: >-
-          Nereye gidiyorsunuz?
-        cid: 0
+      - text: Nereye
+        cid: 1
+      - text: gidiyorsunuz?
+        cid: 2
   - verse: 27
     segments:
-      - text: >-
-          Kuran, ancak aranızda doğru yola girmeyi dileyene ve alemlere bir öğüttür.
+      - text: Kuran, ancak
+        cid: 3
+      - text: aranızda doğru yola girmeyi dileyene ve
         cid: 0
+      - text: alemlere
+        cid: 5
+      - text: bir öğüttür.
+        cid: 4
   - verse: 28
     segments:
-      - text: >-
-          Kuran, ancak aranızda doğru yola girmeyi dileyene ve alemlere bir öğüttür.
+      - text: Kuran, ancak
+        cid: 0
+      - text: aranızda
+        cid: 3
+      - text: doğru yola girmeyi dileyene
+        cid: 4
+      - text: ve alemlere bir öğüttür.
         cid: 0
   - verse: 29
     segments:
-      - text: >-
-          Alemlerin Rabbi olan Allah dilemedikçe sizler bir şey dileyemezsiniz.
-        cid: 0
+      - text: Alemlerin
+        cid: 8
+      - text: Rabbi olan
+        cid: 7
+      - text: Allah
+        cid: 6
+      - text: dilemedikçe
+        cid: 4
+      - text: sizler bir şey dileyemezsiniz.
+        cid: 2

@@ -4,401 +4,871 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Rahman olan Allah Kuran'ı öğretti;
+      - text: Rahman olan Allah
+        cid: 1
+      - text: Kuran'ı öğretti;
         cid: 0
   - verse: 2
     segments:
-      - text: >-
-          Rahman olan Allah Kuran'ı öğretti;
+      - text: Rahman olan Allah
         cid: 0
+      - text: Kuran'ı
+        cid: 2
+      - text: öğretti;
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          İnsanı yarattı, ona konuşmayı öğretti.
+      - text: İnsanı
+        cid: 2
+      - text: yarattı,
+        cid: 1
+      - text: ona konuşmayı öğretti.
         cid: 0
   - verse: 4
     segments:
-      - text: >-
-          İnsanı yarattı, ona konuşmayı öğretti.
+      - text: İnsanı yarattı,
         cid: 0
+      - text: ona konuşmayı öğretti.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Güneş ve ayın hareketleri bir hesaba göredir.
+      - text: Güneş
+        cid: 1
+      - text: ve ayın
         cid: 0
+      - text: hareketleri bir hesaba göredir.
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          Bitkiler ve ağaçlar O'nun buyruğuna boyun eğerler.
-        cid: 0
+      - text: Bitkiler
+        cid: 1
+      - text: ve ağaçlar O'nun buyruğuna boyun eğerler.
+        cid: 2
   - verse: 7
     segments:
-      - text: >-
-          O, göğü yükseltmiştir; tartıyı koymuştur.
-        cid: 0
+      - text: O, göğü
+        cid: 1
+      - text: yükseltmiştir;
+        cid: 2
+      - text: tartıyı koymuştur.
+        cid: 3
   - verse: 8
     segments:
-      - text: >-
-          Artık tartıda tecavüz etmeyin.
-        cid: 0
+      - text: Artık tartıda tecavüz
+        cid: 3
+      - text: etmeyin.
+        cid: 1
   - verse: 9
     segments:
-      - text: >-
-          Tartmayı doğru yapın, tartıyı eksik tutmayın.
-        cid: 0
+      - text: Tartmayı doğru
+        cid: 2
+      - text: yapın,
+        cid: 1
+      - text: tartıyı
+        cid: 2
+      - text: eksik tutmayın.
+        cid: 5
   - verse: 10
     segments:
-      - text: >-
-          Allah, yeri yaratıkları için meydana getirmiştir.
-        cid: 0
+      - text: Allah, yeri yaratıkları için meydana getirmiştir.
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Orada meyveler, salkımlı hurma ağaçları, kabuklu taneler, güzel kokulu otlar
-          vardır.
+      - text: Orada
+        cid: 1
+      - text: meyveler,
+        cid: 2
+      - text: salkımlı
+        cid: 4
+      - text: hurma ağaçları, kabuklu taneler, güzel
+        cid: 3
+      - text: kokulu otlar
         cid: 0
+      - text: vardır.
+        cid: 1
   - verse: 12
     segments:
-      - text: >-
-          Orada meyveler, salkımlı hurma ağaçları, kabuklu taneler, güzel kokulu otlar
-          vardır.
+      - text: Orada meyveler, salkımlı hurma ağaçları, kabuklu taneler, güzel
+        cid: 0
+      - text: kokulu otlar
+        cid: 4
+      - text: vardır.
         cid: 0
   - verse: 13
     segments:
-      - text: >-
-          Ey insanlar ve cinler! Öyleyken, Rabbinizin nimetlerinden hangisini
-          yalanlarsınız?
+      - text: Ey insanlar ve
         cid: 0
+      - text: cinler! Öyleyken, Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 14
     segments:
-      - text: >-
-          O, insanı pişmiş çamur gibi kuru balçıktan yaratmıştır.
-        cid: 0
+      - text: O, insanı
+        cid: 2
+      - text: pişmiş çamur gibi kuru
+        cid: 3
+      - text: balçıktan
+        cid: 4
+      - text: yaratmıştır.
+        cid: 1
   - verse: 15
     segments:
-      - text: >-
-          Cinleri de yalın bir alevden yaratmıştır.
-        cid: 0
+      - text: Cinleri de yalın
+        cid: 2
+      - text: bir alevden
+        cid: 3
+      - text: yaratmıştır.
+        cid: 1
   - verse: 16
     segments:
-      - text: >-
-          Öyleyken; Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken;
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 17
     segments:
-      - text: >-
-          O, iki doğunun Rabbidir, iki batının Rabbidir.
-        cid: 0
+      - text: O, iki doğunun
+        cid: 2
+      - text: Rabbidir,
+        cid: 3
+      - text: iki
+        cid: 2
+      - text: batının
+        cid: 4
+      - text: Rabbidir.
+        cid: 3
   - verse: 18
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 19
     segments:
-      - text: >-
-          Acı ve tatlı sulu iki denizi birbirine kavuşmamak üzere salıvermiştir.
+      - text: Acı
+        cid: 1
+      - text: ve tatlı
         cid: 0
+      - text: sulu iki denizi
+        cid: 2
+      - text: birbirine kavuşmamak üzere
+        cid: 3
+      - text: salıvermiştir.
+        cid: 1
   - verse: 20
     segments:
-      - text: >-
-          Aralarında bir engel vardır; birbirinin sınırını aşamazlar.
-        cid: 0
+      - text: Aralarında
+        cid: 1
+      - text: bir engel
+        cid: 2
+      - text: vardır;
+        cid: 1
+      - text: birbirinin sınırını aşamazlar.
+        cid: 3
   - verse: 21
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 22
     segments:
-      - text: >-
-          Bu iki denizden de inci ve mercan çıkar.
-        cid: 0
+      - text: Bu iki denizden de
+        cid: 2
+      - text: inci
+        cid: 3
+      - text: ve mercan
+        cid: 4
+      - text: çıkar.
+        cid: 1
   - verse: 23
     segments:
-      - text: >-
-          Öyleyken Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 24
     segments:
-      - text: >-
-          Denizde yürüyen dağlar gibi gemiler O'nundur.
-        cid: 0
+      - text: Denizde yürüyen
+        cid: 5
+      - text: dağlar gibi
+        cid: 6
+      - text: gemiler
+        cid: 2
+      - text: O'nundur.
+        cid: 1
   - verse: 25
     segments:
-      - text: >-
-          Öyleyken Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 26
     segments:
-      - text: >-
-          Yeryüzünde bulunan her şey fanidir.
-        cid: 0
+      - text: Yeryüzünde bulunan
+        cid: 2
+      - text: her şey fanidir.
+        cid: 1
   - verse: 27
     segments:
-      - text: >-
-          Ancak, yüce ve cömert olan Rabbinin varlığı bakidir.
+      - text: Ancak, yüce ve
         cid: 0
+      - text: cömert olan
+        cid: 5
+      - text: Rabbinin varlığı
+        cid: 3
+      - text: bakidir.
+        cid: 1
   - verse: 28
     segments:
-      - text: >-
-          Öyleyken Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 29
     segments:
-      - text: >-
-          Göklerde ve yerde olan kimseler her şeyi O'ndan isterler; O her an kainata
-          tasarruf etmektedir.
-        cid: 0
+      - text: Göklerde
+        cid: 4
+      - text: ve yerde olan
+        cid: 5
+      - text: kimseler
+        cid: 2
+      - text: her şeyi
+        cid: 6
+      - text: O'ndan isterler;
+        cid: 1
+      - text: O
+        cid: 8
+      - text: her an kainata tasarruf etmektedir.
+        cid: 6
   - verse: 30
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 31
     segments:
-      - text: >-
-          Ey insan ve cin toplulukları! Sizin de hesabınızı ele alacağız.
+      - text: Ey
+        cid: 3
+      - text: insan
+        cid: 4
+      - text: ve
+        cid: 0
+      - text: cin toplulukları!
+        cid: 4
+      - text: Sizin de hesabınızı ele alacağız.
         cid: 0
   - verse: 32
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 33
     segments:
-      - text: >-
-          Ey cin ve insan toplulukları! Göklerin ve yerin çevresini aşıp geçmeye gücünüz
-          yetiyorsa geçin! Ama Allah'ın verdiği bir güç olmaksızın geçemezsiniz ki!
+      - text: Ey
+        cid: 1
+      - text: cin
+        cid: 2
+      - text: ve insan
+        cid: 3
+      - text: toplulukları!
+        cid: 1
+      - text: Göklerin
+        cid: 10
+      - text: ve yerin çevresini aşıp
+        cid: 11
+      - text: geçmeye
+        cid: 6
+      - text: gücünüz yetiyorsa
+        cid: 5
+      - text: geçin!
+        cid: 12
+      - text: Ama Allah'ın verdiği bir güç
         cid: 0
+      - text: olmaksızın geçemezsiniz ki!
+        cid: 14
   - verse: 34
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 35
     segments:
-      - text: >-
-          Ey insanlar ve cinler! Üzerinize dumansız bir alev ve ateşsiz bir duman
-          gönderilir de kurtulamazsınız.
+      - text: Ey insanlar ve
         cid: 0
+      - text: cinler! Üzerinize
+        cid: 2
+      - text: dumansız
+        cid: 6
+      - text: bir alev
+        cid: 3
+      - text: ve
+        cid: 0
+      - text: ateşsiz
+        cid: 4
+      - text: bir duman
+        cid: 6
+      - text: gönderilir de kurtulamazsınız.
+        cid: 1
   - verse: 36
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 37
     segments:
-      - text: >-
-          Gök yarılıp da, gül gibi kızardığı, yağ gibi eridiği zaman haliniz nice olur?
-        cid: 0
+      - text: Gök
+        cid: 3
+      - text: yarılıp da,
+        cid: 2
+      - text: gül gibi kızardığı,
+        cid: 5
+      - text: yağ gibi eridiği
+        cid: 6
+      - text: zaman haliniz nice olur?
+        cid: 1
   - verse: 38
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 39
     segments:
-      - text: >-
-          O gün ne insana ve ne cine suçu sorulur.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: ne
+        cid: 7
+      - text: insana
+        cid: 6
+      - text: ve ne
+        cid: 7
+      - text: cine suçu
+        cid: 8
+      - text: sorulur.
+        cid: 2
   - verse: 40
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 41
     segments:
-      - text: >-
-          Suçlular simalarından tanınırlar da, alın saçlarından ve ayaklarından
-          yakalanırlar.
-        cid: 0
+      - text: Suçlular
+        cid: 2
+      - text: simalarından
+        cid: 3
+      - text: tanınırlar da,
+        cid: 1
+      - text: alın saçlarından
+        cid: 5
+      - text: ve ayaklarından yakalanırlar.
+        cid: 6
   - verse: 42
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 43
     segments:
-      - text: >-
-          İşte suçluların yalanladıkları cehennem budur.
-        cid: 0
+      - text: İşte
+        cid: 1
+      - text: suçluların
+        cid: 6
+      - text: yalanladıkları
+        cid: 3
+      - text: cehennem budur.
+        cid: 2
   - verse: 44
     segments:
-      - text: >-
-          Onlar, cehennem ateşiyle kaynar su arasında dolaşır dururlar.
+      - text: Onlar, cehennem
         cid: 0
+      - text: ateşiyle kaynar su
+        cid: 4
+      - text: arasında
+        cid: 3
+      - text: dolaşır dururlar.
+        cid: 1
   - verse: 45
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 46
     segments:
-      - text: >-
-          Rabbine karşı durmaktan korkan kimseye iki cennet vardır.
-        cid: 0
+      - text: Rabbine karşı
+        cid: 4
+      - text: durmaktan
+        cid: 3
+      - text: korkan
+        cid: 2
+      - text: kimseye
+        cid: 1
+      - text: iki cennet
+        cid: 5
+      - text: vardır.
+        cid: 1
   - verse: 47
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 48
     segments:
-      - text: >-
-          Bu iki cennet türlü ağaçlarla doludur.
-        cid: 0
+      - text: Bu iki cennet türlü
+        cid: 1
+      - text: ağaçlarla doludur.
+        cid: 2
   - verse: 49
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 50
     segments:
-      - text: >-
-          Bu cennetlerden akan iki kaynak vardır.
+      - text: Bu cennetlerden
         cid: 0
+      - text: akan iki kaynak
+        cid: 2
+      - text: vardır.
+        cid: 1
   - verse: 51
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 52
     segments:
-      - text: >-
-          Bu cennetlerde türlü meyveden çift çift vardır.
+      - text: Bu cennetlerde
         cid: 0
+      - text: türlü meyveden
+        cid: 4
+      - text: çift çift
+        cid: 5
+      - text: vardır.
+        cid: 1
   - verse: 53
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 54
     segments:
-      - text: >-
-          Orada, örtüleri parlak atlastan yataklara yaslanırlar; iki cennetin meyvelerini
-          de kolayca toplarlar.
-        cid: 0
+      - text: Orada, örtüleri parlak
+        cid: 1
+      - text: atlastan
+        cid: 5
+      - text: yataklara
+        cid: 3
+      - text: yaslanırlar;
+        cid: 1
+      - text: iki cennetin
+        cid: 8
+      - text: meyvelerini de
+        cid: 7
+      - text: kolayca
+        cid: 9
+      - text: toplarlar.
+        cid: 7
   - verse: 55
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 56
     segments:
-      - text: >-
-          Orada, bakışlarını yalnız eşlerine çevirmiş, daha önce ne insan ve ne de
-          cinlerin dokunmuş olduğu eşler vardır.
-        cid: 0
+      - text: Orada,
+        cid: 1
+      - text: bakışlarını
+        cid: 3
+      - text: yalnız eşlerine çevirmiş,
+        cid: 2
+      - text: daha önce
+        cid: 7
+      - text: ne
+        cid: 8
+      - text: insan
+        cid: 6
+      - text: ve ne de
+        cid: 8
+      - text: cinlerin
+        cid: 9
+      - text: dokunmuş olduğu
+        cid: 5
+      - text: eşler
+        cid: 2
+      - text: vardır.
+        cid: 1
   - verse: 57
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 58
     segments:
-      - text: >-
-          Onlar yakut ve mercan gibidirler.
-        cid: 0
+      - text: Onlar
+        cid: 1
+      - text: yakut
+        cid: 2
+      - text: ve mercan gibidirler.
+        cid: 3
   - verse: 59
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 60
     segments:
-      - text: >-
-          İyiliğin karşılığı ancak iyilik değil midir?
-        cid: 0
+      - text: İyiliğin
+        cid: 3
+      - text: karşılığı
+        cid: 2
+      - text: ancak iyilik
+        cid: 5
+      - text: değil midir?
+        cid: 1
   - verse: 61
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 62
     segments:
-      - text: >-
-          Bu iki cennetten başka iki cennet daha vardır.
-        cid: 0
+      - text: Bu iki cennetten
+        cid: 3
+      - text: başka
+        cid: 2
+      - text: iki cennet daha
+        cid: 3
+      - text: vardır.
+        cid: 1
   - verse: 63
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 64
     segments:
-      - text: >-
-          Renkleri koyu yeşildir.
-        cid: 0
+      - text: Renkleri koyu yeşildir.
+        cid: 1
   - verse: 65
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 66
     segments:
-      - text: >-
-          İkisinde de durmadan fışkıran iki kaynak vardır.
-        cid: 0
+      - text: İkisinde de durmadan
+        cid: 1
+      - text: fışkıran
+        cid: 3
+      - text: iki kaynak
+        cid: 2
+      - text: vardır.
+        cid: 1
   - verse: 67
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 68
     segments:
-      - text: >-
-          İkisinde de türlü türlü meyveler, hurmalıklar ve nar ağaçları vardır.
-        cid: 0
+      - text: İkisinde de türlü türlü
+        cid: 1
+      - text: meyveler,
+        cid: 2
+      - text: hurmalıklar
+        cid: 3
+      - text: ve nar ağaçları
+        cid: 4
+      - text: vardır.
+        cid: 1
   - verse: 69
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 70
     segments:
-      - text: >-
-          Oralarda iyi huylu güzel kadınlar vardır.
-        cid: 0
+      - text: Oralarda iyi huylu
+        cid: 2
+      - text: güzel
+        cid: 3
+      - text: kadınlar
+        cid: 2
+      - text: vardır.
+        cid: 1
   - verse: 71
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 72
     segments:
-      - text: >-
-          Çadırlar içinde ceylan gözlüler vardır.
-        cid: 0
+      - text: Çadırlar
+        cid: 4
+      - text: içinde ceylan gözlüler vardır.
+        cid: 3
   - verse: 73
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 74
     segments:
-      - text: >-
-          Onlara daha önce insan da, cin de dokunmamıştır.
-        cid: 0
+      - text: Onlara
+        cid: 1
+      - text: daha önce
+        cid: 4
+      - text: insan da,
+        cid: 3
+      - text: cin de
+        cid: 6
+      - text: dokunmamıştır.
+        cid: 2
   - verse: 75
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 76
     segments:
-      - text: >-
-          Cennetlikler orada yeşil yastıklara ve harikulade işlemeli döşeklere
-          yaslanırlar.
+      - text: Cennetlikler orada
+        cid: 1
+      - text: yeşil
+        cid: 4
+      - text: yastıklara
+        cid: 3
+      - text: ve
         cid: 0
+      - text: harikulade işlemeli
+        cid: 6
+      - text: döşeklere
+        cid: 5
+      - text: yaslanırlar.
+        cid: 1
   - verse: 77
     segments:
-      - text: >-
-          Öyleyken, Rabbinizin nimetlerinden hangisini yalanlarsınız?
-        cid: 0
+      - text: Öyleyken,
+        cid: 4
+      - text: Rabbinizin
+        cid: 3
+      - text: nimetlerinden
+        cid: 2
+      - text: hangisini
+        cid: 1
+      - text: yalanlarsınız?
+        cid: 4
   - verse: 78
     segments:
-      - text: >-
-          Büyük ve pek cömert olan Rabbinin adı ne yücedir!
-        cid: 0
+      - text: Büyük
+        cid: 5
+      - text: ve pek cömert olan
+        cid: 6
+      - text: Rabbinin
+        cid: 3
+      - text: adı
+        cid: 2
+      - text: ne yücedir!
+        cid: 1

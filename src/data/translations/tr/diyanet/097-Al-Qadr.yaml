@@ -4,26 +4,57 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Doğrusu, Biz, Kuran'ı kadir gecesinde indirmişizdir.
-        cid: 0
+      - text: Doğrusu, Biz, Kuran'ı
+        cid: 1
+      - text: kadir
+        cid: 5
+      - text: gecesinde
+        cid: 3
+      - text: indirmişizdir.
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Kadir gecesinin ne olduğunu sen bilir misin?
-        cid: 0
+      - text: Kadir
+        cid: 5
+      - text: gecesinin
+        cid: 4
+      - text: ne olduğunu
+        cid: 3
+      - text: sen bilir misin?
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          Kadir gecesi bin aydan hayırlıdır.
-        cid: 0
+      - text: Kadir
+        cid: 2
+      - text: gecesi
+        cid: 1
+      - text: bin aydan
+        cid: 4
+      - text: hayırlıdır.
+        cid: 3
   - verse: 4
     segments:
-      - text: >-
-          Melekler ve Cebrail o gecede Rablerinin izniyle her türlü iş için inerler.
-        cid: 0
+      - text: Melekler
+        cid: 2
+      - text: ve Cebrail o gecede
+        cid: 3
+      - text: Rablerinin
+        cid: 6
+      - text: izniyle
+        cid: 5
+      - text: her türlü
+        cid: 8
+      - text: iş için
+        cid: 9
+      - text: inerler.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          O gece, tan yerinin ağarmasına kadar bir esenliktir.
-        cid: 0
+      - text: O gece,
+        cid: 2
+      - text: tan yerinin
+        cid: 5
+      - text: ağarmasına kadar
+        cid: 4
+      - text: bir esenliktir.
+        cid: 1

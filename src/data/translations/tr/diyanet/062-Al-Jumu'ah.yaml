@@ -4,69 +4,292 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Göklerde olanlar ve yerde bulunanlar, hükümran, çok kutsal, güçlü ve Hakim olan
-          Allah'ı tesbih ederler.
+      - text: Göklerde olanlar
+        cid: 5
+      - text: ve
         cid: 0
+      - text: yerde bulunanlar,
+        cid: 8
+      - text: hükümran, çok kutsal,
+        cid: 9
+      - text: güçlü
+        cid: 11
+      - text: ve
+        cid: 0
+      - text: Hakim olan
+        cid: 12
+      - text: Allah'ı
+        cid: 2
+      - text: tesbih ederler.
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Kitapsız (okuma-yazma bilmeyen) kimseler arasından, kendilerine ayetlerini
-          okuyan, onları arıtan, onlara Kitabı ve hikmeti öğreten bir Peygamber gönderen
-          O'dur. Onlar, daha önce, şüphesiz apaçık bir sapıklık içinde idiler.
+      - text: Kitapsız
+        cid: 13
+      - text: (okuma-yazma bilmeyen)
         cid: 0
+      - text: kimseler
+        cid: 13
+      - text: arasından,
+        cid: 5
+      - text: kendilerine
+        cid: 7
+      - text: ayetlerini
+        cid: 10
+      - text: okuyan,
+        cid: 8
+      - text: onları
+        cid: 11
+      - text: arıtan, onlara
+        cid: 12
+      - text: Kitabı
+        cid: 13
+      - text: ve hikmeti
+        cid: 14
+      - text: öğreten
+        cid: 12
+      - text: bir Peygamber
+        cid: 6
+      - text: gönderen O'dur.
+        cid: 2
+      - text: Onlar,
+        cid: 16
+      - text: daha önce, şüphesiz
+        cid: 18
+      - text: apaçık
+        cid: 21
+      - text: bir sapıklık
+        cid: 20
+      - text: içinde
+        cid: 19
+      - text: idiler.
+        cid: 16
   - verse: 3
     segments:
-      - text: >-
-          Onlardan başkalarına da -ki henüz onlara katılmamışlardır- Kitap ve hikmeti
-          öğretmek üzere, Peygamberi gönderen Allah'tır. O, güçlüdür, Hakim'dir.
+      - text: Onlardan başkalarına da -ki
+        cid: 2
+      - text: henüz
+        cid: 3
+      - text: onlara
+        cid: 2
+      - text: katılmamışlardır- Kitap
+        cid: 4
+      - text: ve hikmeti öğretmek üzere, Peygamberi gönderen
         cid: 0
+      - text: Allah'tır. O,
+        cid: 6
+      - text: güçlüdür,
+        cid: 7
+      - text: Hakim'dir.
+        cid: 8
   - verse: 4
     segments:
-      - text: >-
-          Bu, Allah'ın dilediğine verdiği lütfüdür. Allah, büyük lütuf sahibidir.
-        cid: 0
+      - text: Bu,
+        cid: 1
+      - text: Allah'ın
+        cid: 3
+      - text: dilediğine
+        cid: 6
+      - text: verdiği
+        cid: 4
+      - text: lütfüdür.
+        cid: 2
+      - text: Allah,
+        cid: 7
+      - text: büyük
+        cid: 10
+      - text: lütuf
+        cid: 9
+      - text: sahibidir.
+        cid: 8
   - verse: 5
     segments:
-      - text: >-
-          Kendilerine Tevrat öğretildiği halde, onun gereğini yapmayanların durumu,
-          sırtına kitap yüklenmiş merkebin durumu gibidir. Allah'ın ayetlerini yalanlayan
-          kimselerin durumu ne kötüdür! Allah zalimleri doğru yola eriştirmez.
-        cid: 0
+      - text: Kendilerine Tevrat öğretildiği halde, onun gereğini yapmayanların
+        cid: 4
+      - text: durumu, sırtına
+        cid: 8
+      - text: kitap
+        cid: 11
+      - text: yüklenmiş merkebin
+        cid: 2
+      - text: durumu gibidir.
+        cid: 8
+      - text: Allah'ın
+        cid: 18
+      - text: ayetlerini
+        cid: 17
+      - text: yalanlayan kimselerin
+        cid: 15
+      - text: durumu
+        cid: 8
+      - text: ne kötüdür!
+        cid: 12
+      - text: Allah
+        cid: 19
+      - text: zalimleri
+        cid: 23
+      - text: doğru yola eriştirmez.
+        cid: 20
   - verse: 6
     segments:
       - text: >-
-          De ki: "Ey Yahudiler! Bütün insanlar bir yana, yalnız kendinizin Allah'ın
-          dostları olduğunuzu iddia ediyorsanız ve bunda samimi iseniz, ölümü dilesenize!"
+          De ki:
+        cid: 1
+      - text: >-
+          "Ey
+        cid: 2
+      - text: Yahudiler!
+        cid: 4
+      - text: Bütün insanlar bir yana,
+        cid: 12
+      - text: yalnız kendinizin
+        cid: 7
+      - text: Allah'ın
+        cid: 9
+      - text: dostları olduğunuzu
+        cid: 8
+      - text: iddia
+        cid: 6
+      - text: ediyorsanız
+        cid: 13
+      - text: ve
         cid: 0
+      - text: bunda samimi
+        cid: 17
+      - text: iseniz,
+        cid: 16
+      - text: ölümü
+        cid: 14
+      - text: >-
+          dilesenize!"
+        cid: 13
   - verse: 7
     segments:
-      - text: >-
-          Yaptıklarından ötürü, ölümü asla dileyemezler. Allah, zalimleri bilendir.
-        cid: 0
+      - text: Yaptıklarından ötürü, ölümü
+        cid: 5
+      - text: asla dileyemezler.
+        cid: 3
+      - text: Allah,
+        cid: 7
+      - text: zalimleri
+        cid: 9
+      - text: bilendir.
+        cid: 8
   - verse: 8
     segments:
       - text: >-
-          De ki: "Doğrusu kendisinden kaçtığınız ölüm mutlaka karşınıza çıkacaktır;
-          sonra; görüleni de görülmeyeni de bilen Allah'a döndürüleceksiniz, O size
-          işlediklerinizi haber verecektir."
-        cid: 0
+          De ki:
+        cid: 1
+      - text: >-
+          "Doğrusu kendisinden
+        cid: 6
+      - text: kaçtığınız
+        cid: 4
+      - text: ölüm
+        cid: 3
+      - text: mutlaka karşınıza çıkacaktır;
+        cid: 7
+      - text: sonra;
+        cid: 9
+      - text: görüleni de
+        cid: 13
+      - text: görülmeyeni de
+        cid: 14
+      - text: bilen
+        cid: 11
+      - text: Allah'a döndürüleceksiniz,
+        cid: 10
+      - text: O size
+        cid: 15
+      - text: işlediklerinizi
+        cid: 18
+      - text: >-
+          haber verecektir."
+        cid: 15
   - verse: 9
     segments:
-      - text: >-
-          Ey inananlar! Cuma günü namaz için ezan okunduğu zaman Allah'ı anmaya koşun;
-          alım satımı bırakın; bilseniz, bu sizin için daha iyidir.
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: inananlar!
+        cid: 3
+      - text: Cuma
+        cid: 9
+      - text: günü
+        cid: 7
+      - text: namaz için ezan okunduğu
+        cid: 6
+      - text: zaman
+        cid: 4
+      - text: Allah'ı
+        cid: 13
+      - text: anmaya
+        cid: 11
+      - text: koşun;
+        cid: 10
+      - text: alım satımı
+        cid: 15
+      - text: bırakın;
+        cid: 14
+      - text: bilseniz,
+        cid: 20
+      - text: bu sizin için
+        cid: 16
+      - text: daha iyidir.
+        cid: 17
   - verse: 10
     segments:
-      - text: >-
-          Namaz bitince yeryüzüne yayılın; Allah'ın lütfundan rızık isteyin; Allah'ı çok
-          anın ki saadete erişesiniz.
-        cid: 0
+      - text: Namaz bitince
+        cid: 3
+      - text: yeryüzüne yayılın;
+        cid: 6
+      - text: Allah'ın
+        cid: 10
+      - text: lütfundan rızık
+        cid: 8
+      - text: isteyin;
+        cid: 4
+      - text: Allah'ı
+        cid: 12
+      - text: çok
+        cid: 13
+      - text: anın ki saadete
+        cid: 11
+      - text: erişesiniz.
+        cid: 15
   - verse: 11
     segments:
+      - text: Onlar bir kazanç
+        cid: 1
+      - text: veya
+        cid: 4
+      - text: bir eğlence
+        cid: 5
+      - text: gördüklerinde,
+        cid: 2
+      - text: seni
+        cid: 8
+      - text: ayakta
+        cid: 9
+      - text: bırakarak oraya yöneldiler.
+        cid: 8
       - text: >-
-          Onlar bir kazanç veya bir eğlence gördüklerinde, seni ayakta bırakarak oraya
-          yöneldiler. De ki: "Allah katında olan, eğlenceden de kazançtan da hayırlıdır.
-          Allah, rızık verenlerin en iyisidir."
+          De ki:
+        cid: 10
+      - text: >-
+          "Allah
+        cid: 19
+      - text: katında
+        cid: 12
+      - text: olan,
         cid: 0
+      - text: eğlenceden de kazançtan da
+        cid: 15
+      - text: hayırlıdır.
+        cid: 14
+      - text: Allah,
+        cid: 19
+      - text: rızık verenlerin
+        cid: 21
+      - text: >-
+          en iyisidir."
+        cid: 20

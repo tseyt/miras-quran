@@ -4,58 +4,84 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          And olsun Allah yolunda koştukça koşanlara;
-        cid: 0
+      - text: And olsun Allah yolunda koştukça koşanlara;
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          And olsun kıvılcımlar saçanlara;
-        cid: 0
+      - text: And olsun kıvılcımlar
+        cid: 2
+      - text: saçanlara;
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Sabah sabah akına çıkanlara;
-        cid: 0
+      - text: Sabah sabah
+        cid: 2
+      - text: akına çıkanlara;
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          Ve tozu dumana katanlara;
+      - text: Ve
         cid: 0
+      - text: tozu dumana katanlara;
+        cid: 1
   - verse: 5
     segments:
+      - text: Düşman topluluğunun içine
+        cid: 3
       - text: >-
-          Düşman topluluğunun içine dalanlara ki:
-        cid: 0
+          dalanlara ki:
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          İnsan gerçekten Rabbine karşı pek nankördür.
-        cid: 0
+      - text: İnsan gerçekten
+        cid: 2
+      - text: Rabbine karşı pek
+        cid: 3
+      - text: nankördür.
+        cid: 4
   - verse: 7
     segments:
-      - text: >-
-          Doğrusu kendisi de bunların hepsine şahittir.
+      - text: Doğrusu kendisi
         cid: 0
+      - text: de bunların hepsine
+        cid: 3
+      - text: şahittir.
+        cid: 4
   - verse: 8
     segments:
-      - text: >-
-          Gerçekten mala da pek düşkündür.
-        cid: 0
+      - text: Gerçekten mala da
+        cid: 3
+      - text: pek düşkündür.
+        cid: 4
   - verse: 9
     segments:
-      - text: >-
-          İnsan, kabirlerde bulunanların çıkarılacağı ve kalblerde olanların ortaya
-          konulacağı bir zamanın geleceğini bilmez mi?
+      - text: İnsan, kabirlerde
+        cid: 7
+      - text: bulunanların çıkarılacağı ve kalblerde
         cid: 0
+      - text: olanların ortaya konulacağı
+        cid: 5
+      - text: bir zamanın geleceğini
+        cid: 3
+      - text: bilmez mi?
+        cid: 1
   - verse: 10
     segments:
-      - text: >-
-          İnsan, kabirlerde bulunanların çıkarılacağı ve kalblerde olanların ortaya
-          konulacağı bir zamanın geleceğini bilmez mi?
+      - text: İnsan, kabirlerde
+        cid: 0
+      - text: bulunanların çıkarılacağı
+        cid: 2
+      - text: ve
+        cid: 0
+      - text: kalblerde
+        cid: 4
+      - text: olanların ortaya konulacağı bir zamanın geleceğini bilmez mi?
         cid: 0
   - verse: 11
     segments:
-      - text: >-
-          Doğrusu Rableri o gün onların her şeyinden haberdardır.
-        cid: 0
+      - text: Doğrusu Rableri
+        cid: 2
+      - text: o gün onların her şeyinden
+        cid: 4
+      - text: haberdardır.
+        cid: 5

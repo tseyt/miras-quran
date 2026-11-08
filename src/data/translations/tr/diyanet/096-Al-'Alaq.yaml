@@ -4,102 +4,169 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Yaratan Rabbinin adıyla oku!
-        cid: 0
+      - text: Yaratan
+        cid: 4
+      - text: Rabbinin
+        cid: 3
+      - text: adıyla
+        cid: 2
+      - text: oku!
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          O, insanı pıhtılaşmış kandan (alak'tan) yarattı.
+      - text: O,
+        cid: 1
+      - text: insanı pıhtılaşmış kandan
+        cid: 2
+      - text: (alak'tan)
         cid: 0
+      - text: yarattı.
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem
-          sahibidir.
+      - text: Oku!
+        cid: 1
+      - text: Kalemle öğreten, insana bilmediğini bildiren
         cid: 0
+      - text: Rabbin,
+        cid: 2
+      - text: en büyük kerem sahibidir.
+        cid: 3
   - verse: 4
     segments:
-      - text: >-
-          Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem
-          sahibidir.
+      - text: Oku!
+        cid: 0
+      - text: Kalemle
+        cid: 3
+      - text: öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir.
         cid: 0
   - verse: 5
     segments:
-      - text: >-
-          Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem
-          sahibidir.
+      - text: Oku! Kalemle
+        cid: 0
+      - text: öğreten,
+        cid: 1
+      - text: insana
+        cid: 2
+      - text: bilmediğini bildiren
+        cid: 4
+      - text: Rabbin, en büyük kerem sahibidir.
         cid: 0
   - verse: 6
     segments:
-      - text: >-
-          Ama, insanoğlu kendini müstağni sayarak azgınlık eder.
+      - text: Ama, insanoğlu
+        cid: 3
+      - text: kendini müstağni sayarak azgınlık eder.
         cid: 0
   - verse: 7
     segments:
-      - text: >-
-          Ama, insanoğlu kendini müstağni sayarak azgınlık eder.
+      - text: Ama, insanoğlu
         cid: 0
+      - text: kendini müstağni sayarak azgınlık eder.
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Dönüş şüphesiz Rabbinedir.
-        cid: 0
+      - text: Dönüş
+        cid: 4
+      - text: şüphesiz
+        cid: 1
+      - text: Rabbinedir.
+        cid: 3
   - verse: 9
     segments:
-      - text: >-
-          Sen, namaz kılan kulu bundan menedeni gördün mü?
+      - text: Sen, namaz kılan kulu bundan
         cid: 0
+      - text: menedeni
+        cid: 3
+      - text: gördün mü?
+        cid: 1
   - verse: 10
     segments:
-      - text: >-
-          Sen, namaz kılan kulu bundan menedeni gördün mü?
+      - text: Sen, namaz kılan
+        cid: 3
+      - text: kulu bundan
+        cid: 1
+      - text: menedeni gördün mü?
         cid: 0
   - verse: 11
     segments:
+      - text: Söyle bakalım, o
+        cid: 0
+      - text: kul doğru yolda giden
+        cid: 5
       - text: >-
-          Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı
-          buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun
+          veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle,
+          yalanlayıp yüz çeviren birisi olsun
         cid: 0
   - verse: 12
     segments:
-      - text: >-
-          Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı
-          buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun
+      - text: Söyle bakalım, o kul doğru yolda giden
+        cid: 0
+      - text: veya Allah'a karşı gelmekten sakınmayı buyuran
+        cid: 1
+      - text: bir kimse olsun;
+        cid: 0
+      - text: veya söyle,
+        cid: 1
+      - text: yalanlayıp yüz çeviren birisi olsun
         cid: 0
   - verse: 13
     segments:
       - text: >-
           Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı
-          buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun
+          buyuran
         cid: 0
+      - text: bir kimse olsun;
+        cid: 4
+      - text: veya söyle,
+        cid: 0
+      - text: yalanlayıp
+        cid: 3
+      - text: yüz çeviren birisi olsun
+        cid: 4
   - verse: 14
     segments:
-      - text: >-
-          Allah'ın her şeyi görmekte olduğunu bilmez mi?
-        cid: 0
+      - text: Allah'ın her şeyi
+        cid: 4
+      - text: görmekte olduğunu
+        cid: 5
+      - text: bilmez mi?
+        cid: 1
   - verse: 15
     segments:
-      - text: >-
-          Ama bundan vazgeçmezse, and olsun ki, onu perçeminden,
-        cid: 0
+      - text: Ama bundan vazgeçmezse,
+        cid: 3
+      - text: and olsun ki, onu
+        cid: 4
+      - text: perçeminden,
+        cid: 6
   - verse: 16
     segments:
-      - text: >-
-          Yalancı ve günahkar perçeminden cehenneme sürükleriz.
+      - text: Yalancı
+        cid: 2
+      - text: ve
         cid: 0
+      - text: günahkar
+        cid: 3
+      - text: perçeminden cehenneme sürükleriz.
+        cid: 1
   - verse: 17
     segments:
-      - text: >-
-          O zaman, kafadarlarını çağırsın,
-        cid: 0
+      - text: O zaman, kafadarlarını çağırsın,
+        cid: 1
   - verse: 18
     segments:
-      - text: >-
-          Biz de zebanileri çağıracağız.
-        cid: 0
+      - text: Biz de
+        cid: 1
+      - text: zebanileri
+        cid: 2
+      - text: çağıracağız.
+        cid: 1
   - verse: 19
     segments:
-      - text: >-
-          Sakın ona uyma; sen secde et, Rabbine yaklaş.
-        cid: 0
+      - text: Sakın ona uyma;
+        cid: 2
+      - text: sen secde et, Rabbine
+        cid: 4
+      - text: yaklaş.
+        cid: 5

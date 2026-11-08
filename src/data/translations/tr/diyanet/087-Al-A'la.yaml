@@ -4,98 +4,161 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Yüce Rabbinin adını tesbih et.
-        cid: 0
+      - text: Yüce
+        cid: 4
+      - text: Rabbinin
+        cid: 3
+      - text: adını
+        cid: 2
+      - text: tesbih et.
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          O, yaratıp şekil vermiştir.
-        cid: 0
+      - text: O,
+        cid: 1
+      - text: yaratıp
+        cid: 2
+      - text: şekil vermiştir.
+        cid: 3
   - verse: 3
     segments:
-      - text: >-
-          O, her şeyi ölçüyle yapıp doğru yolu göstermiştir.
-        cid: 0
+      - text: O, her şeyi ölçüyle yapıp
+        cid: 1
+      - text: doğru yolu göstermiştir.
+        cid: 3
   - verse: 4
     segments:
-      - text: >-
-          O, yeşillikler bitirmiştir.
-        cid: 0
+      - text: O, yeşillikler bitirmiştir.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Sonra da onları siyah çerçöpe çevirmiştir.
-        cid: 0
+      - text: Sonra da
+        cid: 1
+      - text: onları
+        cid: 2
+      - text: siyah
+        cid: 3
+      - text: çerçöpe
+        cid: 2
+      - text: çevirmiştir.
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Sana Kuran'ı Biz okutacağız ve asla unutmayacaksın;
+      - text: Sana Kuran'ı Biz okutacağız
+        cid: 1
+      - text: ve
         cid: 0
+      - text: asla unutmayacaksın;
+        cid: 2
   - verse: 7
     segments:
-      - text: >-
-          Allah'ın dilediği bundan müstesnadır. Doğrusu açığı da, gizliyi de bilen O'dur.
-        cid: 0
+      - text: Allah'ın
+        cid: 4
+      - text: dilediği bundan müstesnadır.
+        cid: 2
+      - text: Doğrusu açığı da,
+        cid: 7
+      - text: gizliyi de
+        cid: 9
+      - text: bilen O'dur.
+        cid: 6
   - verse: 8
     segments:
-      - text: >-
-          Kolay olanı yapmayı sana kolaylaştırırız.
-        cid: 0
+      - text: Kolay olanı yapmayı
+        cid: 2
+      - text: sana
+        cid: 1
+      - text: kolaylaştırırız.
+        cid: 2
   - verse: 9
     segments:
-      - text: >-
-          Faydalı olacaksa insanlara öğüt ver.
+      - text: Faydalı olacaksa
         cid: 0
+      - text: insanlara öğüt ver.
+        cid: 1
   - verse: 10
     segments:
-      - text: >-
-          Allah'tan korkan öğüt alacaktır.
-        cid: 0
+      - text: Allah'tan korkan öğüt alacaktır.
+        cid: 3
   - verse: 11
     segments:
-      - text: >-
-          Bedbaht olan ondan kaçınacaktır.
+      - text: Bedbaht olan
         cid: 0
+      - text: ondan kaçınacaktır.
+        cid: 1
   - verse: 12
     segments:
-      - text: >-
-          O, en büyük ateşe yaslanacaktır.
-        cid: 0
+      - text: O,
+        cid: 1
+      - text: en büyük
+        cid: 4
+      - text: ateşe yaslanacaktır.
+        cid: 3
   - verse: 13
     segments:
-      - text: >-
-          O, orada ne ölecektir ne de dirilecektir.
-        cid: 0
+      - text: O, orada
+        cid: 4
+      - text: ne ölecektir ne de dirilecektir.
+        cid: 5
   - verse: 14
     segments:
-      - text: >-
-          Arınmış olan, Rabbinin adını anıp namaz kılan, saadete erişecektir.
+      - text: Arınmış olan,
+        cid: 4
+      - text: Rabbinin adını anıp namaz kılan,
         cid: 0
+      - text: saadete erişecektir.
+        cid: 2
   - verse: 15
     segments:
-      - text: >-
-          Arınmış olan, Rabbinin adını anıp namaz kılan, saadete erişecektir.
+      - text: Arınmış olan,
+        cid: 0
+      - text: Rabbinin
+        cid: 3
+      - text: adını anıp
+        cid: 2
+      - text: namaz kılan,
+        cid: 4
+      - text: saadete erişecektir.
         cid: 0
   - verse: 16
     segments:
-      - text: >-
-          Ama sizler dünya hayatını tercih ediyorsunuz.
-        cid: 0
+      - text: Ama
+        cid: 1
+      - text: sizler
+        cid: 2
+      - text: dünya
+        cid: 4
+      - text: hayatını tercih ediyorsunuz.
+        cid: 3
   - verse: 17
     segments:
-      - text: >-
-          Oysa ahiret daha iyi ve daha bakidir.
-        cid: 0
+      - text: Oysa ahiret
+        cid: 1
+      - text: daha iyi
+        cid: 2
+      - text: ve daha bakidir.
+        cid: 3
   - verse: 18
     segments:
-      - text: >-
-          Doğrusu bu hükümler ilk sahifelerde, İbrahim ve Musa'nın sahifelerinde de
-          vardır.
+      - text: Doğrusu bu hükümler
+        cid: 2
+      - text: ilk
+        cid: 5
+      - text: sahifelerde,
+        cid: 4
+      - text: İbrahim ve Musa'nın
         cid: 0
+      - text: sahifelerinde de
+        cid: 4
+      - text: vardır.
+        cid: 3
   - verse: 19
     segments:
-      - text: >-
-          Doğrusu bu hükümler ilk sahifelerde, İbrahim ve Musa'nın sahifelerinde de
-          vardır.
+      - text: Doğrusu bu hükümler ilk sahifelerde,
+        cid: 0
+      - text: İbrahim
+        cid: 2
+      - text: ve Musa'nın
+        cid: 3
+      - text: sahifelerinde de vardır.
         cid: 0

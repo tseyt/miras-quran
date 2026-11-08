@@ -4,290 +4,624 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Gerçekleşecek olan!
-        cid: 0
+      - text: Gerçekleşecek olan!
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Nedir o gerçekleşecek olan gün?
-        cid: 0
+      - text: Nedir
+        cid: 1
+      - text: o gerçekleşecek olan gün?
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          Gerçekleşecek olanın ne olduğunu sana ne bildirir?
-        cid: 0
+      - text: Gerçekleşecek olanın
+        cid: 4
+      - text: ne olduğunu sana ne
+        cid: 3
+      - text: bildirir?
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Semud ve Ad milletleri tepelerine inecek bu gerçeği yalanladılar.
-        cid: 0
+      - text: Semud
+        cid: 2
+      - text: ve Ad
+        cid: 3
+      - text: milletleri tepelerine inecek bu gerçeği yalanladılar.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Bu yüzden Semud milleti zorlu bir sarsıntı ile yok edildi.
-        cid: 0
+      - text: Bu yüzden
+        cid: 1
+      - text: Semud milleti zorlu bir sarsıntı ile
+        cid: 2
+      - text: yok edildi.
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          Ad milleti de bu yüzden önünde durulmaz, dondurucu bir rüzgarla yok edildi.
-        cid: 0
+      - text: Ad milleti de
+        cid: 2
+      - text: bu yüzden önünde durulmaz, dondurucu
+        cid: 3
+      - text: bir rüzgarla
+        cid: 4
+      - text: yok edildi.
+        cid: 3
   - verse: 7
     segments:
-      - text: >-
-          Allah onların kökünü kesmek üzere, üzerlerine o rüzgarı yedi gece sekiz gün,
-          estirdi. Halkın, kökünden çıkarılmış hurma kütükleri gibi yere yıkıldıklarını
-          görürsün.
+      - text: Allah onların kökünü kesmek üzere,
+        cid: 9
+      - text: üzerlerine
+        cid: 2
+      - text: o
+        cid: 9
+      - text: rüzgarı
+        cid: 13
+      - text: yedi
+        cid: 3
+      - text: gece
+        cid: 4
+      - text: sekiz
+        cid: 5
+      - text: gün, estirdi.
+        cid: 6
+      - text: Halkın, kökünden
         cid: 0
+      - text: çıkarılmış hurma
+        cid: 14
+      - text: kütükleri gibi
+        cid: 13
+      - text: yere yıkıldıklarını
+        cid: 14
+      - text: görürsün.
+        cid: 8
   - verse: 8
     segments:
-      - text: >-
-          Onlardan arda kalmış bir şey görür müsün?
-        cid: 0
+      - text: Onlardan arda
+        cid: 3
+      - text: kalmış bir şey
+        cid: 5
+      - text: görür müsün?
+        cid: 1
   - verse: 9
     segments:
-      - text: >-
-          Firavun, ondan öncekiler ve alt üst olmuş kasabalarda oturanlar da suç
-          işlemişlerdi.
-        cid: 0
+      - text: Firavun,
+        cid: 2
+      - text: ondan öncekiler
+        cid: 4
+      - text: ve alt üst olmuş kasabalarda oturanlar da suç işlemişlerdi.
+        cid: 5
   - verse: 10
     segments:
-      - text: >-
-          Rabbinin peygamberine baş kaldırmışlardı. Bunun üzerine Rableri onları şiddeti
-          arttıkça artan bir şekilde yakaladı.
-        cid: 0
+      - text: Rabbinin
+        cid: 3
+      - text: peygamberine baş kaldırmışlardı.
+        cid: 2
+      - text: Bunun üzerine
+        cid: 4
+      - text: Rableri
+        cid: 3
+      - text: onları
+        cid: 4
+      - text: şiddeti arttıkça artan bir şekilde
+        cid: 6
+      - text: yakaladı.
+        cid: 4
   - verse: 11
     segments:
-      - text: >-
-          Su taştığı vakit, size bir ibret olmak üzere, anlayışlı kulaklar anlasın diye
-          süzülen gemide, sizi Biz taşımışızdır.
+      - text: Su
+        cid: 4
+      - text: taştığı vakit,
+        cid: 5
+      - text: size bir ibret olmak üzere, anlayışlı kulaklar anlasın diye süzülen
         cid: 0
+      - text: gemide,
+        cid: 7
+      - text: sizi
+        cid: 5
+      - text: Biz
+        cid: 1
+      - text: taşımışızdır.
+        cid: 5
   - verse: 12
     segments:
-      - text: >-
-          Su taştığı vakit, size bir ibret olmak üzere, anlayışlı kulaklar anlasın diye
-          süzülen gemide, sizi Biz taşımışızdır.
+      - text: Su taştığı vakit,
+        cid: 0
+      - text: size
+        cid: 2
+      - text: bir ibret olmak üzere, anlayışlı
+        cid: 3
+      - text: kulaklar anlasın
+        cid: 5
+      - text: diye süzülen
+        cid: 1
+      - text: gemide, sizi Biz taşımışızdır.
         cid: 0
   - verse: 13
     segments:
-      - text: >-
-          Sura bir üfürüş üfürüldüğü, yer ve dağlar kaldırılıp bir vuruşla birbirine
-          çarpıldığı zaman, işte o gün olacak olur, kıyamet kopar.
+      - text: Sura bir üfürüş üfürüldüğü,
+        cid: 4
+      - text: yer ve dağlar kaldırılıp bir vuruşla birbirine çarpıldığı
+        cid: 0
+      - text: zaman,
+        cid: 1
+      - text: işte o gün olacak olur, kıyamet kopar.
         cid: 0
   - verse: 14
     segments:
-      - text: >-
-          Sura bir üfürüş üfürüldüğü, yer ve dağlar kaldırılıp bir vuruşla birbirine
-          çarpıldığı zaman, işte o gün olacak olur, kıyamet kopar.
+      - text: Sura bir üfürüş üfürüldüğü,
+        cid: 0
+      - text: yer
+        cid: 1
+      - text: ve dağlar
+        cid: 3
+      - text: kaldırılıp bir vuruşla birbirine
+        cid: 1
+      - text: çarpıldığı
+        cid: 4
+      - text: zaman, işte o gün olacak olur, kıyamet kopar.
         cid: 0
   - verse: 15
     segments:
       - text: >-
           Sura bir üfürüş üfürüldüğü, yer ve dağlar kaldırılıp bir vuruşla birbirine
-          çarpıldığı zaman, işte o gün olacak olur, kıyamet kopar.
+          çarpıldığı zaman,
         cid: 0
+      - text: işte o gün
+        cid: 1
+      - text: olacak olur,
+        cid: 3
+      - text: kıyamet kopar.
+        cid: 2
   - verse: 16
     segments:
-      - text: >-
-          Gök yarılır; o gün düzeni bozulur.
-        cid: 0
+      - text: Gök
+        cid: 2
+      - text: yarılır;
+        cid: 1
+      - text: o
+        cid: 3
+      - text: gün düzeni bozulur.
+        cid: 4
   - verse: 17
     segments:
-      - text: >-
-          Melekler onun çevresindedirler; o gün Rabbinin arşını onlardan başka sekiz
-          tanesi yüklenir.
-        cid: 0
+      - text: Melekler onun çevresindedirler;
+        cid: 1
+      - text: o gün
+        cid: 8
+      - text: Rabbinin arşını
+        cid: 6
+      - text: onlardan başka
+        cid: 7
+      - text: sekiz tanesi yüklenir.
+        cid: 9
   - verse: 18
     segments:
-      - text: >-
-          O gün siz huzura alınırsınız, hiçbir şeyiniz gizli kalmaz.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: siz huzura alınırsınız,
+        cid: 5
+      - text: hiçbir şeyiniz
+        cid: 6
+      - text: gizli
+        cid: 3
+      - text: kalmaz.
+        cid: 4
   - verse: 19
     segments:
+      - text: Kitabı
+        cid: 4
+      - text: sağından
+        cid: 5
+      - text: verilen;
+        cid: 3
       - text: >-
-          Kitabı sağından verilen; "Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile
-          karşılaşacağımı umuyordum" der.
+          "Alın,
+        cid: 7
+      - text: kitabımı
+        cid: 9
+      - text: okuyun,
+        cid: 8
+      - text: >-
+          doğrusu bir hesaplaşma ile karşılaşacağımı umuyordum"
         cid: 0
+      - text: der.
+        cid: 6
   - verse: 20
     segments:
+      - text: Kitabı sağından verilen; "Alın, kitabımı okuyun,
+        cid: 0
+      - text: doğrusu
+        cid: 1
+      - text: bir hesaplaşma ile
+        cid: 5
       - text: >-
-          Kitabı sağından verilen; "Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile
-          karşılaşacağımı umuyordum" der.
+          karşılaşacağımı umuyordum"
+        cid: 4
+      - text: der.
         cid: 0
   - verse: 21
     segments:
-      - text: >-
-          Artık o, meyveleri sarkmış, yüksek bir bahçede, hoş bir yaşayış içindedir.
+      - text: Artık o,
+        cid: 1
+      - text: meyveleri sarkmış, yüksek bir bahçede,
         cid: 0
+      - text: hoş
+        cid: 4
+      - text: bir yaşayış
+        cid: 3
+      - text: içindedir.
+        cid: 2
   - verse: 22
     segments:
-      - text: >-
-          Artık o, meyveleri sarkmış, yüksek bir bahçede, hoş bir yaşayış içindedir.
+      - text: Artık o, meyveleri sarkmış,
+        cid: 0
+      - text: yüksek
+        cid: 3
+      - text: bir bahçede,
+        cid: 1
+      - text: hoş bir yaşayış içindedir.
         cid: 0
   - verse: 23
     segments:
-      - text: >-
-          Artık o, meyveleri sarkmış, yüksek bir bahçede, hoş bir yaşayış içindedir.
+      - text: Artık o,
+        cid: 0
+      - text: meyveleri
+        cid: 1
+      - text: sarkmış,
+        cid: 2
+      - text: yüksek bir bahçede, hoş bir yaşayış içindedir.
         cid: 0
   - verse: 24
     segments:
+      - text: Onlara şöyle
+        cid: 4
       - text: >-
-          Onlara şöyle denir: "Geçmiş günlerde, peşinen işlediklerinize karşılık afiyetle
-          yiyiniz içiniz."
-        cid: 0
+          denir:
+        cid: 3
+      - text: >-
+          "Geçmiş
+        cid: 8
+      - text: günlerde, peşinen
+        cid: 6
+      - text: işlediklerinize karşılık
+        cid: 5
+      - text: afiyetle
+        cid: 3
+      - text: yiyiniz
+        cid: 1
+      - text: >-
+          içiniz."
+        cid: 2
   - verse: 25
     segments:
-      - text: >-
-          Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana
-          verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş
-          olsaydı; malım bana fayda vermedi; gücüm de kalmadı" der.
+      - text: Fakat
         cid: 0
+      - text: kitabı kendisine
+        cid: 4
+      - text: solundan
+        cid: 5
+      - text: verilen
+        cid: 3
+      - text: >-
+          kimse:
+        cid: 2
+      - text: >-
+          "Kitabım
+        cid: 10
+      - text: keşke
+        cid: 7
+      - text: bana
+        cid: 0
+      - text: verilmeseydi;
+        cid: 3
+      - text: keşke
+        cid: 7
+      - text: hesabımın ne olduğunu bilmeseydim; bu
+        cid: 0
+      - text: iş keşke son bulmuş
+        cid: 7
+      - text: >-
+          olsaydı; malım bana fayda vermedi; gücüm de kalmadı"
+        cid: 0
+      - text: der.
+        cid: 6
   - verse: 26
     segments:
       - text: >-
-          Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana
-          verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş
-          olsaydı; malım bana fayda vermedi; gücüm de kalmadı" der.
+          Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana verilmeseydi;
+          keşke
+        cid: 0
+      - text: hesabımın ne olduğunu
+        cid: 4
+      - text: bilmeseydim;
+        cid: 2
+      - text: >-
+          bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı" der.
         cid: 0
   - verse: 27
     segments:
       - text: >-
-          Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana
-          verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş
-          olsaydı; malım bana fayda vermedi; gücüm de kalmadı" der.
+          Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana verilmeseydi;
+          keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş
+        cid: 0
+      - text: olsaydı;
+        cid: 2
+      - text: malım bana fayda vermedi; gücüm de kalmadı" der.
         cid: 0
   - verse: 28
     segments:
       - text: >-
-          Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana
+          Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke
+        cid: 0
+      - text: bana
+        cid: 3
+      - text: >-
           verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş
-          olsaydı; malım bana fayda vermedi; gücüm de kalmadı" der.
+          olsaydı;
+        cid: 0
+      - text: malım
+        cid: 4
+      - text: bana
+        cid: 3
+      - text: fayda vermedi;
+        cid: 2
+      - text: gücüm de kalmadı" der.
         cid: 0
   - verse: 29
     segments:
+      - text: Fakat
+        cid: 1
       - text: >-
-          Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana
-          verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş
-          olsaydı; malım bana fayda vermedi; gücüm de kalmadı" der.
+          kitabı kendisine solundan verilen kimse: "Kitabım keşke bana verilmeseydi; keşke
+          hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda
+          vermedi;
+        cid: 0
+      - text: >-
+          gücüm de kalmadı"
+        cid: 3
+      - text: der.
         cid: 0
   - verse: 30
     segments:
-      - text: >-
-          İlgililere şöyle buyurulur: "O'nu alın, bağlayın."
+      - text: İlgililere şöyle
         cid: 0
+      - text: >-
+          buyurulur: "O'nu alın,
+        cid: 1
+      - text: >-
+          bağlayın."
+        cid: 2
   - verse: 31
     segments:
       - text: >-
-          "Sonra cehenneme yaslayın"
-        cid: 0
+          "Sonra
+        cid: 1
+      - text: >-
+          cehenneme yaslayın"
+        cid: 2
   - verse: 32
     segments:
       - text: >-
-          "Sonra onu boyu yetmiş arşın olan zincire vurun";
-        cid: 0
+          "Sonra
+        cid: 1
+      - text: onu boyu
+        cid: 7
+      - text: yetmiş
+        cid: 5
+      - text: arşın olan
+        cid: 6
+      - text: zincire
+        cid: 2
+      - text: vurun";
+        cid: 7
   - verse: 33
     segments:
       - text: >-
-          "Çünkü, o, yüce Allah'a inanmazdı."
-        cid: 0
+          "Çünkü, o, yüce
+        cid: 1
+      - text: Allah'a
+        cid: 5
+      - text: >-
+          inanmazdı."
+        cid: 3
   - verse: 34
     segments:
       - text: >-
           "Yoksulun yiyeceği ile ilgilenmezdi."
-        cid: 0
+        cid: 5
   - verse: 35
     segments:
       - text: >-
-          "Bu sebeple burada bugün onun bir acıyanı yoktur."
+          "Bu
         cid: 0
+      - text: sebeple burada
+        cid: 4
+      - text: bugün onun bir acıyanı
+        cid: 3
+      - text: >-
+          yoktur."
+        cid: 1
   - verse: 36
     segments:
       - text: >-
-          "Günahkarların yiyeceği olan kanlı irinden başka bir yiyeceği de yoktur."
-        cid: 0
+          "Günahkarların yiyeceği olan kanlı
+        cid: 2
+      - text: irinden
+        cid: 4
+      - text: başka
+        cid: 3
+      - text: bir yiyeceği de
+        cid: 2
+      - text: >-
+          yoktur."
+        cid: 1
   - verse: 37
     segments:
       - text: >-
-          "Günahkarların yiyeceği olan kanlı irinden başka bir yiyeceği de yoktur."
+          "Günahkarların yiyeceği olan kanlı irinden
         cid: 0
+      - text: başka bir
+        cid: 1
+      - text: yiyeceği
+        cid: 2
+      - text: de
+        cid: 3
+      - text: >-
+          yoktur."
+        cid: 4
   - verse: 38
     segments:
-      - text: >-
-          Görebildikleriniz ve göremedikleriniz üzerine yemin ederim ki, Kuran şerefli
-          bir elçinin getirdiği sözdür.
+      - text: Görebildikleriniz
+        cid: 4
+      - text: ve
+        cid: 0
+      - text: göremedikleriniz üzerine
+        cid: 4
+      - text: yemin ederim ki,
+        cid: 2
+      - text: Kuran şerefli bir elçinin getirdiği sözdür.
         cid: 0
   - verse: 39
     segments:
-      - text: >-
-          Görebildikleriniz ve göremedikleriniz üzerine yemin ederim ki, Kuran şerefli
-          bir elçinin getirdiği sözdür.
+      - text: Görebildikleriniz ve göremedikleriniz üzerine
+        cid: 0
+      - text: yemin ederim
+        cid: 1
+      - text: ki, Kuran
+        cid: 2
+      - text: şerefli
+        cid: 3
+      - text: bir elçinin getirdiği sözdür.
         cid: 0
   - verse: 40
     segments:
-      - text: >-
-          Görebildikleriniz ve göremedikleriniz üzerine yemin ederim ki, Kuran şerefli
-          bir elçinin getirdiği sözdür.
+      - text: Görebildikleriniz ve göremedikleriniz üzerine yemin ederim ki,
         cid: 0
+      - text: Kuran şerefli
+        cid: 2
+      - text: bir elçinin getirdiği
+        cid: 3
+      - text: sözdür.
+        cid: 2
   - verse: 41
     segments:
-      - text: >-
-          O, şair sözü değildir; ne az inanıyorsunuz!
-        cid: 0
+      - text: O,
+        cid: 2
+      - text: şair
+        cid: 4
+      - text: sözü
+        cid: 3
+      - text: değildir;
+        cid: 1
+      - text: ne
+        cid: 6
+      - text: az
+        cid: 5
+      - text: inanıyorsunuz!
+        cid: 7
   - verse: 42
     segments:
-      - text: >-
-          Kahin sözü de değildir; ne az düşünüyorsunuz!
-        cid: 0
+      - text: Kahin
+        cid: 3
+      - text: sözü de
+        cid: 2
+      - text: değildir;
+        cid: 1
+      - text: ne
+        cid: 5
+      - text: az
+        cid: 4
+      - text: düşünüyorsunuz!
+        cid: 6
   - verse: 43
     segments:
-      - text: >-
-          Kuran, Alemlerin Rabbinden indirilmedir.
-        cid: 0
+      - text: Kuran, Alemlerin
+        cid: 4
+      - text: Rabbinden
+        cid: 3
+      - text: indirilmedir.
+        cid: 1
   - verse: 44
     segments:
-      - text: >-
-          Eğer o (Muhammed), Bize karşı, ona bazı sözler katmış olsaydı, Biz onu kuvvetle
-          yakalardık, sonra onun şah damarını koparırdık.
+      - text: Eğer
+        cid: 1
+      - text: o
+        cid: 3
+      - text: (Muhammed),
+        cid: 0
+      - text: Bize karşı, ona
+        cid: 3
+      - text: bazı sözler katmış olsaydı,
+        cid: 4
+      - text: Biz
+        cid: 3
+      - text: onu kuvvetle yakalardık, sonra onun şah damarını koparırdık.
         cid: 0
   - verse: 45
     segments:
-      - text: >-
-          Eğer o (Muhammed), Bize karşı, ona bazı sözler katmış olsaydı, Biz onu kuvvetle
-          yakalardık, sonra onun şah damarını koparırdık.
+      - text: Eğer o (Muhammed), Bize karşı, ona bazı sözler katmış olsaydı, Biz
+        cid: 0
+      - text: onu
+        cid: 2
+      - text: kuvvetle yakalardık,
+        cid: 3
+      - text: sonra onun şah damarını koparırdık.
         cid: 0
   - verse: 46
     segments:
       - text: >-
           Eğer o (Muhammed), Bize karşı, ona bazı sözler katmış olsaydı, Biz onu kuvvetle
-          yakalardık, sonra onun şah damarını koparırdık.
+          yakalardık,
         cid: 0
+      - text: sonra onun şah
+        cid: 1
+      - text: damarını koparırdık.
+        cid: 4
   - verse: 47
     segments:
-      - text: >-
-          Hiçbiriniz de onu koruyamazdınız.
-        cid: 0
+      - text: Hiçbiriniz de onu koruyamazdınız.
+        cid: 3
   - verse: 48
     segments:
-      - text: >-
-          Doğrusu Kuran Allah'a karşı gelmekten sakınanlara bir öğüttür.
+      - text: Doğrusu Kuran Allah'a karşı
         cid: 0
+      - text: gelmekten sakınanlara
+        cid: 3
+      - text: bir öğüttür.
+        cid: 2
   - verse: 49
     segments:
-      - text: >-
-          İçinizde yalanlayanlar bulunduğunu şüphesiz bilmekteyiz.
-        cid: 0
+      - text: İçinizde
+        cid: 4
+      - text: yalanlayanlar bulunduğunu şüphesiz
+        cid: 5
+      - text: bilmekteyiz.
+        cid: 2
   - verse: 50
     segments:
-      - text: >-
-          Doğrusu Kuran, inkarcılar için bir üzüntüdür.
-        cid: 0
+      - text: Doğrusu Kuran,
+        cid: 1
+      - text: inkarcılar için bir üzüntüdür.
+        cid: 4
   - verse: 51
     segments:
-      - text: >-
-          O, şüphesiz kesin gerçektir.
-        cid: 0
+      - text: O, şüphesiz
+        cid: 1
+      - text: kesin
+        cid: 3
+      - text: gerçektir.
+        cid: 2
   - verse: 52
     segments:
-      - text: >-
-          Öyleyse çok büyük olan Rabbinin adını tesbih et.
-        cid: 0
+      - text: Öyleyse
+        cid: 1
+      - text: çok
+        cid: 2
+      - text: büyük olan
+        cid: 4
+      - text: Rabbinin
+        cid: 3
+      - text: adını
+        cid: 2
+      - text: tesbih et.
+        cid: 1

@@ -4,44 +4,92 @@ author: diyanet
 verses:
   - verse: 1
     segments:
+      - text: Yer dehşetle
+        cid: 3
+      - text: sarsıldıkça sarsıldığı,
+        cid: 2
       - text: >-
-          Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışarıya çıkardığı
-          ve insanın: "Buna ne oluyor?" dediği zaman;
+          yeryüzü ağırlıklarını dışarıya çıkardığı ve insanın: "Buna ne oluyor?" dediği
         cid: 0
+      - text: zaman;
+        cid: 1
   - verse: 2
     segments:
+      - text: Yer dehşetle sarsıldıkça sarsıldığı,
+        cid: 0
+      - text: yeryüzü
+        cid: 2
+      - text: ağırlıklarını dışarıya
+        cid: 3
+      - text: çıkardığı
+        cid: 1
       - text: >-
-          Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışarıya çıkardığı
           ve insanın: "Buna ne oluyor?" dediği zaman;
         cid: 0
   - verse: 3
     segments:
       - text: >-
-          Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışarıya çıkardığı
-          ve insanın: "Buna ne oluyor?" dediği zaman;
+          Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışarıya çıkardığı ve
+        cid: 0
+      - text: >-
+          insanın:
+        cid: 2
+      - text: >-
+          "Buna ne oluyor?"
+        cid: 3
+      - text: dediği
+        cid: 1
+      - text: zaman;
         cid: 0
   - verse: 4
     segments:
-      - text: >-
-          İşte o gün, yer, Rabbinin ona vahyetmesiyle kendi haberlerini anlatır.
+      - text: İşte o gün, yer,
+        cid: 1
+      - text: Rabbinin ona vahyetmesiyle kendi
         cid: 0
+      - text: haberlerini anlatır.
+        cid: 3
   - verse: 5
     segments:
-      - text: >-
-          İşte o gün, yer, Rabbinin ona vahyetmesiyle kendi haberlerini anlatır.
+      - text: İşte o gün, yer,
+        cid: 0
+      - text: Rabbinin
+        cid: 2
+      - text: ona
+        cid: 4
+      - text: vahyetmesiyle kendi
+        cid: 3
+      - text: haberlerini anlatır.
         cid: 0
   - verse: 6
     segments:
-      - text: >-
-          O gün insanlar işlerinin kendilerine gösterilmesi için bölük bölük dönerler.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: insanlar
+        cid: 3
+      - text: işlerinin
+        cid: 6
+      - text: kendilerine
+        cid: 4
+      - text: gösterilmesi için bölük bölük dönerler.
+        cid: 5
   - verse: 7
     segments:
-      - text: >-
-          Kim zerre kadar iyilik yapmışsa onu görür.
-        cid: 0
+      - text: Kim
+        cid: 1
+      - text: zerre kadar iyilik
+        cid: 4
+      - text: yapmışsa
+        cid: 2
+      - text: onu görür.
+        cid: 6
   - verse: 8
     segments:
-      - text: >-
-          Kim de zerre kadar kötülük yapmışsa onu görür.
-        cid: 0
+      - text: Kim de
+        cid: 1
+      - text: zerre kadar kötülük
+        cid: 4
+      - text: yapmışsa
+        cid: 2
+      - text: onu görür.
+        cid: 6

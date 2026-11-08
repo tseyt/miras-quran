@@ -5,188 +5,348 @@ verses:
   - verse: 1
     segments:
       - text: >-
-          İnsanlardan, kendileri bir şeyi ölçerek aldıkları zaman tam alan; ama onlara
-          bir şeyi ölçüp tartarak verdiklerinde eksik tutan kimselerin, vay haline!
+          İnsanlardan, kendileri bir şeyi ölçerek aldıkları zaman tam alan; ama onlara bir
+          şeyi ölçüp tartarak verdiklerinde eksik tutan kimselerin,
         cid: 0
+      - text: vay haline!
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          İnsanlardan, kendileri bir şeyi ölçerek aldıkları zaman tam alan; ama onlara
-          bir şeyi ölçüp tartarak verdiklerinde eksik tutan kimselerin, vay haline!
+      - text: İnsanlardan,
+        cid: 5
+      - text: kendileri
+        cid: 0
+      - text: bir şeyi ölçerek aldıkları
+        cid: 3
+      - text: zaman
+        cid: 2
+      - text: tam alan;
+        cid: 6
+      - text: ama onlara
+        cid: 1
+      - text: bir şeyi ölçüp
+        cid: 3
+      - text: tartarak verdiklerinde eksik tutan kimselerin, vay haline!
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          İnsanlardan, kendileri bir şeyi ölçerek aldıkları zaman tam alan; ama onlara
-          bir şeyi ölçüp tartarak verdiklerinde eksik tutan kimselerin, vay haline!
+      - text: İnsanlardan,
+        cid: 0
+      - text: kendileri
+        cid: 2
+      - text: bir şeyi ölçerek aldıkları zaman tam alan; ama onlara bir şeyi ölçüp
+        cid: 0
+      - text: tartarak verdiklerinde
+        cid: 4
+      - text: eksik tutan kimselerin,
+        cid: 5
+      - text: vay haline!
         cid: 0
   - verse: 4
     segments:
-      - text: >-
-          Bunlar, büyük bir günde tekrar dirileceklerini sanmıyorlar mı?
+      - text: Bunlar, büyük bir günde
         cid: 0
+      - text: tekrar dirileceklerini
+        cid: 5
+      - text: sanmıyorlar mı?
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Bunlar, büyük bir günde tekrar dirileceklerini sanmıyorlar mı?
+      - text: Bunlar, büyük
+        cid: 2
+      - text: bir günde
+        cid: 1
+      - text: tekrar dirileceklerini sanmıyorlar mı?
         cid: 0
   - verse: 6
     segments:
-      - text: >-
-          O gün insanlar Alemlerin Rabbinin huzurunda dururlar.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: insanlar
+        cid: 3
+      - text: Alemlerin
+        cid: 5
+      - text: Rabbinin huzurunda
+        cid: 4
+      - text: dururlar.
+        cid: 2
   - verse: 7
     segments:
+      - text: Sakının; Allah'ın buyruğundan dışarı çıkanlar, muhakkak
+        cid: 3
       - text: >-
-          Sakının; Allah'ın buyruğundan dışarı çıkanlar, muhakkak "Siccin" adlı defterde
-          yazılıdır.
-        cid: 0
+          "Siccin" adlı defterde
+        cid: 6
+      - text: yazılıdır.
+        cid: 3
   - verse: 8
     segments:
-      - text: >-
-          Siccin'in ne olduğunu sen nerden bilirsin?
-        cid: 0
+      - text: Siccin'in
+        cid: 4
+      - text: ne olduğunu
+        cid: 3
+      - text: sen nerden bilirsin?
+        cid: 2
   - verse: 9
     segments:
-      - text: >-
-          O, yazılmış bir kitaptır.
-        cid: 0
+      - text: O, yazılmış
+        cid: 2
+      - text: bir kitaptır.
+        cid: 1
   - verse: 10
     segments:
-      - text: >-
-          Yalanlayanların o gün vay haline!
-        cid: 0
+      - text: Yalanlayanların
+        cid: 3
+      - text: o gün
+        cid: 2
+      - text: vay haline!
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Onlar, kıyamet gününü yalanlamış olanlardır.
-        cid: 0
+      - text: Onlar, kıyamet
+        cid: 1
+      - text: gününü
+        cid: 3
+      - text: yalanlamış olanlardır.
+        cid: 2
   - verse: 12
     segments:
-      - text: >-
-          Oysa onu mütecaviz günahkardan başka kimse yalanlamaz.
-        cid: 0
+      - text: Oysa onu
+        cid: 3
+      - text: mütecaviz
+        cid: 6
+      - text: günahkardan
+        cid: 7
+      - text: başka kimse
+        cid: 4
+      - text: yalanlamaz.
+        cid: 1
   - verse: 13
     segments:
+      - text: Ona
+        cid: 3
+      - text: ayetlerimiz
+        cid: 4
+      - text: okunduğu
+        cid: 2
+      - text: zaman
+        cid: 1
       - text: >-
-          Ona ayetlerimiz okunduğu zaman "Öncekilerin masalları" der.
-        cid: 0
+          "Öncekilerin
+        cid: 7
+      - text: >-
+          masalları"
+        cid: 6
+      - text: der.
+        cid: 5
   - verse: 14
     segments:
-      - text: >-
-          Hayır, hayır; onların kazandıkları kalblerini paslandırıp körletmiştir.
-        cid: 0
+      - text: Hayır, hayır;
+        cid: 1
+      - text: onların kazandıkları
+        cid: 8
+      - text: kalblerini
+        cid: 5
+      - text: paslandırıp körletmiştir.
+        cid: 3
   - verse: 15
     segments:
-      - text: >-
-          Hayır; doğrusu onlar o gün, Rablerinden yoksun kalacaklardır.
-        cid: 0
+      - text: Hayır;
+        cid: 1
+      - text: doğrusu onlar
+        cid: 2
+      - text: o gün,
+        cid: 5
+      - text: Rablerinden yoksun kalacaklardır.
+        cid: 4
   - verse: 16
     segments:
-      - text: >-
-          Sonra onlar, şüphesiz, cehenneme gireceklerdir.
-        cid: 0
+      - text: Sonra
+        cid: 1
+      - text: onlar, şüphesiz,
+        cid: 2
+      - text: cehenneme
+        cid: 4
+      - text: gireceklerdir.
+        cid: 3
   - verse: 17
     segments:
       - text: >-
-          Sonra da: "yalanlayıp durduğunuz işte budur" denecektir.
-        cid: 0
+          Sonra da:
+        cid: 1
+      - text: >-
+          "yalanlayıp durduğunuz
+        cid: 7
+      - text: >-
+          işte budur"
+        cid: 3
+      - text: denecektir.
+        cid: 2
   - verse: 18
     segments:
-      - text: >-
-          Ama iyilerin defteri yüksek katlardadır.
-        cid: 0
+      - text: Ama iyilerin defteri yüksek katlardadır.
+        cid: 4
   - verse: 19
     segments:
-      - text: >-
-          O yüksek katların ne olduğunu sen bilir misin?
+      - text: O yüksek
         cid: 0
+      - text: katların ne olduğunu
+        cid: 3
+      - text: sen bilir misin?
+        cid: 2
   - verse: 20
     segments:
-      - text: >-
-          O, gözde meleklerin gördüğü, yazılı bir kitapdır.
+      - text: O, gözde meleklerin gördüğü,
         cid: 0
+      - text: yazılı
+        cid: 2
+      - text: bir kitapdır.
+        cid: 1
   - verse: 21
     segments:
-      - text: >-
-          O, gözde meleklerin gördüğü, yazılı bir kitapdır.
+      - text: O, gözde meleklerin gördüğü,
+        cid: 2
+      - text: yazılı bir kitapdır.
         cid: 0
   - verse: 22
     segments:
-      - text: >-
-          İyiler, şüphesiz, nimet içinde ve tahtlar üzerinde etrafı seyrederler.
+      - text: İyiler,
+        cid: 2
+      - text: şüphesiz,
+        cid: 1
+      - text: nimet
+        cid: 4
+      - text: içinde
+        cid: 3
+      - text: ve tahtlar üzerinde etrafı seyrederler.
         cid: 0
   - verse: 23
     segments:
-      - text: >-
-          İyiler, şüphesiz, nimet içinde ve tahtlar üzerinde etrafı seyrederler.
+      - text: İyiler, şüphesiz, nimet içinde ve
         cid: 0
+      - text: tahtlar üzerinde etrafı seyrederler.
+        cid: 1
   - verse: 24
     segments:
-      - text: >-
-          Onları, yüzlerindeki nimet pırıltısından tanırsın.
-        cid: 0
+      - text: Onları,
+        cid: 1
+      - text: yüzlerindeki
+        cid: 3
+      - text: nimet pırıltısından tanırsın.
+        cid: 5
   - verse: 25
     segments:
-      - text: >-
-          Sonunda misk kokusu bırakan, ağzı kapalı saf bir içecekten içerler. İyi şeyler
-          için yarışanlar, bunun için yarışsınlar.
+      - text: Sonunda misk
+        cid: 1
+      - text: kokusu bırakan,
+        cid: 2
+      - text: ağzı kapalı
+        cid: 3
+      - text: saf bir
+        cid: 4
+      - text: içecekten içerler. İyi şeyler için yarışanlar, bunun için yarışsınlar.
         cid: 0
   - verse: 26
     segments:
-      - text: >-
-          Sonunda misk kokusu bırakan, ağzı kapalı saf bir içecekten içerler. İyi şeyler
-          için yarışanlar, bunun için yarışsınlar.
+      - text: Sonunda
+        cid: 1
+      - text: misk kokusu bırakan, ağzı kapalı saf bir içecekten içerler.
+        cid: 2
+      - text: İyi şeyler
         cid: 0
+      - text: için yarışanlar,
+        cid: 6
+      - text: bunun için
+        cid: 4
+      - text: yarışsınlar.
+        cid: 5
   - verse: 27
     segments:
-      - text: >-
-          Onun katkısı gözdelerin içtiği yüce kaynaktandır.
+      - text: Onun
+        cid: 1
+      - text: katkısı
+        cid: 2
+      - text: gözdelerin
+        cid: 3
+      - text: içtiği yüce kaynaktandır.
         cid: 0
   - verse: 28
     segments:
-      - text: >-
-          Onun katkısı gözdelerin içtiği yüce kaynaktandır.
+      - text: Onun
         cid: 0
+      - text: katkısı gözdelerin içtiği yüce kaynaktandır.
+        cid: 4
   - verse: 29
     segments:
-      - text: >-
-          Suçlular, şüphesiz, inanmış olanlara gülerlerdi.
-        cid: 0
+      - text: Suçlular,
+        cid: 3
+      - text: şüphesiz,
+        cid: 1
+      - text: inanmış olanlara
+        cid: 7
+      - text: gülerlerdi.
+        cid: 8
   - verse: 30
     segments:
-      - text: >-
-          Yanlarından geçtikleri zaman da birbirlerine göz kırparlardı.
-        cid: 0
+      - text: Yanlarından geçtikleri
+        cid: 2
+      - text: zaman da
+        cid: 1
+      - text: birbirlerine göz kırparlardı.
+        cid: 4
   - verse: 31
     segments:
-      - text: >-
-          Taraftarlarına vardıklarında bununla eğlenirlerdi.
+      - text: Taraftarlarına vardıklarında
         cid: 0
+      - text: bununla eğlenirlerdi.
+        cid: 6
   - verse: 32
     segments:
+      - text: İnananları gördükleri
+        cid: 2
       - text: >-
-          İnananları gördükleri zaman: "Doğrusu bunlar sapık olanlardır" derlerdi.
-        cid: 0
+          zaman:
+        cid: 1
+      - text: >-
+          "Doğrusu bunlar
+        cid: 5
+      - text: >-
+          sapık olanlardır"
+        cid: 6
+      - text: derlerdi.
+        cid: 3
   - verse: 33
     segments:
-      - text: >-
-          Oysa kendileri, inananlara gözcü olarak gönderilmemişlerdi.
-        cid: 0
+      - text: Oysa kendileri, inananlara gözcü
+        cid: 2
+      - text: olarak
+        cid: 4
+      - text: gönderilmemişlerdi.
+        cid: 2
   - verse: 34
     segments:
-      - text: >-
-          Bugün de, inananlar inkarcılara gülerler.
-        cid: 0
+      - text: Bugün de,
+        cid: 1
+      - text: inananlar
+        cid: 3
+      - text: inkarcılara
+        cid: 5
+      - text: gülerler.
+        cid: 6
   - verse: 35
     segments:
+      - text: Tahtlar üzerinde,
+        cid: 1
       - text: >-
-          Tahtlar üzerinde, inkarcıların yaptıkları şeylerin karşılığının nasıl
-          verildiğini seyrederler.
+          inkarcıların yaptıkları şeylerin karşılığının nasıl verildiğini seyrederler.
         cid: 0
   - verse: 36
     segments:
-      - text: >-
-          Tahtlar üzerinde, inkarcıların yaptıkları şeylerin karşılığının nasıl
-          verildiğini seyrederler.
+      - text: Tahtlar üzerinde,
         cid: 0
+      - text: inkarcıların
+        cid: 3
+      - text: yaptıkları
+        cid: 6
+      - text: şeylerin karşılığının nasıl verildiğini seyrederler.
+        cid: 4

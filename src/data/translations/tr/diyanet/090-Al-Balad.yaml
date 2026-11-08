@@ -4,106 +4,197 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Bu şehre (Mekke'ye) yemin ederim; ki sen bu şehirde oturmuşsun.
+      - text: Bu şehre (Mekke'ye)
+        cid: 0
+      - text: yemin ederim; ki
+        cid: 2
+      - text: sen bu şehirde oturmuşsun.
         cid: 0
   - verse: 2
     segments:
-      - text: >-
-          Bu şehre (Mekke'ye) yemin ederim; ki sen bu şehirde oturmuşsun.
+      - text: Bu
+        cid: 3
+      - text: şehre
+        cid: 4
+      - text: (Mekke'ye) yemin ederim; ki
         cid: 0
+      - text: sen
+        cid: 1
+      - text: bu
+        cid: 3
+      - text: şehirde
+        cid: 4
+      - text: oturmuşsun.
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          Doğurana ve doğurduğuna and olsun ki;
-        cid: 0
+      - text: Doğurana ve doğurduğuna
+        cid: 3
+      - text: and olsun ki;
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          İnsanoğlunu, zorluklara katlanacak şekilde yarattık.
-        cid: 0
+      - text: İnsanoğlunu,
+        cid: 3
+      - text: zorluklara katlanacak şekilde
+        cid: 5
+      - text: yarattık.
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          İnsanoğlu, kendisine kimsenin güç yetiremeyeceğini mi sanıyor?
-        cid: 0
+      - text: İnsanoğlu,
+        cid: 1
+      - text: kendisine
+        cid: 5
+      - text: kimsenin
+        cid: 6
+      - text: güç
+        cid: 2
+      - text: yetiremeyeceğini mi
+        cid: 3
+      - text: sanıyor?
+        cid: 1
   - verse: 6
     segments:
       - text: >-
-          "Yığın yığın mal tüketmişimdir" diyor.
+          "Yığın
         cid: 0
+      - text: >-
+          yığın mal tüketmişimdir"
+        cid: 3
+      - text: diyor.
+        cid: 1
   - verse: 7
     segments:
-      - text: >-
-          O, kimsenin kendisini görmediğini mi zannediyor?
-        cid: 0
+      - text: O, kimsenin
+        cid: 5
+      - text: kendisini
+        cid: 2
+      - text: görmediğini mi zannediyor?
+        cid: 3
   - verse: 8
     segments:
-      - text: >-
-          Biz onun için iki göz, bir dil ve iki dudak var etmedik mi?
+      - text: Biz onun için
+        cid: 1
+      - text: iki göz,
+        cid: 4
+      - text: bir dil ve iki dudak var etmedik mi?
         cid: 0
   - verse: 9
     segments:
-      - text: >-
-          Biz onun için iki göz, bir dil ve iki dudak var etmedik mi?
+      - text: Biz onun için iki göz,
         cid: 0
+      - text: bir dil
+        cid: 1
+      - text: ve iki dudak var etmedik mi?
+        cid: 2
   - verse: 10
     segments:
-      - text: >-
-          Biz ona eğri ve doğru iki yolu da göstermedik mi?
+      - text: Biz ona eğri
+        cid: 1
+      - text: ve
         cid: 0
+      - text: doğru iki yolu da
+        cid: 2
+      - text: göstermedik mi?
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Ama o, zor geçidi aşmaya girişemedi.
-        cid: 0
+      - text: Ama o, zor geçidi aşmaya girişemedi.
+        cid: 2
   - verse: 12
     segments:
-      - text: >-
-          O zor geçidin ne olduğunu sen bilir misin?
+      - text: O zor
         cid: 0
+      - text: geçidin ne olduğunu
+        cid: 3
+      - text: sen bilir misin?
+        cid: 2
   - verse: 13
     segments:
-      - text: >-
-          O geçit, bir köle ve esir azadetmek,
+      - text: O
         cid: 0
+      - text: geçit, bir köle
+        cid: 2
+      - text: ve
+        cid: 0
+      - text: esir azadetmek,
+        cid: 1
   - verse: 14
     segments:
-      - text: >-
-          Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir
-          yoksulu doyurmaktır.
+      - text: Yahut,
+        cid: 1
+      - text: açlık
+        cid: 5
+      - text: gününde, yakını
+        cid: 3
+      - text: olan bir öksüzü, yahut toprağa serilmiş bir yoksulu
         cid: 0
+      - text: doyurmaktır.
+        cid: 2
   - verse: 15
     segments:
-      - text: >-
-          Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir
-          yoksulu doyurmaktır.
+      - text: Yahut, açlık gününde, yakını olan
+        cid: 0
+      - text: bir öksüzü,
+        cid: 1
+      - text: yahut toprağa serilmiş bir yoksulu doyurmaktır.
         cid: 0
   - verse: 16
     segments:
-      - text: >-
-          Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir
-          yoksulu doyurmaktır.
+      - text: Yahut, açlık gününde, yakını olan bir öksüzü,
+        cid: 0
+      - text: yahut toprağa serilmiş
+        cid: 1
+      - text: bir yoksulu
+        cid: 2
+      - text: doyurmaktır.
         cid: 0
   - verse: 17
     segments:
-      - text: >-
-          Sonra, inanıp birbirlerine sabır tavsiye edenlerden, merhametlilerden olmayı
-          tavsiye edenlerden olmaktır.
-        cid: 0
+      - text: Sonra,
+        cid: 1
+      - text: inanıp
+        cid: 5
+      - text: birbirlerine
+        cid: 6
+      - text: sabır
+        cid: 7
+      - text: tavsiye
+        cid: 6
+      - text: edenlerden,
+        cid: 8
+      - text: merhametlilerden
+        cid: 9
+      - text: olmayı
+        cid: 2
+      - text: tavsiye edenlerden
+        cid: 8
+      - text: olmaktır.
+        cid: 2
   - verse: 18
     segments:
-      - text: >-
-          İşte bunlar amel defterleri sağdan verilenlerdir.
-        cid: 0
+      - text: İşte bunlar
+        cid: 1
+      - text: amel defterleri sağdan verilenlerdir.
+        cid: 3
   - verse: 19
     segments:
-      - text: >-
-          Ayetlerimizi inkar edenler, işte onlar amel defterleri sollarından
-          verilenlerdir.
-        cid: 0
+      - text: Ayetlerimizi
+        cid: 3
+      - text: inkar edenler, işte
+        cid: 2
+      - text: onlar
+        cid: 4
+      - text: amel defterleri sollarından verilenlerdir.
+        cid: 6
   - verse: 20
     segments:
-      - text: >-
-          Onlar her yönden ateşle kapatılacaklardır.
-        cid: 0
+      - text: Onlar
+        cid: 1
+      - text: her yönden
+        cid: 3
+      - text: ateşle
+        cid: 2
+      - text: kapatılacaklardır.
+        cid: 3

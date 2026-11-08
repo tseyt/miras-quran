@@ -4,226 +4,371 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Yanına kör bir kimse geldi diye (Peygamber) yüzünü asıp çevirdi.
+      - text: Yanına kör
         cid: 0
+      - text: bir kimse
+        cid: 2
+      - text: geldi diye (Peygamber) yüzünü asıp
+        cid: 0
+      - text: çevirdi.
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Yanına kör bir kimse geldi diye (Peygamber) yüzünü asıp çevirdi.
+      - text: Yanına kör
+        cid: 3
+      - text: bir kimse
+        cid: 0
+      - text: geldi
+        cid: 2
+      - text: diye
+        cid: 1
+      - text: (Peygamber)
+        cid: 0
+      - text: yüzünü asıp
+        cid: 1
+      - text: çevirdi.
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          Ne bilirsin, belki de o arınacak;
-        cid: 0
+      - text: Ne
+        cid: 1
+      - text: bilirsin,
+        cid: 2
+      - text: belki de o
+        cid: 3
+      - text: arınacak;
+        cid: 4
   - verse: 4
     segments:
-      - text: >-
-          Yahut öğüt alacaktı da bu öğüt kendisine fayda verecekti.
-        cid: 0
+      - text: Yahut
+        cid: 1
+      - text: öğüt alacaktı da bu öğüt
+        cid: 2
+      - text: kendisine fayda verecekti.
+        cid: 3
   - verse: 5
     segments:
-      - text: >-
-          Ama sen, kendisini öğütten müstağni gören kimseyi karşına alıp ilgileniyorsun.
+      - text: Ama
+        cid: 1
+      - text: sen,
         cid: 0
+      - text: kendisini öğütten müstağni gören
+        cid: 3
+      - text: kimseyi karşına alıp ilgileniyorsun.
+        cid: 2
   - verse: 6
     segments:
-      - text: >-
-          Ama sen, kendisini öğütten müstağni gören kimseyi karşına alıp ilgileniyorsun.
+      - text: Ama
+        cid: 0
+      - text: sen,
+        cid: 1
+      - text: kendisini öğütten müstağni gören kimseyi karşına alıp ilgileniyorsun.
         cid: 0
   - verse: 7
     segments:
-      - text: >-
-          Arınmak istememesinden sana ne?
-        cid: 0
+      - text: Arınmak istememesinden
+        cid: 3
+      - text: sana ne?
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Sen, Allah'tan korkup sana koşarak gelen kimseye aldırmıyorsun.
+      - text: Sen, Allah'tan korkup
         cid: 0
+      - text: sana
+        cid: 3
+      - text: koşarak
+        cid: 4
+      - text: gelen
+        cid: 3
+      - text: kimseye aldırmıyorsun.
+        cid: 2
   - verse: 9
     segments:
-      - text: >-
-          Sen, Allah'tan korkup sana koşarak gelen kimseye aldırmıyorsun.
+      - text: Sen,
+        cid: 0
+      - text: Allah'tan korkup
+        cid: 2
+      - text: sana koşarak gelen kimseye aldırmıyorsun.
         cid: 0
   - verse: 10
     segments:
-      - text: >-
-          Sen, Allah'tan korkup sana koşarak gelen kimseye aldırmıyorsun.
+      - text: Sen,
+        cid: 1
+      - text: Allah'tan korkup sana koşarak gelen kimseye aldırmıyorsun.
         cid: 0
   - verse: 11
     segments:
-      - text: >-
-          Dikkat et; bu Kuran bir öğüttür.
+      - text: Dikkat et; bu
         cid: 0
+      - text: Kuran bir öğüttür.
+        cid: 3
   - verse: 12
     segments:
-      - text: >-
-          Dileyen onu öğüt kabul eder.
-        cid: 0
+      - text: Dileyen
+        cid: 2
+      - text: onu öğüt kabul eder.
+        cid: 3
   - verse: 13
     segments:
-      - text: >-
-          O, kutsal kılınmış, yüceltilmiş, arınmış sahifeler üzerindedir.
+      - text: O, kutsal kılınmış, yüceltilmiş,
+        cid: 0
+      - text: arınmış sahifeler
+        cid: 2
+      - text: üzerindedir.
         cid: 0
   - verse: 14
     segments:
-      - text: >-
-          O, kutsal kılınmış, yüceltilmiş, arınmış sahifeler üzerindedir.
+      - text: O, kutsal kılınmış, yüceltilmiş, arınmış sahifeler
         cid: 0
+      - text: üzerindedir.
+        cid: 1
   - verse: 15
     segments:
-      - text: >-
-          İyi kimseler, saygıdeğer elçilerin eliyle yazılmıştır.
+      - text: İyi kimseler, saygıdeğer elçilerin eliyle
         cid: 0
+      - text: yazılmıştır.
+        cid: 2
   - verse: 16
     segments:
-      - text: >-
-          İyi kimseler, saygıdeğer elçilerin eliyle yazılmıştır.
+      - text: İyi kimseler, saygıdeğer elçilerin eliyle
+        cid: 2
+      - text: yazılmıştır.
         cid: 0
   - verse: 17
     segments:
-      - text: >-
-          Canı çıksın o insanın, o ne nankördür!
+      - text: Canı
         cid: 0
+      - text: çıksın o insanın,
+        cid: 2
+      - text: o ne
+        cid: 3
+      - text: nankördür!
+        cid: 4
   - verse: 18
     segments:
-      - text: >-
-          Allah onu hangi şeyden yaratmış?
-        cid: 0
+      - text: Allah
+        cid: 3
+      - text: onu
+        cid: 4
+      - text: hangi şeyden
+        cid: 2
+      - text: yaratmış?
+        cid: 4
   - verse: 19
     segments:
-      - text: >-
-          Onu meniden yaratıp merhalelerden geçirerek ona şekil vermiş;
-        cid: 0
+      - text: Onu meniden yaratıp merhalelerden geçirerek
+        cid: 3
+      - text: ona şekil vermiş;
+        cid: 4
   - verse: 20
     segments:
-      - text: >-
-          Sonra, yolu ona kolaylaştırmıştır.
-        cid: 0
+      - text: Sonra,
+        cid: 1
+      - text: yolu
+        cid: 2
+      - text: ona kolaylaştırmıştır.
+        cid: 3
   - verse: 21
     segments:
-      - text: >-
-          Sonra onu öldürür ve kabre koyar.
+      - text: Sonra
+        cid: 1
+      - text: onu öldürür
+        cid: 2
+      - text: ve
         cid: 0
+      - text: kabre koyar.
+        cid: 3
   - verse: 22
     segments:
-      - text: >-
-          Sonra, dilediği zaman onu tekrar diriltir.
-        cid: 0
+      - text: Sonra,
+        cid: 1
+      - text: dilediği
+        cid: 3
+      - text: zaman
+        cid: 2
+      - text: onu tekrar diriltir.
+        cid: 4
   - verse: 23
     segments:
-      - text: >-
-          Hayır; Allah'ın kendisine buyurduğunu hala yerine getirmemiştir.
-        cid: 0
+      - text: Hayır;
+        cid: 1
+      - text: Allah'ın kendisine buyurduğunu hala
+        cid: 5
+      - text: yerine getirmemiştir.
+        cid: 2
   - verse: 24
     segments:
-      - text: >-
-          İnsan, yiyeceğine bir baksın;
-        cid: 0
+      - text: İnsan,
+        cid: 2
+      - text: yiyeceğine
+        cid: 4
+      - text: bir baksın;
+        cid: 1
   - verse: 25
     segments:
-      - text: >-
-          Doğrusu suyu bol bol indirmekteyiz.
-        cid: 0
+      - text: Doğrusu suyu bol bol indirmekteyiz.
+        cid: 3
   - verse: 26
     segments:
+      - text: Sonra yeryüzünü iyice
+        cid: 1
+      - text: yarmakta
+        cid: 2
       - text: >-
-          Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler,
-          zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar
-          bitirmekteyiz.
+          ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde
+          koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz.
         cid: 0
   - verse: 27
     segments:
-      - text: >-
-          Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler,
-          zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar
-          bitirmekteyiz.
+      - text: Sonra yeryüzünü iyice yarmakta ve
         cid: 0
+      - text: orada taneli ekinler,
+        cid: 2
+      - text: >-
+          üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve
+          çayırlar
+        cid: 0
+      - text: bitirmekteyiz.
+        cid: 1
   - verse: 28
     segments:
+      - text: Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler,
+        cid: 0
+      - text: üzümler, sebzeler,
+        cid: 1
       - text: >-
-          Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler,
           zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar
           bitirmekteyiz.
         cid: 0
   - verse: 29
     segments:
-      - text: >-
-          Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler,
-          zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar
-          bitirmekteyiz.
+      - text: Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler,
+        cid: 0
+      - text: zeytin,
+        cid: 1
+      - text: hurma ağaçları
+        cid: 2
+      - text: ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz.
         cid: 0
   - verse: 30
     segments:
       - text: >-
-          Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler,
-          zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar
-          bitirmekteyiz.
+          Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin,
+          hurma ağaçları
+        cid: 0
+      - text: ve bahçelerde koca koca ağaçlı
+        cid: 1
+      - text: meyveler ve çayırlar bitirmekteyiz.
         cid: 0
   - verse: 31
     segments:
       - text: >-
-          Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler,
-          zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar
-          bitirmekteyiz.
+          Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin,
+          hurma ağaçları ve bahçelerde koca koca ağaçlı
+        cid: 0
+      - text: meyveler
+        cid: 1
+      - text: ve çayırlar
+        cid: 2
+      - text: bitirmekteyiz.
         cid: 0
   - verse: 32
     segments:
-      - text: >-
-          Bunlar sizin ve hayvanlarınız için geçimliktir.
-        cid: 0
+      - text: Bunlar sizin ve hayvanlarınız için
+        cid: 3
+      - text: geçimliktir.
+        cid: 1
   - verse: 33
     segments:
-      - text: >-
-          O muazzam gürültü, kıyamet kopup geldiği zaman;
-        cid: 0
+      - text: O muazzam gürültü, kıyamet kopup
+        cid: 3
+      - text: geldiği
+        cid: 2
+      - text: zaman;
+        cid: 1
   - verse: 34
     segments:
-      - text: >-
-          O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından,
-          kaçar.
+      - text: O gün,
+        cid: 1
+      - text: kişi
+        cid: 3
+      - text: kardeşinden,
+        cid: 5
+      - text: annesinden, babasından, karısından ve oğullarından,
         cid: 0
+      - text: kaçar.
+        cid: 2
   - verse: 35
     segments:
-      - text: >-
-          O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından,
-          kaçar.
+      - text: O gün, kişi kardeşinden, annesinden,
+        cid: 0
+      - text: babasından, karısından
+        cid: 2
+      - text: ve oğullarından, kaçar.
         cid: 0
   - verse: 36
     segments:
-      - text: >-
-          O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından,
-          kaçar.
+      - text: O gün, kişi kardeşinden,
+        cid: 0
+      - text: annesinden,
+        cid: 1
+      - text: babasından, karısından
+        cid: 0
+      - text: ve oğullarından,
+        cid: 2
+      - text: kaçar.
         cid: 0
   - verse: 37
     segments:
-      - text: >-
-          O gün, herkesin kendine yeter derdi vardır.
-        cid: 0
+      - text: O gün,
+        cid: 4
+      - text: herkesin
+        cid: 2
+      - text: kendine yeter
+        cid: 6
+      - text: derdi
+        cid: 5
+      - text: vardır.
+        cid: 1
   - verse: 38
     segments:
-      - text: >-
-          O gün bir takım yüzler aydınlıktır, gülmekte ve sevinmektedir.
+      - text: O gün
+        cid: 2
+      - text: bir takım yüzler aydınlıktır,
+        cid: 1
+      - text: gülmekte ve sevinmektedir.
         cid: 0
   - verse: 39
     segments:
-      - text: >-
-          O gün bir takım yüzler aydınlıktır, gülmekte ve sevinmektedir.
+      - text: O gün bir takım yüzler aydınlıktır,
         cid: 0
+      - text: gülmekte
+        cid: 1
+      - text: ve
+        cid: 0
+      - text: sevinmektedir.
+        cid: 2
   - verse: 40
     segments:
-      - text: >-
-          O gün birtakım yüzler de tozlanmış ve onları karanlık bürümüştür.
+      - text: O gün birtakım
+        cid: 2
+      - text: yüzler de
+        cid: 1
+      - text: tozlanmış
+        cid: 4
+      - text: ve onları karanlık bürümüştür.
         cid: 0
   - verse: 41
     segments:
-      - text: >-
-          O gün birtakım yüzler de tozlanmış ve onları karanlık bürümüştür.
+      - text: O gün birtakım yüzler de tozlanmış ve
         cid: 0
+      - text: onları
+        cid: 1
+      - text: karanlık
+        cid: 2
+      - text: bürümüştür.
+        cid: 1
   - verse: 42
     segments:
-      - text: >-
-          İşte bunlar inkarcı olanlar, Allah'ın buyruğundan çıkanlardır.
-        cid: 0
+      - text: İşte bunlar inkarcı olanlar, Allah'ın buyruğundan çıkanlardır.
+        cid: 1

@@ -4,89 +4,450 @@ author: diyanet
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Eşlerinin rızasını gözeterek, Allah'ın sana helal kıldığı şeyi niçin kendine
-          yasak ediyorsun? Allah bağışlayandır, acıyandır.
-        cid: 0
+      - text: Eşlerinin rızasını gözeterek,
+        cid: 11
+      - text: Allah'ın
+        cid: 7
+      - text: sana
+        cid: 8
+      - text: helal kıldığı
+        cid: 6
+      - text: şeyi
+        cid: 5
+      - text: niçin kendine yasak ediyorsun?
+        cid: 3
+      - text: Allah
+        cid: 12
+      - text: bağışlayandır, acıyandır.
+        cid: 13
   - verse: 2
     segments:
-      - text: >-
-          Allah şüphesiz size, yeminlerinizi keffaretle geri almanızı meşru kılmıştır.
-          Allah sizin dostunuzdur. O, bilendir, Hakim'dir.
-        cid: 0
+      - text: Allah
+        cid: 3
+      - text: şüphesiz
+        cid: 2
+      - text: size,
+        cid: 4
+      - text: yeminlerinizi keffaretle geri almanızı
+        cid: 6
+      - text: meşru kılmıştır.
+        cid: 2
+      - text: Allah sizin dostunuzdur.
+        cid: 3
+      - text: O,
+        cid: 9
+      - text: bilendir,
+        cid: 10
+      - text: Hakim'dir.
+        cid: 11
   - verse: 3
     segments:
+      - text: Peygamber,
+        cid: 3
+      - text: eşlerinden
+        cid: 6
+      - text: birine
+        cid: 4
+      - text: gizlice
+        cid: 2
+      - text: bir söz
+        cid: 7
+      - text: söylemişti.
+        cid: 2
+      - text: O, bunu
+        cid: 21
+      - text: Peygamberin diğer
+        cid: 3
+      - text: bir eşine
+        cid: 20
+      - text: haber
+        cid: 29
+      - text: verince,
+        cid: 20
+      - text: Allah da
+        cid: 12
+      - text: Peygambere durumu
+        cid: 3
+      - text: bildirmiş, o da
+        cid: 14
+      - text: bir kısmını yüzüne vurmuş bir kısmını yüzüne vurmaktan geri durmuştu.
+        cid: 15
+      - text: Eşine,
+        cid: 20
+      - text: gizlice söylediği şeyibaşkasına nakletmiş olduğunu
+        cid: 2
+      - text: bildirince,
+        cid: 14
       - text: >-
-          Peygamber, eşlerinden birine gizlice bir söz söylemişti. O, bunu Peygamberin
-          diğer bir eşine haber verince, Allah da Peygambere durumu bildirmiş, o da bir
-          kısmını yüzüne vurmuş bir kısmını yüzüne vurmaktan geri durmuştu. Eşine, gizlice
-          söylediği şeyibaşkasına nakletmiş olduğunu bildirince, eşi: "Bunu sana kim haber
-          verdi?" demiş, o da: "Bana, herşeyi bilen ve herşeyden haberdar olan Allah haber
-          verdi" demişti.
+          eşi:
+        cid: 22
+      - text: >-
+          "Bunu
+        cid: 25
+      - text: sana
+        cid: 24
+      - text: kim
+        cid: 23
+      - text: haber
+        cid: 29
+      - text: >-
+          verdi?" demiş, o da:
+        cid: 9
+      - text: >-
+          "Bana, herşeyi
+        cid: 27
+      - text: bilen
+        cid: 28
+      - text: ve
         cid: 0
+      - text: herşeyden haberdar olan
+        cid: 29
+      - text: Allah
+        cid: 12
+      - text: haber
+        cid: 29
+      - text: verdi" demişti.
+        cid: 9
   - verse: 4
     segments:
-      - text: >-
-          Ey Peygamber'in eşleri! Eğer ikiniz de Allah'a tevbe ederseniz, kaymış olan
-          kalpleriniz düzelmiş olur. Eğer eşinizin aleyhinde yardımlaşarak bir şey yapmağa
-          kalkarsanız, bilin ki Allah onun dostu, bundan başka Cebrail, iyi müminler ve
-          melekler de yardımcısıdır.
+      - text: Ey Peygamber'in
         cid: 0
+      - text: eşleri! Eğer
+        cid: 1
+      - text: ikiniz de
+        cid: 2
+      - text: Allah'a
+        cid: 3
+      - text: tevbe ederseniz, kaymış
+        cid: 2
+      - text: olan
+        cid: 0
+      - text: kalpleriniz düzelmiş olur.
+        cid: 7
+      - text: Eğer eşinizin aleyhinde
+        cid: 8
+      - text: yardımlaşarak bir şey yapmağa
+        cid: 9
+      - text: kalkarsanız, bilin ki
+        cid: 7
+      - text: Allah onun dostu,
+        cid: 4
+      - text: bundan başka Cebrail,
+        cid: 20
+      - text: iyi
+        cid: 16
+      - text: müminler
+        cid: 17
+      - text: ve melekler de
+        cid: 18
+      - text: yardımcısıdır.
+        cid: 9
   - verse: 5
     segments:
-      - text: >-
-          Ey Peygamber'in eşleri! Eğer o sizi boşarsa, Rabbi ona; sizden daha iyi olan,
-          kendini Allah'a veren, inanan, boyun eğen, tevbe eden, kulluk eden, oruç tutan,
-          dul ve bakire eşler verebilir.
+      - text: Ey
         cid: 0
+      - text: Peygamber'in eşleri!
+        cid: 7
+      - text: Eğer
+        cid: 3
+      - text: o sizi boşarsa,
+        cid: 4
+      - text: Rabbi ona;
+        cid: 2
+      - text: sizden
+        cid: 9
+      - text: daha iyi
+        cid: 8
+      - text: olan,
+        cid: 0
+      - text: kendini Allah'a veren,
+        cid: 10
+      - text: inanan, boyun
+        cid: 11
+      - text: eğen,
+        cid: 3
+      - text: tevbe eden, kulluk eden, oruç tutan,
+        cid: 13
+      - text: dul
+        cid: 16
+      - text: ve bakire
+        cid: 17
+      - text: eşler verebilir.
+        cid: 7
   - verse: 6
     segments:
-      - text: >-
-          Ey inananlar! Kendinizi ve çoluk çocuğunuzu cehennem ateşinden koruyun; onun
-          yakıtı, insanlar ve taşlardır; görevlileri, Allah'ın kendilerine verdiği
-          emirlere baş kaldırmayan, kendilerine buyrulanları yerine getiren pek haşin
-          meleklerdir.
+      - text: Ey
+        cid: 1
+      - text: inananlar!
+        cid: 3
+      - text: Kendinizi
+        cid: 5
+      - text: ve çoluk çocuğunuzu
         cid: 0
+      - text: cehennem ateşinden
+        cid: 7
+      - text: koruyun;
+        cid: 4
+      - text: onun yakıtı,
+        cid: 8
+      - text: insanlar
+        cid: 9
+      - text: ve taşlardır;
+        cid: 10
+      - text: görevlileri, Allah'ın
+        cid: 17
+      - text: kendilerine verdiği emirlere
+        cid: 19
+      - text: baş kaldırmayan,
+        cid: 11
+      - text: kendilerine buyrulanları yerine getiren pek haşin
+        cid: 19
+      - text: meleklerdir.
+        cid: 12
   - verse: 7
     segments:
       - text: >-
-          "Ey inkar edenler! Bugün özür beyan etmeyin, ancak işlediklerinizin karşılığını
-          görmektesiniz" denir.
-        cid: 0
+          "Ey
+        cid: 1
+      - text: inkar edenler!
+        cid: 3
+      - text: Bugün
+        cid: 6
+      - text: özür
+        cid: 4
+      - text: beyan etmeyin,
+        cid: 5
+      - text: ancak
+        cid: 7
+      - text: işlediklerinizin
+        cid: 11
+      - text: karşılığını görmektesiniz" denir.
+        cid: 8
   - verse: 8
     segments:
-      - text: >-
-          Ey inananlar! Yürekten tevbe ederek Allah'a dönün ki, Rabbiniz kötülüklerinizi
-          örtsün, sizi, içlerinden ırmaklar akan cennetlere koysun. Allah'ın Peygamberini
-          ve onunla beraber olan müminleri utandırmayacağı o gün, ışıkları önlerinde ve
-          defterleri sağlarından verilmiş olarak yürürler ve: "Rabbimiz! Işığımızı
-          tamamla, bizi bağışla, doğrusu Sen herşeye Kadir'sin" derler.
+      - text: Ey
+        cid: 1
+      - text: inananlar!
+        cid: 3
+      - text: Yürekten
+        cid: 8
+      - text: tevbe ederek
+        cid: 7
+      - text: Allah'a dönün ki,
+        cid: 5
+      - text: Rabbiniz
+        cid: 10
+      - text: kötülüklerinizi
+        cid: 14
+      - text: örtsün,
+        cid: 11
+      - text: sizi,
+        cid: 15
+      - text: içlerinden
+        cid: 19
+      - text: ırmaklar
+        cid: 20
+      - text: akan
+        cid: 17
+      - text: cennetlere koysun.
+        cid: 16
+      - text: Allah'ın
+        cid: 24
+      - text: Peygamberini
+        cid: 25
+      - text: ve
         cid: 0
+      - text: onunla beraber olan
+        cid: 28
+      - text: müminleri
+        cid: 7
+      - text: utandırmayacağı
+        cid: 23
+      - text: o gün, ışıkları
+        cid: 21
+      - text: önlerinde
+        cid: 32
+      - text: ve
+        cid: 0
+      - text: defterleri sağlarından verilmiş
+        cid: 33
+      - text: olarak
+        cid: 26
+      - text: yürürler
+        cid: 8
+      - text: >-
+          ve:
+        cid: 0
+      - text: >-
+          "Rabbimiz!
+        cid: 35
+      - text: Işığımızı tamamla,
+        cid: 36
+      - text: bizi
+        cid: 40
+      - text: bağışla,
+        cid: 39
+      - text: doğrusu Sen
+        cid: 41
+      - text: herşeye
+        cid: 43
+      - text: >-
+          Kadir'sin"
+        cid: 45
+      - text: derler.
+        cid: 34
   - verse: 9
     segments:
-      - text: >-
-          Ey Peygamber! İnkarcılarla ve ikiyüzlülerle savaş; onlara karşı sert davran.
-          Onların varacakları yer cehennemdir, ne kötü dönüştür!...
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: Peygamber!
+        cid: 2
+      - text: İnkarcılarla
+        cid: 3
+      - text: ve ikiyüzlülerle
+        cid: 5
+      - text: savaş;
+        cid: 6
+      - text: onlara karşı
+        cid: 7
+      - text: sert davran.
+        cid: 6
+      - text: Onların varacakları yer
+        cid: 8
+      - text: cehennemdir,
+        cid: 9
+      - text: ne kötü
+        cid: 10
+      - text: dönüştür!...
+        cid: 11
   - verse: 10
     segments:
+      - text: Allah,
+        cid: 2
+      - text: inkar edenlere,
+        cid: 5
+      - text: Nuh'un
+        cid: 7
+      - text: karısıyla
+        cid: 6
+      - text: Lut'un
+        cid: 9
+      - text: karısını
+        cid: 6
+      - text: misal
+        cid: 3
       - text: >-
-          Allah, inkar edenlere, Nuh'un karısıyla Lut'un karısını misal gösterir: Onlar,
-          kullarımızdan iki iyi kulun nikahı altında iken onlara karşı hainlik edip
-          inkarlarını gizlemişlerdi de iki peygamber Allah'tan gelen azabı onlardan
-          savamamışlardı. O iki kadına: "Cehenneme girenlerle beraber siz de girin" dendi.
-        cid: 0
+          gösterir: Onlar,
+        cid: 19
+      - text: kullarımızdan
+        cid: 13
+      - text: iki iyi kulun
+        cid: 12
+      - text: nikahı altında iken
+        cid: 11
+      - text: onlara
+        cid: 19
+      - text: karşı hainlik edip
+        cid: 8
+      - text: inkarlarını gizlemişlerdi de
+        cid: 5
+      - text: iki
+        cid: 12
+      - text: peygamber
+        cid: 7
+      - text: Allah'tan gelen azabı
+        cid: 20
+      - text: onlardan
+        cid: 19
+      - text: savamamışlardı.
+        cid: 17
+      - text: >-
+          O iki kadına:
+        cid: 12
+      - text: >-
+          "Cehenneme girenlerle
+        cid: 27
+      - text: beraber siz de
+        cid: 26
+      - text: >-
+          girin"
+        cid: 24
+      - text: dendi.
+        cid: 23
   - verse: 11
     segments:
+      - text: Allah,
+        cid: 2
+      - text: inanlara
+        cid: 5
+      - text: Firavun'un
+        cid: 7
+      - text: karısını
+        cid: 6
+      - text: misal
+        cid: 3
       - text: >-
-          Allah, inanlara Firavun'un karısını misal gösterir: O: "Rabbim! Katından bana
-          cennette bir ev yap; beni Firavun'dan ve onun işlediklerinden kurtar; beni zalim
-          milletten kurtar" demişti.
+          gösterir:
+        cid: 6
+      - text: >-
+          O: "Rabbim!
+        cid: 10
+      - text: Katından
+        cid: 13
+      - text: bana
+        cid: 12
+      - text: cennette
+        cid: 16
+      - text: bir ev
+        cid: 14
+      - text: yap;
+        cid: 11
+      - text: beni
+        cid: 17
+      - text: Firavun'dan
+        cid: 7
+      - text: ve onun
         cid: 0
+      - text: işlediklerinden kurtar; beni
+        cid: 21
+      - text: zalim
+        cid: 24
+      - text: milletten
+        cid: 23
+      - text: >-
+          kurtar"
+        cid: 17
+      - text: demişti.
+        cid: 9
   - verse: 12
     segments:
-      - text: >-
-          Mahrem yerini korumuş olan İmran kızı Meryem de bir misaldir. Ona ruhumuzdan
-          üflemiştik; Rabbinin sözlerini ve kitablarını tasdik etmişti; o, Bize gönülden
-          itaat edenlerdendi.
-        cid: 0
+      - text: Mahrem
+        cid: 5
+      - text: yerini
+        cid: 6
+      - text: korumuş olan
+        cid: 5
+      - text: İmran
+        cid: 3
+      - text: kızı
+        cid: 2
+      - text: Meryem de bir misaldir.
+        cid: 1
+      - text: Ona
+        cid: 8
+      - text: ruhumuzdan
+        cid: 9
+      - text: üflemiştik;
+        cid: 7
+      - text: Rabbinin sözlerini
+        cid: 13
+      - text: ve kitablarını tasdik etmişti;
+        cid: 14
+      - text: o,
+        cid: 4
+      - text: Bize
+        cid: 7
+      - text: gönülden
+        cid: 16
+      - text: itaat edenlerdendi.
+        cid: 17
