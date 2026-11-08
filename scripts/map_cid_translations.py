@@ -703,8 +703,16 @@ class TurkicCidAligner:
         word_indices = [idx for idx, (_, is_p) in enumerate(tokens) if not is_p]
         if not word_indices and tokens:
             # Edge case (e.g. 13:30 where opening vocative '(Ey, Muhammed!' was closed at end of verse):
-            # Tokenize by whitespace so the verse is mapped rather than collapsed.
-            tokens = [(w, w.startswith("(") and w.endswith(")")) for w in text.split()]
+            # Repair vocative parenthesis if closed at end of verse, otherwise tokenize by whitespace.
+            repaired_text = re.sub(
+                r"^\((Ey,\s*[^\s!]+!)\s+(.+)\)\.$",
+                r"(\1) \2.",
+                text.strip(),
+            )
+            if repaired_text != text.strip():
+                tokens = tokenize_preserving_parens(repaired_text)
+            else:
+                tokens = [(w, w.startswith("(") and w.endswith(")")) for w in text.split()]
             word_indices = [idx for idx, (_, is_p) in enumerate(tokens) if not is_p]
         M = len(word_indices)
         if M == 0:
@@ -1004,6 +1012,9 @@ def fast_read_translation_yaml(yaml_path: Path) -> list[dict]:
 def format_segment_yaml(seg_text: str, cid: int) -> list[str]:
     """Serialize a segment into clean YAML matching repository conventions and fast/full parsers."""
     t = seg_text.strip()
+    if re.match(r"^[+-]?\d", t):
+        escaped = t.replace("\\", "\\\\").replace('"', '\\"')
+        return [f'      - text: "{escaped}"', f"        cid: {cid}"]
     if len(t) <= 74 and not NEEDS_BLOCK_RE.search(t) and t.lower() not in ("true", "false", "null", "yes", "no", "on", "off"):
         return [f"      - text: {t}", f"        cid: {cid}"]
     wrapped = textwrap.wrap(

@@ -175,6 +175,17 @@ def main() -> int:
                 loader = getattr(_pyyaml, "CSafeLoader", _pyyaml.SafeLoader)
                 parsed_doc = _pyyaml.load(yp.read_text(encoding="utf-8"), Loader=loader)
                 assert len(parsed_doc["verses"]) == int(core_specs[sid]["total"]), f"PyYAML count mismatch in {lang}/{author}/{fname}"
+                for pv in parsed_doc["verses"]:
+                    for pseg in pv.get("segments", []):
+                        assert isinstance(pseg.get("text"), str), (
+                            f"Non-string YAML segment text ({type(pseg.get('text')).__name__}: {pseg.get('text')!r}) "
+                            f"in {lang}/{author}/{fname}:{pv.get('verse')}"
+                        )
+                        if lang in ("crh", "tr"):
+                            verify_balanced_commentaries(
+                                pseg["text"],
+                                f"{lang}/{author}/{fname}:{pv.get('verse')} segment",
+                            )
             vnums = [v[0] for v in tvlist]
             exp_tot = int(core_specs[sid]["total"])
             assert vnums == list(range(1, exp_tot + 1)), f"{lang}/{author}/{fname}: expected 1..{exp_tot}, got len={len(vnums)}"

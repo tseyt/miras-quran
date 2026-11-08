@@ -254,8 +254,9 @@ function transliterateCrhWordLatToCyr(word) {
  * Transliterate CRH Latin text to standard CRH Cyrillic
  */
 export function transliterateCrhToCyrillic(text) {
-    if (!text) return text;
-    return text.replace(
+    if (text === null || text === undefined || text === '') return '';
+    const str = String(text);
+    return str.replace(
         /[A-Za-zÇçĞğİıÑñÖöŞşÜüÂâÎîÛû]+(?:'[A-Za-zÇçĞğİıÑñÖöŞşÜüÂâÎîÛû]+)*/g,
         word => transliterateCrhWordLatToCyr(word)
     );
@@ -265,8 +266,10 @@ export function transliterateCrhToCyrillic(text) {
  * Transliterate CRH Cyrillic text to standard CRH Latin
  */
 export function transliterateCrhToLatin(text) {
-    if (!text || !/[\u0400-\u04FF]/.test(text)) return text;
-    return text.replace(/[\u0400-\u04FFhH]+(?:'[\u0400-\u04FFhH]+)*/g, word => {
+    if (text === null || text === undefined || text === '') return '';
+    const str = String(text);
+    if (!/[\u0400-\u04FF]/.test(str)) return str;
+    return str.replace(/[\u0400-\u04FFhH]+(?:'[\u0400-\u04FFhH]+)*/g, word => {
         const wLow = word.toLowerCase();
         const isFront =
             /[еиэь]/.test(wLow) ||
@@ -345,11 +348,12 @@ export function transliterateCrhToLatin(text) {
 }
 
 export function transliterate(text, lang) {
-    if (!text) return text;
+    if (text === null || text === undefined || text === '') return '';
+    const str = String(text);
     const map = lang === 'ru' ? RU_MAP : (lang === 'ua' ? UA_MAP : null);
-    if (!map) return text;
+    if (!map) return str;
 
-    return text.split('').map(char => map[char] || char).join('');
+    return str.split('').map(char => map[char] || char).join('');
 }
 
 /**
@@ -358,9 +362,10 @@ export function transliterate(text, lang) {
  * @param {boolean} toCyrillic - If true, convert Latin to Cyrillic; if false, convert Cyrillic to Latin
  */
 export function transliterateCrh(text, toCyrillic = false) {
-    if (!text) return text;
+    if (text === null || text === undefined || text === '') return '';
+    const str = String(text);
     if (toCyrillic) {
-        return transliterateCrhToCyrillic(text);
+        return transliterateCrhToCyrillic(str);
     }
-    return transliterateCrhToLatin(text);
+    return transliterateCrhToLatin(str);
 }

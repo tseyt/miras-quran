@@ -18,7 +18,7 @@ function App() {
     const [isLatin, setIsLatin] = useState(true);
 
     // Modular Translation State
-    const [activeLanguages, setActiveLanguages] = useState(new Set(['ar', 'ar-lat', 'en', 'crh']));
+    const [activeLanguages, setActiveLanguages] = useState(new Set(['ar', 'ar-lat', 'en', 'tr', 'crh']));
     const [selectedAuthors, setSelectedAuthors] = useState(DEFAULT_AUTHORS);
     const [loadedTranslations, setLoadedTranslations] = useState({});
 
@@ -37,11 +37,17 @@ function App() {
 
     // Load translations when surah or active languages/authors change
     useEffect(() => {
+        let cancelled = false;
         const fetchTranslations = async () => {
             const trans = await loadTranslations(activeSurahId, Array.from(activeLanguages), selectedAuthors);
-            setLoadedTranslations(trans);
+            if (!cancelled) {
+                setLoadedTranslations(trans);
+            }
         };
         fetchTranslations();
+        return () => {
+            cancelled = true;
+        };
     }, [activeSurahId, activeLanguages, selectedAuthors]);
 
     const activeSurah = useMemo(() =>

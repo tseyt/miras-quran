@@ -49,6 +49,16 @@ export const loadTranslations = async (surahId, activeLanguages, selectedAuthors
                         translations[langCode][authorId] = module.default.verses;
                     }).catch(err => {
                         console.error(`Failed to load translation: ${transPath}`, err);
+                        // Recover from stale Rollup chunk hashes after a new deployment
+                        if (typeof window !== 'undefined' && typeof sessionStorage !== 'undefined') {
+                            const lastReload = Number(sessionStorage.getItem('miras_chunk_reload') || 0);
+                            if (Date.now() - lastReload > 15000) {
+                                sessionStorage.setItem('miras_chunk_reload', String(Date.now()));
+                                const url = new URL(window.location.href);
+                                url.searchParams.set('v', String(Date.now()));
+                                window.location.replace(url.toString());
+                            }
+                        }
                     })
                 );
             }

@@ -55,7 +55,8 @@ export default function VerseCard({
 
     // Parse text and render with collapsible parenthetical commentary
     // Uses balanced parentheses matching to handle nested parens like (text (note) more)
-    const renderTextWithCommentary = (text, verseId, segIdx) => {
+    const renderTextWithCommentary = (rawInput, verseId, segIdx) => {
+        const text = String(rawInput ?? '');
         const parts = [];
         let i = 0;
         let parenIdx = 0;
@@ -214,11 +215,12 @@ export default function VerseCard({
                                         <div style={{ fontSize: `${baseFontSize}px` }} className="flex-1 min-w-0">
                                             <p className="font-sans text-slate-700 dark:text-slate-200 leading-relaxed break-words">
                                                 {segments.map((seg, idx) => {
+                                                    const segText = String(seg.text ?? '');
                                                     let text = isLatin && (langCode === 'ru' || langCode === 'ua')
-                                                        ? transliterate(seg.text, langCode)
+                                                        ? transliterate(segText, langCode)
                                                         : !isLatin && langCode === 'crh'
-                                                            ? transliterateCrh(seg.text, true)
-                                                            : seg.text;
+                                                            ? transliterateCrh(segText, true)
+                                                            : segText;
                                                     // Apply collapsible commentary for applicable languages
                                                     const renderedContent = renderTextWithCommentary(text, verse.id, idx);
                                                     return (
