@@ -4,22 +4,34 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          De ki; O Allah bir tektir.
-        cid: 0
+      - text: De ki;
+        cid: 1
+      - text: O
+        cid: 2
+      - text: Allah bir tektir.
+        cid: 3
   - verse: 2
     segments:
-      - text: >-
-          Allah eksiksiz, sameddir (Bütün varlıklar O'na muhtaç, fakat O, hiç bir şeye
-          muhtaç değildir
+      - text: Allah eksiksiz,
+        cid: 1
+      - text: sameddir
+        cid: 2
+      - text: (Bütün varlıklar O'na muhtaç, fakat O, hiç bir şeye muhtaç değildir
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          Doğurmadı ve doğurulmadı
+      - text: Doğurmadı
+        cid: 1
+      - text: ve
         cid: 0
+      - text: doğurulmadı
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          O 'na bir denk de olmadı.
+      - text: O
         cid: 0
+      - text: >-
+          'na bir denk de
+        cid: 4
+      - text: olmadı.
+        cid: 2

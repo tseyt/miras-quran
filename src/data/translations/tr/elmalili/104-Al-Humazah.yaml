@@ -4,50 +4,86 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Mal toplayıp onu tekrar tekrar sayan, insanları arkadan çekiştirip, kaş göz
-          hareketleriyle alay edenlerin (hümeze ve lümezenin) vay haline!
+      - text: Mal toplayıp onu tekrar tekrar sayan, insanları arkadan
         cid: 0
+      - text: çekiştirip,
+        cid: 3
+      - text: kaş göz hareketleriyle alay edenlerin
+        cid: 4
+      - text: (hümeze ve lümezenin)
+        cid: 0
+      - text: vay haline!
+        cid: 1
   - verse: 2
     segments:
+      - text: Mal toplayıp
+        cid: 3
+      - text: onu tekrar tekrar sayan, insanları arkadan
+        cid: 4
       - text: >-
-          Mal toplayıp onu tekrar tekrar sayan, insanları arkadan çekiştirip, kaş göz
-          hareketleriyle alay edenlerin (hümeze ve lümezenin) vay haline!
+          çekiştirip, kaş göz hareketleriyle alay edenlerin (hümeze ve lümezenin) vay haline!
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          Malının, kendisini ebedi yaşatacağını sanır.
-        cid: 0
+      - text: Malının, kendisini
+        cid: 3
+      - text: ebedi yaşatacağını
+        cid: 4
+      - text: sanır.
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          Hayır, andolsun ki, o hutame (cehennem)ye atılacaktır.
+      - text: Hayır,
+        cid: 1
+      - text: andolsun ki, o
+        cid: 2
+      - text: hutame
+        cid: 3
+      - text: (cehennem)ye
         cid: 0
+      - text: atılacaktır.
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Hutame'nin ne olduğunu bilir misin?
-        cid: 0
+      - text: Hutame'nin ne olduğunu
+        cid: 4
+      - text: bilir misin?
+        cid: 2
   - verse: 6
     segments:
-      - text: >-
-          O, kalplerin içine işleyecek, Allah'ın tutuşturulmuş bir ateşidir.
+      - text: O, kalplerin içine işleyecek,
         cid: 0
+      - text: Allah'ın
+        cid: 2
+      - text: tutuşturulmuş
+        cid: 3
+      - text: bir ateşidir.
+        cid: 1
   - verse: 7
     segments:
-      - text: >-
-          O, kalplerin içine işleyecek, Allah'ın tutuşturulmuş bir ateşidir.
+      - text: O, kalplerin
+        cid: 0
+      - text: içine işleyecek,
+        cid: 2
+      - text: Allah'ın tutuşturulmuş bir ateşidir.
         cid: 0
   - verse: 8
     segments:
-      - text: >-
-          Cehennemlikler, dikilmiş direklere bağlı oldukları halde, o ateşin kapıları
-          üzerlerine kapatılacaktır.
+      - text: Cehennemlikler, dikilmiş direklere bağlı oldukları halde,
         cid: 0
+      - text: o ateşin
+        cid: 1
+      - text: kapıları
+        cid: 3
+      - text: üzerlerine
+        cid: 2
+      - text: kapatılacaktır.
+        cid: 3
   - verse: 9
     segments:
-      - text: >-
-          Cehennemlikler, dikilmiş direklere bağlı oldukları halde, o ateşin kapıları
-          üzerlerine kapatılacaktır.
+      - text: Cehennemlikler,
+        cid: 0
+      - text: dikilmiş direklere bağlı oldukları halde,
+        cid: 2
+      - text: o ateşin kapıları üzerlerine kapatılacaktır.
         cid: 0

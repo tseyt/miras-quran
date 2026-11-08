@@ -5,30 +5,45 @@ verses:
   - verse: 1
     segments:
       - text: >-
-          De ki: Ey kâfirler
-        cid: 0
+          De ki:
+        cid: 1
+      - text: Ey
+        cid: 2
+      - text: kâfirler
+        cid: 3
   - verse: 2
     segments:
-      - text: >-
-          Sizin taptıklarınıza ben tapmam.
-        cid: 0
+      - text: Sizin taptıklarınıza
+        cid: 4
+      - text: ben
+        cid: 1
+      - text: tapmam.
+        cid: 4
   - verse: 3
     segments:
-      - text: >-
-          Siz de benim taptığıma tapıcılar değilsiniz.
-        cid: 0
+      - text: Siz de
+        cid: 2
+      - text: benim taptığıma tapıcılar değilsiniz.
+        cid: 4
   - verse: 4
     segments:
-      - text: >-
-          Ben asla sizin taptıklarınıza tapacak değilim.
-        cid: 0
+      - text: Ben asla
+        cid: 2
+      - text: sizin taptıklarınıza tapacak
+        cid: 4
+      - text: değilim.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Siz de benim taptığıma tapacak değilsiniz.
-        cid: 0
+      - text: Siz de benim taptığıma tapacak
+        cid: 2
+      - text: değilsiniz.
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Sizin dininiz size, benim dinim banadır.
-        cid: 0
+      - text: Sizin dininiz
+        cid: 2
+      - text: size,
+        cid: 1
+      - text: benim dinim banadır.
+        cid: 4

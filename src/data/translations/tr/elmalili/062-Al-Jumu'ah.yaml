@@ -4,70 +4,343 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Göklerde ve yerde olanların hepsi padişah, mukaddes, azîz ve hakîm olan Allah'ı
-          tesbih etmektedir.
+      - text: Göklerde
+        cid: 5
+      - text: ve
         cid: 0
+      - text: yerde olanların hepsi
+        cid: 8
+      - text: padişah,
+        cid: 9
+      - text: mukaddes,
+        cid: 10
+      - text: azîz
+        cid: 11
+      - text: ve
+        cid: 0
+      - text: hakîm olan
+        cid: 12
+      - text: Allah'ı
+        cid: 2
+      - text: tesbih etmektedir.
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          O'dur ki ümmiler içinde, kendilerinden olan ve onlara Allah'ın âyetlerini
-          okuyan, onları temizleyen, onlara kitap ve hikmeti öğreten bir Peygamber
-          gönderdi. Oysa onlar, önceden apaçık bir sapıklık içinde idiler.
+      - text: O'dur
         cid: 0
+      - text: ki ümmiler
+        cid: 5
+      - text: içinde,
+        cid: 19
+      - text: kendilerinden olan
+        cid: 7
+      - text: ve
+        cid: 0
+      - text: onlara Allah'ın
+        cid: 9
+      - text: âyetlerini
+        cid: 10
+      - text: okuyan,
+        cid: 8
+      - text: onları temizleyen,
+        cid: 11
+      - text: onlara
+        cid: 12
+      - text: kitap
+        cid: 13
+      - text: ve hikmeti
+        cid: 14
+      - text: öğreten
+        cid: 12
+      - text: bir Peygamber
+        cid: 6
+      - text: gönderdi.
+        cid: 2
+      - text: Oysa
+        cid: 15
+      - text: onlar,
+        cid: 16
+      - text: önceden
+        cid: 18
+      - text: apaçık
+        cid: 21
+      - text: bir sapıklık
+        cid: 20
+      - text: içinde
+        cid: 19
+      - text: idiler.
+        cid: 16
   - verse: 3
     segments:
-      - text: >-
-          Henüz onlara katılmamış bulunan diğer insanlara da (o Peygamberi göndermiştir).
-          O, çok güçlüdür, hüküm ve hikmet sahibidir.
+      - text: Henüz
+        cid: 3
+      - text: onlara
+        cid: 2
+      - text: katılmamış bulunan
+        cid: 4
+      - text: diğer insanlara da
+        cid: 1
+      - text: (o Peygamberi göndermiştir).
         cid: 0
+      - text: O, çok güçlüdür, hüküm
+        cid: 6
+      - text: ve
+        cid: 0
+      - text: hikmet
+        cid: 8
+      - text: sahibidir.
+        cid: 7
   - verse: 4
     segments:
-      - text: >-
-          Bu, Allah'ın lütfudur. Allah, büyük lütuf sahibidir.
-        cid: 0
+      - text: Bu,
+        cid: 1
+      - text: Allah'ın
+        cid: 3
+      - text: lütfudur.
+        cid: 2
+      - text: Allah,
+        cid: 7
+      - text: büyük
+        cid: 10
+      - text: lütuf
+        cid: 9
+      - text: sahibidir.
+        cid: 8
   - verse: 5
     segments:
-      - text: >-
-          Kendilerine Tevrat yükletilip de sonra onu taşımayanların durumu, kitaplar
-          taşıyan eşeğin durumu gibidir. Allah'ın âyetlerini yalanlayanların durumu ne
-          kötüdür. Allah zalim toplumu doğru yola iletmez.
-        cid: 0
+      - text: Kendilerine Tevrat
+        cid: 4
+      - text: yükletilip de
+        cid: 2
+      - text: sonra
+        cid: 5
+      - text: onu
+        cid: 6
+      - text: taşımayanların
+        cid: 7
+      - text: durumu,
+        cid: 8
+      - text: kitaplar
+        cid: 11
+      - text: taşıyan
+        cid: 10
+      - text: eşeğin
+        cid: 9
+      - text: durumu gibidir.
+        cid: 8
+      - text: Allah'ın
+        cid: 18
+      - text: âyetlerini
+        cid: 17
+      - text: yalanlayanların
+        cid: 15
+      - text: durumu
+        cid: 8
+      - text: ne kötüdür.
+        cid: 12
+      - text: Allah
+        cid: 19
+      - text: zalim
+        cid: 23
+      - text: toplumu
+        cid: 22
+      - text: doğru yola iletmez.
+        cid: 20
   - verse: 6
     segments:
       - text: >-
-          De ki: "Ey Yahudi olanlar! Eğer insanlar arasında yalnız sizin, Allah'ın
-          dostları olduğunuzu sanıyorsanız, o halde ölümü temenni edin, doğru iseniz?"
-        cid: 0
+          De ki:
+        cid: 1
+      - text: >-
+          "Ey
+        cid: 2
+      - text: Yahudi
+        cid: 4
+      - text: olanlar!
+        cid: 3
+      - text: Eğer
+        cid: 5
+      - text: insanlar arasında
+        cid: 12
+      - text: yalnız sizin,
+        cid: 7
+      - text: Allah'ın
+        cid: 9
+      - text: dostları olduğunuzu
+        cid: 8
+      - text: sanıyorsanız, o halde
+        cid: 6
+      - text: ölümü
+        cid: 14
+      - text: temenni edin,
+        cid: 13
+      - text: doğru
+        cid: 17
+      - text: >-
+          iseniz?"
+        cid: 16
   - verse: 7
     segments:
-      - text: >-
-          Ama onlar, ellerinin (yapıp) öne sürdüğü (işler) yüzünden ölümü asla temenni
-          etmezler. Allah zalimleri bilir.
+      - text: Ama onlar, ellerinin
+        cid: 6
+      - text: (yapıp)
         cid: 0
+      - text: öne sürdüğü
+        cid: 5
+      - text: (işler)
+        cid: 0
+      - text: yüzünden ölümü
+        cid: 4
+      - text: asla
+        cid: 3
+      - text: temenni etmezler.
+        cid: 2
+      - text: Allah
+        cid: 7
+      - text: zalimleri
+        cid: 9
+      - text: bilir.
+        cid: 8
   - verse: 8
     segments:
       - text: >-
-          De ki: "Sizin kendisinden kaçtığınız ölüm, muhakkak sizi bulacaktır. Sonra
-          görünmeyeni ve görüneni bilene döndürüleceksiniz. O size (bütün) yaptıklarınızı
-          haber verecektir.
+          De ki:
+        cid: 1
+      - text: >-
+          "Sizin kendisinden
+        cid: 6
+      - text: kaçtığınız
+        cid: 4
+      - text: ölüm, muhakkak
+        cid: 3
+      - text: sizi bulacaktır.
+        cid: 8
+      - text: Sonra
+        cid: 9
+      - text: görünmeyeni
+        cid: 13
+      - text: ve görüneni
+        cid: 14
+      - text: bilene
+        cid: 11
+      - text: döndürüleceksiniz.
+        cid: 10
+      - text: O size
+        cid: 15
+      - text: (bütün)
         cid: 0
+      - text: yaptıklarınızı
+        cid: 18
+      - text: haber verecektir.
+        cid: 15
   - verse: 9
     segments:
-      - text: >-
-          Ey inananlar! Cuma günü namaz için çağrıldığı(nız) zaman, Allah'ı anmaya koşun,
-          alışverişi bırakın. Eğer bilirseniz, bu sizin için daha hayırlıdır.
+      - text: Ey
+        cid: 1
+      - text: inananlar!
+        cid: 3
+      - text: Cuma
+        cid: 9
+      - text: günü
+        cid: 7
+      - text: namaz için
+        cid: 6
+      - text: çağrıldığı(nız)
         cid: 0
+      - text: zaman,
+        cid: 4
+      - text: Allah'ı
+        cid: 13
+      - text: anmaya
+        cid: 11
+      - text: koşun,
+        cid: 10
+      - text: alışverişi
+        cid: 15
+      - text: bırakın.
+        cid: 14
+      - text: Eğer
+        cid: 19
+      - text: bilirseniz,
+        cid: 20
+      - text: bu sizin için
+        cid: 16
+      - text: daha hayırlıdır.
+        cid: 17
   - verse: 10
     segments:
-      - text: >-
-          Namaz kılındıktan sonra yeryüzüne dağılın ve Allah'ın lütfundan (nasibinizi)
-          arayın. Allah'ı çok anın ki kurtuluşa eresiniz.
+      - text: Namaz
+        cid: 3
+      - text: kılındıktan
+        cid: 2
+      - text: sonra
+        cid: 4
+      - text: yeryüzüne
+        cid: 6
+      - text: dağılın
+        cid: 4
+      - text: ve
         cid: 0
+      - text: Allah'ın
+        cid: 10
+      - text: lütfundan
+        cid: 8
+      - text: (nasibinizi)
+        cid: 0
+      - text: arayın.
+        cid: 7
+      - text: Allah'ı
+        cid: 12
+      - text: çok
+        cid: 13
+      - text: anın ki
+        cid: 11
+      - text: kurtuluşa eresiniz.
+        cid: 15
   - verse: 11
     segments:
+      - text: Bir ticaret
+        cid: 3
+      - text: ve
+        cid: 4
+      - text: eğlence
+        cid: 5
+      - text: gördükleri
+        cid: 2
+      - text: zaman hemen
+        cid: 1
+      - text: dağılıp
+        cid: 6
+      - text: ona gittiler
+        cid: 7
+      - text: ve seni
+        cid: 8
+      - text: ayakta
+        cid: 9
+      - text: bıraktılar.
+        cid: 8
       - text: >-
-          Bir ticaret ve eğlence gördükleri zaman hemen dağılıp ona gittiler ve seni
-          ayakta bıraktılar. De ki: "Allah'ın yanında bulunan, eğlenceden ve ticaretten de
-          hayırlıdır. Allah, rızık verenlerin en hayırlısıdır."
+          De ki:
+        cid: 10
+      - text: >-
+          "Allah'ın
+        cid: 13
+      - text: yanında
+        cid: 12
+      - text: bulunan,
+        cid: 11
+      - text: eğlenceden
+        cid: 15
+      - text: ve
         cid: 0
+      - text: ticaretten de
+        cid: 18
+      - text: hayırlıdır.
+        cid: 14
+      - text: Allah,
+        cid: 19
+      - text: rızık verenlerin
+        cid: 21
+      - text: >-
+          en hayırlısıdır."
+        cid: 20

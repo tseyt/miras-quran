@@ -4,269 +4,699 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Andolsun Tûr'a,
-        cid: 0
+      - text: Andolsun Tûr'a,
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Yayılmış ince deri üzerine, satır satır yazılmış kitaba,
+      - text: Yayılmış ince deri üzerine,
         cid: 0
+      - text: satır satır yazılmış
+        cid: 2
+      - text: kitaba,
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Yayılmış ince deri üzerine, satır satır yazılmış kitaba,
+      - text: Yayılmış
+        cid: 3
+      - text: ince deri üzerine,
+        cid: 1
+      - text: satır satır yazılmış kitaba,
         cid: 0
   - verse: 4
     segments:
-      - text: >-
-          Ma'mur eve,
-        cid: 0
+      - text: Ma'mur eve,
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Yükseltilmiş tavana,
-        cid: 0
+      - text: Yükseltilmiş
+        cid: 2
+      - text: tavana,
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Kaynatılmış denize, (andolsun ki)
+      - text: Kaynatılmış
+        cid: 2
+      - text: denize,
+        cid: 1
+      - text: (andolsun ki)
         cid: 0
   - verse: 7
     segments:
-      - text: >-
-          Rabbinin azabı mutlaka vuku bulacaktır.
-        cid: 0
+      - text: Rabbinin
+        cid: 3
+      - text: azabı
+        cid: 2
+      - text: mutlaka
+        cid: 1
+      - text: vuku bulacaktır.
+        cid: 4
   - verse: 8
     segments:
-      - text: >-
-          Ona engel olacak (hiçbir şey de) yoktur.
+      - text: Ona
+        cid: 2
+      - text: engel olacak
+        cid: 4
+      - text: (hiçbir şey de)
         cid: 0
+      - text: yoktur.
+        cid: 1
   - verse: 9
     segments:
-      - text: >-
-          O gün gök, bir çalkanış çalkalanır
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: gök,
+        cid: 3
+      - text: bir çalkanış çalkalanır
+        cid: 2
   - verse: 10
     segments:
-      - text: >-
-          Dağlar da bir yürüyüş yürür.
-        cid: 0
+      - text: Dağlar da
+        cid: 2
+      - text: bir yürüyüş
+        cid: 3
+      - text: yürür.
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Vay haline o gün yalanlayanların!
-        cid: 0
+      - text: Vay haline
+        cid: 1
+      - text: o gün
+        cid: 2
+      - text: yalanlayanların!
+        cid: 3
   - verse: 12
     segments:
-      - text: >-
-          Ki onlar, daldıkları bir batak (bâtıl)da oynayıp duruyorlar.
+      - text: Ki onlar, daldıkları
+        cid: 1
+      - text: bir batak
+        cid: 4
+      - text: (bâtıl)da
         cid: 0
+      - text: oynayıp duruyorlar.
+        cid: 5
   - verse: 13
     segments:
-      - text: >-
-          O gün onlar cehennem ateşine itilip kakılacaklar.
-        cid: 0
+      - text: O gün onlar
+        cid: 1
+      - text: cehennem
+        cid: 5
+      - text: ateşine itilip
+        cid: 3
+      - text: kakılacaklar.
+        cid: 2
   - verse: 14
     segments:
       - text: >-
-          (Onlara): "İşte yalanlayıp durduğunuz ateş budur" (denilecek).
+          (Onlara):
+        cid: 0
+      - text: >-
+          "İşte
+        cid: 1
+      - text: yalanlayıp durduğunuz
+        cid: 6
+      - text: ateş
+        cid: 2
+      - text: >-
+          budur"
+        cid: 1
+      - text: (denilecek).
         cid: 0
   - verse: 15
     segments:
       - text: >-
-          "Bu da mı bir sihir? Yoksa siz görmüyor musunuz?
-        cid: 0
+          "Bu da mı bir sihir?
+        cid: 2
+      - text: Yoksa
+        cid: 3
+      - text: siz
+        cid: 4
+      - text: görmüyor musunuz?
+        cid: 5
   - verse: 16
     segments:
+      - text: Girin oraya, ister
+        cid: 1
+      - text: sabredin ister
+        cid: 2
+      - text: etmeyin artık sizin için
+        cid: 5
+      - text: birdir.
+        cid: 6
+      - text: Siz
+        cid: 7
+      - text: hep yaptıklarınıza
+        cid: 12
+      - text: göre
+        cid: 10
       - text: >-
-          Girin oraya, ister sabredin ister etmeyin artık sizin için birdir. Siz hep
-          yaptıklarınıza göre cezalandırılacaksınız" (denilecek).
+          cezalandırılacaksınız"
+        cid: 9
+      - text: (denilecek).
         cid: 0
   - verse: 17
     segments:
-      - text: >-
-          Şüphesiz (günahlardan) korunanlar da cennetlerde, nimetler içindedirler.
+      - text: Şüphesiz
+        cid: 1
+      - text: (günahlardan)
         cid: 0
+      - text: korunanlar da
+        cid: 2
+      - text: cennetlerde,
+        cid: 4
+      - text: nimetler
+        cid: 5
+      - text: içindedirler.
+        cid: 3
   - verse: 18
     segments:
-      - text: >-
-          Rablerinin kendilerine verdiği ile zevk ü sefâ sürerler. Rableri onları,
-          cehennem azabından korumuştur.
-        cid: 0
+      - text: Rablerinin
+        cid: 4
+      - text: kendilerine verdiği ile zevk ü
+        cid: 3
+      - text: sefâ sürerler.
+        cid: 1
+      - text: Rableri
+        cid: 6
+      - text: onları,
+        cid: 5
+      - text: cehennem
+        cid: 8
+      - text: azabından
+        cid: 7
+      - text: korumuştur.
+        cid: 5
   - verse: 19
     segments:
       - text: >-
-          (Onlara): "Yaptıklarınıza karşılık afiyetle yeyin, için" (denilir.)
+          (Onlara):
+        cid: 0
+      - text: >-
+          "Yaptıklarınıza
+        cid: 6
+      - text: karşılık
+        cid: 4
+      - text: afiyetle
+        cid: 3
+      - text: yeyin,
+        cid: 1
+      - text: >-
+          için"
+        cid: 2
+      - text: (denilir.)
         cid: 0
   - verse: 20
     segments:
-      - text: >-
-          Sıra sıra dizilmiş koltuklara yaslanırlar. Ayrıca biz onları ceylan gözlü
-          hûrilerle evlendirdik.
-        cid: 0
+      - text: Sıra sıra dizilmiş
+        cid: 4
+      - text: koltuklara
+        cid: 3
+      - text: yaslanırlar.
+        cid: 1
+      - text: Ayrıca biz onları ceylan
+        cid: 5
+      - text: gözlü
+        cid: 7
+      - text: hûrilerle
+        cid: 6
+      - text: evlendirdik.
+        cid: 5
   - verse: 21
     segments:
-      - text: >-
-          İman edip zürriyetleri de iman ile kendilerine tâbi olanlar (yok mu?); işte
-          biz, onların nesillerini de kendilerine kattık. Kendilerinin amellerinden birşey
-          de eksiltmedik. Herkes kendi kazandığına bağlıdır.
+      - text: İman edip
+        cid: 5
+      - text: zürriyetleri de
+        cid: 8
+      - text: iman ile
+        cid: 5
+      - text: kendilerine tâbi olanlar
+        cid: 7
+      - text: (yok mu?);
         cid: 0
+      - text: işte biz, onların nesillerini de
+        cid: 7
+      - text: kendilerine
+        cid: 3
+      - text: kattık.
+        cid: 6
+      - text: Kendilerinin
+        cid: 7
+      - text: amellerinden birşey de
+        cid: 11
+      - text: eksiltmedik.
+        cid: 10
+      - text: Herkes
+        cid: 15
+      - text: kendi kazandığına
+        cid: 18
+      - text: bağlıdır.
+        cid: 19
   - verse: 22
     segments:
-      - text: >-
-          Onlara canlarının istediği meyvalar ve etlerden bol bol verdik.
+      - text: Onlara
+        cid: 1
+      - text: canlarının istediği
+        cid: 4
+      - text: meyvalar
+        cid: 2
+      - text: ve
         cid: 0
+      - text: etlerden bol bol verdik.
+        cid: 1
   - verse: 23
     segments:
-      - text: >-
-          Orada bir kadeh kapışırlar ki, onda ne bir saçmalama vardır, ne de günaha
-          sokma.
-        cid: 0
+      - text: Orada
+        cid: 2
+      - text: bir kadeh
+        cid: 3
+      - text: kapışırlar ki,
+        cid: 1
+      - text: onda ne
+        cid: 6
+      - text: bir saçmalama vardır, ne de
+        cid: 5
+      - text: günaha sokma.
+        cid: 8
   - verse: 24
     segments:
-      - text: >-
-          Kendilerine ait bir takım hizmetçiler de onların etrafında dönerler. Bu gençler
-          sanki sedefleri içine gizlenmiş inci gibidirler.
+      - text: Kendilerine ait bir takım
+        cid: 4
+      - text: hizmetçiler de onların etrafında dönerler.
+        cid: 1
+      - text: Bu
         cid: 0
+      - text: gençler sanki sedefleri içine gizlenmiş
+        cid: 7
+      - text: inci
+        cid: 6
+      - text: gibidirler.
+        cid: 5
   - verse: 25
     segments:
-      - text: >-
-          Birbirlerine yönelip soruyorlar.
-        cid: 0
+      - text: Birbirlerine yönelip
+        cid: 2
+      - text: soruyorlar.
+        cid: 5
   - verse: 26
     segments:
       - text: >-
-          Ve diyorlar ki: "Gerçekte biz daha önce (dünya hayatında) âilemiz içinde
-          (âkibetimizden) korkardık".
+          Ve diyorlar ki:
         cid: 0
+      - text: >-
+          "Gerçekte biz
+        cid: 2
+      - text: daha önce
+        cid: 4
+      - text: (dünya hayatında)
+        cid: 0
+      - text: âilemiz
+        cid: 6
+      - text: içinde
+        cid: 5
+      - text: (âkibetimizden)
+        cid: 0
+      - text: korkardık".
+        cid: 7
   - verse: 27
     segments:
       - text: >-
-          "Allah bize lutfetti de bizi (vücûdun) içine işleyen (kavurucu) azabdan
-          korudu."
+          "Allah
+        cid: 2
+      - text: bize
+        cid: 3
+      - text: lutfetti de
+        cid: 1
+      - text: bizi
+        cid: 4
+      - text: (vücûdun)
         cid: 0
+      - text: içine
+        cid: 4
+      - text: işleyen
+        cid: 6
+      - text: (kavurucu)
+        cid: 0
+      - text: azabdan
+        cid: 5
+      - text: >-
+          korudu."
+        cid: 4
   - verse: 28
     segments:
       - text: >-
-          "Gerçekten biz bundan önce O'na yalvarıyorduk. Çünkü iyilik eden, esirgeyen
+          "Gerçekten biz
+        cid: 1
+      - text: bundan
+        cid: 3
+      - text: önce
+        cid: 4
+      - text: O'na yalvarıyorduk.
+        cid: 5
+      - text: Çünkü
+        cid: 6
+      - text: iyilik eden,
+        cid: 8
+      - text: esirgeyen
+        cid: 9
+      - text: >-
           ancak O'dur."
-        cid: 0
+        cid: 7
   - verse: 29
     segments:
-      - text: >-
-          (Ey Muhammed!) sen hatırlat, öğüt ver. Rabbinin nimeti sayesinde sen ne
-          kâhinsin, ne de mecnûn.
+      - text: (Ey Muhammed!)
         cid: 0
+      - text: sen hatırlat, öğüt ver.
+        cid: 1
+      - text: Rabbinin
+        cid: 5
+      - text: nimeti sayesinde
+        cid: 4
+      - text: sen ne
+        cid: 3
+      - text: kâhinsin, ne de
+        cid: 6
+      - text: mecnûn.
+        cid: 8
   - verse: 30
     segments:
+      - text: Yoksa
+        cid: 1
+      - text: onlar
+        cid: 3
       - text: >-
-          Yoksa onlar (senin için): "Bir şâirdir, zamanın felaketlerine çarpılmasını
-          gözetliyoruz." mu diyorlar?
+          (senin için):
         cid: 0
+      - text: >-
+          "Bir şâirdir,
+        cid: 3
+      - text: zamanın
+        cid: 7
+      - text: felaketlerine çarpılmasını
+        cid: 6
+      - text: gözetliyoruz." mu
+        cid: 4
+      - text: diyorlar?
+        cid: 2
   - verse: 31
     segments:
       - text: >-
-          De ki: Bekleyin, çünkü ben de sizinle beraber bekleyenlerdenim.
+          De ki:
+        cid: 1
+      - text: Bekleyin,
         cid: 0
+      - text: çünkü ben de
+        cid: 3
+      - text: sizinle beraber bekleyenlerdenim.
+        cid: 4
   - verse: 32
     segments:
-      - text: >-
-          Onların akılları mı bunu emreder yoksa onlar azgın bir topluluk mudur?
-        cid: 0
+      - text: Onların akılları mı
+        cid: 3
+      - text: bunu
+        cid: 4
+      - text: emreder
+        cid: 2
+      - text: yoksa
+        cid: 5
+      - text: onlar
+        cid: 6
+      - text: azgın
+        cid: 8
+      - text: bir topluluk mudur?
+        cid: 7
   - verse: 33
     segments:
+      - text: Yoksa
+        cid: 1
       - text: >-
-          Yoksa "Onu uydurdu" mu diyorlar? Hayır onlar inanmıyorlar.
-        cid: 0
+          "Onu uydurdu" mu
+        cid: 3
+      - text: diyorlar?
+        cid: 2
+      - text: Hayır
+        cid: 4
+      - text: onlar inanmıyorlar.
+        cid: 5
   - verse: 34
     segments:
-      - text: >-
-          Eğer doğru iseler onun benzeri bir söz meydana getirsinler.
-        cid: 0
+      - text: Eğer
+        cid: 4
+      - text: doğru
+        cid: 6
+      - text: iseler onun benzeri
+        cid: 5
+      - text: bir söz meydana
+        cid: 2
+      - text: getirsinler.
+        cid: 1
   - verse: 35
     segments:
-      - text: >-
-          Yoksa onlar, hiçbir şey olmadan (yani yaratıcısız) mı yaratıldılar? Yoksa
-          kendileri yaratıcı mıdırlar?
+      - text: Yoksa
+        cid: 6
+      - text: onlar,
+        cid: 7
+      - text: hiçbir
+        cid: 3
+      - text: şey
+        cid: 5
+      - text: olmadan
+        cid: 4
+      - text: (yani yaratıcısız)
         cid: 0
+      - text: mı
+        cid: 4
+      - text: yaratıldılar?
+        cid: 8
+      - text: Yoksa
+        cid: 6
+      - text: kendileri
+        cid: 7
+      - text: yaratıcı
+        cid: 8
+      - text: mıdırlar?
+        cid: 7
   - verse: 36
     segments:
-      - text: >-
-          Yoksa gökleri ve yeri onlar mı yarattılar? Hayır, onlar düşünüp hakikati
-          anlamazlar.
-        cid: 0
+      - text: Yoksa
+        cid: 1
+      - text: gökleri
+        cid: 3
+      - text: ve yeri
+        cid: 4
+      - text: onlar mı
+        cid: 6
+      - text: yarattılar?
+        cid: 2
+      - text: Hayır,
+        cid: 5
+      - text: onlar düşünüp hakikati anlamazlar.
+        cid: 6
   - verse: 37
     segments:
-      - text: >-
-          Yoksa Rabbinin hazineleri onların yanında mıdır? Yahut hâkim (her şeyin
-          yöneticisi) kendileri midir?
+      - text: Yoksa
+        cid: 1
+      - text: Rabbinin
+        cid: 4
+      - text: hazineleri
+        cid: 3
+      - text: onların yanında
+        cid: 2
+      - text: mıdır?
+        cid: 6
+      - text: Yahut
+        cid: 5
+      - text: hâkim
+        cid: 7
+      - text: (her şeyin yöneticisi)
         cid: 0
+      - text: kendileri midir?
+        cid: 6
   - verse: 38
     segments:
-      - text: >-
-          Yoksa kendilerine mahsus (üzerine çıkıp sırları) dinleyecekleri bir
-          merdivenleri mi var? Öyleyse dinleyenleri, açık bir delil getirsin.
+      - text: Yoksa kendilerine mahsus
+        cid: 1
+      - text: (üzerine çıkıp sırları)
         cid: 0
+      - text: dinleyecekleri
+        cid: 4
+      - text: bir merdivenleri mi
+        cid: 3
+      - text: var?
+        cid: 2
+      - text: Öyleyse
+        cid: 6
+      - text: dinleyenleri,
+        cid: 4
+      - text: açık
+        cid: 9
+      - text: bir delil
+        cid: 8
+      - text: getirsin.
+        cid: 6
   - verse: 39
     segments:
-      - text: >-
-          Demek kızlar O'na, oğullar size öyle mi?
-        cid: 0
+      - text: Demek kızlar O'na,
+        cid: 3
+      - text: oğullar
+        cid: 5
+      - text: size öyle mi?
+        cid: 4
   - verse: 40
     segments:
-      - text: >-
-          Yoksa sen kendilerinden bir ücret istiyorsun da, bu yüzden onlar ağır bir borç
-          altında mı kalıyorlar?
-        cid: 0
+      - text: Yoksa sen kendilerinden
+        cid: 1
+      - text: bir ücret
+        cid: 3
+      - text: istiyorsun da,
+        cid: 2
+      - text: bu yüzden
+        cid: 6
+      - text: onlar
+        cid: 4
+      - text: ağır
+        cid: 6
+      - text: bir borç
+        cid: 5
+      - text: altında mı
+        cid: 7
+      - text: kalıyorlar?
+        cid: 6
   - verse: 41
     segments:
-      - text: >-
-          Yoksa gayb kendilerinin yanında da onlar mı yazıyorlar?
-        cid: 0
+      - text: Yoksa
+        cid: 1
+      - text: gayb
+        cid: 3
+      - text: kendilerinin
+        cid: 4
+      - text: yanında da onlar mı
+        cid: 2
+      - text: yazıyorlar?
+        cid: 5
   - verse: 42
     segments:
-      - text: >-
-          Yoksa bir tuzak mı kurmak istiyorlar? Fakat o küfredenlerin kendileri tuzağa
-          düşeceklerdir.
-        cid: 0
+      - text: Yoksa
+        cid: 1
+      - text: bir tuzak mı kurmak
+        cid: 3
+      - text: istiyorlar?
+        cid: 2
+      - text: Fakat o küfredenlerin kendileri
+        cid: 5
+      - text: tuzağa düşeceklerdir.
+        cid: 7
   - verse: 43
     segments:
-      - text: >-
-          Yoksa onların Allah'tan başka bir ilâhı mı var? Allah, onların ortak koştukları
-          şeylerden uzaktır.
-        cid: 0
+      - text: Yoksa
+        cid: 1
+      - text: onların Allah'tan
+        cid: 5
+      - text: başka
+        cid: 4
+      - text: bir ilâhı mı
+        cid: 3
+      - text: var?
+        cid: 2
+      - text: Allah,
+        cid: 7
+      - text: onların ortak koştukları
+        cid: 9
+      - text: şeylerden uzaktır.
+        cid: 8
   - verse: 44
     segments:
+      - text: Gökten
+        cid: 5
+      - text: bir parçanın
+        cid: 3
+      - text: düştüğünü
+        cid: 6
+      - text: görseler,
+        cid: 2
       - text: >-
-          Gökten bir parçanın düştüğünü görseler, "Üst üste yığılmış bulutlardır."
-          derler.
-        cid: 0
+          "Üst üste yığılmış
+        cid: 9
+      - text: >-
+          bulutlardır."
+        cid: 8
+      - text: derler.
+        cid: 7
   - verse: 45
     segments:
-      - text: >-
-          Artık çarpılacakları günlerine kavuşuncaya kadar onları (kendi hallerine)
-          bırak.
+      - text: Artık
         cid: 0
+      - text: çarpılacakları günlerine
+        cid: 4
+      - text: kavuşuncaya kadar
+        cid: 3
+      - text: onları
+        cid: 1
+      - text: (kendi hallerine)
+        cid: 0
+      - text: bırak.
+        cid: 1
   - verse: 46
     segments:
-      - text: >-
-          O gün hiçbir tedbirlerinin kendilerine zerre kadar faydası olmayacak ve hiçbir
-          şekilde yardım da görmeyeceklerdir.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: hiçbir tedbirlerinin
+        cid: 6
+      - text: kendilerine zerre kadar faydası olmayacak
+        cid: 4
+      - text: ve
+        cid: 7
+      - text: hiçbir şekilde
+        cid: 6
+      - text: yardım da görmeyeceklerdir.
+        cid: 9
   - verse: 47
     segments:
-      - text: >-
-          Şüphesiz o zulmedenlere ondan başka da azab vardır. Fakat çokları bilmezler.
-        cid: 0
+      - text: Şüphesiz
+        cid: 1
+      - text: o zulmedenlere ondan
+        cid: 3
+      - text: başka da
+        cid: 5
+      - text: azab
+        cid: 4
+      - text: vardır.
+        cid: 2
+      - text: Fakat
+        cid: 7
+      - text: çokları
+        cid: 8
+      - text: bilmezler.
+        cid: 9
   - verse: 48
     segments:
-      - text: >-
-          Rabbinin hükmüne sabret. Çünkü sen gözlerimizin önündesin. Kalktığın zaman
-          Rabbini hamd ile tesbih et.
-        cid: 0
+      - text: Rabbinin
+        cid: 3
+      - text: hükmüne
+        cid: 2
+      - text: sabret.
+        cid: 1
+      - text: Çünkü sen
+        cid: 4
+      - text: gözlerimizin önündesin.
+        cid: 5
+      - text: Kalktığın
+        cid: 10
+      - text: zaman
+        cid: 9
+      - text: Rabbini
+        cid: 8
+      - text: hamd ile
+        cid: 7
+      - text: tesbih et.
+        cid: 6
   - verse: 49
     segments:
-      - text: >-
-          Gecenin bir kısmında ve yıldızların batışında da O'nu tesbih et
+      - text: Gecenin
+        cid: 2
+      - text: bir kısmında
+        cid: 1
+      - text: ve
         cid: 0
+      - text: yıldızların batışında da
+        cid: 5
+      - text: O'nu tesbih et
+        cid: 3

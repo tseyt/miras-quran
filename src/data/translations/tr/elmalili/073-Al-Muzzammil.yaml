@@ -4,114 +4,411 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Ey örtünen! (Peygamber)
+      - text: Ey
+        cid: 1
+      - text: örtünen!
+        cid: 2
+      - text: (Peygamber)
         cid: 0
   - verse: 2
     segments:
-      - text: >-
-          Gecenin birazı hariç olmak üzere geceleyin kalk (namaz kıl).
+      - text: Gecenin
+        cid: 2
+      - text: birazı hariç olmak üzere
+        cid: 4
+      - text: geceleyin
+        cid: 2
+      - text: kalk
+        cid: 1
+      - text: (namaz kıl).
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          Gecenin yarısında kalk, yahut yarısından biraz eksilt.
-        cid: 0
+      - text: Gecenin yarısında kalk,
+        cid: 1
+      - text: yahut
+        cid: 2
+      - text: yarısından
+        cid: 1
+      - text: biraz
+        cid: 5
+      - text: eksilt.
+        cid: 3
   - verse: 4
     segments:
-      - text: >-
-          Veya bunu artır ve ağır ağır Kur'ân oku.
+      - text: Veya
+        cid: 1
+      - text: bunu
+        cid: 3
+      - text: artır
+        cid: 2
+      - text: ve
         cid: 0
+      - text: ağır ağır
+        cid: 6
+      - text: Kur'ân
+        cid: 5
+      - text: oku.
+        cid: 4
   - verse: 5
     segments:
-      - text: >-
-          Doğrusu biz, senin üzerine ağır bir söz bırakacağız (Kur'an vahyedeceğiz).
+      - text: Doğrusu biz,
+        cid: 1
+      - text: senin üzerine
+        cid: 3
+      - text: ağır
+        cid: 5
+      - text: bir söz
+        cid: 4
+      - text: bırakacağız
+        cid: 2
+      - text: (Kur'an vahyedeceğiz).
         cid: 0
   - verse: 6
     segments:
-      - text: >-
-          Çünkü gece kalkışı hem daha etkili, hem de söz bakımından daha sağlamdır.
-        cid: 0
+      - text: Çünkü gece
+        cid: 3
+      - text: kalkışı hem
+        cid: 2
+      - text: daha etkili, hem de
+        cid: 5
+      - text: söz bakımından
+        cid: 8
+      - text: daha
+        cid: 5
+      - text: sağlamdır.
+        cid: 7
   - verse: 7
     segments:
-      - text: >-
-          Çünkü gündüz senin için uzun bir meşguliyet vardır.
-        cid: 0
+      - text: Çünkü
+        cid: 1
+      - text: gündüz senin için
+        cid: 4
+      - text: uzun bir meşguliyet
+        cid: 6
+      - text: vardır.
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Rabbinin adını an ve bütün gönlünle ona yönel.
+      - text: Rabbinin
+        cid: 3
+      - text: adını
+        cid: 2
+      - text: an
+        cid: 1
+      - text: ve
         cid: 0
+      - text: bütün gönlünle
+        cid: 6
+      - text: ona
+        cid: 5
+      - text: yönel.
+        cid: 4
   - verse: 9
     segments:
-      - text: >-
-          O, doğunun ve batının Rabbidir. Ondan başka tanrı yoktur. O halde yalnız O'nu
-          vekil tut.
+      - text: O, doğunun
+        cid: 2
+      - text: ve batının
+        cid: 3
+      - text: Rabbidir.
+        cid: 1
+      - text: Ondan
+        cid: 7
+      - text: başka
+        cid: 6
+      - text: tanrı
+        cid: 5
+      - text: yoktur.
+        cid: 4
+      - text: O
         cid: 0
+      - text: halde yalnız O'nu
+        cid: 8
+      - text: vekil tut.
+        cid: 9
   - verse: 10
     segments:
-      - text: >-
-          Başkalarının diyeceklerine sabret, güzellikle onlardan ayrıl.
+      - text: Başkalarının
         cid: 0
+      - text: diyeceklerine sabret,
+        cid: 1
+      - text: güzellikle
+        cid: 7
+      - text: onlardan ayrıl.
+        cid: 5
   - verse: 11
     segments:
-      - text: >-
-          O yalanlayıcı zevk ve refah sahiplerini bana bırak, onlara biraz mühlet ver.
+      - text: O yalanlayıcı zevk
+        cid: 2
+      - text: ve
         cid: 0
+      - text: refah sahiplerini bana
+        cid: 3
+      - text: bırak,
+        cid: 1
+      - text: onlara
+        cid: 5
+      - text: biraz
+        cid: 6
+      - text: mühlet ver.
+        cid: 5
   - verse: 12
     segments:
-      - text: >-
-          Zira bizim yanımızda bukağılar var, bir cehennem var.
-        cid: 0
+      - text: Zira bizim yanımızda
+        cid: 2
+      - text: bukağılar
+        cid: 3
+      - text: var,
+        cid: 2
+      - text: bir cehennem
+        cid: 4
+      - text: var.
+        cid: 2
   - verse: 13
     segments:
-      - text: >-
-          Boğaza duran bir yiyecek, elem verici bir azap var.
-        cid: 0
+      - text: Boğaza duran
+        cid: 2
+      - text: bir yiyecek, elem
+        cid: 1
+      - text: verici
+        cid: 5
+      - text: bir azap var.
+        cid: 4
   - verse: 14
     segments:
-      - text: >-
-          O gün yer ve dağlar sarsılacak, dağlar erimiş bir kum yığınına dönecek.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: yer
+        cid: 3
+      - text: ve dağlar
+        cid: 4
+      - text: sarsılacak,
+        cid: 2
+      - text: dağlar erimiş
+        cid: 4
+      - text: bir kum yığınına dönecek.
+        cid: 7
   - verse: 15
     segments:
-      - text: >-
-          Doğrusu biz size tanıklık edecek bir elçi gönderdik. Nitekim Firavun'a da bir
-          elçi göndermiştik.
-        cid: 0
+      - text: Doğrusu biz
+        cid: 1
+      - text: size
+        cid: 3
+      - text: tanıklık edecek
+        cid: 5
+      - text: bir elçi
+        cid: 4
+      - text: gönderdik.
+        cid: 2
+      - text: Nitekim Firavun'a da
+        cid: 10
+      - text: bir elçi
+        cid: 11
+      - text: göndermiştik.
+        cid: 8
   - verse: 16
     segments:
-      - text: >-
-          Firavun o elçiye isyan etmişti. Biz de onu ağır bir yakalayışla yakaladık.
-        cid: 0
+      - text: Firavun
+        cid: 2
+      - text: o elçiye isyan etmişti.
+        cid: 3
+      - text: Biz de onu
+        cid: 4
+      - text: ağır
+        cid: 6
+      - text: bir yakalayışla yakaladık.
+        cid: 4
   - verse: 17
     segments:
-      - text: >-
-          Peki inkâr ederseniz, çocukları ihtiyarlatacak o günden (kıyamet gününden)
-          kendinizi nasıl kurtaracaksınız?
+      - text: Peki
+        cid: 1
+      - text: inkâr ederseniz,
+        cid: 4
+      - text: çocukları
+        cid: 7
+      - text: ihtiyarlatacak
+        cid: 8
+      - text: o günden
+        cid: 5
+      - text: (kıyamet gününden)
         cid: 0
+      - text: kendinizi
+        cid: 2
+      - text: nasıl
+        cid: 1
+      - text: kurtaracaksınız?
+        cid: 2
   - verse: 18
     segments:
-      - text: >-
-          O günün dehşetinden gök yarılır. Allah'ın sözü kesinlikle gerçekleşmiştir.
+      - text: O günün
+        cid: 0
+      - text: dehşetinden gök
+        cid: 1
+      - text: yarılır.
+        cid: 2
+      - text: Allah'ın sözü kesinlikle gerçekleşmiştir.
         cid: 0
   - verse: 19
     segments:
-      - text: >-
-          İşte bu bir öğüttür. Artık dileyen Rabbine bir yol tutar.
-        cid: 0
+      - text: İşte bu
+        cid: 2
+      - text: bir öğüttür.
+        cid: 3
+      - text: Artık dileyen
+        cid: 5
+      - text: Rabbine
+        cid: 8
+      - text: bir yol
+        cid: 9
+      - text: tutar.
+        cid: 6
   - verse: 20
     segments:
-      - text: >-
-          Rabbin, senin gecenin üçte ikisinden daha azında, yarısında ve üçte birinde
-          kalktığını, seninle beraber bulunanlardan bir topluluğun da böyle yaptığını
-          biliyor. Gece ve gündüzü Allah takdir eder. O, sizin onu sayamayacağınızı bildi
-          de sizi affetti. Bundan böyle Kur'ân'dan size ne kolay gelirse okuyun. Allah,
-          içinizden hastalar, yeryüzünde gezip Allah'ın lütfunu arayan başka kimseler ve
-          Allah yolunda savaşan daha başka insanlar olacağını bilmiştir. Onun için
-          Kur'ân'dan kolayınıza geldiği kadar okuyun, namazı kılın, zekatı verin ve
-          Allah'a güzel bir borç verin (Hayırlı işlere mal sarfedin). Kendiniz için
-          gönderdiğiniz her iyiliği, Allah katında daha hayırlı ve sevapça daha büyük
-          olarak bulacaksınız. Allah'tan bağış dileyin. Kuşkusuz Allah bağışlayandır,
-          merhamet edendir.
+      - text: Rabbin,
+        cid: 2
+      - text: senin gecenin
+        cid: 9
+      - text: üçte ikisinden
+        cid: 7
+      - text: daha azında,
+        cid: 6
+      - text: yarısında
+        cid: 10
+      - text: ve üçte birinde
+        cid: 11
+      - text: kalktığını,
+        cid: 5
+      - text: seninle beraber
+        cid: 15
+      - text: bulunanlardan
+        cid: 13
+      - text: bir topluluğun da böyle
+        cid: 12
+      - text: yaptığını
+        cid: 62
+      - text: biliyor.
+        cid: 3
+      - text: Gece
+        cid: 18
+      - text: ve gündüzü
+        cid: 19
+      - text: Allah
+        cid: 16
+      - text: takdir eder.
+        cid: 17
+      - text: O,
+        cid: 69
+      - text: sizin onu sayamayacağınızı
+        cid: 23
+      - text: bildi de
+        cid: 20
+      - text: sizi
+        cid: 25
+      - text: affetti.
+        cid: 24
+      - text: Bundan
         cid: 0
+      - text: böyle Kur'ân'dan
+        cid: 30
+      - text: size ne
+        cid: 25
+      - text: kolay
+        cid: 51
+      - text: gelirse
+        cid: 28
+      - text: okuyun.
+        cid: 26
+      - text: Allah,
+        cid: 16
+      - text: içinizden
+        cid: 34
+      - text: hastalar,
+        cid: 35
+      - text: yeryüzünde
+        cid: 39
+      - text: gezip
+        cid: 37
+      - text: Allah'ın
+        cid: 43
+      - text: lütfunu
+        cid: 41
+      - text: arayan
+        cid: 40
+      - text: başka
+        cid: 36
+      - text: kimseler
+        cid: 14
+      - text: ve Allah
+        cid: 16
+      - text: yolunda
+        cid: 46
+      - text: savaşan
+        cid: 45
+      - text: daha
+        cid: 6
+      - text: başka insanlar olacağını
+        cid: 44
+      - text: bilmiştir.
+        cid: 31
+      - text: Onun
+        cid: 0
+      - text: için Kur'ân'dan
+        cid: 30
+      - text: kolayınıza
+        cid: 28
+      - text: geldiği kadar
+        cid: 51
+      - text: okuyun,
+        cid: 49
+      - text: namazı
+        cid: 54
+      - text: kılın,
+        cid: 53
+      - text: zekatı
+        cid: 56
+      - text: verin
+        cid: 55
+      - text: ve
+        cid: 0
+      - text: Allah'a
+        cid: 58
+      - text: güzel
+        cid: 60
+      - text: bir borç
+        cid: 57
+      - text: verin
+        cid: 55
+      - text: (Hayırlı işlere mal sarfedin).
+        cid: 0
+      - text: Kendiniz için gönderdiğiniz
+        cid: 63
+      - text: her iyiliği,
+        cid: 65
+      - text: Allah
+        cid: 16
+      - text: katında
+        cid: 67
+      - text: daha hayırlı
+        cid: 70
+      - text: ve
+        cid: 0
+      - text: sevapça daha
+        cid: 70
+      - text: büyük olarak
+        cid: 71
+      - text: bulacaksınız.
+        cid: 66
+      - text: Allah'tan
+        cid: 74
+      - text: bağış
+        cid: 77
+      - text: dileyin.
+        cid: 73
+      - text: Kuşkusuz Allah
+        cid: 16
+      - text: bağışlayandır,
+        cid: 77
+      - text: merhamet
+        cid: 78
+      - text: edendir.
+        cid: 17

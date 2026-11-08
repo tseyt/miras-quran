@@ -4,42 +4,90 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Yer o yaman sarsıntı ile sarsıldığı,
-        cid: 0
+      - text: Yer
+        cid: 3
+      - text: o yaman sarsıntı ile
+        cid: 4
+      - text: sarsıldığı,
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Yer, içindeki ağırlıkları çıkarıp dışarı attığı,
-        cid: 0
+      - text: Yer, içindeki
+        cid: 2
+      - text: ağırlıkları
+        cid: 3
+      - text: çıkarıp dışarı attığı,
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Ve insan: "Ona ne oluyor?" dediği zaman.
+      - text: Ve
         cid: 0
+      - text: >-
+          insan:
+        cid: 2
+      - text: >-
+          "Ona
+        cid: 4
+      - text: >-
+          ne oluyor?"
+        cid: 3
+      - text: dediği zaman.
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          O gün yer, Rabbinin ona vahyetmesiyle haberlerini anlatacaktır.
+      - text: O gün yer,
+        cid: 1
+      - text: Rabbinin ona vahyetmesiyle
         cid: 0
+      - text: haberlerini anlatacaktır.
+        cid: 3
   - verse: 5
     segments:
-      - text: >-
-          O gün yer, Rabbinin ona vahyetmesiyle haberlerini anlatacaktır.
+      - text: O gün yer,
+        cid: 0
+      - text: Rabbinin
+        cid: 2
+      - text: ona
+        cid: 4
+      - text: vahyetmesiyle
+        cid: 3
+      - text: haberlerini anlatacaktır.
         cid: 0
   - verse: 6
     segments:
-      - text: >-
-          O gün insanlar, amellerinin karşılığı kendilerine gösterilmek üzere bölük bölük
-          çıkacaklardır.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: insanlar,
+        cid: 3
+      - text: amellerinin karşılığı
+        cid: 6
+      - text: kendilerine
+        cid: 4
+      - text: gösterilmek üzere bölük bölük
+        cid: 5
+      - text: çıkacaklardır.
+        cid: 2
   - verse: 7
     segments:
-      - text: >-
-          Her kim zerre kadar hayır işlemişse onu görecektir.
-        cid: 0
+      - text: Her
+        cid: 6
+      - text: kim
+        cid: 1
+      - text: zerre kadar
+        cid: 4
+      - text: hayır
+        cid: 5
+      - text: işlemişse onu görecektir.
+        cid: 6
   - verse: 8
     segments:
-      - text: >-
-          Her kim, zerre kadar şer işlemişse onu görecektir.
-        cid: 0
+      - text: Her
+        cid: 6
+      - text: kim,
+        cid: 1
+      - text: zerre kadar
+        cid: 4
+      - text: şer işlemişse
+        cid: 5
+      - text: onu görecektir.
+        cid: 6

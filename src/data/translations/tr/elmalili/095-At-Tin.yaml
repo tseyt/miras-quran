@@ -4,42 +4,73 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Tîn'e ve Zeytun'a,
-        cid: 0
+      - text: Tîn'e ve Zeytun'a,
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Sina dağına
-        cid: 0
+      - text: Sina
+        cid: 2
+      - text: dağına
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Ve bu güvenli beldeye andolsun ki,
-        cid: 0
+      - text: Ve bu
+        cid: 1
+      - text: güvenli
+        cid: 3
+      - text: beldeye andolsun ki,
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Biz insanı en güzel biçimde yarattık.
-        cid: 0
+      - text: Biz
+        cid: 2
+      - text: insanı
+        cid: 3
+      - text: en güzel
+        cid: 4
+      - text: biçimde
+        cid: 6
+      - text: yarattık.
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Sonra da çevirdik aşağıların aşağısına attık.
-        cid: 0
+      - text: Sonra da
+        cid: 1
+      - text: çevirdik
+        cid: 2
+      - text: aşağıların
+        cid: 3
+      - text: aşağısına attık.
+        cid: 4
   - verse: 6
     segments:
-      - text: >-
-          Ancak iman edip iyi işler yapanlar başka; onlar için kesintisiz bir ecir
-          vardır.
-        cid: 0
+      - text: Ancak iman edip
+        cid: 3
+      - text: iyi işler
+        cid: 5
+      - text: yapanlar
+        cid: 4
+      - text: başka;
+        cid: 1
+      - text: onlar için
+        cid: 6
+      - text: kesintisiz bir ecir
+        cid: 9
+      - text: vardır.
+        cid: 6
   - verse: 7
     segments:
-      - text: >-
-          O halde sana dini ne yalanlatır?
+      - text: O
         cid: 0
+      - text: halde sana
+        cid: 2
+      - text: dini ne
+        cid: 4
+      - text: yalanlatır?
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Allah, hakimlerin hakimi değil mi?
-        cid: 0
+      - text: Allah, hakimlerin hakimi
+        cid: 2
+      - text: değil mi?
+        cid: 1

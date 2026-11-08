@@ -4,41 +4,77 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Çoklukla övünmek, sizi kabirlere varıncaya kadar oyaladı.
+      - text: Çoklukla övünmek,
+        cid: 2
+      - text: sizi
+        cid: 1
+      - text: kabirlere varıncaya kadar
         cid: 0
+      - text: oyaladı.
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Çoklukla övünmek, sizi kabirlere varıncaya kadar oyaladı.
+      - text: Çoklukla övünmek, sizi
+        cid: 0
+      - text: kabirlere varıncaya kadar
+        cid: 3
+      - text: oyaladı.
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          Hayır! Yakında bileceksiniz.
-        cid: 0
+      - text: Hayır!
+        cid: 1
+      - text: Yakında
+        cid: 2
+      - text: bileceksiniz.
+        cid: 3
   - verse: 4
     segments:
-      - text: >-
-          Yine hayır! Yakında bileceksiniz (hatanızı).
+      - text: Yine hayır!
+        cid: 2
+      - text: Yakında
+        cid: 3
+      - text: bileceksiniz
+        cid: 4
+      - text: (hatanızı).
         cid: 0
   - verse: 5
     segments:
-      - text: >-
-          Hayır! Eğer kesin bilgi ile bilseniz, elbette cehennemi görürsünüz.
+      - text: Hayır!
+        cid: 1
+      - text: Eğer kesin
+        cid: 5
+      - text: bilgi ile
+        cid: 4
+      - text: bilseniz, elbette
+        cid: 3
+      - text: cehennemi görürsünüz.
         cid: 0
   - verse: 6
     segments:
-      - text: >-
-          Hayır! Eğer kesin bilgi ile bilseniz, elbette cehennemi görürsünüz.
+      - text: Hayır! Eğer kesin bilgi ile bilseniz, elbette
         cid: 0
+      - text: cehennemi
+        cid: 2
+      - text: görürsünüz.
+        cid: 1
   - verse: 7
     segments:
-      - text: >-
-          Sonra, yemin olsun ki, cehennemi yakin gözüyle göreceksiniz.
-        cid: 0
+      - text: Sonra, yemin olsun ki, cehennemi yakin
+        cid: 1
+      - text: gözüyle
+        cid: 3
+      - text: göreceksiniz.
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Sonra, yemin olsun ki, o gün (size verilen) her nimetten sorulacaksınız
+      - text: Sonra, yemin olsun ki,
+        cid: 1
+      - text: o gün
+        cid: 3
+      - text: (size verilen)
         cid: 0
+      - text: her nimetten
+        cid: 5
+      - text: sorulacaksınız
+        cid: 2

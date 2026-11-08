@@ -4,147 +4,218 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Güneş katlanıp dürüldüğünde,
-        cid: 0
+      - text: Güneş katlanıp dürüldüğünde,
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Yıldızlar bulandığında,
-        cid: 0
+      - text: Yıldızlar bulandığında,
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          Dağlar yürütüldüğünde,
-        cid: 0
+      - text: Dağlar
+        cid: 2
+      - text: yürütüldüğünde,
+        cid: 3
   - verse: 4
     segments:
-      - text: >-
-          Kıyılmaz mallar bırakıldığında,
+      - text: Kıyılmaz
         cid: 0
+      - text: mallar bırakıldığında,
+        cid: 3
   - verse: 5
     segments:
-      - text: >-
-          Vahşi hayvanlar bir araya toplandığında,
-        cid: 0
+      - text: Vahşi hayvanlar
+        cid: 2
+      - text: bir araya toplandığında,
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          Denizler ateşlendiğinde (suları çekilip, volkanlar halinde ateş püskürdüğünde),
+      - text: Denizler ateşlendiğinde
+        cid: 2
+      - text: (suları çekilip, volkanlar halinde ateş püskürdüğünde),
         cid: 0
   - verse: 7
     segments:
-      - text: >-
-          Nefisler eşleştirildiğinde (iyiler iyilerle, kötüler kötülerle bir araya
-          toplandığında),
+      - text: Nefisler eşleştirildiğinde
+        cid: 2
+      - text: (iyiler iyilerle, kötüler kötülerle bir araya toplandığında),
         cid: 0
   - verse: 8
     segments:
-      - text: >-
-          Diri diri toprağa gömülen kıza sorulduğunda,
-        cid: 0
+      - text: Diri diri toprağa gömülen kıza
+        cid: 2
+      - text: sorulduğunda,
+        cid: 3
   - verse: 9
     segments:
       - text: >-
-          "Hangi günahtan dolayı öldürüldü?" diye.
-        cid: 0
+          "Hangi
+        cid: 1
+      - text: günahtan dolayı
+        cid: 2
+      - text: öldürüldü?" diye.
+        cid: 3
   - verse: 10
     segments:
-      - text: >-
-          Amel defterleri açıldığında,
-        cid: 0
+      - text: Amel defterleri
+        cid: 2
+      - text: açıldığında,
+        cid: 3
   - verse: 11
     segments:
-      - text: >-
-          Gök sıyrılıp açıldığında,
-        cid: 0
+      - text: Gök
+        cid: 2
+      - text: sıyrılıp açıldığında,
+        cid: 3
   - verse: 12
     segments:
-      - text: >-
-          Cehennem kızıştırıldığında,
-        cid: 0
+      - text: Cehennem kızıştırıldığında,
+        cid: 2
   - verse: 13
     segments:
-      - text: >-
-          Ve cennet yaklaştırıldığında,
+      - text: Ve
         cid: 0
+      - text: cennet
+        cid: 2
+      - text: yaklaştırıldığında,
+        cid: 3
   - verse: 14
     segments:
-      - text: >-
-          Herkes ne getirmiş olduğunu anlar.
-        cid: 0
+      - text: Herkes
+        cid: 1
+      - text: ne
+        cid: 3
+      - text: getirmiş olduğunu anlar.
+        cid: 4
   - verse: 15
     segments:
-      - text: >-
-          Şimdi yemin ederim o sinenlere (gündüzleri gözden kaybolan yıldızlara),
+      - text: Şimdi yemin ederim o sinenlere
+        cid: 2
+      - text: (gündüzleri gözden kaybolan yıldızlara),
         cid: 0
   - verse: 16
     segments:
-      - text: >-
-          O akıp akıp yuvasına gidenlere,
-        cid: 0
+      - text: O akıp akıp yuvasına gidenlere,
+        cid: 1
   - verse: 17
     segments:
-      - text: >-
-          Yöneldiği an geceye,
+      - text: Yöneldiği
         cid: 0
+      - text: an geceye,
+        cid: 1
   - verse: 18
     segments:
-      - text: >-
-          Nefeslendiği (ağardığı) an sabaha ki,
+      - text: Nefeslendiği (ağardığı)
         cid: 0
+      - text: an sabaha ki,
+        cid: 1
   - verse: 19
     segments:
-      - text: >-
-          Kuşkusuz o Kur'an, değerli bir elçinin sözüdür.
-        cid: 0
+      - text: Kuşkusuz
+        cid: 2
+      - text: o
+        cid: 1
+      - text: Kur'an,
+        cid: 2
+      - text: değerli
+        cid: 4
+      - text: bir elçinin
+        cid: 3
+      - text: sözüdür.
+        cid: 2
   - verse: 20
     segments:
-      - text: >-
-          O elçi güçlüdür, Arş'ın sahibinin yanında çok itibarlıdır.
+      - text: O
         cid: 0
+      - text: elçi güçlüdür,
+        cid: 2
+      - text: Arş'ın
+        cid: 5
+      - text: sahibinin yanında çok itibarlıdır.
+        cid: 4
   - verse: 21
     segments:
-      - text: >-
-          Orada ona itaat edilir, güvenilir.
-        cid: 0
+      - text: Orada ona
+        cid: 2
+      - text: itaat edilir,
+        cid: 1
+      - text: güvenilir.
+        cid: 3
   - verse: 22
     segments:
-      - text: >-
-          Arkadaşınızı cin çarpmış değildir.
-        cid: 0
+      - text: Arkadaşınızı
+        cid: 2
+      - text: cin çarpmış
+        cid: 3
+      - text: değildir.
+        cid: 1
   - verse: 23
     segments:
-      - text: >-
-          Andolsun o, Cebrail'i açık ufukta gördü.
-        cid: 0
+      - text: Andolsun o, Cebrail'i
+        cid: 1
+      - text: açık
+        cid: 4
+      - text: ufukta
+        cid: 3
+      - text: gördü.
+        cid: 2
   - verse: 24
     segments:
-      - text: >-
-          O, gayb hakkında cimri de değildir.
-        cid: 0
+      - text: O,
+        cid: 2
+      - text: gayb
+        cid: 4
+      - text: hakkında
+        cid: 3
+      - text: cimri de
+        cid: 5
+      - text: değildir.
+        cid: 1
   - verse: 25
     segments:
-      - text: >-
-          O, kovulmuş bir şeytanın sözü değildir.
-        cid: 0
+      - text: O,
+        cid: 2
+      - text: kovulmuş
+        cid: 5
+      - text: bir şeytanın
+        cid: 4
+      - text: sözü
+        cid: 3
+      - text: değildir.
+        cid: 1
   - verse: 26
     segments:
-      - text: >-
-          Hâl böyle iken, siz nereye gidiyorsunuz?
-        cid: 0
+      - text: Hâl böyle iken, siz nereye
+        cid: 1
+      - text: gidiyorsunuz?
+        cid: 2
   - verse: 27
     segments:
-      - text: >-
-          O, âlemler için öğütten başka bir şey değildir,
-        cid: 0
+      - text: O,
+        cid: 2
+      - text: âlemler için
+        cid: 5
+      - text: öğütten
+        cid: 4
+      - text: başka bir şey değildir,
+        cid: 3
   - verse: 28
     segments:
-      - text: >-
-          İçinizden doğru gitmek isteyenler için.
-        cid: 0
+      - text: İçinizden
+        cid: 1
+      - text: doğru gitmek
+        cid: 4
+      - text: isteyenler için.
+        cid: 2
   - verse: 29
     segments:
-      - text: >-
-          Âlemlerin Rabbi olan Allah dilemeyince, siz dileyemezsiniz.
-        cid: 0
+      - text: Âlemlerin
+        cid: 8
+      - text: Rabbi olan
+        cid: 7
+      - text: Allah
+        cid: 6
+      - text: dilemeyince,
+        cid: 4
+      - text: siz dileyemezsiniz.
+        cid: 2

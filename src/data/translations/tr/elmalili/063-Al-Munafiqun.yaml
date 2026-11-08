@@ -4,74 +4,347 @@ author: elmalili
 verses:
   - verse: 1
     segments:
+      - text: Münafıklar
+        cid: 3
       - text: >-
-          Münafıklar sana geldikleri vakit: "Şahitlik ederiz ki sen muhakkak Allah'ın
-          elçisisin." derler. Senin mutlaka kendisinin elçisi olduğunu Allah bilir ve
-          Allah münafıkların yalancı olduklarına şahitlik eder.
+          sana geldikleri vakit:
+        cid: 2
+      - text: >-
+          "Şahitlik ederiz ki
+        cid: 14
+      - text: sen
+        cid: 11
+      - text: muhakkak
+        cid: 6
+      - text: Allah'ın
+        cid: 8
+      - text: >-
+          elçisisin."
+        cid: 12
+      - text: derler.
+        cid: 4
+      - text: Senin mutlaka
         cid: 0
+      - text: kendisinin elçisi olduğunu
+        cid: 7
+      - text: Allah
+        cid: 9
+      - text: bilir
+        cid: 10
+      - text: ve Allah
+        cid: 13
+      - text: münafıkların
+        cid: 16
+      - text: yalancı
+        cid: 17
+      - text: olduklarına
+        cid: 7
+      - text: şahitlik eder.
+        cid: 14
   - verse: 2
     segments:
-      - text: >-
-          Yeminlerini kalkan yapıp (insanları) Allah'ın yolundan çevirdiler. Onların
-          yaptıkları ne kötüdür!
+      - text: Yeminlerini
+        cid: 2
+      - text: kalkan
+        cid: 3
+      - text: yapıp
+        cid: 1
+      - text: (insanları)
         cid: 0
+      - text: Allah'ın
+        cid: 7
+      - text: yolundan
+        cid: 5
+      - text: çevirdiler.
+        cid: 3
+      - text: Onların yaptıkları
+        cid: 12
+      - text: ne kötüdür!
+        cid: 9
   - verse: 3
     segments:
       - text: >-
-          Bunun sebebi şudur: Onlar inandılar, sonra inkar ettiler, bu yüzden kalblerinin
-          üzeri mühürlendi. Artık onlar anlamazlar.
-        cid: 0
+          Bunun sebebi şudur:
+        cid: 2
+      - text: Onlar
+        cid: 9
+      - text: inandılar,
+        cid: 3
+      - text: sonra
+        cid: 4
+      - text: inkar ettiler,
+        cid: 5
+      - text: bu yüzden
+        cid: 6
+      - text: kalblerinin
+        cid: 8
+      - text: üzeri
+        cid: 7
+      - text: mühürlendi.
+        cid: 6
+      - text: Artık onlar
+        cid: 9
+      - text: anlamazlar.
+        cid: 10
   - verse: 4
     segments:
-      - text: >-
-          Onları gördüğün zaman kalıpları hoşuna gider, konuşurlarsa sözlerini dinlersin.
-          Onlar sanki dayanmış keresteler gibidirler. Her gürültüyü kendi aleyhlerine
-          sanırlar. Onlar düşmandır, onlardan sakın. Allah onları kahretsin! Nasıl olup da
-          döndürülüyorlar?
-        cid: 0
+      - text: Onları gördüğün
+        cid: 2
+      - text: zaman kalıpları
+        cid: 1
+      - text: hoşuna gider,
+        cid: 3
+      - text: konuşurlarsa
+        cid: 6
+      - text: sözlerini
+        cid: 8
+      - text: dinlersin.
+        cid: 7
+      - text: Onlar sanki
+        cid: 9
+      - text: dayanmış keresteler
+        cid: 11
+      - text: gibidirler.
+        cid: 9
+      - text: Her gürültüyü
+        cid: 13
+      - text: kendi aleyhlerine
+        cid: 15
+      - text: sanırlar.
+        cid: 12
+      - text: Onlar
+        cid: 16
+      - text: düşmandır,
+        cid: 17
+      - text: onlardan
+        cid: 16
+      - text: sakın.
+        cid: 18
+      - text: Allah
+        cid: 20
+      - text: onları kahretsin!
+        cid: 19
+      - text: Nasıl olup da
+        cid: 21
+      - text: döndürülüyorlar?
+        cid: 22
   - verse: 5
     segments:
       - text: >-
-          Onlara: "Gelin, Allah'ın Resulü sizin için mağfiret dilesin." denildiği zaman
-          başlarını çevirirler ve onların, büyüklük taslayarak yüz çevirdiklerini
-          görürsün.
-        cid: 0
+          Onlara:
+        cid: 3
+      - text: >-
+          "Gelin,
+        cid: 4
+      - text: Allah'ın
+        cid: 8
+      - text: Resulü sizin için
+        cid: 7
+      - text: >-
+          mağfiret dilesin."
+        cid: 5
+      - text: denildiği
+        cid: 2
+      - text: zaman
+        cid: 1
+      - text: başlarını
+        cid: 10
+      - text: çevirirler
+        cid: 9
+      - text: ve onların,
+        cid: 13
+      - text: büyüklük taslayarak
+        cid: 14
+      - text: yüz çevirdiklerini
+        cid: 12
+      - text: görürsün.
+        cid: 11
   - verse: 6
     segments:
-      - text: >-
-          Onlara mağfiret dilesen de, dilemesen de onlar için birdir. Allah onları
-          bağışlamayacaktır. Çünkü Allah, yoldan çıkmış bir toplumu yola iletmez.
-        cid: 0
+      - text: Onlara
+        cid: 2
+      - text: mağfiret dilesen de,
+        cid: 3
+      - text: dilemesen de
+        cid: 6
+      - text: onlar için
+        cid: 8
+      - text: birdir.
+        cid: 1
+      - text: Allah
+        cid: 14
+      - text: onları
+        cid: 12
+      - text: bağışlamayacaktır.
+        cid: 10
+      - text: Çünkü
+        cid: 13
+      - text: Allah,
+        cid: 11
+      - text: yoldan çıkmış
+        cid: 18
+      - text: bir toplumu
+        cid: 17
+      - text: yola iletmez.
+        cid: 15
   - verse: 7
     segments:
+      - text: Onlar öyle
+        cid: 1
       - text: >-
-          Onlar öyle kimselerdir ki: "Allah'ın elçisinin yanında bulunanları beslemeyin
-          ki dağılıp gitsinler." diyorlar. Oysa göklerin ve yerin hazineleri Allah'ındır,
-          fakat münafıklar anlamazlar.
-        cid: 0
+          kimselerdir ki:
+        cid: 7
+      - text: >-
+          "Allah'ın
+        cid: 10
+      - text: elçisinin
+        cid: 9
+      - text: yanında
+        cid: 8
+      - text: bulunanları beslemeyin ki
+        cid: 7
+      - text: dağılıp
+        cid: 11
+      - text: >-
+          gitsinler."
+        cid: 12
+      - text: diyorlar.
+        cid: 3
+      - text: Oysa göklerin
+        cid: 15
+      - text: ve yerin
+        cid: 16
+      - text: hazineleri
+        cid: 14
+      - text: Allah'ındır,
+        cid: 13
+      - text: fakat
+        cid: 17
+      - text: münafıklar
+        cid: 18
+      - text: anlamazlar.
+        cid: 19
   - verse: 8
     segments:
       - text: >-
-          Diyorlar ki: "Andolsun, eğer Medine'ye dönersek, daha üstün olan, daha alçak
-          olanı oradan mutlaka çıkaracaktır." Üstünlük, ancak Allah'a, O'nun elçisine ve
-          müminlere mahsustur. Fakat münafıklar bilmezler.
-        cid: 0
+          Diyorlar ki:
+        cid: 1
+      - text: >-
+          "Andolsun, eğer
+        cid: 2
+      - text: Medine'ye
+        cid: 4
+      - text: dönersek,
+        cid: 3
+      - text: daha üstün olan,
+        cid: 7
+      - text: daha alçak olanı
+        cid: 9
+      - text: oradan
+        cid: 8
+      - text: >-
+          mutlaka çıkaracaktır."
+        cid: 6
+      - text: Üstünlük,
+        cid: 11
+      - text: ancak Allah'a,
+        cid: 10
+      - text: O'nun elçisine
+        cid: 12
+      - text: ve müminlere mahsustur.
+        cid: 13
+      - text: Fakat
+        cid: 14
+      - text: münafıklar
+        cid: 15
+      - text: bilmezler.
+        cid: 16
   - verse: 9
     segments:
-      - text: >-
-          Ey İnananlar! Mallarınız ve çocuklarınız sizi Allah'ı anmaktan alıkoymasın. Kim
-          bunu yaparsa işte onlar ziyana uğrayanlardır.
+      - text: Ey
+        cid: 1
+      - text: İnananlar!
+        cid: 3
+      - text: Mallarınız
+        cid: 6
+      - text: ve
         cid: 0
+      - text: çocuklarınız
+        cid: 8
+      - text: sizi
+        cid: 4
+      - text: Allah'ı
+        cid: 11
+      - text: anmaktan
+        cid: 9
+      - text: alıkoymasın.
+        cid: 5
+      - text: Kim
+        cid: 12
+      - text: bunu
+        cid: 14
+      - text: yaparsa
+        cid: 13
+      - text: işte
+        cid: 15
+      - text: onlar
+        cid: 16
+      - text: ziyana uğrayanlardır.
+        cid: 17
   - verse: 10
     segments:
+      - text: Birinize
+        cid: 9
+      - text: ölüm
+        cid: 10
       - text: >-
-          Birinize ölüm gelip de: "Rabbim, beni yakın bir süreye kadar erteleseydin de
-          sadaka verip iyilerden olsaydım!" demesinden önce, size verdiğimiz rızıktan
-          (Allah) için harcayın.
+          gelip de:
+        cid: 7
+      - text: >-
+          "Rabbim,
+        cid: 12
+      - text: beni
+        cid: 14
+      - text: yakın
+        cid: 17
+      - text: bir süreye kadar
+        cid: 16
+      - text: erteleseydin de
+        cid: 14
+      - text: sadaka verip
+        cid: 1
+      - text: iyilerden
+        cid: 21
+      - text: >-
+          olsaydım!"
+        cid: 19
+      - text: demesinden
+        cid: 11
+      - text: önce,
+        cid: 6
+      - text: size verdiğimiz rızıktan
+        cid: 4
+      - text: (Allah)
         cid: 0
+      - text: için
+        cid: 4
+      - text: harcayın.
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Allah süresi geldiği zaman hiç bir canı ertelemez. Allah yaptıklarınızdan
-          haberdardır.
-        cid: 0
+      - text: Allah
+        cid: 8
+      - text: süresi
+        cid: 7
+      - text: geldiği zaman
+        cid: 5
+      - text: hiç bir canı
+        cid: 4
+      - text: ertelemez.
+        cid: 2
+      - text: Allah
+        cid: 3
+      - text: yaptıklarınızdan
+        cid: 11
+      - text: haberdardır.
+        cid: 9

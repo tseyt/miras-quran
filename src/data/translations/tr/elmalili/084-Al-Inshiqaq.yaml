@@ -4,128 +4,218 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Gök yarıldığı,
-        cid: 0
+      - text: Gök
+        cid: 2
+      - text: yarıldığı,
+        cid: 3
   - verse: 2
     segments:
-      - text: >-
-          Rabbini dinleyip kendisine yaraşır şekilde boyun eğdiği vakit,
-        cid: 0
+      - text: Rabbini
+        cid: 2
+      - text: dinleyip
+        cid: 1
+      - text: kendisine yaraşır
+        cid: 3
+      - text: şekilde boyun eğdiği
+        cid: 2
+      - text: vakit,
+        cid: 3
   - verse: 3
     segments:
-      - text: >-
-          Yer uzatılıp düzlendiği,
-        cid: 0
+      - text: Yer
+        cid: 2
+      - text: uzatılıp düzlendiği,
+        cid: 3
   - verse: 4
     segments:
-      - text: >-
-          İçinde ne varsa attığı ve tamamen boşaldığı
+      - text: İçinde ne varsa
+        cid: 2
+      - text: attığı
+        cid: 1
+      - text: ve
         cid: 0
+      - text: tamamen boşaldığı
+        cid: 4
   - verse: 5
     segments:
-      - text: >-
-          Ve Rabbini dinleyip kendisine yaraşır şekilde boyun eğdiği vakit,
+      - text: Ve
         cid: 0
+      - text: Rabbini
+        cid: 2
+      - text: dinleyip
+        cid: 1
+      - text: kendisine yaraşır
+        cid: 3
+      - text: şekilde boyun eğdiği
+        cid: 2
+      - text: vakit,
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          Ey insan! Kuşkusuz sen Rabbine doğru çaba üstüne çaba sarfetmektesin, nihayet
-          O'na varacaksın.
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: insan!
+        cid: 2
+      - text: Kuşkusuz sen
+        cid: 3
+      - text: Rabbine doğru
+        cid: 6
+      - text: çaba üstüne çaba sarfetmektesin,
+        cid: 4
+      - text: nihayet O'na varacaksın.
+        cid: 8
   - verse: 7
     segments:
-      - text: >-
-          O vakit kitabı sağ eline verilen,
+      - text: O
         cid: 0
+      - text: vakit kitabı
+        cid: 4
+      - text: sağ eline
+        cid: 5
+      - text: verilen,
+        cid: 3
   - verse: 8
     segments:
-      - text: >-
-          Kolay bir hesapla hesaba çekilecek,
-        cid: 0
+      - text: Kolay
+        cid: 4
+      - text: bir hesapla
+        cid: 3
+      - text: hesaba çekilecek,
+        cid: 2
   - verse: 9
     segments:
-      - text: >-
-          Ve sevinçli olarak ailesine dönecektir.
+      - text: Ve
         cid: 0
+      - text: sevinçli olarak
+        cid: 4
+      - text: ailesine
+        cid: 2
+      - text: dönecektir.
+        cid: 1
   - verse: 10
     segments:
-      - text: >-
-          Ama kitabı arkasından verilen,
-        cid: 0
+      - text: Ama kitabı
+        cid: 4
+      - text: arkasından
+        cid: 5
+      - text: verilen,
+        cid: 3
   - verse: 11
     segments:
       - text: >-
-          "Yetiş ey ölüm!" diye bağıracak
+          "Yetiş
         cid: 0
+      - text: ey ölüm!" diye bağıracak
+        cid: 3
   - verse: 12
     segments:
-      - text: >-
-          Ve alevli ateşe girecektir.
+      - text: Ve
         cid: 0
+      - text: alevli ateşe
+        cid: 2
+      - text: girecektir.
+        cid: 1
   - verse: 13
     segments:
-      - text: >-
-          Çünkü o ailesi içinde sevinçli idi.
-        cid: 0
+      - text: Çünkü o
+        cid: 1
+      - text: ailesi içinde
+        cid: 4
+      - text: sevinçli
+        cid: 5
+      - text: idi.
+        cid: 2
   - verse: 14
     segments:
-      - text: >-
-          Hiç Rabbine dönmeyeceğini sanmıştı.
-        cid: 0
+      - text: Hiç Rabbine
+        cid: 3
+      - text: dönmeyeceğini
+        cid: 5
+      - text: sanmıştı.
+        cid: 2
   - verse: 15
     segments:
-      - text: >-
-          Hayır Rabbi onu görmekte idi.
-        cid: 0
+      - text: Hayır
+        cid: 1
+      - text: Rabbi
+        cid: 3
+      - text: onu
+        cid: 5
+      - text: görmekte
+        cid: 6
+      - text: idi.
+        cid: 4
   - verse: 16
     segments:
-      - text: >-
-          Şimdi, yemin ederim o şafağa,
-        cid: 0
+      - text: Şimdi, yemin ederim o şafağa,
+        cid: 2
   - verse: 17
     segments:
-      - text: >-
-          Geceye ve içinde barındırdığı şeylere,
+      - text: Geceye
+        cid: 1
+      - text: ve içinde
         cid: 0
+      - text: barındırdığı şeylere,
+        cid: 2
   - verse: 18
     segments:
-      - text: >-
-          Derlendiği zaman o aya,
-        cid: 0
+      - text: Derlendiği zaman
+        cid: 2
+      - text: o aya,
+        cid: 1
   - verse: 19
     segments:
-      - text: >-
-          Ki, siz elbette halden hale geçeceksiniz.
-        cid: 0
+      - text: Ki, siz elbette halden hale geçeceksiniz.
+        cid: 1
   - verse: 20
     segments:
-      - text: >-
-          Böyleyken onlar neden acaba iman etmezler?
-        cid: 0
+      - text: Böyleyken onlar neden acaba iman etmezler?
+        cid: 2
   - verse: 21
     segments:
-      - text: >-
-          Karşılarında Kur'ân okunduğu vakit secde etmezler?
-        cid: 0
+      - text: Karşılarında Kur'ân
+        cid: 4
+      - text: okunduğu vakit
+        cid: 2
+      - text: secde etmezler?
+        cid: 6
   - verse: 22
     segments:
-      - text: >-
-          Aksine o nankörler yalanlıyorlar.
+      - text: Aksine o
         cid: 0
+      - text: nankörler yalanlıyorlar.
+        cid: 4
   - verse: 23
     segments:
-      - text: >-
-          Oysa Allah içlerinde sakladıklarını biliyor.
-        cid: 0
+      - text: Oysa Allah
+        cid: 1
+      - text: içlerinde sakladıklarını
+        cid: 4
+      - text: biliyor.
+        cid: 2
   - verse: 24
     segments:
-      - text: >-
-          Onun için onlara elem verici bir azabı müjdele.
+      - text: Onun
         cid: 0
+      - text: için onlara elem verici
+        cid: 1
+      - text: bir azabı
+        cid: 2
+      - text: müjdele.
+        cid: 1
   - verse: 25
     segments:
-      - text: >-
-          Ancak iman edip iyi ameller işleyenler başkadır. Onlara tükenmez bir ecir
-          vardır.
-        cid: 0
+      - text: Ancak
+        cid: 1
+      - text: iman edip iyi ameller
+        cid: 3
+      - text: işleyenler
+        cid: 5
+      - text: başkadır.
+        cid: 1
+      - text: Onlara tükenmez
+        cid: 6
+      - text: bir ecir
+        cid: 9
+      - text: vardır.
+        cid: 6

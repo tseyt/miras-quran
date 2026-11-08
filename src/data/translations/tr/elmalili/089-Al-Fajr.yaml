@@ -4,154 +4,300 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Andolsun fecre.
-        cid: 0
+      - text: Andolsun fecre.
+        cid: 1
   - verse: 2
     segments:
       - text: >-
-          On geceye (Zilhicce ayının ilk on gecesine).
+          On
+        cid: 2
+      - text: geceye
+        cid: 1
+      - text: (Zilhicce ayının ilk on gecesine).
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          Çifte ve teke.
-        cid: 0
+      - text: Çifte
+        cid: 1
+      - text: ve teke.
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Gitmekte olan geceye.
-        cid: 0
+      - text: Gitmekte olan
+        cid: 2
+      - text: geceye.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Nasıl, bunlarda bir akıl sahibi için yemin var değil mi?
-        cid: 0
+      - text: Nasıl, bunlarda
+        cid: 3
+      - text: bir akıl
+        cid: 6
+      - text: sahibi için
+        cid: 5
+      - text: yemin
+        cid: 4
+      - text: var
+        cid: 2
+      - text: değil mi?
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Görmedin mi Rabbin ne yaptı Âd kavmine?
-        cid: 0
+      - text: Görmedin mi
+        cid: 1
+      - text: Rabbin
+        cid: 5
+      - text: ne
+        cid: 3
+      - text: yaptı Âd kavmine?
+        cid: 4
   - verse: 7
     segments:
-      - text: >-
-          Sütunlar sahibi İrem'e?
-        cid: 0
+      - text: Sütunlar sahibi
+        cid: 2
+      - text: İrem'e?
+        cid: 1
   - verse: 8
     segments:
-      - text: >-
-          Ki ülkeler içinde onun benzeri yaratılmamıştı.
-        cid: 0
+      - text: Ki ülkeler içinde onun
+        cid: 5
+      - text: benzeri
+        cid: 3
+      - text: yaratılmamıştı.
+        cid: 2
   - verse: 9
     segments:
-      - text: >-
-          Vâdide kayaları yontan Semud kavmine?
-        cid: 0
+      - text: Vâdide
+        cid: 5
+      - text: kayaları yontan
+        cid: 4
+      - text: Semud kavmine?
+        cid: 1
   - verse: 10
     segments:
-      - text: >-
-          Kazıklar sahibi (güçlü, kuvvetli) Firavun'a?
+      - text: Kazıklar
+        cid: 3
+      - text: sahibi
+        cid: 2
+      - text: (güçlü, kuvvetli)
         cid: 0
+      - text: Firavun'a?
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Bunlar ülkelerde azmışlardı.
-        cid: 0
+      - text: Bunlar ülkelerde
+        cid: 4
+      - text: azmışlardı.
+        cid: 2
   - verse: 12
     segments:
-      - text: >-
-          Oralarda çok bozgunculuk yapmışlardı.
-        cid: 0
+      - text: Oralarda
+        cid: 2
+      - text: çok
+        cid: 1
+      - text: bozgunculuk yapmışlardı.
+        cid: 3
   - verse: 13
     segments:
-      - text: >-
-          Bu yüzden Rabbin onların üstüne azap kamçısı yağdırdı.
-        cid: 0
+      - text: Bu yüzden
+        cid: 1
+      - text: Rabbin onların üstüne
+        cid: 3
+      - text: azap kamçısı yağdırdı.
+        cid: 5
   - verse: 14
     segments:
-      - text: >-
-          Kuşkusuz Rabbin her an gözetlemededir.
-        cid: 0
+      - text: Kuşkusuz Rabbin her an
+        cid: 2
+      - text: gözetlemededir.
+        cid: 3
   - verse: 15
     segments:
+      - text: Ama
+        cid: 5
+      - text: insan,
+        cid: 2
+      - text: her ne
+        cid: 4
+      - text: zaman
+        cid: 3
+      - text: Rabbi onu
+        cid: 6
+      - text: sınayıp da
+        cid: 5
+      - text: ikramda bulunur,
+        cid: 7
+      - text: nimet verirse,
+        cid: 8
       - text: >-
-          Ama insan, her ne zaman Rabbi onu sınayıp da ikramda bulunur, nimet verirse,
-          "Rabbim bana ikram etti." der.
-        cid: 0
+          "Rabbim
+        cid: 10
+      - text: >-
+          bana ikram etti."
+        cid: 11
+      - text: der.
+        cid: 9
   - verse: 16
     segments:
+      - text: Ama
+        cid: 1
+      - text: her ne
+        cid: 3
+      - text: zaman da
+        cid: 2
+      - text: sınayıp
+        cid: 4
+      - text: rızkını
+        cid: 7
+      - text: daraltırsa, o vakit de,
+        cid: 5
       - text: >-
-          Ama her ne zaman da sınayıp rızkını daraltırsa, o vakit de, "Rabbim beni
-          zillete düşürdü." der.
-        cid: 0
+          "Rabbim
+        cid: 9
+      - text: >-
+          beni zillete düşürdü."
+        cid: 10
+      - text: der.
+        cid: 8
   - verse: 17
     segments:
-      - text: >-
-          Hayır hayır, doğrusu siz yetime ikram etmiyorsunuz.
-        cid: 0
+      - text: Hayır hayır,
+        cid: 1
+      - text: doğrusu
+        cid: 2
+      - text: siz
+        cid: 3
+      - text: yetime
+        cid: 5
+      - text: ikram etmiyorsunuz.
+        cid: 3
   - verse: 18
     segments:
-      - text: >-
-          Birbirinizi yoksulu yedirmeye teşvik etmiyorsunuz.
-        cid: 0
+      - text: Birbirinizi yoksulu
+        cid: 5
+      - text: yedirmeye
+        cid: 3
+      - text: teşvik etmiyorsunuz.
+        cid: 2
   - verse: 19
     segments:
-      - text: >-
-          Oysa mirası öyle bir yiyorsunuz ki, haramhelal gözetmeden.
-        cid: 0
+      - text: Oysa mirası öyle
+        cid: 2
+      - text: bir yiyorsunuz ki, haramhelal gözetmeden.
+        cid: 1
   - verse: 20
     segments:
-      - text: >-
-          Malı öyle bir seviyorsunuz ki, yığmacasına.
-        cid: 0
+      - text: Malı öyle
+        cid: 2
+      - text: bir seviyorsunuz ki, yığmacasına.
+        cid: 1
   - verse: 21
     segments:
-      - text: >-
-          Hayır hayır, yer birbiri ardınca sarsılıp dümdüz olduğu zaman,
-        cid: 0
+      - text: Hayır hayır,
+        cid: 1
+      - text: yer birbiri ardınca
+        cid: 4
+      - text: sarsılıp
+        cid: 5
+      - text: dümdüz olduğu
+        cid: 3
+      - text: zaman,
+        cid: 2
   - verse: 22
     segments:
-      - text: >-
-          Rabbinin emri gelip melekler sıra sıra dizildiği zaman,
-        cid: 0
+      - text: Rabbinin emri
+        cid: 2
+      - text: gelip
+        cid: 1
+      - text: melekler
+        cid: 3
+      - text: sıra
+        cid: 5
+      - text: sıra dizildiği
+        cid: 4
+      - text: zaman,
+        cid: 1
   - verse: 23
     segments:
-      - text: >-
-          Ki cehennem de o gün getirilmiştir. İşte o gün insan anlar. Fakat bu anlamanın
-          ona ne yararı var?
-        cid: 0
+      - text: Ki cehennem de
+        cid: 3
+      - text: o gün
+        cid: 2
+      - text: getirilmiştir.
+        cid: 1
+      - text: İşte o gün
+        cid: 4
+      - text: insan
+        cid: 6
+      - text: anlar.
+        cid: 5
+      - text: Fakat
+        cid: 7
+      - text: bu anlamanın
+        cid: 9
+      - text: ona ne yararı var?
+        cid: 7
   - verse: 24
     segments:
       - text: >-
-          "Keşke hayatım için bir şeyler yapıp gönderseydim." der.
-        cid: 0
+          "Keşke
+        cid: 2
+      - text: hayatım için bir şeyler yapıp
+        cid: 4
+      - text: >-
+          gönderseydim."
+        cid: 3
+      - text: der.
+        cid: 1
   - verse: 25
     segments:
-      - text: >-
-          Artık o gün Allah'ın edeceği azabı kimse edemez.
-        cid: 0
+      - text: Artık o gün Allah'ın
+        cid: 1
+      - text: edeceği
+        cid: 2
+      - text: azabı
+        cid: 4
+      - text: kimse
+        cid: 5
+      - text: edemez.
+        cid: 2
   - verse: 26
     segments:
-      - text: >-
-          Onun vuracağı bağı kimse vuramaz.
-        cid: 0
+      - text: Onun vuracağı bağı
+        cid: 3
+      - text: kimse
+        cid: 4
+      - text: vuramaz.
+        cid: 2
   - verse: 27
     segments:
-      - text: >-
-          Ey, Rabbine, itaat edip huzura eren nefis!
-        cid: 0
+      - text: Ey, Rabbine, itaat edip
+        cid: 1
+      - text: huzura eren
+        cid: 3
+      - text: nefis!
+        cid: 2
   - verse: 28
     segments:
-      - text: >-
-          Hem hoşnut edici, hem de hoşnut edilmiş olarak Rabbine dön.
+      - text: Hem hoşnut edici, hem de hoşnut
         cid: 0
+      - text: edilmiş olarak
+        cid: 4
+      - text: Rabbine
+        cid: 3
+      - text: dön.
+        cid: 1
   - verse: 29
     segments:
-      - text: >-
-          Kullarımın arasına gir.
-        cid: 0
+      - text: Kullarımın
+        cid: 3
+      - text: arasına
+        cid: 2
+      - text: gir.
+        cid: 1
   - verse: 30
     segments:
-      - text: >-
-          Cennetime gir.
-        cid: 0
+      - text: Cennetime
+        cid: 2
+      - text: gir.
+        cid: 1

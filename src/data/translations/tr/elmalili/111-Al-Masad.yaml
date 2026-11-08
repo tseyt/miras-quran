@@ -4,26 +4,51 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Ebu Leheb'in elleri kurusun (yok olsun o), zaten yok oldu ya.
+      - text: Ebu
+        cid: 3
+      - text: Leheb'in elleri
+        cid: 4
+      - text: kurusun
+        cid: 1
+      - text: (yok olsun o),
         cid: 0
+      - text: zaten yok oldu ya.
+        cid: 5
   - verse: 2
     segments:
-      - text: >-
-          Ne malı ne de kazandığı onu kurtaramadı.
-        cid: 0
+      - text: Ne malı ne de
+        cid: 4
+      - text: kazandığı
+        cid: 6
+      - text: onu
+        cid: 3
+      - text: kurtaramadı.
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          (O), alevli bir ateşe girecektir.
+      - text: (O),
         cid: 0
+      - text: alevli
+        cid: 3
+      - text: bir ateşe
+        cid: 2
+      - text: girecektir.
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          Karısı da odun hamalı olarak (onunla beraber girecektir).
+      - text: Karısı da
+        cid: 1
+      - text: odun
+        cid: 3
+      - text: hamalı olarak
+        cid: 2
+      - text: (onunla beraber girecektir).
         cid: 0
   - verse: 5
     segments:
-      - text: >-
-          Boynunda da hurma lifinden bir ip olacaktır.
-        cid: 0
+      - text: Boynunda da
+        cid: 1
+      - text: hurma lifinden
+        cid: 4
+      - text: bir ip olacaktır.
+        cid: 3

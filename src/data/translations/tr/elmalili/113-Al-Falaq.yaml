@@ -5,25 +5,54 @@ verses:
   - verse: 1
     segments:
       - text: >-
-          De ki: "Ben, ağaran sabahın Rabbine sığınırım,
-        cid: 0
+          De ki:
+        cid: 1
+      - text: >-
+          "Ben, ağaran
+        cid: 2
+      - text: sabahın
+        cid: 4
+      - text: Rabbine
+        cid: 3
+      - text: sığınırım,
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Yarattığı şeylerin şerrinden,
-        cid: 0
+      - text: Yarattığı
+        cid: 4
+      - text: şeylerin
+        cid: 3
+      - text: şerrinden,
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Karanlığı çöktüğü zaman gecenin şerrinden,
-        cid: 0
+      - text: Karanlığı çöktüğü
+        cid: 5
+      - text: zaman
+        cid: 4
+      - text: gecenin
+        cid: 3
+      - text: şerrinden,
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Ve düğümlere üfleyen büyücülerin şerrinden,
+      - text: Ve
         cid: 0
+      - text: düğümlere
+        cid: 4
+      - text: üfleyen büyücülerin
+        cid: 3
+      - text: şerrinden,
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Ve hased ettiği zaman hasetçinin şerrinden.
+      - text: Ve
         cid: 0
+      - text: hased ettiği
+        cid: 5
+      - text: zaman
+        cid: 4
+      - text: hasetçinin
+        cid: 3
+      - text: şerrinden.
+        cid: 2

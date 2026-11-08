@@ -4,24 +4,43 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Kureyş'in ilâfı (güven ve barış andlaşmalarından faydalanmalarını sağlamak)
-          için.
+      - text: Kureyş'in ilâfı
+        cid: 2
+      - text: (güven ve barış andlaşmalarından faydalanmalarını sağlamak)
         cid: 0
+      - text: için.
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Kış ve yaz seferlerinde (faydalandıkları andlaşmaların) kadrini bilmiş olmaları
-          için.
+      - text: Kış
+        cid: 3
+      - text: ve yaz seferlerinde
+        cid: 4
+      - text: (faydalandıkları andlaşmaların)
         cid: 0
+      - text: kadrini bilmiş olmaları için.
+        cid: 4
   - verse: 3
     segments:
-      - text: >-
-          Bu Beyt (Kâbe)nin Rabbine kulluk etsinler.
+      - text: Bu Beyt
+        cid: 3
+      - text: (Kâbe)nin
         cid: 0
+      - text: Rabbine
+        cid: 2
+      - text: kulluk etsinler.
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          O, kendilerini açlıktan kurtararak beslemiştir ve her tehlikeye karşı onlara
-          emniyet vermiştir.
+      - text: O,
+        cid: 1
+      - text: kendilerini
+        cid: 7
+      - text: açlıktan kurtararak
+        cid: 3
+      - text: beslemiştir
+        cid: 4
+      - text: ve her tehlikeye
         cid: 0
+      - text: karşı onlara emniyet vermiştir.
+        cid: 2

@@ -4,36 +4,47 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Dini yalanlayanı gördün mü?
-        cid: 0
+      - text: Dini
+        cid: 4
+      - text: yalanlayanı
+        cid: 3
+      - text: gördün mü?
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          İşte o, öksüzü iter, kakar.
-        cid: 0
+      - text: İşte o,
+        cid: 1
+      - text: öksüzü
+        cid: 4
+      - text: iter, kakar.
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          Yoksulu doyurmaya önayak olmaz.
-        cid: 0
+      - text: Yoksulu
+        cid: 5
+      - text: doyurmaya önayak olmaz.
+        cid: 3
   - verse: 4
     segments:
-      - text: >-
-          Vay haline o namaz kılanların ki,
-        cid: 0
+      - text: Vay haline
+        cid: 1
+      - text: o namaz kılanların ki,
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Kıldıkları namazın değerine aldırış etmezler.
-        cid: 0
+      - text: Kıldıkları namazın değerine aldırış etmezler.
+        cid: 4
   - verse: 6
     segments:
-      - text: >-
-          Gösteriş yaparlar onlar,
-        cid: 0
+      - text: Gösteriş yaparlar
+        cid: 3
+      - text: onlar,
+        cid: 2
   - verse: 7
     segments:
-      - text: >-
-          Ve yardımlığı sakınırlar (zekatı vermezler).
+      - text: Ve
+        cid: 0
+      - text: yardımlığı sakınırlar
+        cid: 2
+      - text: (zekatı vermezler).
         cid: 0

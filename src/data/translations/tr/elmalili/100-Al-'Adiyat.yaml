@@ -4,56 +4,85 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          O harıl harıl (savaşa) koşanlara,
+      - text: O harıl
         cid: 0
+      - text: harıl
+        cid: 1
+      - text: (savaşa)
+        cid: 0
+      - text: koşanlara,
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          (Tırnaklarıyla yerden) ateş çıkaranlara,
+      - text: (Tırnaklarıyla yerden)
         cid: 0
+      - text: ateş çıkaranlara,
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Sabahleyin akın edenlere,
-        cid: 0
+      - text: Sabahleyin
+        cid: 2
+      - text: akın edenlere,
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          Tozu dumana karıştıranlara,
-        cid: 0
+      - text: Tozu dumana karıştıranlara,
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Derken bir topluluğun ortasına dalanlara yemin ederim ki,
-        cid: 0
+      - text: Derken
+        cid: 1
+      - text: bir topluluğun ortasına
+        cid: 3
+      - text: dalanlara yemin ederim ki,
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Şüphesiz insan, Rabbine karşı çok nankördür.
-        cid: 0
+      - text: Şüphesiz
+        cid: 1
+      - text: insan,
+        cid: 2
+      - text: Rabbine karşı
+        cid: 3
+      - text: çok nankördür.
+        cid: 4
   - verse: 7
     segments:
-      - text: >-
-          Ve kendisi de buna şahittir.
+      - text: Ve kendisi
         cid: 0
+      - text: de buna
+        cid: 3
+      - text: şahittir.
+        cid: 4
   - verse: 8
     segments:
-      - text: >-
-          Gerçekten o dünya malını çok sevdiği için katıdır.
-        cid: 0
+      - text: Gerçekten o dünya
+        cid: 1
+      - text: malını
+        cid: 3
+      - text: çok sevdiği için katıdır.
+        cid: 2
   - verse: 9
     segments:
-      - text: >-
-          Bilmiyor mu ki, kabirlerin içindekiler fırlatılacak.
-        cid: 0
+      - text: Bilmiyor mu ki,
+        cid: 1
+      - text: kabirlerin içindekiler fırlatılacak.
+        cid: 7
   - verse: 10
     segments:
-      - text: >-
-          Ve sinelerin içindekiler derlenecek.
+      - text: Ve
         cid: 0
+      - text: sinelerin
+        cid: 3
+      - text: içindekiler
+        cid: 4
+      - text: derlenecek.
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          O gün Rableri onların bütün yaptıklarından haberdardır
-        cid: 0
+      - text: O gün
+        cid: 4
+      - text: Rableri onların bütün yaptıklarından
+        cid: 2
+      - text: haberdardır
+        cid: 5

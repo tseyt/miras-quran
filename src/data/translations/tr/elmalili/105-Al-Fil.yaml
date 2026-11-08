@@ -4,26 +4,53 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Görmedin mi Rabb'in fil sahiplerine ne yaptı?
-        cid: 0
+      - text: Görmedin mi
+        cid: 1
+      - text: Rabb'in
+        cid: 5
+      - text: fil
+        cid: 7
+      - text: sahiplerine ne
+        cid: 6
+      - text: yaptı?
+        cid: 4
   - verse: 2
     segments:
-      - text: >-
-          Onların tuzaklarını boşa çıkarmadı mı?
-        cid: 0
+      - text: Onların tuzaklarını
+        cid: 3
+      - text: boşa
+        cid: 4
+      - text: çıkarmadı mı?
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Üzerlerine sürü sürü kuşlar gönderdi.
-        cid: 0
+      - text: Üzerlerine
+        cid: 2
+      - text: sürü sürü
+        cid: 4
+      - text: kuşlar
+        cid: 3
+      - text: gönderdi.
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          Onlara çamurdan sertleşmiş taşlar atıyorlardı.
-        cid: 0
+      - text: Onlara
+        cid: 1
+      - text: çamurdan
+        cid: 3
+      - text: sertleşmiş taşlar
+        cid: 2
+      - text: atıyorlardı.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Ve onları, yenilmiş ekin yaprağı gibi yaptı.
+      - text: Ve
         cid: 0
+      - text: onları,
+        cid: 1
+      - text: yenilmiş
+        cid: 3
+      - text: ekin yaprağı gibi
+        cid: 2
+      - text: yaptı.
+        cid: 1

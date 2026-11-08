@@ -4,103 +4,173 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Andolsun bu beldeye
-        cid: 0
+      - text: Andolsun
+        cid: 2
+      - text: bu
+        cid: 3
+      - text: beldeye
+        cid: 4
   - verse: 2
     segments:
-      - text: >-
-          Ki sen bu beldede oturmaktasın.
-        cid: 0
+      - text: Ki sen
+        cid: 1
+      - text: bu
+        cid: 3
+      - text: beldede
+        cid: 4
+      - text: oturmaktasın.
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          Ve and olsun baba ve çocuğuna.
+      - text: Ve and olsun baba
+        cid: 1
+      - text: ve çocuğuna.
         cid: 0
   - verse: 4
     segments:
-      - text: >-
-          Biz insanı gerçekten bir sıkıntı içinde yarattık.
-        cid: 0
+      - text: Biz
+        cid: 2
+      - text: insanı gerçekten bir sıkıntı içinde
+        cid: 3
+      - text: yarattık.
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          İnsan, kendisine karşı kimse güç yetiremez mi sanıyor?
-        cid: 0
+      - text: İnsan,
+        cid: 1
+      - text: kendisine karşı
+        cid: 5
+      - text: kimse
+        cid: 6
+      - text: güç
+        cid: 2
+      - text: yetiremez mi
+        cid: 3
+      - text: sanıyor?
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Ben, yığın yığın mal yok ettim diyor.
-        cid: 0
+      - text: Ben, yığın yığın
+        cid: 2
+      - text: mal yok
+        cid: 3
+      - text: ettim
+        cid: 2
+      - text: diyor.
+        cid: 1
   - verse: 7
     segments:
-      - text: >-
-          Kendisini bir gören olmadı mı sanıyor?
-        cid: 0
+      - text: Kendisini
+        cid: 2
+      - text: bir gören olmadı mı
+        cid: 3
+      - text: sanıyor?
+        cid: 1
   - verse: 8
     segments:
-      - text: >-
-          Biz ona iki göz vermedik mi?
-        cid: 0
+      - text: Biz
+        cid: 1
+      - text: ona
+        cid: 3
+      - text: iki göz
+        cid: 4
+      - text: vermedik mi?
+        cid: 1
   - verse: 9
     segments:
-      - text: >-
-          Bir dil ve iki dudak?
-        cid: 0
+      - text: Bir dil
+        cid: 1
+      - text: ve iki dudak?
+        cid: 2
   - verse: 10
     segments:
-      - text: >-
-          Ona iki yolu gösterdik.
-        cid: 0
+      - text: Ona
+        cid: 1
+      - text: iki yolu
+        cid: 2
+      - text: gösterdik.
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Fakat o, o sarp yokuşa göğüs veremedi.
-        cid: 0
+      - text: Fakat
+        cid: 1
+      - text: o, o
+        cid: 2
+      - text: sarp yokuşa göğüs veremedi.
+        cid: 3
   - verse: 12
     segments:
-      - text: >-
-          Bildin mi sen, o sarp yokuş nedir?
-        cid: 0
+      - text: Bildin mi sen,
+        cid: 2
+      - text: o sarp yokuş
+        cid: 4
+      - text: nedir?
+        cid: 1
   - verse: 13
     segments:
-      - text: >-
-          Köle azat etmek,
-        cid: 0
+      - text: Köle
+        cid: 2
+      - text: azat etmek,
+        cid: 1
   - verse: 14
     segments:
-      - text: >-
-          Veya salgın bir kıtlık gününde yemek yedirmektir,
-        cid: 0
+      - text: Veya salgın bir kıtlık
+        cid: 1
+      - text: gününde yemek yedirmektir,
+        cid: 3
   - verse: 15
     segments:
-      - text: >-
-          Yakınlığı olan bir yetime,
+      - text: Yakınlığı olan
         cid: 0
+      - text: bir yetime,
+        cid: 1
   - verse: 16
     segments:
-      - text: >-
-          Veya hiçbir şeyi olmayan yoksula.
-        cid: 0
+      - text: Veya
+        cid: 1
+      - text: hiçbir şeyi olmayan
+        cid: 3
+      - text: yoksula.
+        cid: 2
   - verse: 17
     segments:
-      - text: >-
-          Sonra da iman edip de sabrı tavsiye eden ve merhamet tavsiye edenlerden
-          olmaktır.
+      - text: Sonra da
+        cid: 1
+      - text: iman edip de
+        cid: 5
+      - text: sabrı
+        cid: 7
+      - text: tavsiye eden
+        cid: 6
+      - text: ve
         cid: 0
+      - text: merhamet
+        cid: 9
+      - text: tavsiye edenlerden
+        cid: 8
+      - text: olmaktır.
+        cid: 2
   - verse: 18
     segments:
-      - text: >-
-          İşte bunlar, amel defterleri sağlarından verilenlerdir.
-        cid: 0
+      - text: İşte bunlar, amel defterleri
+        cid: 1
+      - text: sağlarından verilenlerdir.
+        cid: 3
   - verse: 19
     segments:
-      - text: >-
-          Âyetlerimizi tanımayanlar ise, onlardır işte amel defterleri sollarından
-          verilenler.
-        cid: 0
+      - text: Âyetlerimizi tanımayanlar
+        cid: 3
+      - text: ise,
+        cid: 6
+      - text: onlardır işte amel defterleri
+        cid: 4
+      - text: sollarından verilenler.
+        cid: 6
   - verse: 20
     segments:
-      - text: >-
-          Onların üzerlerine bir ateş bastırılıp kapıları kapanacaktır.
-        cid: 0
+      - text: Onların üzerlerine
+        cid: 3
+      - text: bir ateş bastırılıp
+        cid: 2
+      - text: kapıları kapanacaktır.
+        cid: 3

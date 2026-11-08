@@ -5,30 +5,45 @@ verses:
   - verse: 1
     segments:
       - text: >-
-          De ki: Sığınırım ben insanların Rabbine,
-        cid: 0
+          De ki:
+        cid: 1
+      - text: Sığınırım ben
+        cid: 2
+      - text: insanların
+        cid: 4
+      - text: Rabbine,
+        cid: 3
   - verse: 2
     segments:
-      - text: >-
-          İnsanların hükümdârına,
-        cid: 0
+      - text: İnsanların hükümdârına,
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          İnsanların ilâhına,
-        cid: 0
+      - text: İnsanların
+        cid: 2
+      - text: ilâhına,
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          O sinsi vesvesecinin şerrinden.
-        cid: 0
+      - text: O sinsi
+        cid: 4
+      - text: vesvesecinin
+        cid: 3
+      - text: şerrinden.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          O ki, insanların göğüslerine vesveseler fısıldar.
-        cid: 0
+      - text: O ki,
+        cid: 1
+      - text: insanların
+        cid: 5
+      - text: göğüslerine vesveseler
+        cid: 3
+      - text: fısıldar.
+        cid: 2
   - verse: 6
     segments:
-      - text: >-
-          Gerek cinlerden, gerek insanlardan.
-        cid: 0
+      - text: Gerek cinlerden, gerek
+        cid: 2
+      - text: insanlardan.
+        cid: 3

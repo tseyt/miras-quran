@@ -4,205 +4,415 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Birbirlerine neyi soruyorlar?
-        cid: 0
+      - text: Birbirlerine neyi soruyorlar?
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          O büyük haberden (kıyametten) mi?
+      - text: O büyük
+        cid: 3
+      - text: haberden
+        cid: 1
+      - text: (kıyametten)
         cid: 0
+      - text: mi?
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Ki onlar onda ayrılığa düşmektedirler.
-        cid: 0
+      - text: Ki onlar
+        cid: 2
+      - text: onda
+        cid: 3
+      - text: ayrılığa düşmektedirler.
+        cid: 4
   - verse: 4
     segments:
-      - text: >-
-          Hayır, ilerde bilecekler.
-        cid: 0
+      - text: Hayır, ilerde
+        cid: 1
+      - text: bilecekler.
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Hayır hayır, ilerde bilecekler.
-        cid: 0
+      - text: Hayır hayır, ilerde
+        cid: 2
+      - text: bilecekler.
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          Biz yeryüzünü bir beşik yapmadık mı?
-        cid: 0
+      - text: Biz yeryüzünü
+        cid: 2
+      - text: bir beşik
+        cid: 4
+      - text: yapmadık mı?
+        cid: 1
   - verse: 7
     segments:
-      - text: >-
-          Dağları da birer kazık kılmadık mı?
-        cid: 0
+      - text: Dağları da
+        cid: 1
+      - text: birer kazık kılmadık mı?
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Sizleri çift çift yarattık.
-        cid: 0
+      - text: Sizleri
+        cid: 1
+      - text: çift çift
+        cid: 2
+      - text: yarattık.
+        cid: 1
   - verse: 9
     segments:
-      - text: >-
-          Uykunuzu bir dinlenme yaptık.
-        cid: 0
+      - text: Uykunuzu
+        cid: 2
+      - text: bir dinlenme
+        cid: 3
+      - text: yaptık.
+        cid: 1
   - verse: 10
     segments:
-      - text: >-
-          Geceyi bir örtü yaptık.
-        cid: 0
+      - text: Geceyi
+        cid: 2
+      - text: bir örtü
+        cid: 3
+      - text: yaptık.
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Gündüzü de bir geçim zamanı yaptık.
-        cid: 0
+      - text: Gündüzü de
+        cid: 2
+      - text: bir geçim zamanı
+        cid: 3
+      - text: yaptık.
+        cid: 1
   - verse: 12
     segments:
-      - text: >-
-          Üstünüze yedi sağlam bina (gök) çattık.
+      - text: Üstünüze
+        cid: 2
+      - text: yedi
+        cid: 3
+      - text: sağlam
+        cid: 4
+      - text: bina
+        cid: 1
+      - text: (gök)
         cid: 0
+      - text: çattık.
+        cid: 1
   - verse: 13
     segments:
-      - text: >-
-          İçlerine ışık saçan bir kandil astık.
-        cid: 0
+      - text: İçlerine ışık saçan
+        cid: 2
+      - text: bir kandil
+        cid: 3
+      - text: astık.
+        cid: 1
   - verse: 14
     segments:
-      - text: >-
-          Yoğunlaşmış bulutlardan şarıl şarıl bir su indirdik.
-        cid: 0
+      - text: Yoğunlaşmış bulutlardan
+        cid: 3
+      - text: şarıl şarıl
+        cid: 5
+      - text: bir su
+        cid: 4
+      - text: indirdik.
+        cid: 1
   - verse: 15
     segments:
-      - text: >-
-          Onunla taneler ve otlar çıkaralım diye.
+      - text: Onunla taneler
+        cid: 2
+      - text: ve
         cid: 0
+      - text: otlar çıkaralım diye.
+        cid: 1
   - verse: 16
     segments:
-      - text: >-
-          Ve sarmaş dolaş bağlar bahçeler (çıkaralım diye).
+      - text: Ve
+        cid: 0
+      - text: sarmaş dolaş
+        cid: 2
+      - text: bağlar bahçeler
+        cid: 1
+      - text: (çıkaralım diye).
         cid: 0
   - verse: 17
     segments:
-      - text: >-
-          Kuşkusuz o hüküm günü kararlaştırılmış bir vakit olmuştur.
-        cid: 0
+      - text: Kuşkusuz o hüküm
+        cid: 3
+      - text: günü kararlaştırılmış
+        cid: 2
+      - text: bir vakit olmuştur.
+        cid: 4
   - verse: 18
     segments:
-      - text: >-
-          O gün Sûr'a üflenir, bölük bölük gelirsiniz.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: Sûr'a
+        cid: 4
+      - text: üflenir,
+        cid: 2
+      - text: bölük bölük
+        cid: 6
+      - text: gelirsiniz.
+        cid: 5
   - verse: 19
     segments:
-      - text: >-
-          Gök de açılmış, kapı kapı olmuştur.
-        cid: 0
+      - text: Gök de
+        cid: 2
+      - text: açılmış,
+        cid: 1
+      - text: kapı kapı
+        cid: 4
+      - text: olmuştur.
+        cid: 3
   - verse: 20
     segments:
-      - text: >-
-          Dağlar yürütülmüş, serap olmuştur.
-        cid: 0
+      - text: Dağlar
+        cid: 2
+      - text: yürütülmüş,
+        cid: 1
+      - text: serap
+        cid: 4
+      - text: olmuştur.
+        cid: 3
   - verse: 21
     segments:
-      - text: >-
-          Kuşkusuz Cehennem gözetleme yeri olmuştur.
-        cid: 0
+      - text: Kuşkusuz Cehennem
+        cid: 2
+      - text: gözetleme yeri
+        cid: 4
+      - text: olmuştur.
+        cid: 3
   - verse: 22
     segments:
-      - text: >-
-          Azgınlar için son varılacak yer olmuştur.
-        cid: 0
+      - text: Azgınlar için son
+        cid: 1
+      - text: varılacak yer olmuştur.
+        cid: 2
   - verse: 23
     segments:
-      - text: >-
-          Orada çağlarca kalacaklardır.
-        cid: 0
+      - text: Orada
+        cid: 2
+      - text: çağlarca
+        cid: 3
+      - text: kalacaklardır.
+        cid: 1
   - verse: 24
     segments:
-      - text: >-
-          Orada ne bir serinlik tadacaklar, ne de içecek bir şey.
-        cid: 0
+      - text: Orada
+        cid: 3
+      - text: ne
+        cid: 5
+      - text: bir serinlik
+        cid: 4
+      - text: tadacaklar,
+        cid: 1
+      - text: ne de
+        cid: 5
+      - text: içecek bir şey.
+        cid: 6
   - verse: 25
     segments:
-      - text: >-
-          Ancak bir kaynar su ve irin (içecekler).
+      - text: Ancak bir kaynar su
+        cid: 2
+      - text: ve irin
+        cid: 3
+      - text: (içecekler).
         cid: 0
   - verse: 26
     segments:
-      - text: >-
-          Bir ceza ki tam yaptıklarına uygun.
-        cid: 0
+      - text: Bir ceza ki tam yaptıklarına
+        cid: 1
+      - text: uygun.
+        cid: 2
   - verse: 27
     segments:
-      - text: >-
-          Çünkü onlar hiçbir hesap ummazlardı.
-        cid: 0
+      - text: Çünkü onlar hiçbir
+        cid: 1
+      - text: hesap ummazlardı.
+        cid: 5
   - verse: 28
     segments:
-      - text: >-
-          Âyetlerimizi yalanlaya yalanlaya tam bir yalancı olmuşlardı.
-        cid: 0
+      - text: Âyetlerimizi
+        cid: 2
+      - text: yalanlaya yalanlaya tam bir yalancı olmuşlardı.
+        cid: 1
   - verse: 29
     segments:
-      - text: >-
-          Biz ise herşeyi sayıp bir kitaba geçirmişiz.
-        cid: 0
+      - text: Biz ise
+        cid: 1
+      - text: herşeyi
+        cid: 2
+      - text: sayıp bir kitaba geçirmişiz.
+        cid: 3
   - verse: 30
     segments:
       - text: >-
-          (Onlara): "Şimdi tadın (cezanızı). Artık size azabınızı artırmaktan başka bir
-          şey yapmayacağız" (denir).
+          (Onlara):
+        cid: 0
+      - text: >-
+          "Şimdi tadın
+        cid: 1
+      - text: (cezanızı).
+        cid: 0
+      - text: Artık
+        cid: 2
+      - text: size
+        cid: 3
+      - text: azabınızı
+        cid: 5
+      - text: artırmaktan
+        cid: 3
+      - text: >-
+          başka bir şey yapmayacağız"
+        cid: 4
+      - text: (denir).
         cid: 0
   - verse: 31
     segments:
-      - text: >-
-          Kuşkusuz takva sahipleri için bir kurtuluş var.
+      - text: Kuşkusuz takva sahipleri için bir
         cid: 0
+      - text: kurtuluş var.
+        cid: 2
   - verse: 32
     segments:
-      - text: >-
-          Bahçeler var, bağlar var.
-        cid: 0
+      - text: Bahçeler var,
+        cid: 1
+      - text: bağlar
+        cid: 2
+      - text: var.
+        cid: 1
   - verse: 33
     segments:
-      - text: >-
-          Memeleri tomurcuklanmış yaşıt kızlar var.
-        cid: 0
+      - text: Memeleri tomurcuklanmış
+        cid: 1
+      - text: yaşıt kızlar var.
+        cid: 2
   - verse: 34
     segments:
-      - text: >-
-          Dopdolu kadehler var.
-        cid: 0
+      - text: Dopdolu
+        cid: 2
+      - text: kadehler var.
+        cid: 1
   - verse: 35
     segments:
-      - text: >-
-          Orada ne boş bir söz işitirler, ne de bir yalan.
-        cid: 0
+      - text: Orada
+        cid: 3
+      - text: ne
+        cid: 5
+      - text: boş bir söz
+        cid: 4
+      - text: işitirler,
+        cid: 1
+      - text: ne de
+        cid: 5
+      - text: bir yalan.
+        cid: 6
   - verse: 36
     segments:
-      - text: >-
-          (Bunlar) Rabbinden yeterli bir bağış olarak (verilir).
+      - text: (Bunlar)
+        cid: 0
+      - text: Rabbinden
+        cid: 3
+      - text: yeterli
+        cid: 5
+      - text: bir bağış olarak
+        cid: 4
+      - text: (verilir).
         cid: 0
   - verse: 37
     segments:
-      - text: >-
-          O, göklerin, yerin ve bu ikisi arasındakilerin Rabbidir. Rahmân'dır. Hiç kimse
-          ondan bir hitaba mâlik olamaz.
+      - text: O, göklerin,
+        cid: 2
+      - text: yerin
+        cid: 3
+      - text: ve
+        cid: 0
+      - text: bu ikisi arasındakilerin
+        cid: 5
+      - text: Rabbidir.
+        cid: 1
+      - text: Rahmân'dır.
+        cid: 6
+      - text: Hiç kimse ondan bir hitaba mâlik olamaz.
         cid: 0
   - verse: 38
     segments:
-      - text: >-
-          O gün Ruh ve melekler sıra sıra dururlar. Rahmân'ın izin verdikleri dışında hiç
-          kimse konuşamaz. İzin verilen de doğruyu söyler.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: Ruh
+        cid: 3
+      - text: ve melekler
+        cid: 4
+      - text: sıra sıra
+        cid: 5
+      - text: dururlar.
+        cid: 2
+      - text: Rahmân'ın
+        cid: 12
+      - text: izin verdikleri
+        cid: 10
+      - text: dışında hiç
+        cid: 8
+      - text: kimse
+        cid: 9
+      - text: konuşamaz.
+        cid: 6
+      - text: İzin verilen de
+        cid: 10
+      - text: doğruyu
+        cid: 14
+      - text: söyler.
+        cid: 13
   - verse: 39
     segments:
-      - text: >-
-          İşte bu hak gündür. Artık dileyen Rabbine bir yol tutar.
-        cid: 0
+      - text: İşte bu
+        cid: 1
+      - text: hak
+        cid: 3
+      - text: gündür.
+        cid: 2
+      - text: Artık
+        cid: 4
+      - text: dileyen
+        cid: 5
+      - text: Rabbine
+        cid: 8
+      - text: bir yol
+        cid: 9
+      - text: tutar.
+        cid: 6
   - verse: 40
     segments:
-      - text: >-
-          Biz sizi yakın bir azap ile uyardık. O gün kişi ellerinin ne takdim ettiğine
-          bakacak ve kâfir diyecek ki: "Ah ne olaydı, ben bir toprak olaydım."
+      - text: Biz
+        cid: 1
+      - text: sizi
+        cid: 2
+      - text: yakın
+        cid: 4
+      - text: bir azap ile
+        cid: 3
+      - text: uyardık.
+        cid: 2
+      - text: O gün
+        cid: 5
+      - text: kişi
+        cid: 7
+      - text: ellerinin ne takdim ettiğine
+        cid: 10
+      - text: bakacak
+        cid: 6
+      - text: ve
         cid: 0
+      - text: >-
+          kâfir diyecek ki:
+        cid: 12
+      - text: >-
+          "Ah
+        cid: 0
+      - text: ne olaydı,
+        cid: 13
+      - text: ben
+        cid: 14
+      - text: bir toprak
+        cid: 15
+      - text: >-
+          olaydım."
+        cid: 13

@@ -4,56 +4,91 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Andolsun kuşluk vaktine.
-        cid: 0
+      - text: Andolsun kuşluk vaktine.
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Ve sakinleştiği zaman geceye ki,
+      - text: Ve
         cid: 0
+      - text: sakinleştiği zaman
+        cid: 2
+      - text: geceye ki,
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Rabbin seni bırakmadı ve darılmadı.
+      - text: Rabbin
+        cid: 3
+      - text: seni
+        cid: 1
+      - text: bırakmadı
+        cid: 2
+      - text: ve
         cid: 0
+      - text: darılmadı.
+        cid: 5
   - verse: 4
     segments:
-      - text: >-
-          Ahiret senin için dünyadan iyi olacaktır.
-        cid: 0
+      - text: Ahiret senin için dünyadan
+        cid: 1
+      - text: iyi olacaktır.
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Rabbın sana verecek ve sen hoşnut olacaksın.
-        cid: 0
+      - text: Rabbın
+        cid: 3
+      - text: sana verecek
+        cid: 2
+      - text: ve sen
+        cid: 4
+      - text: hoşnut
+        cid: 1
+      - text: olacaksın.
+        cid: 4
   - verse: 6
     segments:
-      - text: >-
-          O seni yetim bulup da barındırmadı mı?
-        cid: 0
+      - text: O seni
+        cid: 1
+      - text: yetim
+        cid: 3
+      - text: bulup da
+        cid: 1
+      - text: barındırmadı mı?
+        cid: 4
   - verse: 7
     segments:
-      - text: >-
-          Seni yol bilmez bulup yola iletmedi mi?
-        cid: 0
+      - text: Seni
+        cid: 1
+      - text: yol bilmez
+        cid: 3
+      - text: bulup
+        cid: 1
+      - text: yola iletmedi mi?
+        cid: 3
   - verse: 8
     segments:
-      - text: >-
-          Seni yoksul bulup zengin etmedi mi?
-        cid: 0
+      - text: Seni yoksul bulup
+        cid: 1
+      - text: zengin etmedi mi?
+        cid: 3
   - verse: 9
     segments:
-      - text: >-
-          Öyleyse sakın yetimi ezme.
-        cid: 0
+      - text: Öyleyse
+        cid: 1
+      - text: sakın yetimi
+        cid: 3
+      - text: ezme.
+        cid: 4
   - verse: 10
     segments:
-      - text: >-
-          Dilenciyi de azarlama.
-        cid: 0
+      - text: Dilenciyi de
+        cid: 2
+      - text: azarlama.
+        cid: 3
   - verse: 11
     segments:
-      - text: >-
-          Fakat Rabbinin nimetini anlat da anlat.
-        cid: 0
+      - text: Fakat Rabbinin
+        cid: 3
+      - text: nimetini
+        cid: 2
+      - text: anlat da anlat.
+        cid: 4

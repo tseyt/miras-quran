@@ -4,172 +4,483 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Gerçekten insan üzerine dehirden (zamandan) öyle bir müddet geldi ki o zaman o,
-          anılmaya değer bir şey değildi.
+      - text: Gerçekten insan
+        cid: 4
+      - text: üzerine dehirden
+        cid: 3
+      - text: (zamandan)
         cid: 0
+      - text: öyle bir müddet geldi ki
+        cid: 3
+      - text: o zaman
+        cid: 4
+      - text: o, anılmaya değer
+        cid: 11
+      - text: bir şey değildi.
+        cid: 10
   - verse: 2
     segments:
-      - text: >-
-          Doğrusu biz insanı, imtihan etmek için karışık bir nutfeden (erkek ve kadın
-          sularından) yarattık da onu işitici, görücü yaptık.
+      - text: Doğrusu biz
+        cid: 1
+      - text: insanı,
+        cid: 3
+      - text: imtihan etmek için
+        cid: 7
+      - text: karışık
+        cid: 6
+      - text: bir nutfeden
+        cid: 4
+      - text: (erkek ve kadın sularından)
         cid: 0
+      - text: yarattık da
+        cid: 2
+      - text: onu
+        cid: 8
+      - text: işitici,
+        cid: 9
+      - text: görücü
+        cid: 10
+      - text: yaptık.
+        cid: 8
   - verse: 3
     segments:
-      - text: >-
-          Kuşkusuz biz ona yolu gösterdik; ister şükredici olsun, ister nankör.
-        cid: 0
+      - text: Kuşkusuz biz
+        cid: 1
+      - text: ona
+        cid: 2
+      - text: yolu
+        cid: 3
+      - text: gösterdik;
+        cid: 2
+      - text: ister şükredici olsun, ister
+        cid: 5
+      - text: nankör.
+        cid: 7
   - verse: 4
     segments:
-      - text: >-
-          Çünkü biz, kâfirler için zincirler, demir halkalar ve alevli bir ateş
-          hazırlamışızdır.
-        cid: 0
+      - text: Çünkü biz,
+        cid: 1
+      - text: kâfirler için
+        cid: 3
+      - text: zincirler,
+        cid: 4
+      - text: demir halkalar
+        cid: 5
+      - text: ve alevli bir ateş
+        cid: 6
+      - text: hazırlamışızdır.
+        cid: 2
   - verse: 5
     segments:
-      - text: >-
-          Kuşkusuz iyiler de karışımı kâfûr olan dolgun bir kadehten içerler.
-        cid: 0
+      - text: Kuşkusuz iyiler de
+        cid: 2
+      - text: karışımı
+        cid: 7
+      - text: kâfûr olan dolgun
+        cid: 8
+      - text: bir kadehten
+        cid: 4
+      - text: içerler.
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          Bir kaynak ki ondan Allah'ın kulları içerler, güzel yollar açarak akıtırlar
-          onu.
-        cid: 0
+      - text: Bir kaynak ki
+        cid: 1
+      - text: ondan
+        cid: 3
+      - text: Allah'ın
+        cid: 5
+      - text: kulları
+        cid: 4
+      - text: içerler, güzel yollar açarak
+        cid: 2
+      - text: akıtırlar onu.
+        cid: 6
   - verse: 7
     segments:
-      - text: >-
-          O kullar adaklarını yerine getirirler ve fenalığı salgın (olan) bir günden
-          korkarlar.
+      - text: O
         cid: 0
+      - text: kullar adaklarını
+        cid: 2
+      - text: yerine getirirler
+        cid: 1
+      - text: ve
+        cid: 0
+      - text: fenalığı salgın
+        cid: 7
+      - text: (olan)
+        cid: 0
+      - text: bir günden
+        cid: 4
+      - text: korkarlar.
+        cid: 3
   - verse: 8
     segments:
-      - text: >-
-          Düşküne, yetime ve esire seve seve yemek yedirirler.
-        cid: 0
+      - text: Düşküne,
+        cid: 4
+      - text: yetime
+        cid: 6
+      - text: ve esire
+        cid: 7
+      - text: seve seve
+        cid: 3
+      - text: yemek
+        cid: 2
+      - text: yedirirler.
+        cid: 1
   - verse: 9
     segments:
       - text: >-
-          "Size sırf Allah rızası için yemek yediriyoruz. Sizden ne bir karşılık, ne de
-          bir teşekkür bekliyoruz."
-        cid: 0
+          "Size sırf
+        cid: 2
+      - text: Allah
+        cid: 4
+      - text: rızası için yemek
+        cid: 3
+      - text: yediriyoruz.
+        cid: 2
+      - text: Sizden
+        cid: 7
+      - text: ne
+        cid: 9
+      - text: bir karşılık,
+        cid: 8
+      - text: ne de
+        cid: 9
+      - text: bir teşekkür
+        cid: 10
+      - text: >-
+          bekliyoruz."
+        cid: 5
   - verse: 10
     segments:
       - text: >-
-          "Biz sert ve belalı bir günde Rabbimizden korkarız." derler.
+          "Biz sert
+        cid: 1
+      - text: ve
         cid: 0
+      - text: belalı bir günde
+        cid: 5
+      - text: Rabbimizden
+        cid: 3
+      - text: korkarız." derler.
+        cid: 2
   - verse: 11
     segments:
-      - text: >-
-          Allah da onları o günün fenalığından korur, yüzlerine parlaklık, gönüllerine
-          sevinç verir.
-        cid: 0
+      - text: Allah da
+        cid: 2
+      - text: onları
+        cid: 1
+      - text: o
+        cid: 4
+      - text: günün fenalığından
+        cid: 5
+      - text: korur, yüzlerine
+        cid: 1
+      - text: parlaklık, gönüllerine
+        cid: 7
+      - text: sevinç
+        cid: 8
+      - text: verir.
+        cid: 6
   - verse: 12
     segments:
-      - text: >-
-          Sabırlarına karşılık onlara bir cennet ve ipekten elbiseler verir.
-        cid: 0
+      - text: Sabırlarına karşılık
+        cid: 3
+      - text: onlara
+        cid: 1
+      - text: bir cennet
+        cid: 4
+      - text: ve ipekten elbiseler verir.
+        cid: 5
   - verse: 13
     segments:
+      - text: Orada
+        cid: 2
+      - text: donatılmış
+        cid: 10
+      - text: koltuklar
+        cid: 4
       - text: >-
-          Orada donatılmış koltuklar üzerine dayanmışlardır: Orada ne yakıcı güneş
-          görürler, ne de şiddetli soğuk.
-        cid: 0
+          üzerine dayanmışlardır:
+        cid: 3
+      - text: Orada
+        cid: 7
+      - text: ne
+        cid: 9
+      - text: yakıcı güneş
+        cid: 8
+      - text: görürler,
+        cid: 6
+      - text: ne de şiddetli
+        cid: 9
+      - text: soğuk.
+        cid: 10
   - verse: 14
     segments:
-      - text: >-
-          Üzerlerine cennet gölgeleri sarkmış, meyveleri bol bol önlerine konmuştur.
-        cid: 0
+      - text: Üzerlerine
+        cid: 2
+      - text: cennet
+        cid: 5
+      - text: gölgeleri
+        cid: 3
+      - text: sarkmış, meyveleri bol bol önlerine konmuştur.
+        cid: 5
   - verse: 15
     segments:
-      - text: >-
-          Yanlarında gümüşten kaplar, billur kupalar dolaştırılır.
-        cid: 0
+      - text: Yanlarında
+        cid: 2
+      - text: gümüşten kaplar,
+        cid: 4
+      - text: billur
+        cid: 8
+      - text: kupalar
+        cid: 6
+      - text: dolaştırılır.
+        cid: 1
   - verse: 16
     segments:
-      - text: >-
-          Gümüşten öyle kadehler ki onları türlü türlü biçimlere koymuşlardır.
-        cid: 0
+      - text: Gümüşten
+        cid: 2
+      - text: öyle kadehler ki
+        cid: 5
+      - text: onları türlü türlü biçimlere koymuşlardır.
+        cid: 4
   - verse: 17
     segments:
-      - text: >-
-          Onlara orada bir dolu kadeh sunulur ki, karışımı zencefildir.
-        cid: 0
+      - text: Onlara
+        cid: 1
+      - text: orada bir dolu
+        cid: 2
+      - text: kadeh sunulur ki,
+        cid: 3
+      - text: karışımı
+        cid: 5
+      - text: zencefildir.
+        cid: 6
   - verse: 18
     segments:
+      - text: Bu orada bir pınardır ki,
+        cid: 2
+      - text: adına
+        cid: 3
       - text: >-
-          Bu orada bir pınardır ki, adına "selsebil" derler.
-        cid: 0
+          "selsebil" derler.
+        cid: 4
   - verse: 19
     segments:
-      - text: >-
-          Etraflarında ölümsüz hizmetçiler dolaşır, onları görünce saçılmış inciler
-          sanırsın.
-        cid: 0
+      - text: Etraflarında
+        cid: 1
+      - text: ölümsüz
+        cid: 4
+      - text: hizmetçiler dolaşır,
+        cid: 1
+      - text: onları
+        cid: 5
+      - text: görünce
+        cid: 6
+      - text: saçılmış
+        cid: 9
+      - text: inciler
+        cid: 8
+      - text: sanırsın.
+        cid: 7
   - verse: 20
     segments:
-      - text: >-
-          Orada nereye baksan bir nimet ve pek büyük bir mülk görürsün.
+      - text: Orada
         cid: 0
+      - text: nereye baksan
+        cid: 2
+      - text: bir nimet
+        cid: 5
+      - text: ve
+        cid: 0
+      - text: pek büyük
+        cid: 7
+      - text: bir mülk
+        cid: 6
+      - text: görürsün.
+        cid: 4
   - verse: 21
     segments:
-      - text: >-
-          Üstlerinde zarif ve yeşil, kalın ipekten bir elbise vardır. Gümüş bileziklerle
-          süslenmişlerdir. Rableri onlara temiz bir içecek içirmiştir.
+      - text: Üstlerinde zarif
+        cid: 1
+      - text: ve
         cid: 0
+      - text: yeşil,
+        cid: 4
+      - text: kalın
+        cid: 5
+      - text: ipekten bir elbise
+        cid: 3
+      - text: vardır.
+        cid: 1
+      - text: Gümüş
+        cid: 8
+      - text: bileziklerle süslenmişlerdir.
+        cid: 7
+      - text: Rableri
+        cid: 11
+      - text: onlara
+        cid: 10
+      - text: temiz
+        cid: 13
+      - text: bir içecek
+        cid: 12
+      - text: içirmiştir.
+        cid: 10
   - verse: 22
     segments:
       - text: >-
-          (Onlara şöyle denir): "İşte bu sizin bir mükâfatınızdı. Gayretiniz karşılığını
-          bulmuştur."
+          (Onlara şöyle denir):
         cid: 0
+      - text: >-
+          "İşte bu sizin bir mükâfatınızdı.
+        cid: 2
+      - text: >-
+          Gayretiniz karşılığını bulmuştur."
+        cid: 8
   - verse: 23
     segments:
-      - text: >-
-          Kur'ân'ı sana kısım kısım biz indirdik biz.
-        cid: 0
+      - text: Kur'ân'ı
+        cid: 5
+      - text: sana kısım kısım
+        cid: 4
+      - text: biz
+        cid: 2
+      - text: indirdik
+        cid: 3
+      - text: biz.
+        cid: 2
   - verse: 24
     segments:
-      - text: >-
-          O halde Rabbinin hüküm vermesi için sabret. Onlardan hiçbir günahkâra yahut
-          nanköre itaat etme.
-        cid: 0
+      - text: O halde
+        cid: 1
+      - text: Rabbinin
+        cid: 3
+      - text: hüküm vermesi için
+        cid: 2
+      - text: sabret.
+        cid: 1
+      - text: Onlardan hiçbir
+        cid: 6
+      - text: günahkâra
+        cid: 7
+      - text: yahut
+        cid: 8
+      - text: nanköre
+        cid: 9
+      - text: itaat etme.
+        cid: 5
   - verse: 25
     segments:
-      - text: >-
-          Sabahakşam Rabbinin ismini an.
-        cid: 0
+      - text: Sabahakşam
+        cid: 4
+      - text: Rabbinin ismini
+        cid: 3
+      - text: an.
+        cid: 1
   - verse: 26
     segments:
-      - text: >-
-          Gecenin bir bölümünde de O'na secde et (akşam ve yatsı namazlarını kıl). Hem de
-          O'nu uzun bir gece tesbih et (teheccüd namazı kıl).
+      - text: Gecenin
+        cid: 2
+      - text: bir bölümünde de
+        cid: 1
+      - text: O'na
+        cid: 4
+      - text: secde et
+        cid: 3
+      - text: (akşam ve yatsı namazlarını kıl).
+        cid: 0
+      - text: Hem de
+        cid: 3
+      - text: O'nu
+        cid: 5
+      - text: uzun
+        cid: 7
+      - text: bir gece
+        cid: 6
+      - text: tesbih et
+        cid: 5
+      - text: (teheccüd namazı kıl).
         cid: 0
   - verse: 27
     segments:
-      - text: >-
-          Çünkü onlar bu dünyayı seviyorlar ve önlerindeki ağır bir günü arkaya
-          atıyorlar.
+      - text: Çünkü
         cid: 0
+      - text: onlar bu dünyayı
+        cid: 4
+      - text: seviyorlar
+        cid: 3
+      - text: ve
+        cid: 0
+      - text: önlerindeki ağır
+        cid: 8
+      - text: bir günü arkaya atıyorlar.
+        cid: 7
   - verse: 28
     segments:
-      - text: >-
-          Onları biz yarattık ve mafsallarını sımsıkı bağladık. Dilediğimiz vakit de
-          kılıklarını değiştiririz.
+      - text: Onları
+        cid: 2
+      - text: biz
+        cid: 1
+      - text: yarattık
+        cid: 2
+      - text: ve mafsallarını
         cid: 0
+      - text: sımsıkı bağladık.
+        cid: 3
+      - text: Dilediğimiz vakit de kılıklarını
+        cid: 6
+      - text: değiştiririz.
+        cid: 7
   - verse: 29
     segments:
-      - text: >-
-          İşte bu bir öğüttür. Dileyen Rabbine giden yolu tutar.
-        cid: 0
+      - text: İşte bu
+        cid: 2
+      - text: bir öğüttür.
+        cid: 3
+      - text: Dileyen
+        cid: 5
+      - text: Rabbine giden
+        cid: 8
+      - text: yolu
+        cid: 9
+      - text: tutar.
+        cid: 6
   - verse: 30
     segments:
-      - text: >-
-          Allah dilemedikçe siz dileyemezsiniz. Kuşkusuz Allah, bilendir, hüküm ve hikmet
-          sahibidir.
+      - text: Allah
+        cid: 8
+      - text: dilemedikçe
+        cid: 4
+      - text: siz dileyemezsiniz.
+        cid: 2
+      - text: Kuşkusuz Allah,
+        cid: 8
+      - text: bilendir,
+        cid: 9
+      - text: hüküm
+        cid: 11
+      - text: ve
         cid: 0
+      - text: hikmet sahibidir.
+        cid: 11
   - verse: 31
     segments:
-      - text: >-
-          Allah dilediğini rahmetine sokar. Zalimlere ise, acıklı bir azap hazırlamıştır.
-        cid: 0
+      - text: Allah
+        cid: 1
+      - text: dilediğini
+        cid: 3
+      - text: rahmetine
+        cid: 5
+      - text: sokar.
+        cid: 1
+      - text: Zalimlere ise,
+        cid: 6
+      - text: acıklı
+        cid: 10
+      - text: bir azap
+        cid: 9
+      - text: hazırlamıştır.
+        cid: 7

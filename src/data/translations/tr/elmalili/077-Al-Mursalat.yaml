@@ -4,252 +4,433 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Andolsun birbiri ardınca gönderilenlere,
-        cid: 0
+      - text: Andolsun
+        cid: 1
+      - text: birbiri ardınca
+        cid: 2
+      - text: gönderilenlere,
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Büküp devirenlere,
-        cid: 0
+      - text: Büküp
+        cid: 2
+      - text: devirenlere,
+        cid: 1
   - verse: 3
     segments:
-      - text: >-
-          Yaydıkça yayanlara,
-        cid: 0
+      - text: Yaydıkça
+        cid: 2
+      - text: yayanlara,
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          Seçip ayıranlara,
-        cid: 0
+      - text: Seçip ayıranlara,
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Bir öğüt bırakanlara,
-        cid: 0
+      - text: Bir öğüt
+        cid: 2
+      - text: bırakanlara,
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Gerek özür için olsun, gerek uyarı için,
-        cid: 0
+      - text: Gerek özür için olsun, gerek
+        cid: 1
+      - text: uyarı için,
+        cid: 3
   - verse: 7
     segments:
-      - text: >-
-          Herhalde size vaad olunan kesinlikle olacaktır.
-        cid: 0
+      - text: Herhalde size vaad olunan kesinlikle
+        cid: 2
+      - text: olacaktır.
+        cid: 3
   - verse: 8
     segments:
-      - text: >-
-          Hani o yıldızlar silindiği zaman,
-        cid: 0
+      - text: Hani o yıldızlar
+        cid: 2
+      - text: silindiği
+        cid: 3
+      - text: zaman,
+        cid: 1
   - verse: 9
     segments:
-      - text: >-
-          Gök yarıldığı zaman,
-        cid: 0
+      - text: Gök
+        cid: 2
+      - text: yarıldığı
+        cid: 3
+      - text: zaman,
+        cid: 1
   - verse: 10
     segments:
-      - text: >-
-          Dağlar savrulduğu zaman,
-        cid: 0
+      - text: Dağlar
+        cid: 2
+      - text: savrulduğu
+        cid: 3
+      - text: zaman,
+        cid: 1
   - verse: 11
     segments:
-      - text: >-
-          Elçiler, tayin edilen vakitlerine erdirildikleri zaman,
-        cid: 0
+      - text: Elçiler, tayin edilen
+        cid: 2
+      - text: vakitlerine erdirildikleri
+        cid: 3
+      - text: zaman,
+        cid: 1
   - verse: 12
     segments:
-      - text: >-
-          Bunlar hangi güne ertelendiler?
-        cid: 0
+      - text: Bunlar hangi
+        cid: 1
+      - text: güne
+        cid: 2
+      - text: ertelendiler?
+        cid: 3
   - verse: 13
     segments:
-      - text: >-
-          Hüküm gününe..
-        cid: 0
+      - text: Hüküm
+        cid: 2
+      - text: gününe..
+        cid: 1
   - verse: 14
     segments:
-      - text: >-
-          Bildin mi, nedir o hüküm günü?
-        cid: 0
+      - text: Bildin mi,
+        cid: 2
+      - text: nedir
+        cid: 3
+      - text: o hüküm
+        cid: 5
+      - text: günü?
+        cid: 4
   - verse: 15
     segments:
-      - text: >-
-          O gün yalanlayanların vay haline!
-        cid: 0
+      - text: O gün
+        cid: 2
+      - text: yalanlayanların
+        cid: 3
+      - text: vay haline!
+        cid: 1
   - verse: 16
     segments:
-      - text: >-
-          Biz, öncekileri helak etmedik mi?
-        cid: 0
+      - text: Biz, öncekileri
+        cid: 3
+      - text: helak etmedik mi?
+        cid: 1
   - verse: 17
     segments:
-      - text: >-
-          Sonra geridekileri de onlara katarız.
-        cid: 0
+      - text: Sonra
+        cid: 1
+      - text: geridekileri de
+        cid: 3
+      - text: onlara katarız.
+        cid: 2
   - verse: 18
     segments:
-      - text: >-
-          Biz suçlulara böyle yaparız.
-        cid: 0
+      - text: Biz suçlulara
+        cid: 3
+      - text: böyle
+        cid: 1
+      - text: yaparız.
+        cid: 2
   - verse: 19
     segments:
-      - text: >-
-          O gün yalanlayanların vah haline!
-        cid: 0
+      - text: O gün
+        cid: 2
+      - text: yalanlayanların vah
+        cid: 3
+      - text: haline!
+        cid: 1
   - verse: 20
     segments:
-      - text: >-
-          Biz sizi âdi bir sudan yaratmadık mı?
-        cid: 0
+      - text: Biz sizi
+        cid: 1
+      - text: âdi
+        cid: 5
+      - text: bir sudan
+        cid: 3
+      - text: yaratmadık mı?
+        cid: 1
   - verse: 21
     segments:
-      - text: >-
-          Onu sağlam bir yerde oturttuk.
-        cid: 0
+      - text: Onu
+        cid: 1
+      - text: sağlam
+        cid: 4
+      - text: bir yerde oturttuk.
+        cid: 2
   - verse: 22
     segments:
-      - text: >-
-          Belli bir süreye kadar.
-        cid: 0
+      - text: Belli
+        cid: 3
+      - text: bir süreye kadar.
+        cid: 2
   - verse: 23
     segments:
-      - text: >-
-          Demek ki biçimlendirmişiz. Ne güzel biçimlendireniz biz.
+      - text: Demek
         cid: 0
+      - text: ki biçimlendirmişiz.
+        cid: 1
+      - text: Ne güzel
+        cid: 2
+      - text: biçimlendireniz
+        cid: 1
+      - text: biz.
+        cid: 3
   - verse: 24
     segments:
-      - text: >-
-          O gün yalanlayanların vay haline!
-        cid: 0
+      - text: O gün
+        cid: 2
+      - text: yalanlayanların
+        cid: 3
+      - text: vay haline!
+        cid: 1
   - verse: 25
     segments:
-      - text: >-
-          Yeryüzünü bir tokat (toplanma yeri) yapmadık mı?
+      - text: Yeryüzünü bir tokat
+        cid: 2
+      - text: (toplanma yeri)
         cid: 0
+      - text: yapmadık mı?
+        cid: 1
   - verse: 26
     segments:
-      - text: >-
-          Gerek diriler, gerekse ölüler için.
-        cid: 0
+      - text: Gerek diriler, gerekse
+        cid: 1
+      - text: ölüler için.
+        cid: 2
   - verse: 27
     segments:
-      - text: >-
-          Orada yüksek yüksek dağlar oturtup da size bir tatlı su sunmadık mı?
-        cid: 0
+      - text: Orada
+        cid: 2
+      - text: yüksek yüksek
+        cid: 4
+      - text: dağlar oturtup da
+        cid: 3
+      - text: size
+        cid: 5
+      - text: bir tatlı
+        cid: 7
+      - text: su sunmadık mı?
+        cid: 6
   - verse: 28
     segments:
-      - text: >-
-          O gün yalanlayanların vay haline!
-        cid: 0
+      - text: O gün
+        cid: 2
+      - text: yalanlayanların
+        cid: 3
+      - text: vay haline!
+        cid: 1
   - verse: 29
     segments:
       - text: >-
-          (Kıyameti yalanlayanlara şöyle denir): "Haydin gidin o yalanladığınız şeye
-          doğru."
+          (Kıyameti yalanlayanlara şöyle denir):
         cid: 0
+      - text: >-
+          "Haydin gidin
+        cid: 1
+      - text: o yalanladığınız
+        cid: 6
+      - text: >-
+          şeye doğru."
+        cid: 2
   - verse: 30
     segments:
       - text: >-
-          "Haydi gidin o üç çatallı gölgeye (cehenneme)."
+          "Haydi gidin
+        cid: 1
+      - text: o üç çatallı
+        cid: 5
+      - text: gölgeye
+        cid: 2
+      - text: >-
+          (cehenneme)."
         cid: 0
   - verse: 31
     segments:
-      - text: >-
-          O, ne gölgelendirir, ne alevden korur.
-        cid: 0
+      - text: O, ne
+        cid: 3
+      - text: gölgelendirir,
+        cid: 1
+      - text: ne
+        cid: 3
+      - text: alevden
+        cid: 5
+      - text: korur.
+        cid: 4
   - verse: 32
     segments:
-      - text: >-
-          O, saray gibi kıvılcımlar atar.
-        cid: 0
+      - text: O, saray gibi
+        cid: 1
+      - text: kıvılcımlar atar.
+        cid: 3
   - verse: 33
     segments:
-      - text: >-
-          Sanki o kıvılcımlar, sarı sarı (erkek deve sürüleridir).
+      - text: Sanki o kıvılcımlar,
+        cid: 1
+      - text: sarı sarı
+        cid: 3
+      - text: (erkek deve sürüleridir).
         cid: 0
   - verse: 34
     segments:
-      - text: >-
-          O gün yalanlayanların vay haline!
-        cid: 0
+      - text: O gün
+        cid: 2
+      - text: yalanlayanların
+        cid: 3
+      - text: vay haline!
+        cid: 1
   - verse: 35
     segments:
-      - text: >-
-          Bugün, konuşamıyacakları gündür.
-        cid: 0
+      - text: Bugün, konuşamıyacakları
+        cid: 4
+      - text: gündür.
+        cid: 2
   - verse: 36
     segments:
-      - text: >-
-          Kendilerine izin de verilmez ki, özür beyan etsinler.
-        cid: 0
+      - text: Kendilerine
+        cid: 3
+      - text: izin de verilmez ki,
+        cid: 2
+      - text: özür beyan etsinler.
+        cid: 4
   - verse: 37
     segments:
-      - text: >-
-          O gün yalanlayanların vay haline!
-        cid: 0
+      - text: O gün
+        cid: 2
+      - text: yalanlayanların
+        cid: 3
+      - text: vay haline!
+        cid: 1
   - verse: 38
     segments:
-      - text: >-
-          Bu, işte o hüküm günüdür. Sizi ve öncekileri bir araya topladık.
-        cid: 0
+      - text: Bu, işte
+        cid: 1
+      - text: o hüküm
+        cid: 3
+      - text: günüdür.
+        cid: 2
+      - text: Sizi
+        cid: 4
+      - text: ve öncekileri
+        cid: 5
+      - text: bir araya topladık.
+        cid: 4
   - verse: 39
     segments:
-      - text: >-
-          Bir hileniz varsa beni atlatın.
-        cid: 0
+      - text: Bir hileniz
+        cid: 4
+      - text: varsa beni atlatın.
+        cid: 2
   - verse: 40
     segments:
-      - text: >-
-          O gün yalanlayanların vay haline!
-        cid: 0
+      - text: O gün
+        cid: 2
+      - text: yalanlayanların
+        cid: 3
+      - text: vay haline!
+        cid: 1
   - verse: 41
     segments:
-      - text: >-
-          Kuşkusuz takva sahipleri gölgeler altında ve pınar başlarındadır.
+      - text: Kuşkusuz takva
         cid: 0
+      - text: sahipleri gölgeler
+        cid: 4
+      - text: altında
+        cid: 3
+      - text: ve pınar başlarındadır.
+        cid: 5
   - verse: 42
     segments:
-      - text: >-
-          Canlarının çektiğinden türlü meyveler arasındadırlar.
-        cid: 0
+      - text: Canlarının çektiğinden türlü
+        cid: 3
+      - text: meyveler arasındadırlar.
+        cid: 1
   - verse: 43
     segments:
       - text: >-
-          (Onlara): "Yaptıklarınıza karşılık afiyetle yiyin, için" (denir).
+          (Onlara):
+        cid: 0
+      - text: >-
+          "Yaptıklarınıza
+        cid: 6
+      - text: karşılık
+        cid: 4
+      - text: afiyetle
+        cid: 3
+      - text: yiyin,
+        cid: 1
+      - text: >-
+          için"
+        cid: 2
+      - text: (denir).
         cid: 0
   - verse: 44
     segments:
-      - text: >-
-          İşte biz güzel amel işleyenleri böyle mükafatlandırırız.
-        cid: 0
+      - text: İşte
+        cid: 3
+      - text: biz
+        cid: 1
+      - text: güzel amel işleyenleri
+        cid: 4
+      - text: böyle
+        cid: 2
+      - text: mükafatlandırırız.
+        cid: 3
   - verse: 45
     segments:
-      - text: >-
-          O gün yalanlayanların vay haline!
-        cid: 0
+      - text: O gün
+        cid: 2
+      - text: yalanlayanların
+        cid: 3
+      - text: vay haline!
+        cid: 1
   - verse: 46
     segments:
-      - text: >-
-          Yiyin, zevklenin biraz, çünkü siz suçlularsınız.
-        cid: 0
+      - text: Yiyin, zevklenin biraz, çünkü
+        cid: 1
+      - text: siz
+        cid: 4
+      - text: suçlularsınız.
+        cid: 5
   - verse: 47
     segments:
-      - text: >-
-          O gün yalanlayanların vay haline!
-        cid: 0
+      - text: O gün
+        cid: 2
+      - text: yalanlayanların
+        cid: 3
+      - text: vay haline!
+        cid: 1
   - verse: 48
     segments:
       - text: >-
-          Onlara: "Rüku edin" denildiği zaman etmezler.
-        cid: 0
+          Onlara:
+        cid: 3
+      - text: >-
+          "Rüku edin"
+        cid: 4
+      - text: denildiği
+        cid: 2
+      - text: zaman
+        cid: 1
+      - text: etmezler.
+        cid: 6
   - verse: 49
     segments:
-      - text: >-
-          Vay haline o gün yalanlayanların!
-        cid: 0
+      - text: Vay haline
+        cid: 1
+      - text: o gün
+        cid: 2
+      - text: yalanlayanların!
+        cid: 3
   - verse: 50
     segments:
-      - text: >-
-          Artık bundan (Kur'an'dan) sonra hangi söze inanacaklar?
+      - text: Artık bundan
+        cid: 3
+      - text: (Kur'an'dan)
         cid: 0
+      - text: sonra
+        cid: 3
+      - text: hangi
+        cid: 1
+      - text: söze
+        cid: 2
+      - text: inanacaklar?
+        cid: 4

@@ -4,304 +4,1390 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Hamd, gökleri ve yeri yaratan, melekleri ikişer, üçer, dörder kanatlı elçiler
-          kılan Allah'a mahsustur. O, yaratmada dilediği kadar artırır. Gerçekten Allah
-          her şeye kâdirdir.
-        cid: 0
+      - text: Hamd,
+        cid: 1
+      - text: gökleri
+        cid: 4
+      - text: ve yeri
+        cid: 5
+      - text: yaratan,
+        cid: 16
+      - text: melekleri
+        cid: 7
+      - text: ikişer,
+        cid: 11
+      - text: üçer,
+        cid: 12
+      - text: dörder
+        cid: 13
+      - text: kanatlı
+        cid: 10
+      - text: elçiler kılan
+        cid: 8
+      - text: Allah'a mahsustur.
+        cid: 2
+      - text: O, yaratmada
+        cid: 16
+      - text: dilediği kadar
+        cid: 18
+      - text: artırır.
+        cid: 14
+      - text: Gerçekten Allah
+        cid: 20
+      - text: her
+        cid: 21
+      - text: şeye
+        cid: 23
+      - text: kâdirdir.
+        cid: 24
   - verse: 2
     segments:
-      - text: >-
-          Allah, insanlara rahmetinden neyi açarsa artık onu tutacak, kısacak olan
-          yoktur. Her neyi de tutar kısarsa, onu da, ondan sonra salacak yoktur. O, çok
-          güçlüdür, hüküm ve hikmet sahibidir.
+      - text: Allah,
+        cid: 3
+      - text: insanlara
+        cid: 4
+      - text: rahmetinden neyi
+        cid: 5
+      - text: açarsa artık
+        cid: 2
+      - text: onu
+        cid: 14
+      - text: tutacak, kısacak
+        cid: 8
+      - text: olan yoktur. Her neyi
         cid: 0
+      - text: de tutar kısarsa,
+        cid: 11
+      - text: onu da,
+        cid: 9
+      - text: ondan sonra
+        cid: 15
+      - text: salacak yoktur.
+        cid: 13
+      - text: O, çok güçlüdür,
+        cid: 17
+      - text: hüküm
+        cid: 19
+      - text: ve
+        cid: 0
+      - text: hikmet sahibidir.
+        cid: 19
   - verse: 3
     segments:
-      - text: >-
-          Ey insanlar! Allah'ın üzerinizdeki nimetini anın. Allah'tan başka bir yaratıcı
-          mı var? O size gökten ve yerden rızık verir. O'ndan başka ilâh yoktur. O halde
-          (haktan) nasıl çevrilirsiniz?
+      - text: Ey
+        cid: 1
+      - text: insanlar!
+        cid: 2
+      - text: Allah'ın üzerinizdeki
+        cid: 5
+      - text: nimetini anın.
+        cid: 4
+      - text: Allah'tan başka
+        cid: 10
+      - text: bir yaratıcı mı
+        cid: 9
+      - text: var?
+        cid: 7
+      - text: O size
+        cid: 12
+      - text: gökten
+        cid: 14
+      - text: ve yerden
+        cid: 15
+      - text: rızık verir.
+        cid: 12
+      - text: O'ndan
+        cid: 19
+      - text: başka
+        cid: 10
+      - text: ilâh
+        cid: 17
+      - text: yoktur.
+        cid: 16
+      - text: O halde
+        cid: 21
+      - text: (haktan)
         cid: 0
+      - text: nasıl
+        cid: 20
+      - text: çevrilirsiniz?
+        cid: 21
   - verse: 4
     segments:
-      - text: >-
-          Eğer onlar seni yalanlıyorlarsa, senden önce birçok peygamberler de
-          yalanlandılar. Bütün işler Allah'a döndürülür.
-        cid: 0
+      - text: Eğer
+        cid: 1
+      - text: onlar seni yalanlıyorlarsa,
+        cid: 2
+      - text: senden
+        cid: 6
+      - text: önce birçok
+        cid: 7
+      - text: peygamberler de
+        cid: 5
+      - text: yalanlandılar.
+        cid: 4
+      - text: Bütün işler
+        cid: 11
+      - text: Allah'a
+        cid: 9
+      - text: döndürülür.
+        cid: 10
   - verse: 5
     segments:
-      - text: >-
-          Ey insanlar! Haberiniz olsun ki, Allah'ın vaadi muhakkak haktır. Sakın bu dünya
-          hayatı sizi aldatmasın, sakın o aldatıcı şeytan sizi, Allah hakkında da
-          aldatmasın.
+      - text: Ey
+        cid: 1
+      - text: insanlar!
+        cid: 2
+      - text: Haberiniz olsun
         cid: 0
+      - text: ki, Allah'ın
+        cid: 5
+      - text: vaadi muhakkak haktır.
+        cid: 4
+      - text: Sakın
+        cid: 8
+      - text: bu dünya
+        cid: 10
+      - text: hayatı
+        cid: 9
+      - text: sizi aldatmasın, sakın
+        cid: 8
+      - text: o aldatıcı
+        cid: 14
+      - text: şeytan sizi,
+        cid: 12
+      - text: Allah hakkında da
+        cid: 13
+      - text: aldatmasın.
+        cid: 12
   - verse: 6
     segments:
-      - text: >-
-          Çünkü şeytan size düşmandır. Siz de onu düşman tutun. O etrafına toplanan
-          taraftarlarını ancak cehennemliklerden olsunlar diye davet eder.
-        cid: 0
+      - text: Çünkü şeytan
+        cid: 2
+      - text: size
+        cid: 3
+      - text: düşmandır.
+        cid: 4
+      - text: Siz de onu
+        cid: 5
+      - text: düşman tutun.
+        cid: 6
+      - text: O etrafına toplanan
+        cid: 7
+      - text: taraftarlarını
+        cid: 9
+      - text: ancak cehennemliklerden olsunlar diye davet eder.
+        cid: 7
   - verse: 7
     segments:
-      - text: >-
-          İnkâr edenler için şiddetli bir azab vardır. İman edip salih amel işleyenler
-          için de bir bağışlanma ve büyük bir mükafat vardır.
+      - text: İnkâr edenler için
+        cid: 2
+      - text: şiddetli
+        cid: 5
+      - text: bir azab
+        cid: 4
+      - text: vardır.
+        cid: 3
+      - text: İman edip
+        cid: 8
+      - text: salih
+        cid: 9
+      - text: amel
+        cid: 8
+      - text: işleyenler için de bir bağışlanma
+        cid: 9
+      - text: ve
         cid: 0
+      - text: büyük
+        cid: 13
+      - text: bir mükafat
+        cid: 12
+      - text: vardır.
+        cid: 10
   - verse: 8
     segments:
-      - text: >-
-          Ya kötü ameli kendisine allanmış pullanmış da onu güzel görmüş olan kimse de mi
-          (iman edip salih amel işleyenler gibi olacak)? Şüphe yok ki Allah dilediğini
-          şaşırtır, dilediğini de doğru yola çıkarır. O halde canın onlara karşı
-          hasretlerle (üzüntülerle) sıkılıp gitmesin. Çünkü Allah, onların bütün
-          yaptıklarını bilir.
+      - text: Ya kötü ameli
+        cid: 4
+      - text: kendisine
+        cid: 3
+      - text: allanmış pullanmış da
+        cid: 22
+      - text: onu
+        cid: 6
+      - text: güzel
+        cid: 7
+      - text: görmüş olan
+        cid: 6
+      - text: kimse de mi
+        cid: 1
+      - text: (iman edip salih amel işleyenler gibi olacak)?
         cid: 0
+      - text: Şüphe
+        cid: 21
+      - text: yok ki
+        cid: 16
+      - text: Allah
+        cid: 9
+      - text: dilediğini
+        cid: 12
+      - text: şaşırtır,
+        cid: 10
+      - text: dilediğini de doğru
+        cid: 12
+      - text: yola çıkarır.
+        cid: 13
+      - text: O
+        cid: 0
+      - text: halde canın
+        cid: 18
+      - text: onlara karşı
+        cid: 19
+      - text: hasretlerle
+        cid: 20
+      - text: (üzüntülerle)
+        cid: 0
+      - text: sıkılıp
+        cid: 20
+      - text: gitmesin.
+        cid: 17
+      - text: Çünkü Allah,
+        cid: 22
+      - text: onların bütün yaptıklarını
+        cid: 25
+      - text: bilir.
+        cid: 23
   - verse: 9
     segments:
-      - text: >-
-          Rüzgârları gönderip bir bulut kaldıran da Allah'tır. Derken biz o (bulutu)
-          ölmüş bir beldeye sevketmişizdir. Böylece yeryüzüne ölmünden sonra onunla hayat
-          veririz. İşte o dirilme de böyledir.
+      - text: Rüzgârları
+        cid: 4
+      - text: gönderip
+        cid: 2
+      - text: bir bulut
+        cid: 6
+      - text: kaldıran da
+        cid: 5
+      - text: Allah'tır.
+        cid: 1
+      - text: Derken
+        cid: 5
+      - text: biz o
+        cid: 10
+      - text: (bulutu)
         cid: 0
+      - text: ölmüş bir beldeye sevketmişizdir.
+        cid: 10
+      - text: Böylece
+        cid: 7
+      - text: yeryüzüne ölmünden
+        cid: 13
+      - text: sonra
+        cid: 14
+      - text: onunla hayat veririz.
+        cid: 12
+      - text: İşte
+        cid: 16
+      - text: o dirilme de
+        cid: 17
+      - text: böyledir.
+        cid: 16
   - verse: 10
     segments:
-      - text: >-
-          Her kim izzet istiyorsa bilsin ki izzet tamamıyla Allah'ındır. O'na hoş
-          kelimeler yükselir, onu da salih amel yükseltir. Kötülükler kuranlara gelince,
-          onlara şiddetli bir azab vardır. Onların tuzakları hep darmadağın olur.
-        cid: 0
+      - text: Her kim
+        cid: 1
+      - text: izzet
+        cid: 4
+      - text: istiyorsa bilsin ki
+        cid: 3
+      - text: izzet
+        cid: 4
+      - text: tamamıyla
+        cid: 7
+      - text: Allah'ındır.
+        cid: 5
+      - text: O'na hoş kelimeler
+        cid: 8
+      - text: yükselir, onu da salih
+        cid: 14
+      - text: amel
+        cid: 12
+      - text: yükseltir.
+        cid: 14
+      - text: Kötülükler
+        cid: 17
+      - text: kuranlara
+        cid: 16
+      - text: gelince,
+        cid: 15
+      - text: onlara
+        cid: 22
+      - text: şiddetli
+        cid: 20
+      - text: bir azab
+        cid: 19
+      - text: vardır.
+        cid: 18
+      - text: Onların tuzakları hep darmadağın olur.
+        cid: 16
   - verse: 11
     segments:
-      - text: >-
-          Hem Allah sizi bir topraktan, sonra bir damla sudan yarattı. Sonra sizi çiftler
-          kıldı. O'nun bilgisi olmadan ne bir dişi hamile olur, ne doğurur. Kendisine ömür
-          verilenin de ömrünün uzatılması da, ömründen kısaltılması da mutlaka bir kitapta
-          yazılıdır. Şüphe yok ki bu, Allah'a göre kolaydır.
-        cid: 0
+      - text: Hem Allah
+        cid: 1
+      - text: sizi
+        cid: 2
+      - text: bir topraktan,
+        cid: 3
+      - text: sonra
+        cid: 5
+      - text: bir damla sudan
+        cid: 7
+      - text: yarattı.
+        cid: 2
+      - text: Sonra
+        cid: 8
+      - text: sizi
+        cid: 9
+      - text: çiftler kıldı.
+        cid: 10
+      - text: O'nun bilgisi
+        cid: 18
+      - text: olmadan ne
+        cid: 16
+      - text: bir dişi hamile olur, ne
+        cid: 14
+      - text: doğurur.
+        cid: 16
+      - text: Kendisine
+        cid: 18
+      - text: ömür
+        cid: 20
+      - text: verilenin de
+        cid: 19
+      - text: ömrünün uzatılması da, ömründen kısaltılması da mutlaka
+        cid: 25
+      - text: bir kitapta
+        cid: 28
+      - text: yazılıdır.
+        cid: 27
+      - text: Şüphe
+        cid: 30
+      - text: yok ki
+        cid: 23
+      - text: bu,
+        cid: 31
+      - text: Allah'a
+        cid: 33
+      - text: göre
+        cid: 32
+      - text: kolaydır.
+        cid: 34
   - verse: 12
     segments:
-      - text: >-
-          Hem iki deniz eşit olmuyor. Şu tatlı, hararet keser, içerken (boğazdan) kayar;
-          şu da tuzlu, yakar kavurur. Bununla beraber her birinden taze bir et yersiniz ve
-          bir ziynet çıkarır, giyinirsiniz. Allah'ın lütfundan nasib arayasınız diye suyu
-          yara yara giden gemileri de görürsün. Gerek ki şükredeceksiniz.
+      - text: Hem iki deniz
+        cid: 3
+      - text: eşit
+        cid: 2
+      - text: olmuyor.
+        cid: 1
+      - text: Şu
+        cid: 4
+      - text: tatlı, hararet
+        cid: 5
+      - text: keser, içerken
+        cid: 6
+      - text: (boğazdan)
         cid: 0
+      - text: kayar;
+        cid: 7
+      - text: şu da
+        cid: 9
+      - text: tuzlu, yakar kavurur.
+        cid: 10
+      - text: Bununla
+        cid: 0
+      - text: beraber her
+        cid: 13
+      - text: birinden
+        cid: 11
+      - text: taze bir et
+        cid: 16
+      - text: yersiniz
+        cid: 14
+      - text: ve bir
+        cid: 0
+      - text: ziynet çıkarır, giyinirsiniz.
+        cid: 17
+      - text: Allah'ın lütfundan
+        cid: 26
+      - text: nasib arayasınız
+        cid: 24
+      - text: diye suyu yara yara giden
+        cid: 23
+      - text: gemileri de
+        cid: 21
+      - text: görürsün.
+        cid: 20
+      - text: Gerek
+        cid: 0
+      - text: ki şükredeceksiniz.
+        cid: 28
   - verse: 13
     segments:
-      - text: >-
-          O, geceyi gündüze sokuyor, gündüzü de geceye sokuyor. Güneşi ve ayı emrine
-          âmâde kılmıştır. Her biri mukadder bir gayeye akıp gidiyor. İşte bu
-          gördüklerinizi yapan Allah sizin Rabbinizdir. Mülk (hükümranlık) O'nundur.
-          O'ndan başka taptıklarınız ise, bir çekirdek zarını bile idare edemezler.
+      - text: O, geceyi
+        cid: 2
+      - text: gündüze
+        cid: 4
+      - text: sokuyor,
+        cid: 5
+      - text: gündüzü de
+        cid: 6
+      - text: geceye
+        cid: 2
+      - text: sokuyor.
+        cid: 1
+      - text: Güneşi
+        cid: 10
+      - text: ve ayı emrine
+        cid: 11
+      - text: âmâde kılmıştır.
+        cid: 14
+      - text: Her biri mukadder bir gayeye
+        cid: 12
+      - text: akıp gidiyor.
+        cid: 13
+      - text: İşte bu gördüklerinizi yapan
+        cid: 16
+      - text: Allah
+        cid: 17
+      - text: sizin Rabbinizdir.
+        cid: 18
+      - text: Mülk
+        cid: 20
+      - text: (hükümranlık)
         cid: 0
+      - text: O'nundur.
+        cid: 19
+      - text: O'ndan
+        cid: 23
+      - text: başka taptıklarınız ise,
+        cid: 24
+      - text: bir çekirdek zarını bile idare edemezler.
+        cid: 27
   - verse: 14
     segments:
-      - text: >-
-          Kendilerine dua ederseniz duanızı işitmezler. İşitseler bile size cevabını
-          veremezler. Kıyamet günü de kendilerini Allah'a ortak koştuğunuzu inkâr ederler.
-          Sana her şeyden haberdar olan (Allah) gibi bir haber veren olmaz.
+      - text: Kendilerine dua
+        cid: 17
+      - text: ederseniz duanızı
+        cid: 13
+      - text: işitmezler.
+        cid: 3
+      - text: İşitseler bile
+        cid: 7
+      - text: size
+        cid: 10
+      - text: cevabını
+        cid: 8
+      - text: veremezler.
+        cid: 9
+      - text: Kıyamet
+        cid: 12
+      - text: günü de
+        cid: 11
+      - text: kendilerini Allah'a
+        cid: 17
+      - text: ortak
+        cid: 14
+      - text: koştuğunuzu
+        cid: 11
+      - text: inkâr ederler.
+        cid: 13
+      - text: Sana
+        cid: 16
+      - text: her şeyden
+        cid: 18
+      - text: haberdar olan
+        cid: 16
+      - text: (Allah)
         cid: 0
+      - text: gibi bir haber veren olmaz.
+        cid: 16
   - verse: 15
     segments:
-      - text: >-
-          Ey insanlar! Siz Allah'a muhtaçsınız. Allah ise zengin ve her hamde lâyıktır.
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: insanlar!
+        cid: 2
+      - text: Siz
+        cid: 3
+      - text: Allah'a
+        cid: 5
+      - text: muhtaçsınız.
+        cid: 4
+      - text: Allah ise
+        cid: 7
+      - text: zengin
+        cid: 9
+      - text: ve her hamde lâyıktır.
+        cid: 10
   - verse: 16
     segments:
-      - text: >-
-          Eğer O dilerse sizi yok eder ve yerinize yeni bir halk getirir.
+      - text: Eğer
+        cid: 1
+      - text: O dilerse
+        cid: 2
+      - text: sizi
+        cid: 3
+      - text: yok eder
+        cid: 5
+      - text: ve
         cid: 0
+      - text: yerinize yeni
+        cid: 6
+      - text: bir halk
+        cid: 5
+      - text: getirir.
+        cid: 4
   - verse: 17
     segments:
-      - text: >-
-          Ve bu, Allah'a göre zor bir şey değildir.
+      - text: Ve
         cid: 0
+      - text: bu,
+        cid: 2
+      - text: Allah'a göre
+        cid: 4
+      - text: zor bir şey
+        cid: 5
+      - text: değildir.
+        cid: 1
   - verse: 18
     segments:
-      - text: >-
-          Hem günah çeken bir kimse, başkasının günahını çekmeyecek; yükü ağır basan,
-          onun yüklenilmesine çağırsa da ondan bir şey yüklenilmeyecek, isterse bir yakını
-          olsun. Fakat sen ancak o kimseleri sakındırısın ki, gaybda Rablerinin korkusunu
-          duyarlar, namazı dürüst kılarlar. Temizlenen de sırf kendisi için temizlenir.
-          Nihayet dönüş Allah'adır.
+      - text: Hem günah
+        cid: 3
+      - text: çeken
+        cid: 2
+      - text: bir kimse,
+        cid: 8
+      - text: başkasının
+        cid: 5
+      - text: günahını
+        cid: 4
+      - text: çekmeyecek;
+        cid: 2
+      - text: yükü ağır basan, onun yüklenilmesine
+        cid: 8
+      - text: çağırsa da
+        cid: 7
+      - text: ondan
+        cid: 13
+      - text: bir şey
+        cid: 14
+      - text: yüklenilmeyecek, isterse bir yakını olsun.
+        cid: 13
+      - text: Fakat sen ancak
+        cid: 19
+      - text: o kimseleri
+        cid: 8
+      - text: sakındırısın ki, gaybda
+        cid: 20
+      - text: Rablerinin
+        cid: 23
+      - text: korkusunu duyarlar,
+        cid: 21
+      - text: namazı dürüst
+        cid: 26
+      - text: kılarlar.
+        cid: 25
+      - text: Temizlenen de
         cid: 0
+      - text: sırf kendisi için temizlenir.
+        cid: 31
+      - text: Nihayet dönüş
+        cid: 34
+      - text: Allah'adır.
+        cid: 33
   - verse: 19
     segments:
-      - text: >-
-          Ne kör ile gören eşit olur,
-        cid: 0
+      - text: Ne kör
+        cid: 3
+      - text: ile gören
+        cid: 4
+      - text: eşit olur,
+        cid: 2
   - verse: 20
     segments:
-      - text: >-
-          Ne de karanlıklar ile aydınlık,
-        cid: 0
+      - text: Ne de
+        cid: 3
+      - text: karanlıklar ile
+        cid: 2
+      - text: aydınlık,
+        cid: 4
   - verse: 21
     segments:
-      - text: >-
-          Ve ne de gölge ile sıcaklık.
-        cid: 0
+      - text: Ve
+        cid: 1
+      - text: ne de
+        cid: 3
+      - text: gölge ile
+        cid: 2
+      - text: sıcaklık.
+        cid: 4
   - verse: 22
     segments:
-      - text: >-
-          Ölülerle diriler de eşit olmaz. Gerçi Allah, her dilediğine işittirirse de sen,
-          kabirlerdekine işittirecek değilsin.
-        cid: 0
+      - text: Ölülerle
+        cid: 5
+      - text: diriler de
+        cid: 3
+      - text: eşit
+        cid: 2
+      - text: olmaz.
+        cid: 1
+      - text: Gerçi Allah,
+        cid: 7
+      - text: her dilediğine
+        cid: 10
+      - text: işittirirse de
+        cid: 8
+      - text: sen,
+        cid: 12
+      - text: kabirlerdekine
+        cid: 16
+      - text: işittirecek
+        cid: 13
+      - text: değilsin.
+        cid: 11
   - verse: 23
     segments:
-      - text: >-
-          Sen sadece bir uyarıcısın.
-        cid: 0
+      - text: Sen
+        cid: 2
+      - text: sadece bir uyarıcısın.
+        cid: 4
   - verse: 24
     segments:
-      - text: >-
-          Muhakkak ki biz seni hak ile hem bir müjdeci, hem bir uyarıcı olarak gönderdik.
-          Hiçbir ümmet de yoktur ki, içlerinde bir uyarıcı geçmiş olmasın.
+      - text: Muhakkak
         cid: 0
+      - text: ki biz
+        cid: 1
+      - text: seni hak ile hem
+        cid: 2
+      - text: bir müjdeci, hem
+        cid: 4
+      - text: bir uyarıcı
+        cid: 5
+      - text: olarak
+        cid: 4
+      - text: gönderdik.
+        cid: 2
+      - text: Hiçbir
+        cid: 7
+      - text: ümmet de
+        cid: 8
+      - text: yoktur ki, içlerinde
+        cid: 6
+      - text: bir uyarıcı
+        cid: 12
+      - text: geçmiş
+        cid: 10
+      - text: olmasın.
+        cid: 9
   - verse: 25
     segments:
-      - text: >-
-          Seni yalanlıyorlarsa, onlardan öncekiler de yalanlamışlardı. Onlara
-          peygamberleri mucizelerle, sahifelerle ve aydınlatıcı kitaplarla gelmişlerdi.
+      - text: Seni yalanlıyorlarsa,
+        cid: 2
+      - text: onlardan öncekiler de
+        cid: 7
+      - text: yalanlamışlardı.
+        cid: 4
+      - text: Onlara
+        cid: 8
+      - text: peygamberleri mucizelerle,
+        cid: 9
+      - text: sahifelerle
+        cid: 11
+      - text: ve
         cid: 0
+      - text: aydınlatıcı
+        cid: 13
+      - text: kitaplarla gelmişlerdi.
+        cid: 12
   - verse: 26
     segments:
-      - text: >-
-          Sonra ben o inkâr edenleri tutup yakaladım. O zaman beni inkâr etmek nasıl
-          oldu?
+      - text: Sonra
+        cid: 1
+      - text: ben
+        cid: 2
+      - text: o inkâr edenleri tutup
+        cid: 4
+      - text: yakaladım.
+        cid: 2
+      - text: O
         cid: 0
+      - text: zaman beni
+        cid: 7
+      - text: inkâr etmek
+        cid: 4
+      - text: nasıl oldu?
+        cid: 5
   - verse: 27
     segments:
-      - text: >-
-          Görmedin mi Allah gökten bir su indirdi. Biz onunla renkleri başka başka
-          meyveler çıkardık. Dağlarda da yollar, beyazlı kırmızılı çeşitli renklerde ve
-          kapkara topraklar var.
+      - text: Görmedin mi
+        cid: 1
+      - text: Allah
+        cid: 4
+      - text: gökten
+        cid: 7
+      - text: bir su
+        cid: 8
+      - text: indirdi.
+        cid: 5
+      - text: Biz
+        cid: 9
+      - text: onunla
+        cid: 10
+      - text: renkleri başka başka
+        cid: 13
+      - text: meyveler
+        cid: 11
+      - text: çıkardık.
+        cid: 9
+      - text: Dağlarda da
+        cid: 15
+      - text: yollar,
+        cid: 16
+      - text: beyazlı
+        cid: 17
+      - text: kırmızılı
+        cid: 18
+      - text: çeşitli
+        cid: 12
+      - text: renklerde
+        cid: 20
+      - text: ve
         cid: 0
+      - text: kapkara topraklar var.
+        cid: 22
   - verse: 28
     segments:
-      - text: >-
-          Yine insanlardan, hayvanlardan ve davarlardan da türlü renklileri vardır.
-          Kulları içinde Allah'tan ancak âlimler korkar. Şüphe yok ki Allah çok güçlüdür.
-          Hüküm ve hikmet sahibidir.
+      - text: Yine insanlardan,
+        cid: 1
+      - text: hayvanlardan
+        cid: 3
+      - text: ve davarlardan da
+        cid: 4
+      - text: türlü
+        cid: 5
+      - text: renklileri
+        cid: 6
+      - text: vardır.
+        cid: 1
+      - text: Kulları
+        cid: 12
+      - text: içinde
+        cid: 11
+      - text: Allah'tan
+        cid: 10
+      - text: ancak âlimler
+        cid: 8
+      - text: korkar.
+        cid: 9
+      - text: Şüphe yok ki
+        cid: 14
+      - text: Allah
+        cid: 15
+      - text: çok güçlüdür.
+        cid: 17
+      - text: Hüküm ve hikmet sahibidir.
         cid: 0
   - verse: 29
     segments:
-      - text: >-
-          Allah'ın kitabını okuyan, namazı kılan ve kendilerine verdiğimiz rızıktan gizli
-          ve açık olarak verenler, kesinlikle batma ihtimali olmayan bir ticaret umarlar.
+      - text: Allah'ın
+        cid: 5
+      - text: kitabını
+        cid: 4
+      - text: okuyan,
+        cid: 3
+      - text: namazı
+        cid: 7
+      - text: kılan
+        cid: 6
+      - text: ve
         cid: 0
+      - text: kendilerine
+        cid: 10
+      - text: verdiğimiz rızıktan
+        cid: 9
+      - text: gizli
+        cid: 11
+      - text: ve açık olarak
+        cid: 12
+      - text: verenler, kesinlikle
+        cid: 9
+      - text: batma ihtimali olmayan
+        cid: 16
+      - text: bir ticaret
+        cid: 14
+      - text: umarlar.
+        cid: 13
   - verse: 30
     segments:
-      - text: >-
-          Çünkü Allah mükafatlarını kendilerine tamamen ödedikten başka, lütfundan onlara
-          fazlasını da verecektir. Çünkü O çok bağışlayıcı ve şükrün karşılığını
-          vericidir.
+      - text: Çünkü
+        cid: 6
+      - text: Allah
+        cid: 7
+      - text: mükafatlarını
+        cid: 2
+      - text: kendilerine
+        cid: 3
+      - text: tamamen ödedikten başka,
+        cid: 1
+      - text: lütfundan
+        cid: 5
+      - text: onlara
+        cid: 1
+      - text: fazlasını da verecektir.
+        cid: 3
+      - text: Çünkü O
+        cid: 6
+      - text: çok
+        cid: 8
+      - text: bağışlayıcı
+        cid: 7
+      - text: ve
         cid: 0
+      - text: şükrün karşılığını vericidir.
+        cid: 8
   - verse: 31
     segments:
-      - text: >-
-          Kitaplar içinde sana vahyettiğimiz kitap da kendinden öncekileri tasdik edici
-          olmak üzere bir haktır. Şüphe yok ki, Allah, kullarının bütün hallerinden
-          haberdardır ve her şeyi görendir.
+      - text: Kitaplar içinde
+        cid: 5
+      - text: sana
+        cid: 3
+      - text: vahyettiğimiz
+        cid: 1
+      - text: kitap da
+        cid: 5
+      - text: kendinden
+        cid: 9
+      - text: öncekileri tasdik edici olmak üzere bir haktır.
+        cid: 11
+      - text: Şüphe yok ki,
+        cid: 12
+      - text: Allah,
+        cid: 13
+      - text: kullarının bütün hallerinden
+        cid: 14
+      - text: haberdardır
+        cid: 15
+      - text: ve her
         cid: 0
+      - text: şeyi görendir.
+        cid: 16
   - verse: 32
     segments:
-      - text: >-
-          Sonra biz o kitabı kullarımızdan süzüp seçtiklerimize miras bıraktık. Onlardan
-          da nefislerine zulmeden var, orta yolu tutan var, Allah'ın izniyle hayırlarda
-          ileri geçenler var. İşte bu büyük lütuftur.
-        cid: 0
+      - text: Sonra biz
+        cid: 1
+      - text: o
+        cid: 19
+      - text: kitabı
+        cid: 3
+      - text: kullarımızdan süzüp
+        cid: 7
+      - text: seçtiklerimize
+        cid: 4
+      - text: miras bıraktık.
+        cid: 2
+      - text: Onlardan da
+        cid: 8
+      - text: nefislerine
+        cid: 10
+      - text: zulmeden var,
+        cid: 9
+      - text: orta yolu tutan var,
+        cid: 12
+      - text: Allah'ın
+        cid: 17
+      - text: izniyle
+        cid: 16
+      - text: hayırlarda ileri
+        cid: 15
+      - text: geçenler var.
+        cid: 14
+      - text: İşte
+        cid: 18
+      - text: bu büyük
+        cid: 21
+      - text: lütuftur.
+        cid: 20
   - verse: 33
     segments:
-      - text: >-
-          Onlara Adn cennetleri vardır. Onlar oraya gireceklerdir. Orada altın bilezikler
-          ve incilerle süsleneceklerdir. Orada elbiseleri de ipektir.
-        cid: 0
+      - text: Onlara
+        cid: 1
+      - text: Adn
+        cid: 2
+      - text: cennetleri vardır. Onlar
+        cid: 1
+      - text: oraya gireceklerdir.
+        cid: 3
+      - text: Orada
+        cid: 5
+      - text: altın
+        cid: 8
+      - text: bilezikler
+        cid: 6
+      - text: ve incilerle
+        cid: 10
+      - text: süsleneceklerdir.
+        cid: 7
+      - text: Orada elbiseleri de
+        cid: 5
+      - text: ipektir.
+        cid: 13
   - verse: 34
     segments:
-      - text: >-
-          Onlar orada şöyle derler: "Hamd olsun Allah'a, bizden o üzüntüyü giderdi.
-          Gerçekten Rabbimiz çok bağışlayıcı ve şükrün karşılığını vericidir."
+      - text: Onlar orada şöyle
         cid: 0
+      - text: >-
+          derler: "Hamd olsun
+        cid: 2
+      - text: Allah'a,
+        cid: 3
+      - text: bizden o üzüntüyü
+        cid: 6
+      - text: giderdi.
+        cid: 4
+      - text: Gerçekten Rabbimiz
+        cid: 9
+      - text: çok
+        cid: 11
+      - text: bağışlayıcı
+        cid: 10
+      - text: ve
+        cid: 0
+      - text: >-
+          şükrün karşılığını vericidir."
+        cid: 11
   - verse: 35
     segments:
       - text: >-
-          "Lütfundan bizi durulacak bir yurda kondurdu. Burada bize yorgunluk gelmeyecek,
-          burada bize usanç gelmeyecektir."
-        cid: 0
+          "Lütfundan
+        cid: 6
+      - text: bizi
+        cid: 2
+      - text: durulacak
+        cid: 4
+      - text: bir yurda
+        cid: 3
+      - text: kondurdu.
+        cid: 2
+      - text: Burada bize
+        cid: 8
+      - text: yorgunluk gelmeyecek, burada
+        cid: 10
+      - text: bize
+        cid: 12
+      - text: >-
+          usanç gelmeyecektir."
+        cid: 14
   - verse: 36
     segments:
-      - text: >-
-          İnkâr edenlere gelince, onlara cehennem ateşi vardır. Hüküm verilmez ki
-          ölsünler, kendilerinden biraz azab da hafifletilmez. İşte biz her nankörü böyle
-          cezalandırırız.
-        cid: 0
+      - text: İnkâr edenlere gelince,
+        cid: 2
+      - text: onlara
+        cid: 3
+      - text: cehennem
+        cid: 5
+      - text: ateşi
+        cid: 4
+      - text: vardır.
+        cid: 3
+      - text: Hüküm verilmez ki
+        cid: 7
+      - text: ölsünler,
+        cid: 9
+      - text: kendilerinden biraz
+        cid: 12
+      - text: azab da
+        cid: 13
+      - text: hafifletilmez.
+        cid: 11
+      - text: İşte
+        cid: 15
+      - text: biz
+        cid: 16
+      - text: her
+        cid: 17
+      - text: nankörü
+        cid: 18
+      - text: böyle
+        cid: 15
+      - text: cezalandırırız.
+        cid: 16
   - verse: 37
     segments:
+      - text: Onlar,
+        cid: 1
+      - text: orada
+        cid: 3
+      - text: şöyle
+        cid: 21
       - text: >-
-          Onlar, orada şöyle feryad ederler: "Ey Rabbimiz! Bizleri çıkar,
-          yapageldiklerimizden başka salih bir amel yapalım." (Onlara): "Size düşünecek
-          olanın düşüneceği kadar bir ömür vermedik mi? Hem size uyarıcı da gelmişti. O
-          halde azabı tadın. Çünkü zalimleri kurtaracak yoktur." (denir).
+          feryad ederler:
+        cid: 2
+      - text: >-
+          "Ey Rabbimiz!
+        cid: 4
+      - text: Bizleri çıkar,
+        cid: 5
+      - text: yapageldiklerimizden
+        cid: 19
+      - text: başka
+        cid: 8
+      - text: >-
+          salih bir amel yapalım."
+        cid: 6
+      - text: >-
+          (Onlara):
+        cid: 0
+      - text: >-
+          "Size düşünecek
+        cid: 19
+      - text: olanın düşüneceği kadar bir ömür vermedik mi?
+        cid: 8
+      - text: Hem size
+        cid: 19
+      - text: uyarıcı da
+        cid: 20
+      - text: gelmişti.
+        cid: 19
+      - text: O
+        cid: 0
+      - text: halde azabı tadın.
+        cid: 21
+      - text: Çünkü
+        cid: 6
+      - text: zalimleri kurtaracak
+        cid: 23
+      - text: >-
+          yoktur."
+        cid: 22
+      - text: (denir).
         cid: 0
   - verse: 38
     segments:
-      - text: >-
-          Şüphe yok ki Allah, göklerin ve yerin gaybını bilir. Elbette o, sinelerin
-          içinde olanları da bilir.
-        cid: 0
+      - text: Şüphe yok ki
+        cid: 1
+      - text: Allah,
+        cid: 2
+      - text: göklerin
+        cid: 5
+      - text: ve yerin
+        cid: 6
+      - text: gaybını
+        cid: 4
+      - text: bilir.
+        cid: 8
+      - text: Elbette o, sinelerin içinde olanları da
+        cid: 7
+      - text: bilir.
+        cid: 8
   - verse: 39
     segments:
-      - text: >-
-          Sizi yeryüzünde halifeler yapan O'dur. Artık kim küfrederse, küfrü kendi
-          aleyhinedir. Kâfirlerin küfürleri, Rablerinin katında kendilerine buğzdan başka
-          bir şey artırmaz, kâfirlerin küfürleri kendilerine zarardan başka bir şey
-          artırmaz.
-        cid: 0
+      - text: Sizi
+        cid: 3
+      - text: yeryüzünde
+        cid: 6
+      - text: halifeler
+        cid: 4
+      - text: yapan
+        cid: 2
+      - text: O'dur.
+        cid: 1
+      - text: Artık kim
+        cid: 7
+      - text: küfrederse,
+        cid: 8
+      - text: küfrü
+        cid: 14
+      - text: kendi
+        cid: 9
+      - text: aleyhinedir.
+        cid: 10
+      - text: Kâfirlerin
+        cid: 13
+      - text: küfürleri,
+        cid: 14
+      - text: Rablerinin
+        cid: 16
+      - text: katında
+        cid: 15
+      - text: kendilerine buğzdan
+        cid: 9
+      - text: başka bir şey
+        cid: 17
+      - text: artırmaz,
+        cid: 20
+      - text: kâfirlerin
+        cid: 21
+      - text: küfürleri
+        cid: 22
+      - text: kendilerine zarardan
+        cid: 9
+      - text: başka bir şey
+        cid: 23
+      - text: artırmaz.
+        cid: 12
   - verse: 40
     segments:
       - text: >-
-          De ki: "Gördünüz ya, Allah'ı bırakıp da tapmakta olduğunuz ortaklarınızı!
-          Gösterin bana, yer yüzünden neyi yaratmışlardır?" Yoksa onların gök yüzünde bir
-          ortaklığı mı var? Yoksa biz kendilerine bir kitap vermişiz de ondan bir delil
-          üzerinde mi bulunuyorlar? Hayır o zalimler, birbirlerine aldatmadan başka bir
-          vaadde bulunmuyorlar.
-        cid: 0
+          De ki:
+        cid: 1
+      - text: >-
+          "Gördünüz ya,
+        cid: 2
+      - text: Allah'ı
+        cid: 8
+      - text: bırakıp da tapmakta olduğunuz
+        cid: 31
+      - text: ortaklarınızı!
+        cid: 16
+      - text: Gösterin bana,
+        cid: 9
+      - text: yer yüzünden neyi
+        cid: 12
+      - text: >-
+          yaratmışlardır?"
+        cid: 11
+      - text: Yoksa
+        cid: 14
+      - text: onların gök yüzünde
+        cid: 17
+      - text: bir ortaklığı mı
+        cid: 16
+      - text: var?
+        cid: 15
+      - text: Yoksa
+        cid: 19
+      - text: biz
+        cid: 20
+      - text: kendilerine
+        cid: 25
+      - text: bir kitap
+        cid: 21
+      - text: vermişiz de
+        cid: 20
+      - text: ondan
+        cid: 25
+      - text: bir delil
+        cid: 24
+      - text: üzerinde mi bulunuyorlar?
+        cid: 23
+      - text: Hayır
+        cid: 26
+      - text: o zalimler,
+        cid: 29
+      - text: birbirlerine
+        cid: 30
+      - text: aldatmadan
+        cid: 33
+      - text: başka
+        cid: 6
+      - text: bir vaadde bulunmuyorlar.
+        cid: 27
   - verse: 41
     segments:
-      - text: >-
-          Doğrusu gökleri ve yeri yok oluvermekten, Allah tutuyor. Andolsun ki eğer yok
-          oluverirlerse, onları O'ndan başka kimse tutamaz. Gerçekten O, çok yumuşak
-          davranır, çok bağışlayıcıdır.
-        cid: 0
+      - text: Doğrusu gökleri
+        cid: 4
+      - text: ve yeri yok oluvermekten,
+        cid: 5
+      - text: Allah
+        cid: 2
+      - text: tutuyor.
+        cid: 3
+      - text: Andolsun ki eğer yok oluverirlerse,
+        cid: 8
+      - text: onları
+        cid: 10
+      - text: O'ndan başka
+        cid: 15
+      - text: kimse
+        cid: 13
+      - text: tutamaz.
+        cid: 10
+      - text: Gerçekten O,
+        cid: 16
+      - text: çok yumuşak davranır, çok bağışlayıcıdır.
+        cid: 19
   - verse: 42
     segments:
-      - text: >-
-          Olanca güçleriyle Allah'a yemin etmişlerdi ki, kendilerine uyarıcı bir
-          peygamber gelirse, mutlaka ilerideki ümmetlerin herhagi birinden daha doğru
-          yolda olacaklardı. Fakat kendilerine uyarıcı bir peygamber geldiği zaman bu,
-          onların sırf ürküntüleriniartırdı.
-        cid: 0
+      - text: Olanca güçleriyle
+        cid: 8
+      - text: Allah'a
+        cid: 2
+      - text: yemin etmişlerdi ki,
+        cid: 1
+      - text: kendilerine
+        cid: 6
+      - text: uyarıcı bir peygamber
+        cid: 7
+      - text: gelirse,
+        cid: 6
+      - text: mutlaka ilerideki ümmetlerin
+        cid: 1
+      - text: herhagi
+        cid: 10
+      - text: birinden
+        cid: 11
+      - text: daha doğru yolda
+        cid: 9
+      - text: olacaklardı.
+        cid: 8
+      - text: Fakat
+        cid: 13
+      - text: kendilerine
+        cid: 6
+      - text: uyarıcı bir peygamber
+        cid: 7
+      - text: geldiği
+        cid: 6
+      - text: zaman bu, onların sırf ürküntüleriniartırdı.
+        cid: 19
   - verse: 43
     segments:
-      - text: >-
-          (Bu da) yeryüzünde bir kibirlenme ve bir suikast düzenidir. Halbuki fena düzen
-          ancak sahibinin başına geçer. O halde öncekilerin kanunundan başka ne
-          gözetiyorlar? Sen Allah'ın sünnetinde asla bir değişme bulamazsın. Sen Allah'ın
-          sünnetinde asla bir başkalaşma da bulamazsın.
+      - text: (Bu da)
         cid: 0
+      - text: yeryüzünde
+        cid: 3
+      - text: bir kibirlenme
+        cid: 1
+      - text: ve bir suikast düzenidir.
+        cid: 6
+      - text: Halbuki fena düzen
+        cid: 17
+      - text: ancak sahibinin
+        cid: 11
+      - text: başına geçer.
+        cid: 10
+      - text: O halde
+        cid: 17
+      - text: öncekilerin
+        cid: 16
+      - text: kanunundan
+        cid: 15
+      - text: başka ne gözetiyorlar?
+        cid: 10
+      - text: Sen Allah'ın
+        cid: 25
+      - text: sünnetinde
+        cid: 26
+      - text: asla
+        cid: 1
+      - text: bir değişme
+        cid: 21
+      - text: bulamazsın.
+        cid: 23
+      - text: Sen Allah'ın
+        cid: 25
+      - text: sünnetinde
+        cid: 26
+      - text: asla
+        cid: 1
+      - text: bir başkalaşma da
+        cid: 10
+      - text: bulamazsın.
+        cid: 18
   - verse: 44
     segments:
-      - text: >-
-          Yeryüzünde gezip bir bakmadılar mı, kendilerinden öncekilerin sonu nasıl olmuş?
-          Halbuki onlar, bunlardan daha kuvvetliydiler. Ne göklerde ve ne de yerde hiçbir
-          şey Allah'ı aciz bırakamaz. Çünkü o her şeyi bilendir, her şeye kâdir olandır.
-        cid: 0
+      - text: Yeryüzünde
+        cid: 4
+      - text: gezip bir bakmadılar mı,
+        cid: 1
+      - text: kendilerinden
+        cid: 10
+      - text: öncekilerin
+        cid: 11
+      - text: sonu
+        cid: 8
+      - text: nasıl
+        cid: 6
+      - text: olmuş?
+        cid: 5
+      - text: Halbuki onlar,
+        cid: 12
+      - text: bunlardan
+        cid: 14
+      - text: daha
+        cid: 13
+      - text: kuvvetliydiler.
+        cid: 15
+      - text: Ne göklerde
+        cid: 23
+      - text: ve ne de
+        cid: 24
+      - text: yerde
+        cid: 26
+      - text: hiçbir
+        cid: 20
+      - text: şey
+        cid: 21
+      - text: Allah'ı aciz bırakamaz.
+        cid: 17
+      - text: Çünkü o
+        cid: 27
+      - text: her
+        cid: 29
+      - text: şeyi
+        cid: 21
+      - text: bilendir,
+        cid: 28
+      - text: her şeye
+        cid: 21
+      - text: kâdir
+        cid: 30
+      - text: olandır.
+        cid: 26
   - verse: 45
     segments:
-      - text: >-
-          Bununla beraber Allah, insanları kazandıkları (günahlar) yüzünden hemen
-          yakalayıverseydi, yeryüzünde hiçbir canlı bırakmazdı. Fakat onları belli bir
-          süreye kadar erteliyor. Nihayet ecelleri gelince gereğini yapar. Şüphe yok ki
-          Allah, kullarını görmektedir.
+      - text: Bununla
         cid: 0
+      - text: beraber Allah,
+        cid: 3
+      - text: insanları
+        cid: 4
+      - text: kazandıkları
+        cid: 6
+      - text: (günahlar)
+        cid: 0
+      - text: yüzünden hemen yakalayıverseydi,
+        cid: 5
+      - text: yeryüzünde
+        cid: 9
+      - text: hiçbir
+        cid: 11
+      - text: canlı
+        cid: 12
+      - text: bırakmazdı.
+        cid: 7
+      - text: Fakat
+        cid: 13
+      - text: onları
+        cid: 14
+      - text: belli
+        cid: 17
+      - text: bir süreye kadar
+        cid: 16
+      - text: erteliyor.
+        cid: 14
+      - text: Nihayet ecelleri
+        cid: 20
+      - text: gelince gereğini
+        cid: 19
+      - text: yapar.
+        cid: 6
+      - text: Şüphe
+        cid: 24
+      - text: yok ki
+        cid: 7
+      - text: Allah,
+        cid: 22
+      - text: kullarını
+        cid: 23
+      - text: görmektedir.
+        cid: 25

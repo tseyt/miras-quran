@@ -5,163 +5,555 @@ verses:
   - verse: 1
     segments:
       - text: >-
-          Deki: Hakikat bir takım cinnin Kur'ân dinleyip de şöyle dedikleri bana
-          vahyedildi. Şüphesiz biz, hayret verici bir Kur'ân dinledik.
+          Deki: Hakikat bir
         cid: 0
+      - text: takım cinnin
+        cid: 8
+      - text: Kur'ân
+        cid: 12
+      - text: dinleyip de şöyle
+        cid: 11
+      - text: dedikleri
+        cid: 9
+      - text: bana
+        cid: 3
+      - text: vahyedildi.
+        cid: 2
+      - text: Şüphesiz biz, hayret verici
+        cid: 10
+      - text: bir Kur'ân
+        cid: 12
+      - text: dinledik.
+        cid: 11
   - verse: 2
     segments:
-      - text: >-
-          O Kur'ân hidayete erdiriyor, biz de ona iman ettik. Rabbimize hiçbir şeyi ortak
-          koşmayacağız.
+      - text: O Kur'ân hidayete
         cid: 0
+      - text: erdiriyor, biz de
+        cid: 4
+      - text: ona
+        cid: 5
+      - text: iman ettik.
+        cid: 3
+      - text: Rabbimize
+        cid: 8
+      - text: hiçbir
+        cid: 9
+      - text: şeyi ortak koşmayacağız.
+        cid: 7
   - verse: 3
     segments:
-      - text: >-
-          Doğrusu, Rabbimizin şanı çok yüksektir. Ne bir arkadaş edinmiştir, ne de bir
-          çocuk.
-        cid: 0
+      - text: Doğrusu,
+        cid: 1
+      - text: Rabbimizin
+        cid: 4
+      - text: şanı
+        cid: 3
+      - text: çok yüksektir.
+        cid: 2
+      - text: Ne bir arkadaş
+        cid: 8
+      - text: edinmiştir,
+        cid: 5
+      - text: ne de
+        cid: 8
+      - text: bir çocuk.
+        cid: 9
   - verse: 4
     segments:
-      - text: >-
-          Meğer bizim beyinsiz (İblis), Allah hakkında saçma şeyler söylüyormuş.
+      - text: Meğer bizim beyinsiz
+        cid: 4
+      - text: (İblis),
         cid: 0
+      - text: Allah
+        cid: 6
+      - text: hakkında
+        cid: 5
+      - text: saçma şeyler
+        cid: 7
+      - text: söylüyormuş.
+        cid: 3
   - verse: 5
     segments:
-      - text: >-
-          Doğrusu biz insanları ve cinleri Allah'a karşı asla yalan söylemez sanmışız.
-        cid: 0
+      - text: Doğrusu biz
+        cid: 1
+      - text: insanları
+        cid: 6
+      - text: ve cinleri
+        cid: 7
+      - text: Allah'a
+        cid: 9
+      - text: karşı
+        cid: 8
+      - text: asla
+        cid: 3
+      - text: yalan
+        cid: 10
+      - text: söylemez
+        cid: 5
+      - text: sanmışız.
+        cid: 2
   - verse: 6
     segments:
-      - text: >-
-          Doğrusu insanlardan bazı erkekler, cinlerden bazı erkeklere sığınırlardı da
-          onların şımarıklıklarını artırırlardı.
-        cid: 0
+      - text: Doğrusu
+        cid: 1
+      - text: insanlardan
+        cid: 4
+      - text: bazı erkekler,
+        cid: 3
+      - text: cinlerden
+        cid: 9
+      - text: bazı erkeklere
+        cid: 7
+      - text: sığınırlardı da
+        cid: 6
+      - text: onların şımarıklıklarını
+        cid: 11
+      - text: artırırlardı.
+        cid: 10
   - verse: 7
     segments:
-      - text: >-
-          Doğrusu onlar sizin zannettiğiniz gibi, zannetmişlerdi ki, Allah asla kimseyi
-          Peygamber göndermeyecek.
-        cid: 0
+      - text: Doğrusu onlar sizin zannettiğiniz gibi, zannetmişlerdi ki,
+        cid: 1
+      - text: Allah
+        cid: 8
+      - text: asla
+        cid: 5
+      - text: kimseyi
+        cid: 9
+      - text: Peygamber göndermeyecek.
+        cid: 7
   - verse: 8
     segments:
       - text: >-
-          (Cinler, dediler ki): "Biz göğe dokunduk, onu kuvvetli bekçiler ve alevlerle
-          dolu bulduk."
+          (Cinler, dediler ki):
         cid: 0
+      - text: >-
+          "Biz
+        cid: 1
+      - text: göğe
+        cid: 3
+      - text: dokunduk,
+        cid: 2
+      - text: onu
+        cid: 4
+      - text: kuvvetli
+        cid: 7
+      - text: bekçiler
+        cid: 6
+      - text: ve
+        cid: 0
+      - text: alevlerle dolu
+        cid: 5
+      - text: >-
+          bulduk."
+        cid: 4
   - verse: 9
     segments:
       - text: >-
-          "Doğrusu biz göğün bazı mevkilerinde dinlemek için otururduk. Fakat şimdi her
-          kim dinleyecek olursa kendini gözetleyen parlak bir alev buluyor."
-        cid: 0
+          "Doğrusu biz göğün bazı mevkilerinde
+        cid: 1
+      - text: dinlemek için
+        cid: 8
+      - text: otururduk.
+        cid: 3
+      - text: Fakat şimdi
+        cid: 9
+      - text: her kim
+        cid: 7
+      - text: dinleyecek olursa
+        cid: 6
+      - text: kendini
+        cid: 11
+      - text: gözetleyen parlak bir alev
+        cid: 13
+      - text: >-
+          buluyor."
+        cid: 10
   - verse: 10
     segments:
       - text: >-
-          "Doğrusu biz bilmiyoruz, yeryüzündekilere kötülük mü murat edildi, yoksa
-          Rableri onlara bir hayır mı diledi?"
-        cid: 0
+          "Doğrusu
+        cid: 13
+      - text: biz
+        cid: 1
+      - text: bilmiyoruz,
+        cid: 2
+      - text: yeryüzündekilere
+        cid: 8
+      - text: kötülük mü murat edildi,
+        cid: 4
+      - text: yoksa
+        cid: 9
+      - text: Rableri
+        cid: 12
+      - text: onlara bir hayır mı
+        cid: 11
+      - text: >-
+          diledi?"
+        cid: 10
   - verse: 11
     segments:
-      - text: >-
-          Doğrusu bizler; bizden iyi olanlar da var, olmayanlar da var. Biz çeşitli
-          yollara ayrılmışız.
-        cid: 0
+      - text: Doğrusu bizler;
+        cid: 4
+      - text: bizden
+        cid: 2
+      - text: iyi
+        cid: 3
+      - text: olanlar da var, olmayanlar da var.
+        cid: 4
+      - text: Biz
+        cid: 7
+      - text: çeşitli
+        cid: 9
+      - text: yollara ayrılmışız.
+        cid: 8
   - verse: 12
     segments:
       - text: >-
-          "Doğrusu biz anladık ki, Allah'ı yerde acze düşürmemize imkân yok. Kaçmakla da
-          O'nu asla âciz bırakamayacağız."
-        cid: 0
+          "Doğrusu biz
+        cid: 1
+      - text: anladık ki,
+        cid: 2
+      - text: Allah'ı
+        cid: 6
+      - text: yerde acze düşürmemize imkân
+        cid: 8
+      - text: yok.
+        cid: 9
+      - text: Kaçmakla da
+        cid: 11
+      - text: O'nu
+        cid: 10
+      - text: asla
+        cid: 9
+      - text: >-
+          âciz bırakamayacağız."
+        cid: 10
   - verse: 13
     segments:
       - text: >-
-          "Doğrusu biz o hidayet rehberini dinlediğimizde ona iman ettik. Kim Rabbine
-          inanırsa, ne hakkının eksik verilmesinden korkar, ne de kendisine kötülük
-          edilmesinden."
-        cid: 0
+          "Doğrusu biz o hidayet rehberini dinlediğimizde
+        cid: 1
+      - text: ona
+        cid: 6
+      - text: iman ettik.
+        cid: 5
+      - text: Kim
+        cid: 7
+      - text: Rabbine
+        cid: 9
+      - text: inanırsa,
+        cid: 8
+      - text: ne hakkının
+        cid: 2
+      - text: eksik verilmesinden
+        cid: 12
+      - text: korkar,
+        cid: 11
+      - text: ne de kendisine
+        cid: 2
+      - text: >-
+          kötülük edilmesinden."
+        cid: 14
   - verse: 14
     segments:
       - text: >-
-          "Ve biz, bizlerden müslümanlar da var, hak yoldan sapanlar da var. Müslüman
-          olanlar, işte onlar doğru yolu arayanlardır."
-        cid: 0
+          "Ve biz,
+        cid: 1
+      - text: bizlerden
+        cid: 4
+      - text: müslümanlar da
+        cid: 3
+      - text: var, hak
+        cid: 4
+      - text: yoldan sapanlar da
+        cid: 5
+      - text: var.
+        cid: 4
+      - text: Müslüman
+        cid: 7
+      - text: olanlar,
+        cid: 4
+      - text: işte onlar
+        cid: 8
+      - text: doğru yolu
+        cid: 10
+      - text: >-
+          arayanlardır."
+        cid: 9
   - verse: 15
     segments:
-      - text: >-
-          Ama yoldan çıkanlar, işte onlar cehenneme odun olmuşlardır.
-        cid: 0
+      - text: Ama yoldan çıkanlar, işte
+        cid: 2
+      - text: onlar
+        cid: 3
+      - text: cehenneme
+        cid: 4
+      - text: odun
+        cid: 5
+      - text: olmuşlardır.
+        cid: 3
   - verse: 16
     segments:
-      - text: >-
-          Onlar gerçekten o yol üzere dosdoğru gitselerdi, elbette kendilerine bol bir su
-          verirdik.
-        cid: 0
+      - text: Onlar gerçekten
+        cid: 5
+      - text: o yol üzere
+        cid: 3
+      - text: dosdoğru gitselerdi, elbette kendilerine
+        cid: 2
+      - text: bol
+        cid: 7
+      - text: bir su verirdik.
+        cid: 6
   - verse: 17
     segments:
-      - text: >-
-          Ki onları onunla sınayalım. Kim Rabbini anmaktan yüz çevirirse, Rabbi onu
-          gittikçe yükselen bir azaba sokar.
-        cid: 0
+      - text: Ki onları
+        cid: 1
+      - text: onunla
+        cid: 2
+      - text: sınayalım.
+        cid: 1
+      - text: Kim
+        cid: 3
+      - text: Rabbini
+        cid: 7
+      - text: anmaktan
+        cid: 6
+      - text: yüz çevirirse,
+        cid: 4
+      - text: Rabbi
+        cid: 7
+      - text: onu gittikçe yükselen
+        cid: 8
+      - text: bir azaba
+        cid: 9
+      - text: sokar.
+        cid: 8
   - verse: 18
     segments:
-      - text: >-
-          Mescitler kuşkusuz Allah'ındır. O halde Allah ile birlikte kimseye yalvarmayın.
+      - text: Mescitler kuşkusuz
+        cid: 2
+      - text: Allah'ındır.
+        cid: 7
+      - text: O
         cid: 0
+      - text: halde Allah ile birlikte
+        cid: 7
+      - text: kimseye
+        cid: 8
+      - text: yalvarmayın.
+        cid: 5
   - verse: 19
     segments:
-      - text: >-
-          Allah'ın kulu (Hz. Peygamber) kalkmış O'na dua ederken, neredeyse (cinler) onun
-          etrafında keçe gibi birbirlerine geçeceklerdi.
+      - text: Allah'ın
+        cid: 5
+      - text: kulu
+        cid: 4
+      - text: (Hz. Peygamber)
         cid: 0
+      - text: kalkmış
+        cid: 3
+      - text: O'na dua ederken,
+        cid: 6
+      - text: neredeyse
+        cid: 7
+      - text: (cinler)
+        cid: 0
+      - text: onun etrafında
+        cid: 7
+      - text: keçe gibi birbirlerine geçeceklerdi.
+        cid: 10
   - verse: 20
     segments:
       - text: >-
-          De ki: "Ben ancak Rabbime dua eder ve O'na hiçbir şeyi ortak koşmam"
+          De ki:
+        cid: 1
+      - text: >-
+          "Ben
+        cid: 3
+      - text: ancak
+        cid: 2
+      - text: Rabbime dua eder
+        cid: 4
+      - text: ve
         cid: 0
+      - text: O'na
+        cid: 7
+      - text: hiçbir şeyi
+        cid: 8
+      - text: >-
+          ortak koşmam"
+        cid: 6
   - verse: 21
     segments:
+      - text: De ki, "Haberiniz olsun,
+        cid: 1
+      - text: ben
+        cid: 2
+      - text: size
+        cid: 5
+      - text: kendiliğimden
+        cid: 6
+      - text: ne
+        cid: 7
+      - text: bir zarar verebilirim,
+        cid: 6
       - text: >-
-          De ki, "Haberiniz olsun, ben size kendiliğimden ne bir zarar verebilirim, ne de
-          bir yol gösterebilirim."
-        cid: 0
+          ne de bir yol gösterebilirim."
+        cid: 7
   - verse: 22
     segments:
+      - text: De ki,
+        cid: 1
       - text: >-
-          De ki, "Allah'tan beni kimse kurtaramaz ve ben O'ndan başka bir sığınacak
-          bulamam."
+          "Allah'tan
+        cid: 5
+      - text: beni
+        cid: 2
+      - text: kimse
+        cid: 7
+      - text: kurtaramaz
+        cid: 3
+      - text: ve
         cid: 0
+      - text: ben
+        cid: 2
+      - text: O'ndan
+        cid: 10
+      - text: başka
+        cid: 11
+      - text: bir sığınacak
+        cid: 12
+      - text: >-
+          bulamam."
+        cid: 9
   - verse: 23
     segments:
       - text: >-
-          "Benim yapabileceğim, sadece Allah'tan size duyuru yapmak ve O'nun elçilik
-          görevlerini yerine getirmektir." Artık kim Allah'a ve onun elçisine baş
-          kaldırırsa, ona içinde ebedi kalacakları cehennem ateşi vardır.
-        cid: 0
+          "Benim yapabileceğim, sadece
+        cid: 1
+      - text: Allah'tan size
+        cid: 3
+      - text: duyuru
+        cid: 2
+      - text: yapmak
+        cid: 1
+      - text: >-
+          ve O'nun elçilik görevlerini yerine getirmektir."
+        cid: 5
+      - text: Artık kim
+        cid: 6
+      - text: Allah'a
+        cid: 8
+      - text: ve onun elçisine
+        cid: 9
+      - text: baş kaldırırsa,
+        cid: 7
+      - text: ona
+        cid: 11
+      - text: içinde
+        cid: 15
+      - text: ebedi
+        cid: 16
+      - text: kalacakları
+        cid: 14
+      - text: cehennem
+        cid: 13
+      - text: ateşi
+        cid: 12
+      - text: vardır.
+        cid: 11
   - verse: 24
     segments:
-      - text: >-
-          Kendilerine vaad edilen şeyi gördükleri zaman, kimin yardımcısının en zayıf ve
-          en az olduğunu bileceklerdir.
+      - text: Kendilerine vaad edilen
+        cid: 5
+      - text: şeyi
+        cid: 4
+      - text: gördükleri
+        cid: 3
+      - text: zaman,
+        cid: 2
+      - text: kimin
+        cid: 7
+      - text: yardımcısının
+        cid: 9
+      - text: en zayıf
+        cid: 8
+      - text: ve en az
         cid: 0
+      - text: olduğunu bileceklerdir.
+        cid: 6
   - verse: 25
     segments:
       - text: >-
-          De ki: "Ben bilmem, o size vaad edilen şey yakın mı, yoksa Rabbim onun için
-          uzun bir süre mi koyar.."
-        cid: 0
+          De ki:
+        cid: 1
+      - text: >-
+          "Ben bilmem,
+        cid: 3
+      - text: o size vaad edilen
+        cid: 6
+      - text: şey
+        cid: 5
+      - text: yakın mı,
+        cid: 4
+      - text: yoksa
+        cid: 7
+      - text: Rabbim onun için
+        cid: 10
+      - text: uzun bir süre mi
+        cid: 11
+      - text: >-
+          koyar.."
+        cid: 8
   - verse: 26
     segments:
-      - text: >-
-          O bütün gaybı bilir. Fakat gaybını hiç kimseye açmaz.
-        cid: 0
+      - text: O bütün gaybı
+        cid: 2
+      - text: bilir.
+        cid: 1
+      - text: Fakat gaybını hiç
+        cid: 2
+      - text: kimseye açmaz.
+        cid: 7
   - verse: 27
     segments:
-      - text: >-
-          Ancak seçtiği elçiye açar. Çünkü onun önünden ve ardından gözetleyiciler salar.
+      - text: Ancak seçtiği
+        cid: 1
+      - text: elçiye açar.
+        cid: 4
+      - text: Çünkü
+        cid: 6
+      - text: onun önünden
+        cid: 9
+      - text: ve
         cid: 0
+      - text: ardından gözetleyiciler salar.
+        cid: 13
   - verse: 28
     segments:
-      - text: >-
-          Bilsin diye ki, onlar Rablerinin elçiliklerini yerine getirmişlerdir. Allah
-          onlarda bulunan her şeyi kuşatmış ve her şeyi bir bir saymıştır
+      - text: Bilsin diye ki,
+        cid: 1
+      - text: onlar
+        cid: 9
+      - text: Rablerinin elçiliklerini yerine getirmişlerdir.
+        cid: 6
+      - text: Allah
+        cid: 12
+      - text: onlarda bulunan
+        cid: 9
+      - text: her
+        cid: 11
+      - text: şeyi
+        cid: 12
+      - text: kuşatmış
+        cid: 7
+      - text: ve
         cid: 0
+      - text: her
+        cid: 11
+      - text: şeyi
+        cid: 12
+      - text: bir bir saymıştır
+        cid: 10

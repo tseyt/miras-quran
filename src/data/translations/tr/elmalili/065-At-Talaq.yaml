@@ -4,88 +4,529 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Ey Peygamber! Kadınları boşamak istediğiniz zaman onları iddetleri içinde
-          boşayın ve iddeti de sayın. Rabbiniz Allah'tan korkun. Apaçık bir hayasızlık
-          yapmaları hali bir yana, onları evlerinden çıkarmayın, kendileri de çıkmasınlar.
-          Bunlar Allah'ın sınırlarıdır. Kim Allah'ın sınırlarını aşarsa, şüphesiz kendine
-          zulmetmiş olur. Bilmezsin, olur ki Allah, bundan sonra bir durum ortaya
-          çıkarıverir.
-        cid: 0
+      - text: Ey
+        cid: 1
+      - text: Peygamber!
+        cid: 2
+      - text: Kadınları
+        cid: 5
+      - text: boşamak istediğiniz
+        cid: 4
+      - text: zaman
+        cid: 3
+      - text: onları
+        cid: 6
+      - text: iddetleri içinde
+        cid: 7
+      - text: boşayın
+        cid: 6
+      - text: ve
+        cid: 17
+      - text: iddeti de
+        cid: 9
+      - text: sayın.
+        cid: 8
+      - text: Rabbiniz
+        cid: 12
+      - text: Allah'tan
+        cid: 11
+      - text: korkun.
+        cid: 10
+      - text: Apaçık bir hayasızlık yapmaları hali bir yana,
+        cid: 23
+      - text: onları
+        cid: 13
+      - text: evlerinden
+        cid: 16
+      - text: çıkarmayın,
+        cid: 14
+      - text: kendileri de
+        cid: 33
+      - text: çıkmasınlar.
+        cid: 18
+      - text: Bunlar
+        cid: 24
+      - text: Allah'ın
+        cid: 26
+      - text: sınırlarıdır.
+        cid: 25
+      - text: Kim
+        cid: 27
+      - text: Allah'ın
+        cid: 30
+      - text: sınırlarını aşarsa,
+        cid: 29
+      - text: şüphesiz
+        cid: 35
+      - text: kendine zulmetmiş olur.
+        cid: 33
+      - text: Bilmezsin, olur ki
+        cid: 35
+      - text: Allah,
+        cid: 37
+      - text: bundan
+        cid: 40
+      - text: sonra bir durum
+        cid: 39
+      - text: ortaya çıkarıverir.
+        cid: 38
   - verse: 2
     segments:
-      - text: >-
-          Sürelerinin sonuna vardıklarında onları güzelce tutun, yahut güzellikle
-          onlardan ayrılın. İçinizden adalet sahibi iki kişiyi şahit tutun. Şahidliği
-          Allah için yapın. İşte Allah'a ve son güne inanan kimseye öğütlenen budur. Kim
-          Allah'tan korkarsa Allah ona bir çıkış yolu yaratır.
+      - text: Sürelerinin sonuna
+        cid: 3
+      - text: vardıklarında
+        cid: 2
+      - text: onları
+        cid: 4
+      - text: güzelce
+        cid: 5
+      - text: tutun,
+        cid: 4
+      - text: yahut
+        cid: 6
+      - text: güzellikle
+        cid: 8
+      - text: onlardan ayrılın.
+        cid: 7
+      - text: İçinizden
+        cid: 12
+      - text: adalet
+        cid: 11
+      - text: sahibi iki kişiyi
+        cid: 10
+      - text: şahit tutun.
+        cid: 9
+      - text: Şahidliği
+        cid: 14
+      - text: Allah için
+        cid: 15
+      - text: yapın.
+        cid: 13
+      - text: İşte
+        cid: 16
+      - text: Allah'a
+        cid: 22
+      - text: ve
         cid: 0
+      - text: son
+        cid: 3
+      - text: güne
+        cid: 23
+      - text: inanan
+        cid: 20
+      - text: kimseye
+        cid: 19
+      - text: öğütlenen
+        cid: 17
+      - text: budur.
+        cid: 16
+      - text: Kim
+        cid: 25
+      - text: Allah'tan
+        cid: 27
+      - text: korkarsa
+        cid: 26
+      - text: Allah
+        cid: 15
+      - text: ona
+        cid: 29
+      - text: bir çıkış yolu
+        cid: 30
+      - text: yaratır.
+        cid: 28
   - verse: 3
     segments:
-      - text: >-
-          Ve onu ummadığı yerden rızıklandırır. Kim Allah'a güvenirse O, ona yeter.
-          Allah, emrini yerine getirendir. Allah her şey için bir ölçü koymuştur.
-        cid: 0
+      - text: Ve onu
+        cid: 1
+      - text: ummadığı
+        cid: 4
+      - text: yerden
+        cid: 2
+      - text: rızıklandırır.
+        cid: 1
+      - text: Kim
+        cid: 6
+      - text: Allah'a güvenirse
+        cid: 8
+      - text: O,
+        cid: 10
+      - text: ona yeter.
+        cid: 11
+      - text: Allah, emrini
+        cid: 13
+      - text: yerine getirendir.
+        cid: 14
+      - text: Allah
+        cid: 18
+      - text: her şey için
+        cid: 20
+      - text: bir ölçü
+        cid: 21
+      - text: koymuştur.
+        cid: 17
   - verse: 4
     segments:
-      - text: >-
-          Kadınlarınız içinden âdetten kesilmiş olanlarla, henüz âdetini görmemiş
-          bulunanlardan eğer şüphe ederseniz (iddetlerinin nasıl olacağında tereddüt
-          ederseniz), onların bekleme süresi üç aydır. Gebe olanların bekleme süresi ise,
-          yüklerini bırakmaları, doğum yapmalarıdır. Kim Allah'tan korkarsa, Allah ona
-          işinde bir kolaylık verir.
+      - text: Kadınlarınız içinden
+        cid: 5
+      - text: âdetten
+        cid: 3
+      - text: kesilmiş
+        cid: 2
+      - text: olanlarla,
+        cid: 12
+      - text: henüz âdetini görmemiş bulunanlardan
+        cid: 13
+      - text: eğer
+        cid: 7
+      - text: şüphe ederseniz
+        cid: 8
+      - text: (iddetlerinin nasıl olacağında tereddüt ederseniz),
         cid: 0
+      - text: onların bekleme süresi
+        cid: 9
+      - text: üç
+        cid: 10
+      - text: aydır.
+        cid: 11
+      - text: Gebe
+        cid: 16
+      - text: olanların
+        cid: 15
+      - text: bekleme süresi ise,
+        cid: 9
+      - text: yüklerini bırakmaları,
+        cid: 20
+      - text: doğum yapmalarıdır.
+        cid: 18
+      - text: Kim
+        cid: 21
+      - text: Allah'tan
+        cid: 23
+      - text: korkarsa,
+        cid: 22
+      - text: Allah
+        cid: 23
+      - text: ona
+        cid: 25
+      - text: işinde
+        cid: 26
+      - text: bir kolaylık verir.
+        cid: 28
   - verse: 5
     segments:
-      - text: >-
-          Bu, Allah'ın size indirdiği buyruğudur. Kim Allah'tan korkarsa Allah onun
-          kötülüklerini örter ve onun mükafatını büyütür.
+      - text: Bu,
+        cid: 1
+      - text: Allah'ın
+        cid: 3
+      - text: size
+        cid: 5
+      - text: indirdiği
+        cid: 4
+      - text: buyruğudur.
+        cid: 2
+      - text: Kim
+        cid: 6
+      - text: Allah'tan
+        cid: 8
+      - text: korkarsa
+        cid: 7
+      - text: Allah
+        cid: 8
+      - text: onun kötülüklerini
+        cid: 11
+      - text: örter
+        cid: 9
+      - text: ve
         cid: 0
+      - text: onun mükafatını
+        cid: 14
+      - text: büyütür.
+        cid: 12
   - verse: 6
     segments:
-      - text: >-
-          O kadınları, gücünüz ölçüsünde oturduğunuz yerin bir bölümünde oturtun ve
-          onları sıkıştırmak için kendilerine zarar vermeye kalkışmayın. Şayet gebe
-          iseler, yüklerini bırakıncaya kadar onları besleyin. Sonra sizin için
-          emzirirlerse ücretlerini verin ve aranızda güzellikle konuşup danışın. Güçlük
-          çekerseniz çocuğu, başka bir kadın emzirecektir.
+      - text: O
+        cid: 30
+      - text: kadınları,
+        cid: 24
+      - text: gücünüz ölçüsünde
+        cid: 5
+      - text: oturduğunuz
+        cid: 4
+      - text: yerin bir bölümünde
+        cid: 2
+      - text: oturtun
+        cid: 1
+      - text: ve
+        cid: 7
+      - text: onları
+        cid: 10
+      - text: sıkıştırmak için
+        cid: 9
+      - text: kendilerine
+        cid: 24
+      - text: zarar
+        cid: 8
+      - text: vermeye kalkışmayın.
+        cid: 23
+      - text: Şayet
+        cid: 11
+      - text: gebe
+        cid: 14
+      - text: iseler,
+        cid: 12
+      - text: yüklerini
+        cid: 19
+      - text: bırakıncaya kadar
+        cid: 18
+      - text: onları besleyin.
+        cid: 10
+      - text: Sonra sizin için
+        cid: 23
+      - text: emzirirlerse
+        cid: 21
+      - text: ücretlerini
+        cid: 24
+      - text: verin
+        cid: 23
+      - text: ve
         cid: 0
+      - text: aranızda
+        cid: 26
+      - text: güzellikle
+        cid: 27
+      - text: konuşup danışın.
+        cid: 25
+      - text: Güçlük çekerseniz
+        cid: 29
+      - text: çocuğu,
+        cid: 21
+      - text: başka
+        cid: 32
+      - text: bir kadın
+        cid: 16
+      - text: emzirecektir.
+        cid: 30
   - verse: 7
     segments:
-      - text: >-
-          Eli geniş olan genişliğine göre nafaka versin. Rızkı kısılmış bulunan da
-          Allah'ın kendisine verdiğinden versin. Allah bir kişiye ne vermişse ancak onu
-          teklif eder. Allah bir güçlükten sonra bir kolaylık yaratacaktır.
-        cid: 0
+      - text: Eli geniş olan
+        cid: 3
+      - text: genişliğine
+        cid: 5
+      - text: göre
+        cid: 4
+      - text: nafaka
+        cid: 1
+      - text: versin.
+        cid: 10
+      - text: Rızkı
+        cid: 9
+      - text: kısılmış bulunan da
+        cid: 7
+      - text: Allah'ın
+        cid: 13
+      - text: kendisine verdiğinden
+        cid: 12
+      - text: versin.
+        cid: 10
+      - text: Allah
+        cid: 16
+      - text: bir kişiye ne
+        cid: 17
+      - text: vermişse
+        cid: 19
+      - text: ancak onu teklif eder.
+        cid: 15
+      - text: Allah
+        cid: 22
+      - text: bir güçlükten
+        cid: 24
+      - text: sonra
+        cid: 23
+      - text: bir kolaylık
+        cid: 25
+      - text: yaratacaktır.
+        cid: 21
   - verse: 8
     segments:
-      - text: >-
-          Nice kent var ki Rablerinin ve O'nun elçilerinin emrine başkaldırdı, biz de
-          onları çetin bir hesaba çektik ve onlara görülmemiş şekilde azab ettik.
+      - text: Nice
+        cid: 1
+      - text: kent var ki
+        cid: 2
+      - text: Rablerinin
+        cid: 7
+      - text: ve O'nun elçilerinin emrine
+        cid: 8
+      - text: başkaldırdı,
+        cid: 4
+      - text: biz de
+        cid: 9
+      - text: onları
+        cid: 5
+      - text: çetin
+        cid: 11
+      - text: bir hesaba çektik
+        cid: 9
+      - text: ve
         cid: 0
+      - text: onlara görülmemiş şekilde
+        cid: 3
+      - text: azab
+        cid: 13
+      - text: ettik.
+        cid: 12
   - verse: 9
     segments:
-      - text: >-
-          İşlerinin vebalini tattılar. İşlerinin sonucu tam bir hüsran olmuştur.
-        cid: 0
+      - text: İşlerinin vebalini tattılar. İşlerinin
+        cid: 2
+      - text: sonucu tam bir hüsran olmuştur.
+        cid: 5
   - verse: 10
     segments:
-      - text: >-
-          Allah onlara şiddetli bir azap hazırlamıştır. O halde ey inanan aklı selim
-          sahipleri! Allah'tan korkun, Allah size bir uyarıcı gönderdi.
-        cid: 0
+      - text: Allah
+        cid: 2
+      - text: onlara
+        cid: 3
+      - text: şiddetli
+        cid: 5
+      - text: bir azap
+        cid: 4
+      - text: hazırlamıştır.
+        cid: 1
+      - text: O halde
+        cid: 6
+      - text: ey
+        cid: 8
+      - text: inanan aklı
+        cid: 10
+      - text: selim sahipleri!
+        cid: 8
+      - text: Allah'tan
+        cid: 7
+      - text: korkun,
+        cid: 6
+      - text: Allah
+        cid: 14
+      - text: size
+        cid: 15
+      - text: bir uyarıcı gönderdi.
+        cid: 16
   - verse: 11
     segments:
-      - text: >-
-          Size Allah'ın açık açık âyetlerini okuyan bir elçi (gönderdi) ki inanıp faydalı
-          işler yapanları, karanlıklardan aydınlığa çıkarsın. Kim Allah'a inanır ve
-          yararlı iş yaparsa (Allah) onu, altlarından ırmaklar akan, içinde ebedi
-          kalacakları cennetlere sokar. Allah ona gerçekten ne güzel rızık vermiştir.
+      - text: Size
+        cid: 3
+      - text: Allah'ın
+        cid: 5
+      - text: açık açık
+        cid: 6
+      - text: âyetlerini
+        cid: 4
+      - text: okuyan
+        cid: 2
+      - text: bir elçi
+        cid: 1
+      - text: (gönderdi)
         cid: 0
+      - text: ki
+        cid: 1
+      - text: inanıp faydalı
+        cid: 17
+      - text: işler
+        cid: 11
+      - text: yapanları,
+        cid: 10
+      - text: karanlıklardan
+        cid: 12
+      - text: aydınlığa
+        cid: 15
+      - text: çıkarsın.
+        cid: 7
+      - text: Kim
+        cid: 16
+      - text: Allah'a
+        cid: 18
+      - text: inanır
+        cid: 17
+      - text: ve
+        cid: 0
+      - text: yararlı
+        cid: 11
+      - text: iş
+        cid: 20
+      - text: yaparsa
+        cid: 19
+      - text: (Allah)
+        cid: 0
+      - text: onu,
+        cid: 21
+      - text: altlarından
+        cid: 24
+      - text: ırmaklar
+        cid: 26
+      - text: akan,
+        cid: 23
+      - text: içinde
+        cid: 28
+      - text: ebedi
+        cid: 29
+      - text: kalacakları
+        cid: 27
+      - text: cennetlere
+        cid: 22
+      - text: sokar.
+        cid: 21
+      - text: Allah
+        cid: 32
+      - text: ona
+        cid: 33
+      - text: gerçekten ne
+        cid: 30
+      - text: güzel
+        cid: 31
+      - text: rızık
+        cid: 34
+      - text: vermiştir.
+        cid: 31
   - verse: 12
     segments:
-      - text: >-
-          Allah O'dur ki yedi göğü ve yerden de onlar kadarını yarattı. Emir bunlar
-          arasında iner ki Allah'ın her şeye kâdir olduğunu ve Allah'ın bilgisinin, her
-          şeyi kuşattığını bilesiniz.
+      - text: Allah
+        cid: 1
+      - text: O'dur ki
+        cid: 2
+      - text: yedi
+        cid: 4
+      - text: göğü
+        cid: 5
+      - text: ve yerden de
+        cid: 6
+      - text: onlar
+        cid: 8
+      - text: kadarını
+        cid: 18
+      - text: yarattı.
+        cid: 3
+      - text: Emir bunlar arasında
+        cid: 11
+      - text: iner ki
+        cid: 9
+      - text: Allah'ın
+        cid: 14
+      - text: her
+        cid: 16
+      - text: şeye
+        cid: 17
+      - text: kâdir olduğunu
+        cid: 18
+      - text: ve
         cid: 0
+      - text: Allah'ın
+        cid: 20
+      - text: bilgisinin,
+        cid: 25
+      - text: her
+        cid: 23
+      - text: şeyi
+        cid: 24
+      - text: kuşattığını
+        cid: 22
+      - text: bilesiniz.
+        cid: 12

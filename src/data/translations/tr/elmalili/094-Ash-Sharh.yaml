@@ -4,41 +4,67 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Biz senin için (mutluluğun) göğsünü açmadık mı?
+      - text: Biz senin
         cid: 0
+      - text: için
+        cid: 4
+      - text: (mutluluğun)
+        cid: 0
+      - text: göğsünü
+        cid: 4
+      - text: açmadık mı?
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Senden yükünü indirmedik mi?
-        cid: 0
+      - text: Senden
+        cid: 2
+      - text: yükünü indirmedik mi?
+        cid: 3
   - verse: 3
     segments:
-      - text: >-
-          O senin sırtını ezen yükü.
-        cid: 0
+      - text: O
+        cid: 1
+      - text: senin sırtını ezen
+        cid: 3
+      - text: yükü.
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          Senin şanını yüceltmedik mi?
-        cid: 0
+      - text: Senin şanını yüceltmedik mi?
+        cid: 3
   - verse: 5
     segments:
-      - text: >-
-          Demek ki, zorlukla beraber bir kolaylık vardır.
+      - text: Demek
         cid: 0
+      - text: ki, zorlukla
+        cid: 3
+      - text: beraber
+        cid: 2
+      - text: bir kolaylık
+        cid: 4
+      - text: vardır.
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Evet, zorlukla beraber bir kolaylık vardır.
-        cid: 0
+      - text: Evet, zorlukla
+        cid: 3
+      - text: beraber
+        cid: 2
+      - text: bir kolaylık
+        cid: 4
+      - text: vardır.
+        cid: 1
   - verse: 7
     segments:
-      - text: >-
-          O halde boş kaldın mı, yine kalk (başka bir iş ve ibadetle) yorul.
+      - text: O
         cid: 0
+      - text: halde boş kaldın mı, yine kalk
+        cid: 2
+      - text: (başka bir iş ve ibadetle)
+        cid: 0
+      - text: yorul.
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Ancak Rabbine yönel.
-        cid: 0
+      - text: Ancak Rabbine yönel.
+        cid: 2

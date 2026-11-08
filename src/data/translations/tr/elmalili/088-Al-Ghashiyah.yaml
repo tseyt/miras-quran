@@ -4,131 +4,205 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          O her şeyi kuşatacak olan Kıyamet'in haberi sana geldi mi?
+      - text: O her şeyi kuşatacak olan
         cid: 0
+      - text: Kıyamet'in haberi
+        cid: 3
+      - text: sana geldi mi?
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Yüzler var ki, o gün eğilmiş, zillete düşmüştür.
-        cid: 0
+      - text: Yüzler var ki,
+        cid: 1
+      - text: o gün eğilmiş, zillete
+        cid: 2
+      - text: düşmüştür.
+        cid: 3
   - verse: 3
     segments:
-      - text: >-
-          Çalışmış, yorulmuştur.
-        cid: 0
+      - text: Çalışmış,
+        cid: 1
+      - text: yorulmuştur.
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Kızışmış bir ateşe girer.
-        cid: 0
+      - text: Kızışmış
+        cid: 3
+      - text: bir ateşe
+        cid: 2
+      - text: girer.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          Onlara kızgın bir kaynaktan su verilir.
-        cid: 0
+      - text: Onlara kızgın
+        cid: 3
+      - text: bir kaynaktan su verilir.
+        cid: 4
   - verse: 6
     segments:
-      - text: >-
-          Onlar için kuru bir dikenden başka yiyecek de yoktur.
-        cid: 0
+      - text: Onlar için
+        cid: 2
+      - text: kuru bir dikenden
+        cid: 5
+      - text: başka
+        cid: 4
+      - text: yiyecek de
+        cid: 3
+      - text: yoktur.
+        cid: 1
   - verse: 7
     segments:
-      - text: >-
-          O da ne besler, ne de açlığı giderir.
-        cid: 0
+      - text: O da ne
+        cid: 1
+      - text: besler, ne de
+        cid: 6
+      - text: açlığı
+        cid: 5
+      - text: giderir.
+        cid: 4
   - verse: 8
     segments:
-      - text: >-
-          Yüzler de var ki, o gün nimetle mutludur.
-        cid: 0
+      - text: Yüzler de var ki,
+        cid: 1
+      - text: o gün
+        cid: 2
+      - text: nimetle mutludur.
+        cid: 3
   - verse: 9
     segments:
-      - text: >-
-          Yaptığından hoşnuttur.
-        cid: 0
+      - text: Yaptığından
+        cid: 2
+      - text: hoşnuttur.
+        cid: 1
   - verse: 10
     segments:
-      - text: >-
-          Yüksek bir cennettedir.
-        cid: 0
+      - text: Yüksek bir cennettedir.
+        cid: 3
   - verse: 11
     segments:
-      - text: >-
-          Orada boş bir söz işitmez.
-        cid: 0
+      - text: Orada
+        cid: 3
+      - text: boş bir söz
+        cid: 4
+      - text: işitmez.
+        cid: 1
   - verse: 12
     segments:
-      - text: >-
-          Orada akan bir kaynak,
-        cid: 0
+      - text: Orada
+        cid: 1
+      - text: akan
+        cid: 3
+      - text: bir kaynak,
+        cid: 2
   - verse: 13
     segments:
-      - text: >-
-          Yükseltilmiş divanlar,
-        cid: 0
+      - text: Yükseltilmiş divanlar,
+        cid: 3
   - verse: 14
     segments:
-      - text: >-
-          Konulmuş kadehler,
-        cid: 0
+      - text: Konulmuş
+        cid: 2
+      - text: kadehler,
+        cid: 1
   - verse: 15
     segments:
-      - text: >-
-          Dizilmiş koltuklar, yastıklar,
-        cid: 0
+      - text: Dizilmiş koltuklar,
+        cid: 2
+      - text: yastıklar,
+        cid: 1
   - verse: 16
     segments:
-      - text: >-
-          Serilmiş halılar vardır.
-        cid: 0
+      - text: Serilmiş
+        cid: 2
+      - text: halılar vardır.
+        cid: 1
   - verse: 17
     segments:
-      - text: >-
-          Bakmıyorlar mı o develere, nasıl yaratılmış?
-        cid: 0
+      - text: Bakmıyorlar mı
+        cid: 1
+      - text: o develere,
+        cid: 4
+      - text: nasıl
+        cid: 5
+      - text: yaratılmış?
+        cid: 6
   - verse: 18
     segments:
-      - text: >-
-          Göğe bakmıyorlar mı, nasıl yükseltilmiş?
-        cid: 0
+      - text: Göğe bakmıyorlar mı,
+        cid: 2
+      - text: nasıl
+        cid: 3
+      - text: yükseltilmiş?
+        cid: 4
   - verse: 19
     segments:
-      - text: >-
-          Bakmıyorlar mı dağlara, nasıl dikilmiş?
+      - text: Bakmıyorlar
         cid: 0
+      - text: mı dağlara,
+        cid: 2
+      - text: nasıl
+        cid: 3
+      - text: dikilmiş?
+        cid: 4
   - verse: 20
     segments:
-      - text: >-
-          Yere bakmıyorlar mı, nasıl yayılmış?
-        cid: 0
+      - text: Yere bakmıyorlar mı,
+        cid: 2
+      - text: nasıl
+        cid: 3
+      - text: yayılmış?
+        cid: 4
   - verse: 21
     segments:
-      - text: >-
-          Haydi öğüt ver; sen şimdi sırf bir öğütçüsün.
-        cid: 0
+      - text: Haydi öğüt ver;
+        cid: 1
+      - text: sen şimdi sırf
+        cid: 3
+      - text: bir öğütçüsün.
+        cid: 4
   - verse: 22
     segments:
-      - text: >-
-          Onların üzerinde bir zorba değilsin.
-        cid: 0
+      - text: Onların üzerinde
+        cid: 2
+      - text: bir zorba
+        cid: 3
+      - text: değilsin.
+        cid: 1
   - verse: 23
     segments:
-      - text: >-
-          Ancak kim yüz çevirir ve kâfir olursa,
+      - text: Ancak
+        cid: 1
+      - text: kim
+        cid: 2
+      - text: yüz çevirir
+        cid: 3
+      - text: ve kâfir olursa,
         cid: 0
   - verse: 24
     segments:
-      - text: >-
-          Allah ona en büyük azap ile azap edecek.
-        cid: 0
+      - text: Allah
+        cid: 2
+      - text: ona
+        cid: 1
+      - text: en büyük
+        cid: 4
+      - text: azap ile
+        cid: 3
+      - text: azap edecek.
+        cid: 1
   - verse: 25
     segments:
-      - text: >-
-          Kuşkusuz onlar döne dolaşa bize gelecekler.
+      - text: Kuşkusuz
         cid: 0
+      - text: onlar döne dolaşa
+        cid: 3
+      - text: bize gelecekler.
+        cid: 2
   - verse: 26
     segments:
-      - text: >-
-          Sonra da bize hesap verecekler.
-        cid: 0
+      - text: Sonra da
+        cid: 1
+      - text: bize
+        cid: 3
+      - text: hesap verecekler.
+        cid: 4

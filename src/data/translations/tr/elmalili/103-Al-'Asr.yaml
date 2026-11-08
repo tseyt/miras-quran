@@ -4,17 +4,33 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Asra yemin olsun ki,
-        cid: 0
+      - text: Asra yemin olsun ki,
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          İnsan mutlaka ziyandadır.
-        cid: 0
+      - text: İnsan mutlaka
+        cid: 2
+      - text: ziyandadır.
+        cid: 4
   - verse: 3
     segments:
-      - text: >-
-          Ancak iman edenler, salih amel (iyi işler) işleyenler, birbirlerine hakkı
-          tavsiye eden ve sabrı tavsiye edenler bunun dışındadır
+      - text: Ancak
+        cid: 1
+      - text: iman edenler,
+        cid: 3
+      - text: salih amel
+        cid: 4
+      - text: (iyi işler)
         cid: 0
+      - text: işleyenler, birbirlerine
+        cid: 5
+      - text: hakkı
+        cid: 7
+      - text: tavsiye eden
+        cid: 6
+      - text: ve
+        cid: 0
+      - text: sabrı
+        cid: 9
+      - text: tavsiye edenler bunun dışındadır
+        cid: 8

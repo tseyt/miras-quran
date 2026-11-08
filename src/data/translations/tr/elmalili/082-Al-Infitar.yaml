@@ -4,97 +4,159 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Gök çatladığı vakit,
-        cid: 0
+      - text: Gök çatladığı vakit,
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Yıldızlar döküldüğü vakit,
-        cid: 0
+      - text: Yıldızlar döküldüğü vakit,
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          Denizler yarılıp akıtıldığı vakit,
-        cid: 0
+      - text: Denizler yarılıp akıtıldığı vakit,
+        cid: 2
   - verse: 4
     segments:
-      - text: >-
-          Kabirlerin içi dışına getirildiği vakit,
-        cid: 0
+      - text: Kabirlerin
+        cid: 2
+      - text: içi dışına getirildiği vakit,
+        cid: 3
   - verse: 5
     segments:
-      - text: >-
-          Herkes neyi önünden gönderdiğini ve neyi geri bıraktığını bilir.
+      - text: Herkes neyi önünden gönderdiğini
+        cid: 2
+      - text: ve
         cid: 0
+      - text: neyi geri bıraktığını
+        cid: 5
+      - text: bilir.
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Ey insan! İhsanı bol Rabb'ine karşı seni aldatan nedir?
+      - text: Ey
+        cid: 1
+      - text: insan!
+        cid: 2
+      - text: İhsanı
         cid: 0
+      - text: bol Rabb'ine karşı
+        cid: 5
+      - text: seni aldatan
+        cid: 4
+      - text: nedir?
+        cid: 3
   - verse: 7
     segments:
-      - text: >-
-          O Allah ki seni yarattı, seni düzgün yapılı kılıp ölçülü bir biçim verdi.
-        cid: 0
+      - text: O Allah ki
+        cid: 1
+      - text: seni yarattı, seni
+        cid: 2
+      - text: düzgün yapılı kılıp
+        cid: 3
+      - text: ölçülü bir biçim verdi.
+        cid: 4
   - verse: 8
     segments:
-      - text: >-
-          Seni dilediği her hangi bir şekilde parçalardan oluşturdu.
-        cid: 0
+      - text: Seni
+        cid: 6
+      - text: dilediği
+        cid: 4
+      - text: her hangi
+        cid: 1
+      - text: bir şekilde parçalardan oluşturdu.
+        cid: 6
   - verse: 9
     segments:
-      - text: >-
-          Hayır hayır, siz cezayı yalanlıyorsunuz.
-        cid: 0
+      - text: Hayır hayır,
+        cid: 1
+      - text: siz
+        cid: 3
+      - text: cezayı
+        cid: 4
+      - text: yalanlıyorsunuz.
+        cid: 3
   - verse: 10
     segments:
-      - text: >-
-          Oysa üzerinizde koruyucular var.
-        cid: 0
+      - text: Oysa üzerinizde
+        cid: 2
+      - text: koruyucular
+        cid: 3
+      - text: var.
+        cid: 2
   - verse: 11
     segments:
-      - text: >-
-          Değerli yazıcılar
-        cid: 0
+      - text: Değerli
+        cid: 1
+      - text: yazıcılar
+        cid: 2
   - verse: 12
     segments:
-      - text: >-
-          Onlar, siz her ne yaparsanız bilirler
+      - text: Onlar,
         cid: 0
+      - text: siz her ne
+        cid: 2
+      - text: yaparsanız
+        cid: 3
+      - text: bilirler
+        cid: 1
   - verse: 13
     segments:
-      - text: >-
-          Kuşkusuz iyiler nimet içindedirler.
-        cid: 0
+      - text: Kuşkusuz iyiler
+        cid: 2
+      - text: nimet
+        cid: 4
+      - text: içindedirler.
+        cid: 3
   - verse: 14
     segments:
-      - text: >-
-          Kötüler de cehennemdedirler.
-        cid: 0
+      - text: Kötüler de
+        cid: 2
+      - text: cehennemdedirler.
+        cid: 4
   - verse: 15
     segments:
-      - text: >-
-          Ceza günü ona girecekler.
-        cid: 0
+      - text: Ceza
+        cid: 3
+      - text: günü ona
+        cid: 2
+      - text: girecekler.
+        cid: 1
   - verse: 16
     segments:
-      - text: >-
-          Onlar o cehennemin gözünden kaçamazlar.
-        cid: 0
+      - text: Onlar o cehennemin gözünden kaçamazlar.
+        cid: 2
   - verse: 17
     segments:
-      - text: >-
-          Ceza gününün ne olduğunu sen bilir misin?
-        cid: 0
+      - text: Ceza
+        cid: 5
+      - text: gününün
+        cid: 4
+      - text: ne olduğunu
+        cid: 3
+      - text: sen bilir misin?
+        cid: 2
   - verse: 18
     segments:
-      - text: >-
-          Evet, bilir misin nedir acaba o ceza günü?
-        cid: 0
+      - text: Evet, bilir misin
+        cid: 3
+      - text: nedir acaba
+        cid: 2
+      - text: o ceza
+        cid: 6
+      - text: günü?
+        cid: 5
   - verse: 19
     segments:
-      - text: >-
-          O gün, hiç kimsenin başkası için hiçbir şeye sahip olamadığı gündür. O gün
-          buyruk yalnız Allah'ındır.
-        cid: 0
+      - text: O gün, hiç
+        cid: 8
+      - text: kimsenin başkası için hiçbir
+        cid: 4
+      - text: şeye sahip olamadığı
+        cid: 6
+      - text: gündür.
+        cid: 1
+      - text: O gün
+        cid: 8
+      - text: buyruk
+        cid: 7
+      - text: yalnız Allah'ındır.
+        cid: 9

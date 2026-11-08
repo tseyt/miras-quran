@@ -4,16 +4,29 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Muhakkak biz sana Kevser'i verdik.
-        cid: 0
+      - text: Muhakkak biz
+        cid: 1
+      - text: sana
+        cid: 2
+      - text: Kevser'i
+        cid: 3
+      - text: verdik.
+        cid: 2
   - verse: 2
     segments:
-      - text: >-
-          Öyleyse Rabb'in için namaz kıl ve kurban kes.
-        cid: 0
+      - text: Öyleyse
+        cid: 1
+      - text: Rabb'in için
+        cid: 2
+      - text: namaz kıl
+        cid: 1
+      - text: ve kurban kes.
+        cid: 3
   - verse: 3
     segments:
-      - text: >-
-          Muhakkak ki sonu kesik olan, sana buğzedendir.
+      - text: Muhakkak
         cid: 0
+      - text: ki sonu kesik olan,
+        cid: 4
+      - text: sana buğzedendir.
+        cid: 2

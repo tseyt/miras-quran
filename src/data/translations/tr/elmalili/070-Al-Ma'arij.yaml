@@ -4,229 +4,430 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Bir isteyen, olacak azabı istedi.
+      - text: Bir isteyen,
         cid: 0
+      - text: olacak azabı istedi.
+        cid: 3
   - verse: 2
     segments:
-      - text: >-
-          Kâfirler için onu savacak yok.
-        cid: 0
+      - text: Kâfirler için
+        cid: 1
+      - text: onu savacak
+        cid: 3
+      - text: yok.
+        cid: 2
   - verse: 3
     segments:
-      - text: >-
-          O, derece ve makamların sahibi Allah'tandır.
+      - text: O, derece ve
         cid: 0
+      - text: makamların
+        cid: 4
+      - text: sahibi
+        cid: 3
+      - text: Allah'tandır.
+        cid: 1
   - verse: 4
     segments:
-      - text: >-
-          Melekler ve Ruh miktarı ellibin yıl süren bir gün içinde ona çıkar.
-        cid: 0
+      - text: Melekler
+        cid: 2
+      - text: ve Ruh
+        cid: 3
+      - text: miktarı
+        cid: 8
+      - text: ellibin
+        cid: 9
+      - text: yıl süren
+        cid: 11
+      - text: bir gün
+        cid: 6
+      - text: içinde
+        cid: 5
+      - text: ona
+        cid: 4
+      - text: çıkar.
+        cid: 1
   - verse: 5
     segments:
-      - text: >-
-          O halde güzel bir sabır ile sabret.
+      - text: O
         cid: 0
+      - text: halde güzel
+        cid: 3
+      - text: bir sabır ile
+        cid: 2
+      - text: sabret.
+        cid: 1
   - verse: 6
     segments:
-      - text: >-
-          Çünkü onlar onu uzak görürler.
-        cid: 0
+      - text: Çünkü onlar
+        cid: 1
+      - text: onu
+        cid: 2
+      - text: uzak
+        cid: 3
+      - text: görürler.
+        cid: 2
   - verse: 7
     segments:
-      - text: >-
-          Biz ise onu yakın görüyoruz.
-        cid: 0
+      - text: Biz ise onu
+        cid: 1
+      - text: yakın
+        cid: 2
+      - text: görüyoruz.
+        cid: 1
   - verse: 8
     segments:
-      - text: >-
-          O gün gök erimiş bir maden gibi olur.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: gök
+        cid: 3
+      - text: erimiş bir maden gibi olur.
+        cid: 4
   - verse: 9
     segments:
-      - text: >-
-          Dağlar da atılmış renkli yün gibi olur.
-        cid: 0
+      - text: Dağlar da
+        cid: 2
+      - text: atılmış
+        cid: 1
+      - text: renkli yün gibi olur.
+        cid: 3
   - verse: 10
     segments:
-      - text: >-
-          Dost dostun halini soramaz.
-        cid: 0
+      - text: Dost
+        cid: 3
+      - text: dostun halini
+        cid: 4
+      - text: soramaz.
+        cid: 2
   - verse: 11
     segments:
-      - text: >-
-          Birbirlerine gösterilirler. Suçlu o günün azabından kurtulmak için fidye vermek
-          ister; oğullarını,
-        cid: 0
+      - text: Birbirlerine gösterilirler.
+        cid: 1
+      - text: Suçlu
+        cid: 3
+      - text: o günün
+        cid: 8
+      - text: azabından kurtulmak için
+        cid: 6
+      - text: fidye vermek
+        cid: 5
+      - text: ister;
+        cid: 2
+      - text: oğullarını,
+        cid: 9
   - verse: 12
     segments:
-      - text: >-
-          Eşini ve kardeşini,
-        cid: 0
+      - text: Eşini
+        cid: 1
+      - text: ve kardeşini,
+        cid: 2
   - verse: 13
     segments:
-      - text: >-
-          Kendisini barındıran, içinde yetiştiği tüm ailesini,
-        cid: 0
+      - text: Kendisini barındıran, içinde yetiştiği
+        cid: 2
+      - text: tüm ailesini,
+        cid: 1
   - verse: 14
     segments:
-      - text: >-
-          Ve yeryüzünde bulunanların hepsini ki, tek kendini kurtarabilsin.
-        cid: 0
+      - text: Ve
+        cid: 5
+      - text: yeryüzünde
+        cid: 3
+      - text: bulunanların
+        cid: 1
+      - text: hepsini ki,
+        cid: 4
+      - text: tek kendini kurtarabilsin.
+        cid: 6
   - verse: 15
     segments:
-      - text: >-
-          Hayır, o alevlenen bir ateştir.
-        cid: 0
+      - text: Hayır,
+        cid: 1
+      - text: o
+        cid: 2
+      - text: alevlenen bir ateştir.
+        cid: 3
   - verse: 16
     segments:
-      - text: >-
-          Derileri kavurur, soyar.
-        cid: 0
+      - text: Derileri
+        cid: 2
+      - text: kavurur, soyar.
+        cid: 1
   - verse: 17
     segments:
-      - text: >-
-          Çağırır, sırtını dönüp gideni,
-        cid: 0
+      - text: Çağırır,
+        cid: 1
+      - text: sırtını dönüp gideni,
+        cid: 3
   - verse: 18
     segments:
-      - text: >-
-          Mal toplayıp kasada yığanı,
-        cid: 0
+      - text: Mal toplayıp kasada yığanı,
+        cid: 1
   - verse: 19
     segments:
-      - text: >-
-          Doğrusu insan dayanıksız ve huysuz yaratılmıştır.
+      - text: Doğrusu
+        cid: 1
+      - text: insan dayanıksız
+        cid: 2
+      - text: ve
         cid: 0
+      - text: huysuz
+        cid: 4
+      - text: yaratılmıştır.
+        cid: 3
   - verse: 20
     segments:
-      - text: >-
-          Kendisine kötülük dokundu mu sızlanır.
-        cid: 0
+      - text: Kendisine
+        cid: 2
+      - text: kötülük
+        cid: 3
+      - text: dokundu mu
+        cid: 2
+      - text: sızlanır.
+        cid: 4
   - verse: 21
     segments:
-      - text: >-
-          Kendisine hayır dokundu mu cimrilik eder.
-        cid: 0
+      - text: Kendisine hayır
+        cid: 3
+      - text: dokundu mu cimrilik eder.
+        cid: 2
   - verse: 22
     segments:
-      - text: >-
-          Ancak namaz kılanlar bunun dışındadır.
-        cid: 0
+      - text: Ancak
+        cid: 1
+      - text: namaz kılanlar
+        cid: 2
+      - text: bunun dışındadır.
+        cid: 1
   - verse: 23
     segments:
-      - text: >-
-          Onlar ki namazlarını sürekli kılarlar.
-        cid: 0
+      - text: Onlar ki
+        cid: 2
+      - text: namazlarını sürekli kılarlar.
+        cid: 4
   - verse: 24
     segments:
-      - text: >-
-          Onların mallarında belli bir hak vardır,
-        cid: 0
+      - text: Onların mallarında
+        cid: 3
+      - text: belli
+        cid: 5
+      - text: bir hak
+        cid: 4
+      - text: vardır,
+        cid: 2
   - verse: 25
     segments:
-      - text: >-
-          Hem isteyen için, hem de istemekten utanan yoksul için.
-        cid: 0
+      - text: Hem isteyen için, hem de istemekten utanan
+        cid: 1
+      - text: yoksul için.
+        cid: 2
   - verse: 26
     segments:
-      - text: >-
-          Onlar ki ceza gününü tasdik ederler.
-        cid: 0
+      - text: Onlar ki
+        cid: 1
+      - text: ceza
+        cid: 4
+      - text: gününü
+        cid: 3
+      - text: tasdik ederler.
+        cid: 2
   - verse: 27
     segments:
-      - text: >-
-          Rablerinin azabından korkarlar.
-        cid: 0
+      - text: Rablerinin
+        cid: 5
+      - text: azabından
+        cid: 3
+      - text: korkarlar.
+        cid: 6
   - verse: 28
     segments:
-      - text: >-
-          Çünkü Rablerinin azabından emin olunmaz.
-        cid: 0
+      - text: Çünkü
+        cid: 1
+      - text: Rablerinin
+        cid: 3
+      - text: azabından emin olunmaz.
+        cid: 2
   - verse: 29
     segments:
-      - text: >-
-          Onlar ki ırzlarını korurlar.
-        cid: 0
+      - text: Onlar ki
+        cid: 2
+      - text: ırzlarını
+        cid: 3
+      - text: korurlar.
+        cid: 4
   - verse: 30
     segments:
-      - text: >-
-          Ancak zevcelerine ve cariyelerine karşı hariç. Çünkü onlara yaklaştıklarında
-          kınanmazlar.
-        cid: 0
+      - text: Ancak zevcelerine
+        cid: 10
+      - text: ve
+        cid: 4
+      - text: cariyelerine karşı
+        cid: 6
+      - text: hariç.
+        cid: 10
+      - text: Çünkü onlara yaklaştıklarında
+        cid: 8
+      - text: kınanmazlar.
+        cid: 9
   - verse: 31
     segments:
-      - text: >-
-          Bundan ötesini isteyenler, var ya işte onlar haddi aşanlardır.
-        cid: 0
+      - text: Bundan
+        cid: 4
+      - text: ötesini isteyenler, var ya
+        cid: 3
+      - text: işte
+        cid: 5
+      - text: onlar
+        cid: 6
+      - text: haddi aşanlardır.
+        cid: 7
   - verse: 32
     segments:
-      - text: >-
-          Onlar emanetlerini ve ahitlerini gözetirler.
-        cid: 0
+      - text: Onlar
+        cid: 2
+      - text: emanetlerini
+        cid: 3
+      - text: ve ahitlerini
+        cid: 4
+      - text: gözetirler.
+        cid: 5
   - verse: 33
     segments:
-      - text: >-
-          Şahitliklerinde dürüsttürler.
-        cid: 0
+      - text: Şahitliklerinde dürüsttürler.
+        cid: 3
   - verse: 34
     segments:
-      - text: >-
-          Namazlarına devam ederler.
-        cid: 0
+      - text: Namazlarına devam ederler.
+        cid: 4
   - verse: 35
     segments:
-      - text: >-
-          İşte bunlar cennetlerde ağırlanırlar.
-        cid: 0
+      - text: İşte bunlar
+        cid: 1
+      - text: cennetlerde
+        cid: 2
+      - text: ağırlanırlar.
+        cid: 4
   - verse: 36
     segments:
+      - text: Şimdi ne oluyor
+        cid: 1
+      - text: o inkâr edenlere ki,
+        cid: 3
+      - text: sana doğru boyunlarını uzatarak
+        cid: 4
       - text: >-
-          Şimdi ne oluyor o inkâr edenlere ki, sana doğru boyunlarını uzatarak
           koşuyorlar:
-        cid: 0
+        cid: 5
   - verse: 37
     segments:
-      - text: >-
-          Sağdan ve soldan bölük bölük.
+      - text: Sağdan
+        cid: 2
+      - text: ve
         cid: 0
+      - text: soldan bölük bölük.
+        cid: 4
   - verse: 38
     segments:
-      - text: >-
-          Onlardan herbiri, bir nimet cennetine sokulacağını mı umuyor?
-        cid: 0
+      - text: Onlardan
+        cid: 4
+      - text: herbiri,
+        cid: 3
+      - text: bir nimet
+        cid: 8
+      - text: cennetine
+        cid: 7
+      - text: sokulacağını mı
+        cid: 5
+      - text: umuyor?
+        cid: 1
   - verse: 39
     segments:
-      - text: >-
-          Hayır, biz onları bildikleri şeyden yarattık.
-        cid: 0
+      - text: Hayır,
+        cid: 1
+      - text: biz
+        cid: 2
+      - text: onları
+        cid: 3
+      - text: bildikleri
+        cid: 5
+      - text: şeyden
+        cid: 4
+      - text: yarattık.
+        cid: 3
   - verse: 40
     segments:
-      - text: >-
-          Artık o doğuların ve batıların Rabbine yemine ne gerek, elbette bizim gücümüz
-          yeter.
-        cid: 0
+      - text: Artık o doğuların
+        cid: 4
+      - text: ve batıların
+        cid: 5
+      - text: Rabbine
+        cid: 3
+      - text: yemine ne gerek,
+        cid: 2
+      - text: elbette
+        cid: 6
+      - text: bizim gücümüz yeter.
+        cid: 7
   - verse: 41
     segments:
-      - text: >-
-          Onları kendilerinden daha hayırlı olanlarla değiştirebiliriz ve bizim önümüze
-          geçilmez.
+      - text: Onları
+        cid: 1
+      - text: kendilerinden
+        cid: 5
+      - text: daha hayırlı olanlarla
+        cid: 4
+      - text: değiştirebiliriz
+        cid: 1
+      - text: ve
         cid: 0
+      - text: bizim önümüze geçilmez.
+        cid: 8
   - verse: 42
     segments:
-      - text: >-
-          O halde bırak onları, kendilerine vaad edilen günlerine kavuşuncaya kadar dalıp
-          oynayadursunlar.
+      - text: O
         cid: 0
+      - text: halde bırak onları,
+        cid: 1
+      - text: kendilerine
+        cid: 7
+      - text: vaad
+        cid: 8
+      - text: edilen
+        cid: 7
+      - text: günlerine
+        cid: 6
+      - text: kavuşuncaya kadar
+        cid: 5
+      - text: dalıp
+        cid: 2
+      - text: oynayadursunlar.
+        cid: 3
   - verse: 43
     segments:
-      - text: >-
-          O gün kabirlerden hızlı hızlı çıkacaklar, sanki putlara gidiyorlarmış gibi
-          fırlayacaklar.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: kabirlerden
+        cid: 4
+      - text: hızlı hızlı
+        cid: 5
+      - text: çıkacaklar,
+        cid: 2
+      - text: sanki
+        cid: 6
+      - text: putlara gidiyorlarmış gibi fırlayacaklar.
+        cid: 8
   - verse: 44
     segments:
-      - text: >-
-          Gözleri düşük, kendilerini bir alçaklık saracak da saracak. İşte onlara vaad
-          edilen gün, o gündür.
-        cid: 0
+      - text: Gözleri
+        cid: 2
+      - text: düşük,
+        cid: 1
+      - text: kendilerini
+        cid: 3
+      - text: bir alçaklık saracak da saracak.
+        cid: 4
+      - text: İşte
+        cid: 5
+      - text: onlara vaad edilen
+        cid: 9
+      - text: gün, o gündür.
+        cid: 6

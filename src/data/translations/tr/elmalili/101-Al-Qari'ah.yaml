@@ -4,58 +4,115 @@ author: elmalili
 verses:
   - verse: 1
     segments:
-      - text: >-
-          Kâria! (Çarpacak kıyamet) Nedir o kâria? Kârianın ne olduğunu sen bilir misin?
+      - text: Kâria!
+        cid: 1
+      - text: (Çarpacak kıyamet) Nedir
         cid: 0
+      - text: o kâria? Kârianın
+        cid: 1
+      - text: ne olduğunu sen bilir
+        cid: 0
+      - text: misin?
+        cid: 1
   - verse: 2
     segments:
-      - text: >-
-          Kâria! (Çarpacak kıyamet) Nedir o kâria? Kârianın ne olduğunu sen bilir misin?
+      - text: Kâria! (Çarpacak kıyamet) Nedir o
+        cid: 0
+      - text: kâria? Kârianın
+        cid: 1
+      - text: ne olduğunu
+        cid: 2
+      - text: sen bilir misin?
         cid: 0
   - verse: 3
     segments:
-      - text: >-
-          Kâria! (Çarpacak kıyamet) Nedir o kâria? Kârianın ne olduğunu sen bilir misin?
+      - text: Kâria! (Çarpacak kıyamet)
+        cid: 0
+      - text: Nedir
+        cid: 1
+      - text: o kâria? Kârianın
+        cid: 0
+      - text: ne olduğunu
+        cid: 3
+      - text: sen bilir
+        cid: 2
+      - text: misin?
         cid: 0
   - verse: 4
     segments:
-      - text: >-
-          O gün insanlar yayılmış pervaneler gibi olurlar.
-        cid: 0
+      - text: O gün
+        cid: 1
+      - text: insanlar
+        cid: 3
+      - text: yayılmış
+        cid: 5
+      - text: pervaneler gibi olurlar.
+        cid: 4
   - verse: 5
     segments:
-      - text: >-
-          Dağlar atılmış renkli yünler gibi olur.
-        cid: 0
+      - text: Dağlar
+        cid: 2
+      - text: atılmış
+        cid: 4
+      - text: renkli yünler gibi olur.
+        cid: 3
   - verse: 6
     segments:
-      - text: >-
-          O gün kimin tartıları ağır basarsa o, hoşnut olacağı bir hayat içindedir.
+      - text: O gün
+        cid: 0
+      - text: kimin
+        cid: 2
+      - text: tartıları
+        cid: 4
+      - text: ağır basarsa
+        cid: 3
+      - text: o, hoşnut olacağı bir hayat içindedir.
         cid: 0
   - verse: 7
     segments:
-      - text: >-
-          O gün kimin tartıları ağır basarsa o, hoşnut olacağı bir hayat içindedir.
+      - text: O gün
+        cid: 1
+      - text: kimin tartıları ağır basarsa
         cid: 0
+      - text: o,
+        cid: 1
+      - text: hoşnut olacağı bir hayat
+        cid: 3
+      - text: içindedir.
+        cid: 2
   - verse: 8
     segments:
-      - text: >-
-          Kimin tartıları hafif gelirse, onun anası da (varacağı yer, sığınacağı durağı)
-          hâviye (uçurum)dır.
+      - text: Kimin
+        cid: 2
+      - text: tartıları
+        cid: 4
+      - text: hafif gelirse,
+        cid: 3
+      - text: onun anası da (varacağı yer, sığınacağı durağı) hâviye (uçurum)dır.
         cid: 0
   - verse: 9
     segments:
-      - text: >-
-          Kimin tartıları hafif gelirse, onun anası da (varacağı yer, sığınacağı durağı)
-          hâviye (uçurum)dır.
+      - text: Kimin tartıları hafif gelirse,
+        cid: 0
+      - text: onun anası da
+        cid: 1
+      - text: (varacağı yer, sığınacağı durağı)
+        cid: 0
+      - text: hâviye
+        cid: 2
+      - text: (uçurum)dır.
         cid: 0
   - verse: 10
     segments:
-      - text: >-
-          O uçurumun ne olduğunu sen nereden bileceksin?
+      - text: O
         cid: 0
+      - text: uçurumun ne olduğunu
+        cid: 3
+      - text: sen nereden bileceksin?
+        cid: 2
   - verse: 11
     segments:
-      - text: >-
-          O, kızgın bir ateştir.
-        cid: 0
+      - text: O, kızgın
+        cid: 2
+      - text: bir ateştir.
+        cid: 1
