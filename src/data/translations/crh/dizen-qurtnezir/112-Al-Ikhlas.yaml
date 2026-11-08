@@ -4,23 +4,35 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          De ki: O, Allah birdir. Allah sameddir. O, doğurmağan ve doğmağandır. Onıñ iç
-          bir teñeşi (beñzegeni) yoqtır. (Samed - iç bir şeyge muhtac olmağan, aksine er
-          şey oña muhtacdır, demektir).
+      - text: >-
+          De ki:
+        cid: 1
+      - text: O,
+        cid: 2
+      - text: Allah
+        cid: 3
+      - text: birdir.
+        cid: 4
+      - text: Allah sameddir.
+        cid: 0
+      - text: O,
+        cid: 2
+      - text: >-
+          doğurmağan ve doğmağandır. Onıñ iç bir teñeşi (beñzegeni) yoqtır. (Samed - iç bir
+          şeyge muhtac olmağan, aksine er şey oña muhtacdır, demektir).
         cid: 0
   - verse: 2
     segments:
-      - text: >
+      - text: >-
           [1 ayetine baq.]
         cid: 0
   - verse: 3
     segments:
-      - text: >
+      - text: >-
           [1 ayetine baq.]
         cid: 0
   - verse: 4
     segments:
-      - text: >
+      - text: >-
           [1 ayetine baq.]
         cid: 0

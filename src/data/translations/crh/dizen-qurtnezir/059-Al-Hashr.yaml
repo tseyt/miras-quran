@@ -4,220 +4,877 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Köklerde ve yerde olğanlarnıñ episi Allahnı tesbih etmekte. O, üstündir, ikmet
-          saibidir.
+      - text: Köklerde
+        cid: 5
+      - text: ve
         cid: 0
+      - text: yerde olğanlarnıñ episi
+        cid: 8
+      - text: Allahnı
+        cid: 2
+      - text: tesbih etmekte.
+        cid: 1
+      - text: O,
+        cid: 9
+      - text: üstündir,
+        cid: 10
+      - text: ikmet saibidir.
+        cid: 11
   - verse: 2
     segments:
-      - text: >
-          Ehl-i kitaptan inkâr etkenlerni ilk sürgünde yurtlarından çıqarğan Odır. Siz
-          olarnı çıqacaqlar bellemegen ediñiz. Olar da, qaleleri olarnı Allahtan
-          qorçalaycaq bellegen ediler. Amma, Allah (Onıñ azabı), olarğa beklemegen
-          yerlerinden kele qoydı. O, yüreklerine qorqu tüşürdi; öyle ki, evlerini em öz
-          ellerinen, em de mü'minlerniñ ellerinen harap etmekte ediler. Ey, aqıl saipleri!
-          İbret alıñ. (Allahnıñ Resulı Medinege kelgen vaqtında yeudiylerden Nadir
-          oğullarınen bitaraf qaluvları ükmini taşığan bir antlaşuv yapqan edi. Bedir
-          cenkinde musulmanlar ğalip kelgeninen, yeudiyler: Bu, Tevratta özüne zafer vade
-          etilgen peyğamberdir, dediler. Faqat Uhud cenkinden soñ, bütünley deñiştiler ve
-          antlaşuvnı bozdılar. Bularnıñ reberi Kâ'b b.Eşref, 40 suvariynen Mekkege barıp,
-          musulmanlarnıñ aleyhine Ebu Süfyannen birlik yaptı. Bunıñ üzerine, Az.Peyğamber
-          Ka'bniñ süt qardaşı Muhammed b. Meslemege emir bererek, bir gece onı evinde
-          öldürtti. Bundan soñ, Allahnıñ Resulı bir top askernen Nadir oğullarınıñ
-          köylerini sarıp aldı. Yurtlarını bıraqıp ketmelerini emir etti. Az.Peyğambernen
-          añlaşuv yapmaq istegenleri içün, sarım ortadan qaldırıldı. Çoqları Şamğa,
-          Erihağa, Ezreatqa, Hirağa, bir qaç ev de Hayberge kettiler. İşte, sureniñ
-          başından altıncı ayetniñ soñuna qadar olğan qısmınıñ nazil oluv sebebi budır).
+      - text: Ehl-i
+        cid: 7
+      - text: kitaptan
+        cid: 8
+      - text: inkâr
+        cid: 5
+      - text: etkenlerni
+        cid: 4
+      - text: ilk sürgünde
+        cid: 11
+      - text: yurtlarından
+        cid: 10
+      - text: çıqarğan Odır.
+        cid: 2
+      - text: Siz
+        cid: 14
+      - text: olarnı
+        cid: 15
+      - text: çıqacaqlar bellemegen
+        cid: 16
+      - text: ediñiz.
+        cid: 33
+      - text: Olar da,
+        cid: 17
+      - text: qaleleri
+        cid: 20
+      - text: olarnı
+        cid: 15
+      - text: Allahtan qorçalaycaq
+        cid: 21
+      - text: bellegen
+        cid: 14
+      - text: ediler.
+        cid: 33
+      - text: Amma,
+        cid: 23
+      - text: Allah
+        cid: 24
+      - text: (Onıñ azabı),
+        cid: 0
+      - text: olarğa beklemegen
+        cid: 23
+      - text: yerlerinden kele qoydı.
+        cid: 5
+      - text: O, yüreklerine
+        cid: 31
+      - text: qorqu
+        cid: 32
+      - text: tüşürdi;
+        cid: 29
+      - text: öyle
+        cid: 0
+      - text: ki, evlerini em
+        cid: 34
+      - text: öz ellerinen, em de
+        cid: 35
+      - text: mü'minlerniñ
+        cid: 37
+      - text: ellerinen
+        cid: 35
+      - text: harap etmekte ediler.
+        cid: 33
+      - text: Ey,
+        cid: 39
+      - text: aqıl
+        cid: 40
+      - text: saipleri!
+        cid: 39
+      - text: İbret alıñ.
+        cid: 38
+      - text: >-
+          (Allahnıñ Resulı Medinege kelgen vaqtında yeudiylerden Nadir oğullarınen bitaraf
+          qaluvları ükmini taşığan bir antlaşuv yapqan edi. Bedir cenkinde musulmanlar ğalip
+          kelgeninen, yeudiyler: Bu, Tevratta özüne zafer vade etilgen peyğamberdir, dediler.
+          Faqat Uhud cenkinden soñ, bütünley deñiştiler ve antlaşuvnı bozdılar. Bularnıñ
+          reberi Kâ'b b.Eşref, 40 suvariynen Mekkege barıp, musulmanlarnıñ aleyhine Ebu
+          Süfyannen birlik yaptı. Bunıñ üzerine, Az.Peyğamber Ka'bniñ süt qardaşı Muhammed b.
+          Meslemege emir bererek, bir gece onı evinde öldürtti. Bundan soñ, Allahnıñ Resulı
+          bir top askernen Nadir oğullarınıñ köylerini sarıp aldı. Yurtlarını bıraqıp
+          ketmelerini emir etti. Az.Peyğambernen añlaşuv yapmaq istegenleri içün, sarım
+          ortadan qaldırıldı. Çoqları Şamğa, Erihağa, Ezreatqa, Hirağa, bir qaç ev de Hayberge
+          kettiler. İşte, sureniñ başından altıncı ayetniñ soñuna qadar olğan qısmınıñ nazil
+          oluv sebebi budır).
         cid: 0
   - verse: 3
     segments:
-      - text: >
-          Eger Allah olarğa sürgünni yazmağan olsa edi, elbette olarnı dünyada (başqa
-          şekilde) cezalandıracaq edi. Ahirette de olar içün ceennem azabı bar.
+      - text: Eger
+        cid: 1
+      - text: Allah
+        cid: 4
+      - text: olarğa
+        cid: 5
+      - text: sürgünni
+        cid: 6
+      - text: yazmağan olsa
+        cid: 2
+      - text: edi, elbette
+        cid: 1
+      - text: olarnı
+        cid: 10
+      - text: dünyada
+        cid: 9
+      - text: (başqa şekilde)
         cid: 0
+      - text: cezalandıracaq
+        cid: 9
+      - text: edi.
+        cid: 1
+      - text: Ahirette de
+        cid: 11
+      - text: olar içün
+        cid: 10
+      - text: ceennem
+        cid: 14
+      - text: azabı
+        cid: 13
+      - text: bar.
+        cid: 10
   - verse: 4
     segments:
-      - text: >
-          Bu, olarnıñ Allahqa ve peyğamberine qarşı kelüvlerinden tolayıdır. Kim Allahqa
-          qarşı kelse, bilsin ki, Allahnıñ cezalandıruvı çetindir.
-        cid: 0
+      - text: Bu,
+        cid: 1
+      - text: olarnıñ Allahqa
+        cid: 10
+      - text: ve peyğamberine
+        cid: 5
+      - text: qarşı kelüvlerinden tolayıdır.
+        cid: 3
+      - text: Kim
+        cid: 6
+      - text: Allahqa
+        cid: 4
+      - text: qarşı kelse, bilsin ki,
+        cid: 3
+      - text: Allahnıñ
+        cid: 8
+      - text: cezalandıruvı
+        cid: 7
+      - text: çetindir.
+        cid: 11
   - verse: 5
     segments:
-      - text: >
-          Hurma tereklerinden, er angi birini kesüviñiz ya da olğanı kibi bıraquvıñız, ep
-          Allahnıñ izninendir ve onıñ yoldan çıqqanlarnı rezil etüvi içündir. (Ayet
-          musulmanlar yeudiylerniñ hurma tereklerinden bir qısmını keskenleri sebebinden,
-          ortağa çıqqan sıqıntılı vaziyetlerini ketkizmek içün nazil olğan. Böyle ki,
-          Allah Resulı yeudiylerniñ hurmaları kesilip yaqıluvını emir etkeninen, olar: YA
+      - text: Hurma tereklerinden, er angi
+        cid: 3
+      - text: birini
+        cid: 6
+      - text: kesüviñiz ya da
+        cid: 2
+      - text: olğanı kibi
+        cid: 10
+      - text: bıraquvıñız,
+        cid: 6
+      - text: ep
+        cid: 10
+      - text: Allahnıñ
+        cid: 11
+      - text: izninendir
+        cid: 10
+      - text: ve
+        cid: 5
+      - text: onıñ yoldan çıqqanlarnı rezil
+        cid: 13
+      - text: etüvi içündir.
+        cid: 10
+      - text: >-
+          (Ayet musulmanlar yeudiylerniñ hurma tereklerinden bir qısmını keskenleri
+          sebebinden, ortağa çıqqan sıqıntılı vaziyetlerini ketkizmek içün nazil olğan. Böyle
+          ki, Allah Resulı yeudiylerniñ hurmaları kesilip yaqıluvını emir etkeninen, olar: YA
           Muhammed! Sen yer yüzünde fesat çıqarmamaqnen emir olunğan ediñ! dediler. Bu
-          meselede bazı mü'minler bile şübege tüştiler. Bunıñ üzerine, bu ayet-i kerime
-          endi. Bu vaqiağa esaslanaraq, alimler özlerinen cenkleşken kâfirlerniñ qale ve
-          binalarınıñ yıqıluvında, terekleriniñ kesilüvinde bir saqınca olmağanı qanaatine
-          barğanlar).
+          meselede bazı mü'minler bile şübege tüştiler. Bunıñ üzerine, bu ayet-i kerime endi.
+          Bu vaqiağa esaslanaraq, alimler özlerinen cenkleşken kâfirlerniñ qale ve binalarınıñ
+          yıqıluvında, terekleriniñ kesilüvinde bir saqınca olmağanı qanaatine barğanlar).
         cid: 0
   - verse: 6
     segments:
-      - text: >
-          Allahnıñ, olardan (mallarından) peyğamberini bergen ğanimetleri içün, siz at ve
-          deve qoşturğan degilsiñiz, faqat Allah peyğamberlerini istegen kimselerge
-          nisbeten üstün yapar, Allah er şeyge qadirdir. (Medinege eki mil uzaqlıqta olğan
-          Nadir oğullarına qarşı yayan olaraq seferge çıqılğan ve zorluqnen qarşılaşmadan,
-          topraq elge keçirilgen, bu topraqnı Az.Peyğamberge ait diye qabul etilgen, o da
-          bunıñ özü, ailesiniñ keçinüvi ve bazı askeriy arclamalar içün elde tutqan, bir
-          qısmını da, ashabdan bazılarına dağıtqan).
+      - text: Allahnıñ,
+        cid: 3
+      - text: olardan
+        cid: 6
+      - text: (mallarından)
+        cid: 0
+      - text: peyğamberini
+        cid: 5
+      - text: bergen
+        cid: 2
+      - text: ğanimetleri içün,
+        cid: 6
+      - text: siz
+        cid: 7
+      - text: at
+        cid: 10
+      - text: ve
+        cid: 12
+      - text: deve qoşturğan degilsiñiz,
+        cid: 13
+      - text: faqat
+        cid: 14
+      - text: Allah
+        cid: 15
+      - text: peyğamberlerini
+        cid: 17
+      - text: istegen
+        cid: 20
+      - text: kimselerge nisbeten üstün yapar,
+        cid: 19
+      - text: Allah
+        cid: 21
+      - text: er
+        cid: 23
+      - text: şeyge
+        cid: 24
+      - text: qadirdir.
+        cid: 25
+      - text: >-
+          (Medinege eki mil uzaqlıqta olğan Nadir oğullarına qarşı yayan olaraq seferge
+          çıqılğan ve zorluqnen qarşılaşmadan, topraq elge keçirilgen, bu topraqnı
+          Az.Peyğamberge ait diye qabul etilgen, o da bunıñ özü, ailesiniñ keçinüvi ve bazı
+          askeriy arclamalar içün elde tutqan, bir qısmını da, ashabdan bazılarına dağıtqan).
         cid: 0
   - verse: 7
     segments:
-      - text: >
-          Allahnıñ, (fetih etilgen) ülkeler halqından peyğamberine bergen ğanimetleri,
-          Allah, Peyğamber, yaqınları, yetimler, yoqsullar ve yolda qlğanlar içündir.
-          Böylece, o mallar arañızdan yalıñız zenginler ortasında dolaşqan bir devlet
-          olmaz. Peyğamber sizge ne berdi ise, onı alıñ, sizge ne yasaqladı ise, ondan da
-          saqınıñ. Allahqtan qorquñ. Çünki, Allahnıñ azabı çetindir. (Yuqardaki ayetler
-          İslâm devletiniñ kelir menbalarından feyni ükümge bağlamaqta. Fey - duşmandan
-          silâ qullamandan elde etilgen kelirlerdir. Bu kelirler kütleniñ faydası. Nazarda
-          tutulmaq şartınen ve er angi bir sıñırlavğa tabiy olmadan, asker, memur
+      - text: Allahnıñ,
+        cid: 9
+      - text: (fetih etilgen)
+        cid: 0
+      - text: ülkeler
+        cid: 9
+      - text: halqından
+        cid: 6
+      - text: peyğamberine
+        cid: 26
+      - text: bergen
+        cid: 2
+      - text: ğanimetleri,
+        cid: 1
+      - text: Allah,
+        cid: 3
+      - text: Peyğamber,
+        cid: 26
+      - text: yaqınları, yetimler,
+        cid: 13
+      - text: yoqsullar
+        cid: 14
+      - text: ve yolda qlğanlar içündir.
+        cid: 16
+      - text: Böylece,
+        cid: 17
+      - text: o mallar
+        cid: 8
+      - text: arañızdan
+        cid: 21
+      - text: yalıñız
+        cid: 27
+      - text: zenginler ortasında
+        cid: 22
+      - text: dolaşqan bir devlet
+        cid: 20
+      - text: olmaz.
+        cid: 18
+      - text: Peyğamber
+        cid: 26
+      - text: sizge
+        cid: 25
+      - text: ne
+        cid: 24
+      - text: berdi
+        cid: 25
+      - text: ise, onı alıñ,
+        cid: 27
+      - text: sizge
+        cid: 29
+      - text: ne
+        cid: 28
+      - text: yasaqladı
+        cid: 29
+      - text: ise,
+        cid: 27
+      - text: ondan da
+        cid: 30
+      - text: saqınıñ.
+        cid: 31
+      - text: Allahqtan
+        cid: 33
+      - text: qorquñ.
+        cid: 32
+      - text: Çünki,
+        cid: 34
+      - text: Allahnıñ
+        cid: 35
+      - text: azabı çetindir.
+        cid: 37
+      - text: >-
+          (Yuqardaki ayetler İslâm devletiniñ kelir menbalarından feyni ükümge bağlamaqta. Fey
+          - duşmandan silâ qullamandan elde etilgen kelirlerdir. Bu kelirler kütleniñ faydası.
+          Nazarda tutulmaq şartınen ve er angi bir sıñırlavğa tabiy olmadan, asker, memur
           maaşları, qorçalanuv masrafları ve saireler kibi, devletniñ yapması kerek olğan
           bütün hızmetlerge sarf etilir).
         cid: 0
   - verse: 8
     segments:
-      - text: >
-          (Allah bergen bu ğanimet mallarnı) yurtlarından ve mallarından uzaqlaştırılğan,
-          Allahtan bir lütf ve rizalıq tilegen, Allahnıñ dinine ve Peyğamberine yardım
-          etken faqır muhacirlerniñdir. İşte, doğru olğanları bulardır.
+      - text: (Allah bergen bu ğanimet mallarnı)
         cid: 0
+      - text: yurtlarından
+        cid: 6
+      - text: ve mallarından uzaqlaştırılğan,
+        cid: 7
+      - text: Allahtan
+        cid: 14
+      - text: bir lütf
+        cid: 9
+      - text: ve rizalıq tilegen,
+        cid: 12
+      - text: Allahnıñ dinine
+        cid: 11
+      - text: ve Peyğamberine
+        cid: 15
+      - text: yardım etken
+        cid: 13
+      - text: faqır
+        cid: 1
+      - text: muhacirlerniñdir.
+        cid: 2
+      - text: İşte,
+        cid: 16
+      - text: doğru
+        cid: 18
+      - text: olğanları bulardır.
+        cid: 2
   - verse: 9
     segments:
-      - text: >
-          Daa evelden Medineni yurt etken ve goñülerine imannı yerleştirgen kimseler,
-          özlerine köçüp kelgenlerni severler ve olarğa berilgenlerden tolayı, aralarında
-          bir raatsızlıq is etmezler. Özleri zaruret içinde olsalar bile, olarnı
-          özlerinden üstün tutarlar. Kim nefsiniñ saranlığından qorçalanır ise, işte, olar
-          qurtulışqa irişkenlerdir. (Ensarnıñ muhacirlerge nisbeten areket ve davranuvı,
-          ayette beyan etilgen çerçive içinde ceryan etken, özleri muhtac olaraq,
-          başqalarınıñ itiyacını qandırmaq hisleti olğan «isaar» ensarda eñ yüksek
-          noqtasına yetken).
+      - text: Daa
+        cid: 21
+      - text: evelden
+        cid: 6
+      - text: Medineni yurt etken
+        cid: 3
+      - text: ve
+        cid: 11
+      - text: goñülerine
+        cid: 9
+      - text: imannı
+        cid: 4
+      - text: yerleştirgen
+        cid: 2
+      - text: kimseler,
+        cid: 1
+      - text: özlerine köçüp
+        cid: 10
+      - text: kelgenlerni
+        cid: 14
+      - text: severler
+        cid: 7
+      - text: ve
+        cid: 0
+      - text: olarğa berilgenlerden tolayı, aralarında bir raatsızlıq is etmezler.
+        cid: 17
+      - text: Özleri zaruret içinde
+        cid: 10
+      - text: olsalar bile,
+        cid: 22
+      - text: olarnı
+        cid: 5
+      - text: özlerinden üstün tutarlar.
+        cid: 10
+      - text: Kim
+        cid: 25
+      - text: nefsiniñ
+        cid: 28
+      - text: saranlığından
+        cid: 26
+      - text: qorçalanır ise,
+        cid: 27
+      - text: işte,
+        cid: 29
+      - text: olar
+        cid: 30
+      - text: qurtulışqa irişkenlerdir.
+        cid: 31
+      - text: >-
+          (Ensarnıñ muhacirlerge nisbeten areket ve davranuvı, ayette beyan etilgen çerçive
+          içinde ceryan etken, özleri muhtac olaraq, başqalarınıñ itiyacını qandırmaq hisleti
+          olğan «isaar» ensarda eñ yüksek noqtasına yetken).
         cid: 0
   - verse: 10
     segments:
-      - text: >
-          Bulardan soñ kelgenler böyle derler: Rabbimiz! Bizni ve bizden evel kelip-keçken
-          imanlı qardaşlarımıznı bağışla; kalplerimizde iman etkenlerge nisbeten iç bir
-          kin bıraqma! Rabbimiz! Şübesiz ki, sen çoq şefqatlı, çoq merhametlisiñ! (Muhacir
-          ve ensardan soñ kelgenler - qıyamıtke qadar kelgen ve kelecek mü'minlerdir.
-          Ashab-ı Kiramnı añmaq, olarğa til uzatmamaq ve kin beslememek kerekligi ayet
-          işaret etken hususlardır).
+      - text: Bulardan soñ kelgenler böyle
+        cid: 4
+      - text: >-
+          derler:
+        cid: 5
+      - text: Rabbimiz!
+        cid: 6
+      - text: Bizni
+        cid: 8
+      - text: ve
+        cid: 13
+      - text: bizden evel kelip-keçken
+        cid: 10
+      - text: imanlı
+        cid: 12
+      - text: qardaşlarımıznı
+        cid: 9
+      - text: bağışla;
+        cid: 7
+      - text: kalplerimizde
+        cid: 15
+      - text: iman etkenlerge nisbeten iç
+        cid: 19
+      - text: bir kin
+        cid: 17
+      - text: bıraqma!
+        cid: 14
+      - text: Rabbimiz!
+        cid: 20
+      - text: Şübesiz
+        cid: 0
+      - text: ki, sen
+        cid: 21
+      - text: çoq şefqatlı, çoq
+        cid: 22
+      - text: merhametlisiñ!
+        cid: 23
+      - text: >-
+          (Muhacir ve ensardan soñ kelgenler - qıyamıtke qadar kelgen ve kelecek mü'minlerdir.
+          Ashab-ı Kiramnı añmaq, olarğa til uzatmamaq ve kin beslememek kerekligi ayet işaret
+          etken hususlardır).
         cid: 0
   - verse: 11
     segments:
-      - text: >
-          Munafıqlarnıñ, kitap ehlinden inkâr etken dostlarına: Eger siz yurtuñızdan
-          çıqarılsañız, mıtlaqa biz de siznen beraber çıqarmız; siziñ aleyhiñizde kimsege
-          asla uymamız. Eger cenkke tutuşsañız, mıtlaqa yardım etermiz, degenlerini
-          körmediñmi? Allah olarnıñ yalancı olğanlarına şaatlıq eter. (Bu ayet,
-          munafıqlarnıñ reberi Abdulah b. Ubeyniñ, Nadir oğullarınen mektüpleşüvini ve
-          olarğa yardım hususında bergen işançnı haber bergen, bu tarafınen de, Qur'annıñ
+      - text: Munafıqlarnıñ, kitap
+        cid: 12
+      - text: ehlinden
+        cid: 10
+      - text: >-
+          inkâr etken dostlarına:
+        cid: 8
+      - text: Eger
+        cid: 13
+      - text: siz yurtuñızdan çıqarılsañız, mıtlaqa
+        cid: 14
+      - text: biz de
+        cid: 15
+      - text: siznen beraber
+        cid: 16
+      - text: çıqarmız;
+        cid: 14
+      - text: siziñ aleyhiñizde
+        cid: 19
+      - text: kimsege
+        cid: 20
+      - text: asla uymamız.
+        cid: 21
+      - text: Eger cenkke tutuşsañız, mıtlaqa
+        cid: 13
+      - text: yardım etermiz, degenlerini
+        cid: 24
+      - text: körmediñmi?
+        cid: 1
+      - text: Allah
+        cid: 25
+      - text: olarnıñ yalancı
+        cid: 28
+      - text: olğanlarına şaatlıq eter.
+        cid: 26
+      - text: >-
+          (Bu ayet, munafıqlarnıñ reberi Abdulah b. Ubeyniñ, Nadir oğullarınen mektüpleşüvini
+          ve olarğa yardım hususında bergen işançnı haber bergen, bu tarafınen de, Qur'annıñ
           mucize olğanına delâlet etken parlaq bir delildir).
         cid: 0
   - verse: 12
     segments:
-      - text: >
-          Ant olsun, eger olar çıqarılsalar, olarnen beraber çıqmazlar; cenkke tutuşqan
-          olsalar, olarğa yardım etmezler; yardım etseler bile, artlarına çevirlip
-          qaçarlar, soñra özlerine de yardım etilmez.
+      - text: Ant olsun,
+        cid: 6
+      - text: eger
+        cid: 1
+      - text: olar çıqarılsalar,
+        cid: 2
+      - text: olarnen beraber
+        cid: 5
+      - text: çıqmazlar;
+        cid: 4
+      - text: cenkke tutuşqan
         cid: 0
+      - text: olsalar, olarğa
+        cid: 5
+      - text: yardım
+        cid: 16
+      - text: etmezler;
+        cid: 9
+      - text: yardım
+        cid: 16
+      - text: etseler bile, artlarına çevirlip
+        cid: 11
+      - text: qaçarlar,
+        cid: 12
+      - text: soñra
+        cid: 14
+      - text: özlerine de
+        cid: 15
+      - text: yardım etilmez.
+        cid: 16
   - verse: 13
     segments:
-      - text: >
-          Olarnıñ aralarında sizge nisbeten duyğan qorquları, Allahqa olğan qorqularından
-          daa şiddetlidir. Böyledir, çünki, olar añlamağan bir toplulıqtır. (Munafıqlarnıñ
-          Allahtan ziyade mü'minlerden qorqqanları, Allahnıñ olarğa nisbeten azabını
-          keçiktirüvinden ileri kelmektedir).
+      - text: Olarnıñ
+        cid: 0
+      - text: aralarında sizge nisbeten duyğan
+        cid: 1
+      - text: qorquları,
+        cid: 3
+      - text: Allahqa olğan
+        cid: 7
+      - text: qorqularından daa şiddetlidir.
+        cid: 3
+      - text: Böyledir,
+        cid: 8
+      - text: çünki, olar
+        cid: 9
+      - text: añlamağan
+        cid: 11
+      - text: bir toplulıqtır.
+        cid: 10
+      - text: >-
+          (Munafıqlarnıñ Allahtan ziyade mü'minlerden qorqqanları, Allahnıñ olarğa nisbeten
+          azabını keçiktirüvinden ileri kelmektedir).
         cid: 0
   - verse: 14
     segments:
-      - text: >
-          Olar muhkem şeerlerde ya da divarlar artında bulunmadan, siznen toplı alda
-          cenkleşalmazlar. Öz aralarındaki cenkleri ise çetindir. Sen olarnı
-          toplu-birlikli sanarsıñ, albuki qalpleri darma-dağındır. Böyledir, çünki olar
-          aqlını işletmegen bir toplulıqtır. (Yeudiy ve munafıqlar, Allah ve Resulınen
-          cenkke tutuşqan vaqıtlarında, qalplerine qorqu kire edi. Zaten, inançları zayıf,
-          ğayeleri bir-birine ters olğanı içün, toplu alda areket etalmaz ediler).
+      - text: Olar muhkem şeerlerde ya da divarlar
+        cid: 20
+      - text: artında bulunmadan,
+        cid: 10
+      - text: siznen
+        cid: 2
+      - text: toplı alda
+        cid: 3
+      - text: cenkleşalmazlar.
+        cid: 2
+      - text: Öz aralarındaki
+        cid: 13
+      - text: cenkleri ise
+        cid: 2
+      - text: çetindir.
+        cid: 14
+      - text: Sen
+        cid: 15
+      - text: olarnı
+        cid: 20
+      - text: toplu-birlikli
+        cid: 21
+      - text: sanarsıñ, albuki
+        cid: 15
+      - text: qalpleri darma-dağındır.
+        cid: 17
+      - text: Böyledir,
+        cid: 19
+      - text: çünki
+        cid: 20
+      - text: olar
+        cid: 3
+      - text: aqlını işletmegen
+        cid: 23
+      - text: bir toplulıqtır.
+        cid: 21
+      - text: >-
+          (Yeudiy ve munafıqlar, Allah ve Resulınen cenkke tutuşqan vaqıtlarında, qalplerine
+          qorqu kire edi. Zaten, inançları zayıf, ğayeleri bir-birine ters olğanı içün, toplu
+          alda areket etalmaz ediler).
         cid: 0
   - verse: 15
     segments:
-      - text: >
-          (Olarnıñ vaziyeti) özlerinden biraz evel keçken ve yapqanlarınıñ cezasını
-          tatqanlarnıñ vaziyeti kibidir. Olarğa elem berici bir azap bardır. (Yani
-          yeudiylerniñ vaziyeti, pek qısqa bir zaman evel, Bedirde mağlüp ve perişan olğan
-          müşriklerniñ vaziyetine beñzegendir).
+      - text: (Olarnıñ vaziyeti)
+        cid: 0
+      - text: özlerinden biraz evel keçken
+        cid: 4
+      - text: ve
+        cid: 0
+      - text: yapqanlarınıñ
+        cid: 8
+      - text: cezasını tatqanlarnıñ
+        cid: 7
+      - text: vaziyeti kibidir.
+        cid: 1
+      - text: Olarğa
+        cid: 9
+      - text: elem berici
+        cid: 11
+      - text: bir azap
+        cid: 10
+      - text: bardır.
+        cid: 9
+      - text: >-
+          (Yani yeudiylerniñ vaziyeti, pek qısqa bir zaman evel, Bedirde mağlüp ve perişan
+          olğan müşriklerniñ vaziyetine beñzegendir).
         cid: 0
   - verse: 16
     segments:
-      - text: >
-          Munafıqlarnıñ vaziyeti tıpqı şeytannıñ vaziyeti kibidir. Çünki, şeytan insanğa:
-          «İnkâr et», der. İnsan inkâr etkeninen de: Men senden uzaqım, çünki men
-          alemlerniñ Rabbi Allahtan qorqarım, der.
-        cid: 0
+      - text: Munafıqlarnıñ vaziyeti tıpqı
+        cid: 1
+      - text: şeytannıñ
+        cid: 2
+      - text: vaziyeti kibidir.
+        cid: 1
+      - text: Çünki,
+        cid: 5
+      - text: şeytan
+        cid: 2
+      - text: >-
+          insanğa:
+        cid: 5
+      - text: «İnkâr et», der.
+        cid: 8
+      - text: İnsan
+        cid: 5
+      - text: >-
+          inkâr etkeninen de:
+        cid: 8
+      - text: Men
+        cid: 10
+      - text: senden
+        cid: 12
+      - text: uzaqım,
+        cid: 11
+      - text: çünki
+        cid: 5
+      - text: men
+        cid: 13
+      - text: alemlerniñ
+        cid: 17
+      - text: Rabbi
+        cid: 16
+      - text: Allahtan
+        cid: 15
+      - text: qorqarım, der.
+        cid: 14
   - verse: 17
     segments:
-      - text: >
-          Niayet, ekisiniñ de soñu, içinde ebediy qalacaqları ateş olacaq. İşte, bu
-          zalımlarnıñ cezazıdır. (Bu yerde yoldan azğannen azdırğan ya da kâfirnen
-          şeytannıñ aqibeti beyan etilgen).
+      - text: Niayet, ekisiniñ
+        cid: 0
+      - text: de soñu, içinde
+        cid: 2
+      - text: ebediy
+        cid: 6
+      - text: qalacaqları ateş
+        cid: 5
+      - text: olacaq.
+        cid: 6
+      - text: İşte,
+        cid: 8
+      - text: bu zalımlarnıñ
+        cid: 10
+      - text: cezazıdır.
+        cid: 9
+      - text: >-
+          (Bu yerde yoldan azğannen azdırğan ya da kâfirnen şeytannıñ aqibeti beyan etilgen).
         cid: 0
   - verse: 18
     segments:
-      - text: >
-          Ey, iman etkenler! Allahtan qorquñ ve er kes yarınğa ne azırlağanına baqsın.
-          Allahtan qorquñ, çünki Allah, yapqanlarıñızdan haberdardır. («Yarın» - qıyamet
-          künü demektir).
+      - text: Ey,
+        cid: 1
+      - text: iman etkenler!
+        cid: 3
+      - text: Allahtan
+        cid: 12
+      - text: qorquñ
+        cid: 11
+      - text: ve er
+        cid: 0
+      - text: kes yarınğa
+        cid: 10
+      - text: ne azırlağanına
+        cid: 8
+      - text: baqsın.
+        cid: 6
+      - text: Allahtan
+        cid: 5
+      - text: qorquñ,
+        cid: 11
+      - text: çünki
+        cid: 13
+      - text: Allah,
+        cid: 14
+      - text: yapqanlarıñızdan
+        cid: 17
+      - text: haberdardır.
+        cid: 15
+      - text: («Yarın» - qıyamet künü demektir).
         cid: 0
   - verse: 19
     segments:
-      - text: >
-          Allahnı unutqan ve bu sebepten, Allahnıñ da olarğa özlerini unutturğan kimseleri
-          kibi olmañ. Olar yoldan çıqqan kimselerdir.
-        cid: 0
+      - text: Allahnı
+        cid: 5
+      - text: unutqan
+        cid: 4
+      - text: ve bu sebepten,
+        cid: 1
+      - text: Allahnıñ da
+        cid: 5
+      - text: olarğa
+        cid: 6
+      - text: özlerini
+        cid: 7
+      - text: unutturğan
+        cid: 6
+      - text: kimseleri kibi
+        cid: 3
+      - text: olmañ.
+        cid: 2
+      - text: Olar
+        cid: 9
+      - text: yoldan çıqqan
+        cid: 10
+      - text: kimselerdir.
+        cid: 3
   - verse: 20
     segments:
-      - text: >
-          Ceennem ehlinen cennet ehli bir olmaz. Cennet ehli isteklerine irişkenlerdir.
-        cid: 0
+      - text: Ceennem ehlinen
+        cid: 4
+      - text: cennet ehli bir olmaz.
+        cid: 8
+      - text: Cennet ehli isteklerine
+        cid: 6
+      - text: irişkenlerdir.
+        cid: 10
   - verse: 21
     segments:
-      - text: >
-          Eger biz bu Qur'annı bir dağğa endirse edik, muaqqaq ki, onı, Allah qorqusından
-          baş egerek, parça-parça olmuş körer ediñ. Bu misallerni insanlarğa tüşünsinler,
-          diye bermektemiz.
-        cid: 0
+      - text: Eger biz
+        cid: 2
+      - text: bu
+        cid: 3
+      - text: Qur'annı
+        cid: 4
+      - text: bir dağğa
+        cid: 5
+      - text: endirse edik, muaqqaq ki,
+        cid: 2
+      - text: onı,
+        cid: 7
+      - text: Allah
+        cid: 12
+      - text: qorqusından
+        cid: 10
+      - text: baş egerek,
+        cid: 8
+      - text: parça-parça olmuş
+        cid: 9
+      - text: körer ediñ.
+        cid: 7
+      - text: Bu
+        cid: 13
+      - text: misallerni
+        cid: 14
+      - text: insanlarğa
+        cid: 16
+      - text: tüşünsinler, diye bermektemiz.
+        cid: 18
   - verse: 22
     segments:
-      - text: >
-          O, öyle Allahtır ki, Ondan başqa tañrı yoqtır. Körülmegenni ve körülgenni
-          bilicidir. O, merhametlidir, bağışlayıcıdır. (Allah dünyanı, ahiretni, barnı ve
-          yoqnı bilicidir. Rahman ve Rahim isimleri rahmet kelimesinden türlengendir.
-          Rahman - Cenab-ı Haqnıñ rahmetiniñ bütün yaratılğanlarnı öz içine alğanını,
-          Rahim ise - qıyamet kününde yalıñız mü'minlerge yönelgenini ifade ete).
+      - text: O, öyle
+        cid: 1
+      - text: Allahtır ki,
+        cid: 2
+      - text: Ondan
+        cid: 7
+      - text: başqa
+        cid: 6
+      - text: tañrı
+        cid: 5
+      - text: yoqtır.
+        cid: 4
+      - text: Körülmegenni
+        cid: 9
+      - text: ve körülgenni
+        cid: 10
+      - text: bilicidir.
+        cid: 8
+      - text: O,
+        cid: 11
+      - text: merhametlidir, bağışlayıcıdır.
+        cid: 13
+      - text: >-
+          (Allah dünyanı, ahiretni, barnı ve yoqnı bilicidir. Rahman ve Rahim isimleri rahmet
+          kelimesinden türlengendir. Rahman - Cenab-ı Haqnıñ rahmetiniñ bütün yaratılğanlarnı
+          öz içine alğanını, Rahim ise - qıyamet kününde yalıñız mü'minlerge yönelgenini ifade
+          ete).
         cid: 0
   - verse: 23
     segments:
-      - text: >
-          O, öyle Allahtır ki, özünden başqa iç bir tañrı yoqtır. O, mülkniñ saibidir,
-          eksiklikten uzaqtır, selâmetlik berici, eminlik berici, közetip qorçalayıcıdır,
-          üstündir, istegenini mecburen yaptırğan, büyüklikte aqranı yoqtır. Allah,
-          müşriklerniñ ortaq qoşqan şeylerinden uzaqtır.
-        cid: 0
+      - text: O, öyle
+        cid: 1
+      - text: Allahtır ki, özünden
+        cid: 2
+      - text: başqa iç
+        cid: 6
+      - text: bir tañrı
+        cid: 5
+      - text: yoqtır.
+        cid: 4
+      - text: O, mülkniñ
+        cid: 1
+      - text: saibidir, eksiklikten
+        cid: 13
+      - text: uzaqtır,
+        cid: 18
+      - text: selâmetlik berici, eminlik
+        cid: 10
+      - text: berici, közetip qorçalayıcıdır,
+        cid: 11
+      - text: üstündir,
+        cid: 13
+      - text: istegenini mecburen yaptırğan, büyüklikte aqranı
+        cid: 14
+      - text: yoqtır.
+        cid: 4
+      - text: Allah, müşriklerniñ
+        cid: 17
+      - text: ortaq qoşqan şeylerinden
+        cid: 19
+      - text: uzaqtır.
+        cid: 16
   - verse: 24
     segments:
-      - text: >
-          O, yaratıcı, bar etici, şekil berici Allahtır. Eñ güzel isimler onıñdır.
-          Köklerde ve yerde olğanlar Onıñ şanını yüceltmektedirler. O, ğaliptir, ikmet
-          saibidir. (Haşr suresiniñ bu soñki üç ayetiniñ fazileti aqqında Peyğamberimiz
-          (a.s.) böyle buyurğan: Er kim sabaleyin üç kere «Euuzu
-          billâahi's-semiii'l-aliimi mine'ş-şey taani'r-raciim» degenden soñ, Haşr
-          suresiniñ soñundaki üç ayetni oqusa, Allah oña aqşamğa qadar bağışlanuvını
-          tileycek yetmiş biñ melek vazifelendirir. O kimse o künü ölse - şeit olaraq
-          ölür. Aqşamleyin oquğanğa da böyledir).
+      - text: O,
+        cid: 1
+      - text: yaratıcı,
+        cid: 3
+      - text: bar etici, şekil
+        cid: 4
+      - text: berici
+        cid: 5
+      - text: Allahtır.
+        cid: 2
+      - text: Eñ güzel
+        cid: 8
+      - text: isimler
+        cid: 7
+      - text: onıñdır.
+        cid: 6
+      - text: Köklerde
+        cid: 13
+      - text: ve yerde
+        cid: 14
+      - text: olğanlar Onıñ şanını yüceltmektedirler.
+        cid: 9
+      - text: O,
+        cid: 15
+      - text: ğaliptir,
+        cid: 16
+      - text: ikmet saibidir.
+        cid: 17
+      - text: >-
+          (Haşr suresiniñ bu soñki üç ayetiniñ fazileti aqqında Peyğamberimiz (a.s.) böyle
+          buyurğan: Er kim sabaleyin üç kere «Euuzu billâahi's-semiii'l-aliimi mine'ş-şey
+          taani'r-raciim» degenden soñ, Haşr suresiniñ soñundaki üç ayetni oqusa, Allah oña
+          aqşamğa qadar bağışlanuvını tileycek yetmiş biñ melek vazifelendirir. O kimse o künü
+          ölse - şeit olaraq ölür. Aqşamleyin oquğanğa da böyledir).
         cid: 0

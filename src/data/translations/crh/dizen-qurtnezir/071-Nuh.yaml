@@ -4,165 +4,413 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Olarğa yaqıcı bir azap kelmeden evel, qavmıñnı tenbiyele, diye Nuhnı öz qavmına
-          yolladıq.
-        cid: 0
+      - text: Olarğa yaqıcı
+        cid: 11
+      - text: bir azap kelmeden
+        cid: 13
+      - text: evel,
+        cid: 10
+      - text: qavmıñnı tenbiyele,
+        cid: 8
+      - text: diye
+        cid: 6
+      - text: Nuhnı
+        cid: 3
+      - text: öz
+        cid: 12
+      - text: qavmına
+        cid: 5
+      - text: yolladıq.
+        cid: 3
   - verse: 2
     segments:
-      - text: >
-          Nuh böyle dedi: Ey, qavmım! Şübeñiz olmasın ki, men sizni «Allahqa qullıq etiñ;
-          oña qarşı kelüvden saqınıñ ve maña itaat etiñ ki, Allah bir qısım günahlarıñıznı
-          bağışlasıñ ve sizni belli bir vadege qadar keçiktirsin (esapqa çekmeden
-          yaşatsın)» diyerek, ap-açıq tenbiyelegen bir kimseyim. Bilinmeli ki, Allahnıñ
-          tayin etken vadesi kelgeninen, artıq o keçiktirilmez. Keşke bilse ediñiz! («Bir
-          qısım günahlarıñıznı» denilir eken, imanğa kelmeden, evelki günahlarnıñ ya da
-          qul aqqından ğayrı günahlarnıñ közde tutulğanı tefsirlerde beyan etilgen).
+      - text: Nuh
+        cid: 0
+      - text: >-
+          böyle dedi:
+        cid: 1
+      - text: Ey, qavmım!
+        cid: 2
+      - text: Şübeñiz olmasın ki, men
+        cid: 3
+      - text: sizni
+        cid: 4
+      - text: >-
+          «Allahqa qullıq etiñ; oña qarşı kelüvden saqınıñ ve maña itaat etiñ ki, Allah bir
+          qısım günahlarıñıznı bağışlasıñ ve sizni belli bir vadege qadar keçiktirsin (esapqa
+          çekmeden yaşatsın)» diyerek,
+        cid: 0
+      - text: ap-açıq
+        cid: 6
+      - text: tenbiyelegen bir kimseyim.
+        cid: 5
+      - text: >-
+          Bilinmeli ki, Allahnıñ tayin etken vadesi kelgeninen, artıq o keçiktirilmez. Keşke
+          bilse ediñiz! («Bir qısım günahlarıñıznı» denilir eken, imanğa kelmeden, evelki
+          günahlarnıñ ya da qul aqqından ğayrı günahlarnıñ közde tutulğanı tefsirlerde beyan
+          etilgen).
         cid: 0
   - verse: 3
     segments:
-      - text: >
+      - text: >-
           [2 ayetine baq.]
         cid: 0
   - verse: 4
     segments:
-      - text: >
+      - text: >-
           [2 ayetine baq.]
         cid: 0
   - verse: 5
     segments:
-      - text: >
-          (Soñ Nuh:) Rabbim! dedi, doğrusı, men qavmımnı gece-kündüz (imanğa) davet ettim.
+      - text: (Soñ Nuh:)
         cid: 0
+      - text: Rabbim!
+        cid: 2
+      - text: dedi, doğrusı,
+        cid: 1
+      - text: men
+        cid: 3
+      - text: qavmımnı
+        cid: 5
+      - text: gece-kündüz
+        cid: 6
+      - text: (imanğa)
+        cid: 0
+      - text: davet ettim.
+        cid: 4
   - verse: 6
     segments:
-      - text: >
-          Faqat menim davetim, ancaq qaçuvlarını arttırdı.
-        cid: 0
+      - text: Faqat
+        cid: 1
+      - text: menim davetim,
+        cid: 3
+      - text: ancaq qaçuvlarını
+        cid: 5
+      - text: arttırdı.
+        cid: 2
   - verse: 7
     segments:
-      - text: >
-          Aqiqaten de, (imanğa kelüvleri ve böylece) günahlarını bağışlavıñ içün, olarnı
-          ne zaman davet etti isem, parmaqlarını qulaqalırına tıqadılar, (meni körmemek
-          içün) urbalarına büründiler, ayaq tirediler, kibirlendikçe kibirlendiler.
+      - text: Aqiqaten de, (imanğa kelüvleri ve böylece)
         cid: 0
+      - text: günahlarını bağışlavıñ içün,
+        cid: 4
+      - text: olarnı ne
+        cid: 5
+      - text: zaman
+        cid: 2
+      - text: davet etti isem,
+        cid: 3
+      - text: parmaqlarını
+        cid: 7
+      - text: qulaqalırına tıqadılar,
+        cid: 9
+      - text: (meni körmemek içün)
+        cid: 0
+      - text: urbalarına büründiler, ayaq tirediler,
+        cid: 11
+      - text: kibirlendikçe kibirlendiler.
+        cid: 14
   - verse: 8
     segments:
-      - text: >
-          Soñ men olarğa ayqıraraq davette bulundım.
-        cid: 0
+      - text: Soñ
+        cid: 1
+      - text: men
+        cid: 2
+      - text: olarğa ayqıraraq davette bulundım.
+        cid: 3
   - verse: 9
     segments:
-      - text: >
-          Soñ olarnen em açıq-açıqqa, em de gizli-gizli laf ettim.
-        cid: 0
+      - text: Soñ
+        cid: 1
+      - text: olarnen em
+        cid: 6
+      - text: açıq-açıqqa, em de
+        cid: 3
+      - text: gizli-gizli laf ettim.
+        cid: 5
   - verse: 10
     segments:
-      - text: >
-          Dedim ki: Rabbiñizden mağfiret tileñ; çünki O, çoq bağışlayıcıdır.
-        cid: 0
+      - text: >-
+          Dedim ki:
+        cid: 1
+      - text: Rabbiñizden
+        cid: 3
+      - text: mağfiret tileñ;
+        cid: 2
+      - text: çünki O,
+        cid: 4
+      - text: çoq bağışlayıcıdır.
+        cid: 5
   - verse: 11
     segments:
-      - text: >
-          (Mağfiret tileñ ki) üzeriñizge kökten bol-bol yağmur yağdırsın.
+      - text: (Mağfiret tileñ ki)
         cid: 0
+      - text: üzeriñizge
+        cid: 3
+      - text: kökten
+        cid: 2
+      - text: bol-bol yağmur yağdırsın.
+        cid: 4
   - verse: 12
     segments:
-      - text: >
-          Mallarıñıznı ve oğullarıñıznı çoqlaştırsın, sizge bağçalar ihsan etsin, siz içün
-          irmaqlar aqızsın.
-        cid: 0
+      - text: Mallarıñıznı
+        cid: 2
+      - text: ve oğullarıñıznı
+        cid: 3
+      - text: çoqlaştırsın,
+        cid: 2
+      - text: sizge bağçalar ihsan
+        cid: 5
+      - text: etsin,
+        cid: 1
+      - text: siz içün
+        cid: 8
+      - text: irmaqlar aqızsın.
+        cid: 9
   - verse: 13
     segments:
-      - text: >
-          Sizge ne olmaqta ki, Allahqa büyüklikni yaqıştıralmaysıñız?
-        cid: 0
+      - text: Sizge
+        cid: 2
+      - text: ne olmaqta ki,
+        cid: 1
+      - text: Allahqa büyüklikni yaqıştıralmaysıñız?
+        cid: 5
   - verse: 14
     segments:
-      - text: >
-          Albuki, sizni türlü yaratılış devrelerinden keçirerek, O yaratqandır.
-        cid: 0
+      - text: Albuki, sizni türlü yaratılış devrelerinden keçirerek, O yaratqandır.
+        cid: 2
   - verse: 15
     segments:
-      - text: >
-          Körmediñizmi, Allah yedi kökni tabaqa-tabaqa olaraq nasıl yaratqan!
-        cid: 0
+      - text: Körmediñizmi,
+        cid: 1
+      - text: Allah
+        cid: 5
+      - text: yedi
+        cid: 6
+      - text: kökni
+        cid: 7
+      - text: tabaqa-tabaqa
+        cid: 8
+      - text: olaraq
+        cid: 2
+      - text: nasıl
+        cid: 3
+      - text: yaratqan!
+        cid: 4
   - verse: 16
     segments:
-      - text: >
-          Olarnıñ içinde aynı bir nur etken, küneşni de bir çıraq yapqan.
-        cid: 0
+      - text: Olarnıñ içinde
+        cid: 3
+      - text: aynı
+        cid: 6
+      - text: bir nur etken,
+        cid: 4
+      - text: küneşni de bir çıraq
+        cid: 6
+      - text: yapqan.
+        cid: 1
   - verse: 17
     segments:
-      - text: >
-          Allah sizni de yerden ot (çıqarğan) kibi çıqarğan.
+      - text: Allah
+        cid: 1
+      - text: sizni de
+        cid: 2
+      - text: yerden ot
+        cid: 4
+      - text: (çıqarğan)
         cid: 0
+      - text: kibi çıqarğan.
+        cid: 4
   - verse: 18
     segments:
-      - text: >
-          Soñ sizni kene o yerge döndürecek ve sizni yañıdan çıqaracaq.
+      - text: Soñ sizni kene o yerge döndürecek
+        cid: 1
+      - text: ve sizni
         cid: 0
+      - text: yañıdan çıqaracaq.
+        cid: 4
   - verse: 19
     segments:
-      - text: >
-          Allah, onda keniş yollar tutıp, dolaşa bilesiñiz diye, yer yüzüni siz içün bir
-          sergi yapqan.
+      - text: Allah,
+        cid: 1
+      - text: onda keniş yollar tutıp, dolaşa bilesiñiz diye,
         cid: 0
+      - text: yer yüzüni
+        cid: 4
+      - text: siz içün
+        cid: 3
+      - text: bir sergi
+        cid: 5
+      - text: yapqan.
+        cid: 2
   - verse: 20
     segments:
-      - text: >
+      - text: >-
           [19 ayetine baq.]
         cid: 0
   - verse: 21
     segments:
-      - text: >
-          (Ögütleriniñ fayda bermegeni üzerine) Nuh: Rabbim! dedi, doğrusı, bular maña
-          qarşı çıqtılar da, malı ve balası öz ziyanını arttıruvdan başqa işke yaramağan
-          kimsege uydılar. (Az. Nuh qavmınıñ malı, şanı ve evlâdı ile ğururlanğan
-          adamlarnıñ aşşalıq yollarına uyuvlarından şikâyet ete edi).
+      - text: (Ögütleriniñ fayda bermegeni üzerine)
+        cid: 0
+      - text: >-
+          Nuh:
+        cid: 2
+      - text: Rabbim!
+        cid: 3
+      - text: dedi, doğrusı,
+        cid: 1
+      - text: bular
+        cid: 6
+      - text: maña qarşı çıqtılar da,
+        cid: 5
+      - text: malı
+        cid: 10
+      - text: ve balası öz
+        cid: 11
+      - text: ziyanını
+        cid: 13
+      - text: arttıruvdan
+        cid: 8
+      - text: başqa işke yaramağan kimsege
+        cid: 12
+      - text: uydılar.
+        cid: 6
+      - text: >-
+          (Az. Nuh qavmınıñ malı, şanı ve evlâdı ile ğururlanğan adamlarnıñ aşşalıq yollarına
+          uyuvlarından şikâyet ete edi).
         cid: 0
   - verse: 22
     segments:
-      - text: >
-          Bular da, büyük iyleler, büyük tuzaqlar qurdılar!
+      - text: Bular
         cid: 0
+      - text: da, büyük
+        cid: 3
+      - text: iyleler,
+        cid: 2
+      - text: büyük
+        cid: 3
+      - text: tuzaqlar qurdılar!
+        cid: 1
   - verse: 23
     segments:
-      - text: >
-          Ve dediler ki: Saqın ilâhlarıñıznı bıraqmañ; Vedden, Suaadan, Yeguustan,
-          Yeuuqtan ve Nesirden asla vazgeçmeñ! (Bular o qavm tabınğan eñ müim putlarnıñ
-          adları edi).
+      - text: Ve
+        cid: 5
+      - text: >-
+          dediler ki:
+        cid: 1
+      - text: Saqın ilâhlarıñıznı
+        cid: 4
+      - text: bıraqmañ;
+        cid: 6
+      - text: Vedden, Suaadan,
+        cid: 7
+      - text: Yeguustan,
+        cid: 11
+      - text: Yeuuqtan
+        cid: 12
+      - text: ve
+        cid: 8
+      - text: Nesirden asla vazgeçmeñ!
+        cid: 13
+      - text: (Bular o qavm tabınğan eñ müim putlarnıñ adları edi).
         cid: 0
   - verse: 24
     segments:
-      - text: >
-          (Böylece) olar, aqiqaten bir çoqlarını saptırdılar. (Rabbim!) Sen de, bu
-          zalımlarnıñ ancaq şaşqınlıqlarını arttır! (Az. Nuh iman etkenlerden başqasınıñ
-          artıq kesen-kes yolğa kelmeycekleri oña vahiy etilgenden soñ, böyle bir tilek
-          ifadesini qullanğan).
+      - text: (Böylece) olar,
+        cid: 0
+      - text: aqiqaten bir çoqlarını saptırdılar.
+        cid: 3
+      - text: (Rabbim!)
+        cid: 0
+      - text: Sen de,
+        cid: 5
+      - text: bu zalımlarnıñ
+        cid: 6
+      - text: ancaq şaşqınlıqlarını
+        cid: 8
+      - text: arttır!
+        cid: 5
+      - text: >-
+          (Az. Nuh iman etkenlerden başqasınıñ artıq kesen-kes yolğa kelmeycekleri oña vahiy
+          etilgenden soñ, böyle bir tilek ifadesini qullanğan).
         cid: 0
   - verse: 25
     segments:
-      - text: >
-          Bular günahlarınıñ sebebinden, suvda boğuldılar, artından da, ateşke atıldılar
-          ve o vaqıtta Allahqa qarşı yardımcılar da tapalmadılar.
+      - text: Bular günahlarınıñ sebebinden, suvda
+        cid: 7
+      - text: boğuldılar, artından da,
+        cid: 3
+      - text: ateşke atıldılar
+        cid: 5
+      - text: ve o
         cid: 0
+      - text: vaqıtta Allahqa qarşı
+        cid: 11
+      - text: yardımcılar da
+        cid: 12
+      - text: tapalmadılar.
+        cid: 7
   - verse: 26
     segments:
-      - text: >
-          Nuh: «Rabbim! dedi, yer yüzünde kâfirlerden iç kimseni bıraqma!».
-        cid: 0
+      - text: >-
+          Nuh:
+        cid: 2
+      - text: «Rabbim!
+        cid: 3
+      - text: dedi,
+        cid: 1
+      - text: yer yüzünde
+        cid: 7
+      - text: kâfirlerden iç kimseni
+        cid: 9
+      - text: bıraqma!».
+        cid: 4
   - verse: 27
     segments:
-      - text: >
-          «Çünki sen olarnı bıraqsañ, qullarıñnı saptırırlar; yalıñız ahlâqsız, nankor
-          (insanlar) doğurırlar (yetiştirirler)».
+      - text: «Çünki sen
+        cid: 1
+      - text: olarnı bıraqsañ, qullarıñnı saptırırlar;
+        cid: 3
+      - text: yalıñız ahlâqsız, nankor
+        cid: 9
+      - text: (insanlar)
+        cid: 0
+      - text: doğurırlar
+        cid: 7
+      - text: (yetiştirirler)».
         cid: 0
   - verse: 28
     segments:
-      - text: >
-          «Rabbim! Meni, ana-babamnı, iman etmiş olaraq evime kirgenlerni, iman etken
-          erkeklerni ve iman etken qadınlarnı bağışla, zalımlarnıñ da, ancaq elâketini
-          arttır». (Tefsirlerde Az. Nuhnıñ evi - mescidi ya da gemisi ola bilecegi beyan
-          etilgen).
+      - text: «Rabbim!
+        cid: 1
+      - text: Meni,
+        cid: 3
+      - text: ana-babamnı,
+        cid: 4
+      - text: iman etmiş olaraq
+        cid: 8
+      - text: evime
+        cid: 7
+      - text: kirgenlerni,
+        cid: 6
+      - text: iman etken
+        cid: 8
+      - text: erkeklerni
+        cid: 9
+      - text: ve
+        cid: 11
+      - text: iman etken
+        cid: 8
+      - text: qadınlarnı
+        cid: 10
+      - text: bağışla,
+        cid: 2
+      - text: zalımlarnıñ da,
+        cid: 13
+      - text: ancaq elâketini
+        cid: 14
+      - text: arttır».
+        cid: 12
+      - text: >-
+          (Tefsirlerde Az. Nuhnıñ evi - mescidi ya da gemisi ola bilecegi beyan etilgen).
         cid: 0

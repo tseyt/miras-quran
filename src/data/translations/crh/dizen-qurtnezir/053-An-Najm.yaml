@@ -4,357 +4,705 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Batqan vaqtında yıldızğa ant olsun ki, arqadaşıñız (Muhammed) sapmadı ve batılğa
-          inanmadı; o arzusına köre de laf etmez.
+      - text: Batqan
+        cid: 0
+      - text: vaqtında yıldızğa ant olsun ki,
+        cid: 1
+      - text: >-
+          arqadaşıñız (Muhammed) sapmadı ve batılğa inanmadı; o arzusına köre de laf etmez.
         cid: 0
   - verse: 2
     segments:
-      - text: >
+      - text: >-
           [1 ayetine baq.]
         cid: 0
   - verse: 3
     segments:
-      - text: >
+      - text: >-
           [1 ayetine baq.]
         cid: 0
   - verse: 4
     segments:
-      - text: >
-          O (bildirgenleri) vahiy etilgenden başqa şey degil.
+      - text: O
+        cid: 2
+      - text: (bildirgenleri)
         cid: 0
+      - text: vahiy etilgenden
+        cid: 4
+      - text: başqa şey
+        cid: 3
+      - text: degil.
+        cid: 1
   - verse: 5
     segments:
-      - text: >
-          Çünki, onı küçlü-quvetli ve üstün yaratılışlı biri (Cebrail) ögretti. Soñra eñ
-          yüksek ufuqta olğanda, asıl şeklinen doğruldı.
+      - text: Çünki, onı küçlü-quvetli
+        cid: 1
+      - text: ve üstün yaratılışlı biri (Cebrail)
+        cid: 0
+      - text: ögretti.
+        cid: 1
+      - text: Soñra eñ yüksek ufuqta olğanda, asıl şeklinen doğruldı.
         cid: 0
   - verse: 6
     segments:
-      - text: >
+      - text: >-
           [5 ayetine baq.]
         cid: 0
   - verse: 7
     segments:
-      - text: >
+      - text: >-
           [5 ayetine baq.]
         cid: 0
   - verse: 8
     segments:
-      - text: >
-          Soñra (Muhammedge) yaqınlaştı, derken, daa da yaqınlaştı. O qadar ki
-          (birleştirilgen) eki yay arası qadar, atta daa da yaqın oldı.
+      - text: Soñra
+        cid: 1
+      - text: >-
+          (Muhammedge) yaqınlaştı, derken, daa da yaqınlaştı. O qadar ki (birleştirilgen) eki
+          yay arası qadar, atta daa da yaqın oldı.
         cid: 0
   - verse: 9
     segments:
-      - text: >
+      - text: >-
           [8 ayetine baq.]
         cid: 0
   - verse: 10
     segments:
-      - text: >
-          Bunıñ üzerine, Allah qulına vahiyini bildirdi. (Közlerinen) körgenini qalbi
-          yalanlamadı.
+      - text: Bunıñ
+        cid: 0
+      - text: üzerine, Allah qulına
+        cid: 3
+      - text: vahiyini bildirdi.
+        cid: 1
+      - text: (Közlerinen) körgenini qalbi yalanlamadı.
         cid: 0
   - verse: 11
     segments:
-      - text: >
+      - text: >-
           [10 ayetine baq.]
         cid: 0
   - verse: 12
     segments:
-      - text: >
-          Onıñ körgenleri aqqında şimdi onıñnen tartışacaqsıñızmı?
-        cid: 0
+      - text: Onıñ körgenleri
+        cid: 4
+      - text: aqqında şimdi
+        cid: 2
+      - text: onıñnen tartışacaqsıñızmı?
+        cid: 4
   - verse: 13
     segments:
-      - text: >
-          Ant olsun, onı Sidretu'l-Muntehaanıñ yanında evelde bir kere daa körgen edi.
+      - text: Ant olsun,
+        cid: 1
+      - text: onı
+        cid: 2
+      - text: Sidretu'l-Muntehaanıñ yanında evelde bir kere
         cid: 0
+      - text: daa körgen edi.
+        cid: 2
   - verse: 14
     segments:
-      - text: >
+      - text: >-
           [13 ayetine baq.]
         cid: 0
   - verse: 15
     segments:
-      - text: >
-          Cennetu'l-Me'vaa da onıñ yanındadır.
-        cid: 0
+      - text: Cennetu'l-Me'vaa da
+        cid: 2
+      - text: onıñ yanındadır.
+        cid: 1
   - verse: 16
     segments:
-      - text: >
-          Sidreni qaplağan qaplamış edi.
-        cid: 0
+      - text: Sidreni
+        cid: 3
+      - text: qaplağan qaplamış edi.
+        cid: 2
   - verse: 17
     segments:
-      - text: >
-          Közü qıyığından baqmadı ve sıñırnı aşmadı.
+      - text: Közü qıyığından baqmadı
+        cid: 3
+      - text: ve
         cid: 0
+      - text: sıñırnı aşmadı.
+        cid: 1
   - verse: 18
     segments:
-      - text: >
-          Ant olsun, o Rabbiniñ eñ büyük ayetlerinden bir qısmını kördi. (Sure yıldızğa
-          yeminnen başlanğan. Bu «yıldız» - yıldız cınsı, Sureyya yıldızı, Qur'an ayetleri
-          ve Az. Peyğamber şeklinde añlatılğan. Yıldıznıñ batuvı ve doğuvı qıyamet kününen
-          tefsir etilgen. Qur'an özüne vahiy etilgen Az. Peyğamber, doğru yoldan sapmağan
-          ve batılğa inanmağan. Oña engen Qur'an vahiyge esaslanmaqtadır. Vahiy ketirgen
-          Cebrail (a.s.)dır. İşte, bu melek bir qaç kere aslıy suretinde Az. Peyğamberge
-          körüngen. Aralarındaki mesafeniñ, ayette de bildirilgeni kibi, pek yaqın bir
-          vaqıtta, Cebrail vahiy etilgenlerni Peyğamberimizge bildirgen. Az. Peyğamberniñ
-          Cebrailnen körüşüvi Sidretu'l-Muntehaada olğan edi. Bazıları da,
-          Peyğamberimizniñ bu yerde körgeni Cenab-ı Haq olğanını da ileri süreler.
-          Sidretu'l-Muntehaa - soñki terek, yani yaratılğan alemniñ soñki noqtası
-          demektir. Bundan başqası Allahnıñ ğayb alemidir. Cennetu'l- Me'vaa da -
-          melekler, şeitler ve muttaqiylerniñ ruhları olğan yerdir. Sidredekilerni tarif
-          ve tavsif etmek mümkün degil. Sidreni qaplağannıñ - melekler ya da Allahnıñ nurı
-          olğanı rivayet etile).
+      - text: Ant olsun,
+        cid: 1
+      - text: o Rabbiniñ
+        cid: 5
+      - text: eñ büyük
+        cid: 6
+      - text: ayetlerinden bir qısmını
+        cid: 4
+      - text: kördi.
+        cid: 2
+      - text: >-
+          (Sure yıldızğa yeminnen başlanğan. Bu «yıldız» - yıldız cınsı, Sureyya yıldızı,
+          Qur'an ayetleri ve Az. Peyğamber şeklinde añlatılğan. Yıldıznıñ batuvı ve doğuvı
+          qıyamet kününen tefsir etilgen. Qur'an özüne vahiy etilgen Az. Peyğamber, doğru
+          yoldan sapmağan ve batılğa inanmağan. Oña engen Qur'an vahiyge esaslanmaqtadır.
+          Vahiy ketirgen Cebrail (a.s.)dır. İşte, bu melek bir qaç kere aslıy suretinde Az.
+          Peyğamberge körüngen. Aralarındaki mesafeniñ, ayette de bildirilgeni kibi, pek yaqın
+          bir vaqıtta, Cebrail vahiy etilgenlerni Peyğamberimizge bildirgen. Az. Peyğamberniñ
+          Cebrailnen körüşüvi Sidretu'l-Muntehaada olğan edi. Bazıları da, Peyğamberimizniñ bu
+          yerde körgeni Cenab-ı Haq olğanını da ileri süreler. Sidretu'l-Muntehaa - soñki
+          terek, yani yaratılğan alemniñ soñki noqtası demektir. Bundan başqası Allahnıñ ğayb
+          alemidir. Cennetu'l- Me'vaa da - melekler, şeitler ve muttaqiylerniñ ruhları olğan
+          yerdir. Sidredekilerni tarif ve tavsif etmek mümkün degil. Sidreni qaplağannıñ -
+          melekler ya da Allahnıñ nurı olğanı rivayet etile).
         cid: 0
   - verse: 19
     segments:
-      - text: >
-          Kördiñizmi o Laat ve Uzzaanı?
-        cid: 0
+      - text: Kördiñizmi
+        cid: 1
+      - text: o Laat
+        cid: 2
+      - text: ve Uzzaanı?
+        cid: 3
   - verse: 20
     segments:
-      - text: >
-          Ve üçüncileri olğan o birini, Menaatnı.
+      - text: Ve
         cid: 0
+      - text: üçüncileri olğan
+        cid: 2
+      - text: o birini,
+        cid: 3
+      - text: Menaatnı.
+        cid: 1
   - verse: 21
     segments:
-      - text: >
-          Demek, erkek sizge, ırğaçı Oña, öylemi?
-        cid: 0
+      - text: Demek, erkek
+        cid: 2
+      - text: sizge,
+        cid: 1
+      - text: ırğaçı
+        cid: 4
+      - text: Oña, öylemi?
+        cid: 3
   - verse: 22
     segments:
-      - text: >
-          O vaqıtta bu, insafsızca bir taqsimattır!
-        cid: 0
+      - text: O vaqıtta
+        cid: 2
+      - text: bu,
+        cid: 1
+      - text: insafsızca
+        cid: 4
+      - text: bir taqsimattır!
+        cid: 3
   - verse: 23
     segments:
-      - text: >
-          Bular (putlar), sizler ve atalarıñız taqqan isimlerden başqa bir şey degil.
-          Allah olar aqqında iç bir delil endirmegen. Olar, ancaq zanğa ve nefisleriniñ
-          arzusına uymaqtalar. Albuki, olarğa Rabbleri tarafından yol kösterici kelgendir.
+      - text: Bular
+        cid: 6
+      - text: (putlar),
         cid: 0
+      - text: sizler
+        cid: 6
+      - text: ve
+        cid: 0
+      - text: atalarıñız
+        cid: 5
+      - text: taqqan
+        cid: 7
+      - text: isimlerden
+        cid: 5
+      - text: başqa bir şey
+        cid: 3
+      - text: degil.
+        cid: 1
+      - text: Allah
+        cid: 10
+      - text: olar aqqında iç
+        cid: 11
+      - text: bir delil
+        cid: 7
+      - text: endirmegen.
+        cid: 8
+      - text: Olar,
+        cid: 15
+      - text: ancaq
+        cid: 16
+      - text: zanğa
+        cid: 17
+      - text: ve
+        cid: 0
+      - text: nefisleriniñ arzusına
+        cid: 20
+      - text: uymaqtalar.
+        cid: 15
+      - text: Albuki, olarğa
+        cid: 2
+      - text: Rabbleri
+        cid: 24
+      - text: tarafından
+        cid: 23
+      - text: yol kösterici kelgendir.
+        cid: 25
   - verse: 24
     segments:
-      - text: >
-          Yoqsa, insan er arzu etken şeyine saip olacaqmı?
-        cid: 0
+      - text: Yoqsa,
+        cid: 1
+      - text: insan
+        cid: 2
+      - text: er arzu etken şeyine saip olacaqmı?
+        cid: 4
   - verse: 25
     segments:
-      - text: >
-          Ahiret de, dünya da, Allahnıñdır.
-        cid: 0
+      - text: Ahiret de,
+        cid: 2
+      - text: dünya da,
+        cid: 3
+      - text: Allahnıñdır.
+        cid: 1
   - verse: 26
     segments:
-      - text: >
-          Köklerde nice melek bar ki, olarnıñ şefaatları, tilegen ve hoşnut olğan kimse
-          içün, Allahnıñ izin berüvinden ğayrı, bir işke yaramaz.
+      - text: Köklerde
+        cid: 5
+      - text: nice
+        cid: 1
+      - text: melek
+        cid: 2
+      - text: bar ki,
+        cid: 1
+      - text: olarnıñ şefaatları,
+        cid: 8
+      - text: tilegen
+        cid: 17
+      - text: ve hoşnut olğan
         cid: 0
+      - text: kimse içün,
+        cid: 16
+      - text: Allahnıñ
+        cid: 15
+      - text: izin berüvinden ğayrı, bir işke
+        cid: 13
+      - text: yaramaz.
+        cid: 6
   - verse: 27
     segments:
-      - text: >
-          Ahiretke inanmağanlar meleklerge ırğaçılarnıñ adlarını taqmaqtalar.
-        cid: 0
+      - text: Ahiretke
+        cid: 5
+      - text: inanmağanlar
+        cid: 4
+      - text: meleklerge
+        cid: 7
+      - text: ırğaçılarnıñ
+        cid: 9
+      - text: adlarını taqmaqtalar.
+        cid: 8
   - verse: 28
     segments:
-      - text: >
-          Albuki, olarnıñ bu hususta iç bilgileri yoqtır. Sadece zanğa uymaqtalar. Zan
-          ise, iç şübesiz, aqiqat noqtai nazarından, iç bir şey ifade etmez.
-        cid: 0
+      - text: Albuki, olarnıñ bu hususta iç
+        cid: 3
+      - text: bilgileri
+        cid: 5
+      - text: yoqtır.
+        cid: 1
+      - text: Sadece
+        cid: 8
+      - text: zanğa
+        cid: 9
+      - text: uymaqtalar.
+        cid: 7
+      - text: Zan ise, iç şübesiz,
+        cid: 11
+      - text: aqiqat noqtai nazarından, iç
+        cid: 15
+      - text: bir şey ifade etmez.
+        cid: 16
   - verse: 29
     segments:
-      - text: >
-          Şunıñ içün, sen bizni añuvdan yüz çevirgen ve dünya ayatından başqa bir şey
-          istemegen kimselerge yüz berme.
+      - text: Şunıñ içün,
         cid: 0
+      - text: sen bizni
+        cid: 5
+      - text: añuvdan
+        cid: 6
+      - text: yüz çevirgen
+        cid: 4
+      - text: ve
+        cid: 0
+      - text: dünya
+        cid: 11
+      - text: ayatından
+        cid: 10
+      - text: başqa bir şey
+        cid: 9
+      - text: istemegen
+        cid: 8
+      - text: kimselerge
+        cid: 2
+      - text: yüz berme.
+        cid: 1
   - verse: 30
     segments:
-      - text: >
-          İşte, olarnıñ irişe bilecek bilgileri budır. Şübesiz ki, seniñ Rabbiñ, ebet O,
-          yolundan sapqannı daa yahşı bilir; O, hidayette olğannı da çoq yahşı bilir.
-        cid: 0
+      - text: İşte,
+        cid: 1
+      - text: olarnıñ irişe bilecek
+        cid: 2
+      - text: bilgileri
+        cid: 3
+      - text: budır.
+        cid: 1
+      - text: Şübesiz ki,
+        cid: 5
+      - text: seniñ Rabbiñ, ebet
+        cid: 6
+      - text: O,
+        cid: 13
+      - text: yolundan
+        cid: 12
+      - text: sapqannı
+        cid: 10
+      - text: daa yahşı bilir;
+        cid: 8
+      - text: O, hidayette olğannı da
+        cid: 7
+      - text: çoq yahşı bilir.
+        cid: 14
   - verse: 31
     segments:
-      - text: >
-          Köklerde ve yerde olğanlar ep Allahnıñdır. Bu, Allahnıñ yamanlıq etkenlerni
-          yapqanlarınen cezalandıruvı, güzel areket etkenlerni de daa güzelinen
-          mükâfatlandıruvı içündir.
+      - text: Köklerde
+        cid: 4
+      - text: ve
         cid: 0
+      - text: yerde olğanlar
+        cid: 7
+      - text: ep Allahnıñdır. Bu, Allahnıñ
+        cid: 1
+      - text: yamanlıq
+        cid: 10
+      - text: etkenlerni
+        cid: 14
+      - text: yapqanlarınen
+        cid: 15
+      - text: cezalandıruvı,
+        cid: 8
+      - text: güzel areket
+        cid: 15
+      - text: etkenlerni de
+        cid: 9
+      - text: daa güzelinen
+        cid: 15
+      - text: mükâfatlandıruvı içündir.
+        cid: 13
   - verse: 32
     segments:
-      - text: >
-          Ufaq-tüfek qusurları istisna, büyük günahlardan ve edepsizliklerden
-          qaçınğanlarğa kelgende, bil ki, Rabbiñniñ avfı boldır. O, sizni daa topraqtan
-          yaratqan vaqtında ve siz analarıñıznıñ qarınlarında bulunğan sırañızda (bile),
-          sizni eñ yahşı bilicidir. Şunıñ içün özüñizni temizge çıqarmañ. Çünki, O,
-          yamanlıqtan saqınğannı daa yahşı bilir. (Az. Ademniñ topraqtan yaratılğanı,
-          insannıñ ana qarnındaki vaziyeti, aslındaki zayıflığı ve acizligi
-          hatırlatılaraq, özüni begenip, ğururğa qapılmaması istenilgendir).
+      - text: Ufaq-tüfek qusurları istisna,
+        cid: 5
+      - text: büyük
+        cid: 3
+      - text: günahlardan
+        cid: 4
+      - text: ve
+        cid: 0
+      - text: edepsizliklerden qaçınğanlarğa kelgende,
+        cid: 2
+      - text: bil ki,
+        cid: 13
+      - text: Rabbiñniñ avfı boldır.
+        cid: 9
+      - text: O,
+        cid: 12
+      - text: sizni
+        cid: 16
+      - text: daa
+        cid: 13
+      - text: topraqtan
+        cid: 18
+      - text: yaratqan vaqtında
+        cid: 16
+      - text: ve
+        cid: 0
+      - text: siz
+        cid: 20
+      - text: analarıñıznıñ
+        cid: 24
+      - text: qarınlarında bulunğan sırañızda
+        cid: 22
+      - text: (bile),
+        cid: 0
+      - text: sizni
+        cid: 16
+      - text: eñ yahşı bilicidir.
+        cid: 13
+      - text: Şunıñ
+        cid: 0
+      - text: içün özüñizni temizge çıqarmañ.
+        cid: 27
+      - text: Çünki, O, yamanlıqtan
+        cid: 28
+      - text: saqınğannı
+        cid: 31
+      - text: daa yahşı bilir.
+        cid: 29
+      - text: >-
+          (Az. Ademniñ topraqtan yaratılğanı, insannıñ ana qarnındaki vaziyeti, aslındaki
+          zayıflığı ve acizligi hatırlatılaraq, özüni begenip, ğururğa qapılmaması
+          istenilgendir).
         cid: 0
   - verse: 33
     segments:
-      - text: >
-          Kördiñmi artına qaytqannı?
-        cid: 0
+      - text: Kördiñmi artına qaytqannı?
+        cid: 1
   - verse: 34
     segments:
-      - text: >
-          Azaçıq berip, soñunda bermemekte tirelgenni?
-        cid: 0
+      - text: Azaçıq berip, soñunda bermemekte tirelgenni?
+        cid: 1
   - verse: 35
     segments:
-      - text: >
-          Aceba, ğaybnıñ bilgisi öz yanında da, körmektemi? (33-35-nci ayetlerniñ musulman
-          olğandan soñ, müşriklikke döngen Veliid b. Muğiire aqqında engeni rivayet
-          etile).
+      - text: Aceba, ğaybnıñ
+        cid: 3
+      - text: bilgisi
+        cid: 2
+      - text: öz yanında da,
+        cid: 1
+      - text: körmektemi?
+        cid: 5
+      - text: >-
+          (33-35-nci ayetlerniñ musulman olğandan soñ, müşriklikke döngen Veliid b. Muğiire
+          aqqında engeni rivayet etile).
         cid: 0
   - verse: 36
     segments:
-      - text: >
-          Yoqsa, Musanıñ ve ahtına vefa köstergen İbrahimniñ saifelerinde yazılğanlar oña
-          haber berilmedimi?
+      - text: Yoqsa,
+        cid: 1
+      - text: Musanıñ
+        cid: 7
+      - text: ve ahtına vefa köstergen İbrahimniñ saifelerinde yazılğanlar oña
         cid: 0
+      - text: haber
+        cid: 2
+      - text: berilmedimi?
+        cid: 3
   - verse: 37
     segments:
-      - text: >
+      - text: >-
           [36 ayetine baq.]
         cid: 0
   - verse: 38
     segments:
-      - text: >
-          Aqiqaten, iç bir günahkâr başqasınıñ günah yüküni yüklenalmaz.
+      - text: Aqiqaten,
         cid: 0
+      - text: iç bir günahkâr
+        cid: 3
+      - text: başqasınıñ
+        cid: 5
+      - text: günah yüküni
+        cid: 4
+      - text: yüklenalmaz.
+        cid: 1
   - verse: 39
     segments:
-      - text: >
-          Bilsin ki, insan içün öz çalışmasından başqa bir şey yoqtır.
+      - text: Bilsin
         cid: 0
+      - text: ki, insan içün öz
+        cid: 3
+      - text: çalışmasından
+        cid: 5
+      - text: başqa bir şey
+        cid: 4
+      - text: yoqtır.
+        cid: 2
   - verse: 40
     segments:
-      - text: >
-          Ve çalışuvı da, ileride körülecek.
+      - text: Ve
         cid: 0
+      - text: çalışuvı da, ileride
+        cid: 2
+      - text: körülecek.
+        cid: 4
   - verse: 41
     segments:
-      - text: >
-          Soñunda oña qarşılığı tas-tamam berilecek.
-        cid: 0
+      - text: Soñunda
+        cid: 1
+      - text: oña
+        cid: 2
+      - text: qarşılığı
+        cid: 3
+      - text: tas-tamam
+        cid: 4
+      - text: berilecek.
+        cid: 2
   - verse: 42
     segments:
-      - text: >
-          Ve, şübesiz, eñ soñki baruv Rabbiñedir. (Ayetlerde insannıñ esasen başqasınıñ
-          yapqanından bir fayda körmeycegi, çünki er kesniñ özü içün çalışqanı, çalışuvnıñ
-          neticeleri qıyamette körülecegi hatırlatıla).
+      - text: Ve,
+        cid: 0
+      - text: şübesiz, eñ soñki baruv
+        cid: 1
+      - text: Rabbiñedir.
+        cid: 3
+      - text: >-
+          (Ayetlerde insannıñ esasen başqasınıñ yapqanından bir fayda körmeycegi, çünki er
+          kesniñ özü içün çalışqanı, çalışuvnıñ neticeleri qıyamette körülecegi hatırlatıla).
         cid: 0
   - verse: 43
     segments:
-      - text: >
-          Doğrusı, küldirgen de, ağlatqan da, Odır.
-        cid: 0
+      - text: Doğrusı, küldirgen de,
+        cid: 3
+      - text: ağlatqan da, Odır.
+        cid: 4
   - verse: 44
     segments:
-      - text: >
-          Öldürgen de, tiriltken de Odır.
-        cid: 0
+      - text: Öldürgen de, tiriltken de Odır.
+        cid: 3
   - verse: 45
     segments:
-      - text: >
-          Şu yeri muaqqaq ki, (rahimge) qoyulğanda nutfeden, erkek ve ırğaçıdan ibaret
-          olğan eki çiftni O yarattı.
+      - text: Şu yeri muaqqaq ki, (rahimge) qoyulğanda nutfeden,
         cid: 0
+      - text: erkek
+        cid: 4
+      - text: ve
+        cid: 0
+      - text: ırğaçıdan ibaret
+        cid: 3
+      - text: olğan
+        cid: 0
+      - text: eki çiftni
+        cid: 3
+      - text: O
+        cid: 1
+      - text: yarattı.
+        cid: 2
   - verse: 46
     segments:
-      - text: >
+      - text: >-
           [45 ayetine baq.]
         cid: 0
   - verse: 47
     segments:
-      - text: >
-          Şübesiz, tekrar tiriltmek de Oña aittir.
-        cid: 0
+      - text: Şübesiz,
+        cid: 1
+      - text: tekrar tiriltmek de Oña aittir.
+        cid: 4
   - verse: 48
     segments:
-      - text: >
-          Zengin etken de, yoqsul yapqan da, Odır. (Ayetniñ ekinci qısımına «itiyacdan
-          qurtarğan» manası da berilgen).
+      - text: Zengin etken de, yoqsul yapqan da, Odır.
+        cid: 3
+      - text: (Ayetniñ ekinci qısımına «itiyacdan qurtarğan» manası da berilgen).
         cid: 0
   - verse: 49
     segments:
-      - text: >
-          Doğrusı, Şi'raa yıldızınıñ Rabbi de, Odır. (Şi'raa - Huzaa qabilesi tabınğan
-          parlaq bir yıldızdır).
+      - text: Doğrusı, Şi'raa yıldızınıñ
+        cid: 4
+      - text: Rabbi de, Odır.
+        cid: 3
+      - text: (Şi'raa - Huzaa qabilesi tabınğan parlaq bir yıldızdır).
         cid: 0
   - verse: 50
     segments:
-      - text: >
-          Ve, şübesiz ki, evelki Aad qavmını O elâk etti.
-        cid: 0
+      - text: Ve, şübesiz ki,
+        cid: 1
+      - text: evelki Aad
+        cid: 4
+      - text: qavmını
+        cid: 3
+      - text: O
+        cid: 1
+      - text: elâk etti.
+        cid: 2
   - verse: 51
     segments:
-      - text: >
-          Semuudnı da (O elâk etti) ve artta iç bir şey qaldırmadı.
+      - text: Semuudnı da
+        cid: 1
+      - text: (O elâk etti) ve artta iç bir şey qaldırmadı.
         cid: 0
   - verse: 52
     segments:
-      - text: >
-          Daa evelde çoq zalım ve ziyade adden aşqan Nuh qavmını (elâk etken edi).
+      - text: Daa
+        cid: 4
+      - text: evelde
+        cid: 3
+      - text: çoq zalım
+        cid: 8
+      - text: ve ziyade adden
+        cid: 0
+      - text: aşqan Nuh
+        cid: 2
+      - text: qavmını
+        cid: 1
+      - text: (elâk etken edi).
         cid: 0
   - verse: 53
     segments:
-      - text: >
-          Alt-üst olğan şeerlerni de, O böyle yaptı.
-        cid: 0
+      - text: Alt-üst olğan şeerlerni de, O böyle yaptı.
+        cid: 1
   - verse: 54
     segments:
-      - text: >
-          Olarnıñ başına ketirecegini ketirdi!
-        cid: 0
+      - text: Olarnıñ başına
+        cid: 2
+      - text: ketirecegini
+        cid: 3
+      - text: ketirdi!
+        cid: 1
   - verse: 55
     segments:
-      - text: >
-          Şimdi Rabbiñniñ nimetleriniñ angisinde şübege tüşersiñ.
-        cid: 0
+      - text: Şimdi Rabbiñniñ
+        cid: 3
+      - text: nimetleriniñ angisinde
+        cid: 2
+      - text: şübege tüşersiñ.
+        cid: 4
   - verse: 56
     segments:
-      - text: >
-          İşte, bu, ilk tenbiyecilerden bir tenbiyecidir. (Yuqarıdaki ayetlerde zikr
-          etilgen Aad, Semuud, Nuh ve Luut qavmları inkârları ve isyanlarınıñ cezasını
-          elâk etilerek çekkenlerdir. Bular içinde Az. Nuhnıñ qavmı, Aad ve Semuuddan daa
-          zalım ve yoldan azğan bir toplulıq edi. Çünki, Az. Nuh aralarında uzun yıllar
-          qalğanı alda, oña inanmağanlar ve olğanı qadar eziyet yapqan ediler. Az. Luut
-          qavmınıñ elâk etilüvi, bu qavmnıñ qasabaları kökke savurılğandan soñ,
+      - text: İşte, bu,
+        cid: 1
+      - text: ilk
+        cid: 5
+      - text: tenbiyecilerden bir tenbiyecidir.
+        cid: 2
+      - text: >-
+          (Yuqarıdaki ayetlerde zikr etilgen Aad, Semuud, Nuh ve Luut qavmları inkârları ve
+          isyanlarınıñ cezasını elâk etilerek çekkenlerdir. Bular içinde Az. Nuhnıñ qavmı, Aad
+          ve Semuuddan daa zalım ve yoldan azğan bir toplulıq edi. Çünki, Az. Nuh aralarında
+          uzun yıllar qalğanı alda, oña inanmağanlar ve olğanı qadar eziyet yapqan ediler. Az.
+          Luut qavmınıñ elâk etilüvi, bu qavmnıñ qasabaları kökke savurılğandan soñ,
           taşlanaraq, yernen bir etilüvnen kerçekleşken edi).
         cid: 0
   - verse: 57
     segments:
-      - text: >
-          Yaqlaşqan yaqlaştı.
-        cid: 0
+      - text: Yaqlaşqan
+        cid: 2
+      - text: yaqlaştı.
+        cid: 1
   - verse: 58
     segments:
-      - text: >
-          Onı (vaqıtnı) Allahtan başqa aşkâr etecek yoq.
+      - text: Onı
+        cid: 2
+      - text: (vaqıtnı)
         cid: 0
+      - text: Allahtan
+        cid: 5
+      - text: başqa aşkâr etecek
+        cid: 3
+      - text: yoq.
+        cid: 1
   - verse: 59
     segments:
-      - text: >
-          Şimdi siz bu sözge (Qur'anğa) şaşmaqtasıñızmı?
+      - text: Şimdi
         cid: 0
+      - text: siz bu sözge
+        cid: 2
+      - text: (Qur'anğa)
+        cid: 0
+      - text: şaşmaqtasıñızmı?
+        cid: 4
   - verse: 60
     segments:
-      - text: >
-          Külmektesiñiz de, ağlamaysıñız!
-        cid: 0
+      - text: Külmektesiñiz de,
+        cid: 1
+      - text: ağlamaysıñız!
+        cid: 3
   - verse: 61
     segments:
-      - text: >
-          Ve siz ğaflet içinde eglenmektesiñiz.
-        cid: 0
+      - text: Ve siz ğaflet içinde eglenmektesiñiz.
+        cid: 1
   - verse: 62
     segments:
-      - text: >
-          Aydı, Allahqa secde etip, Oña qullıq etiñ!
-        cid: 0
+      - text: Aydı,
+        cid: 1
+      - text: Allahqa
+        cid: 2
+      - text: secde etip, Oña
+        cid: 1
+      - text: qullıq etiñ!
+        cid: 3

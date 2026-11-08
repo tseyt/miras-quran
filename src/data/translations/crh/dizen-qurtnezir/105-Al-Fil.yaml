@@ -4,26 +4,43 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Rabbiñ fil saiplerine neler etti, körmediñmi?
-        cid: 0
+      - text: Rabbiñ
+        cid: 5
+      - text: fil
+        cid: 7
+      - text: saiplerine neler etti,
+        cid: 6
+      - text: körmediñmi?
+        cid: 1
   - verse: 2
     segments:
-      - text: >
-          Olarnıñ yaman qararlarını boşuna çıqrmadımı?
+      - text: Olarnıñ yaman
         cid: 0
+      - text: qararlarını boşuna
+        cid: 4
+      - text: çıqrmadımı?
+        cid: 1
   - verse: 3
     segments:
-      - text: >
-          Olarnıñ üstüne ebabil quşlarını yolladı.
-        cid: 0
+      - text: Olarnıñ üstüne
+        cid: 2
+      - text: ebabil
+        cid: 3
+      - text: quşlarını
+        cid: 4
+      - text: yolladı.
+        cid: 1
   - verse: 4
     segments:
-      - text: >
-          O quşlar olarnıñ üstlerine pişken toladan yapılğan taşlar ata edi.
+      - text: O quşlar olarnıñ üstlerine pişken toladan
         cid: 0
+      - text: yapılğan taşlar ata edi.
+        cid: 2
   - verse: 5
     segments:
-      - text: >
-          Böylece, Allah olarnı aşalıp, taptalğan ekinge çevirdi.
+      - text: Böylece,
         cid: 0
+      - text: Allah olarnı aşalıp, taptalğan
+        cid: 1
+      - text: ekinge çevirdi.
+        cid: 2

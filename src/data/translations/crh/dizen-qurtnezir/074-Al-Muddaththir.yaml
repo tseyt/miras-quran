@@ -4,308 +4,569 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Ey, örtünip bürüngen (Resulım)!
+      - text: Ey,
+        cid: 1
+      - text: örtünip bürüngen
+        cid: 2
+      - text: (Resulım)!
         cid: 0
   - verse: 2
     segments:
-      - text: >
-          Tur ve (insanlarnı) tenbiyele.
+      - text: Tur
+        cid: 2
+      - text: ve (insanlarnı)
         cid: 0
+      - text: tenbiyele.
+        cid: 1
   - verse: 3
     segments:
-      - text: >
-          Sadece Rabbiñni büyük tanı.
-        cid: 0
+      - text: Sadece Rabbiñni büyük tanı.
+        cid: 1
   - verse: 4
     segments:
-      - text: >
-          Urbañnı ter-temiz tut.
-        cid: 0
+      - text: Urbañnı ter-temiz
+        cid: 2
+      - text: tut.
+        cid: 1
   - verse: 5
     segments:
-      - text: >
-          Yaman şeylerni terk et.
-        cid: 0
+      - text: Yaman şeylerni terk
+        cid: 2
+      - text: et.
+        cid: 1
   - verse: 6
     segments:
-      - text: >
-          Yapqan eyiligiñni çoq körerek, közge türtme.
+      - text: Yapqan
         cid: 0
+      - text: eyiligiñni çoq körerek, közge türtme.
+        cid: 3
   - verse: 7
     segments:
-      - text: >
-          Rabbiñniñ rizasına irişmek içün sabır et.
-        cid: 0
+      - text: Rabbiñniñ rizasına irişmek içün
+        cid: 1
+      - text: sabır et.
+        cid: 2
   - verse: 8
     segments:
-      - text: >
-          O Suurğa üflengen vaqıt bar ya,
-        cid: 0
+      - text: O Suurğa
+        cid: 3
+      - text: üflengen vaqıt bar ya,
+        cid: 2
   - verse: 9
     segments:
-      - text: >
-          İşte, o kün zorlu bir kündir.
-        cid: 0
+      - text: İşte,
+        cid: 1
+      - text: o kün zorlu
+        cid: 2
+      - text: bir kündir.
+        cid: 3
   - verse: 10
     segments:
-      - text: >
-          Kâfirler içün (iç de) qolay degildir.
+      - text: Kâfirler içün
+        cid: 2
+      - text: (iç de)
         cid: 0
+      - text: qolay
+        cid: 2
+      - text: degildir.
+        cid: 3
   - verse: 11
     segments:
-      - text: >
-          Tek olaraq yaratıp, oña bol servet ve közü ögünde turğan oğullar berdigim, özü
-          içün (nimetlerni ögüne) serdikçe serdigim o kimseni maña bıraq!
+      - text: Tek olaraq
+        cid: 4
+      - text: yaratıp,
+        cid: 3
+      - text: >-
+          oña bol servet ve közü ögünde turğan oğullar berdigim, özü içün (nimetlerni ögüne)
+          serdikçe serdigim o kimseni maña
         cid: 0
+      - text: bıraq!
+        cid: 1
   - verse: 12
     segments:
-      - text: >
+      - text: >-
           [11 ayetine baq.]
         cid: 0
   - verse: 13
     segments:
-      - text: >
+      - text: >-
           [11 ayetine baq.]
         cid: 0
   - verse: 14
     segments:
-      - text: >
+      - text: >-
           [11 ayetine baq.]
         cid: 0
   - verse: 15
     segments:
-      - text: >
-          Bunıñ üstüne o (nimetlerimni) daa da arttıruvımnı ümüt etmekte.
+      - text: Bunıñ
         cid: 0
+      - text: üstüne o
+        cid: 3
+      - text: (nimetlerimni)
+        cid: 0
+      - text: daa da arttıruvımnı
+        cid: 3
+      - text: ümüt etmekte.
+        cid: 2
   - verse: 16
     segments:
-      - text: >
-          Asla (ümüt etmesin)! Çünki, o, bizim ayetlerimizge nisbeten tekmil inatçıdır.
+      - text: Asla
+        cid: 2
+      - text: (ümüt etmesin)!
         cid: 0
+      - text: Çünki, o,
+        cid: 2
+      - text: bizim ayetlerimizge nisbeten tekmil
+        cid: 4
+      - text: inatçıdır.
+        cid: 5
   - verse: 17
     segments:
-      - text: >
-          Men onı sarp bir yoquşqa tırmaştıracağım!
-        cid: 0
+      - text: Men onı sarp
+        cid: 1
+      - text: bir yoquşqa tırmaştıracağım!
+        cid: 2
   - verse: 18
     segments:
-      - text: >
-          Zira, o, tüşündi-taşındı, ölçedi, biçti.
-        cid: 0
+      - text: Zira, o,
+        cid: 1
+      - text: tüşündi-taşındı,
+        cid: 2
+      - text: ölçedi, biçti.
+        cid: 3
   - verse: 19
     segments:
-      - text: >
-          Canı çıqsın, ne şekilde ölçedi-biçti!
-        cid: 0
+      - text: Canı çıqsın, ne şekilde ölçedi-biçti!
+        cid: 3
   - verse: 20
     segments:
-      - text: >
-          Soñ canı çıqsın, tekrar (ölçedi-biçti); nasıl ölçedi-biçti ise!
+      - text: Soñ canı
+        cid: 1
+      - text: çıqsın, tekrar
+        cid: 4
+      - text: (ölçedi-biçti);
         cid: 0
+      - text: nasıl
+        cid: 3
+      - text: ölçedi-biçti ise!
+        cid: 4
   - verse: 21
     segments:
-      - text: >
-          Soñ baqtı. Soñ qaşlarını çattı, yüzüni ekşitti. Eñ soñunda kibrini yeñalmayıp,
-          arqa çevirdi de: «Bu (Qur'an) dedi, olsa-olsa (sihirbazlardan ögrenilip) naql
-          etilgen bir tılsımdır. Bu, insan sözünden başqa bir şey degil». (Rivayetke köre,
-          Velid b. Muğiireniñ Az. Peyğamber oquğan Qur'annı diñlegeninen, çoq
-          tesirlengenini añlağan Qureyş müşrikleri «Ey, vaah! dediler, Velid dininden
-          döngen. Artıq oña baqıp, bütün Qureyş dininden dönecek!». Bunıñ üzerine,
-          qardaşınıñ oğlu Ebu Cehil Velidge barıp, ğururına sığmaycaq sözlernen onı
-          qandırdı. Soñ birlikte müşriklerniñ yanına keldiler. Velid olarğa Az. Muhammed
-          (s.a.)ge «mecnun», «kâhin», «şair» ve «yalancı» lağaplarınen hitap etüvniñ yerli
-          olmaycağını añlattı; niayet, uzundan uzadiya tüşünip-taşınğan soñ:
-          «Olğan-olacağı o bir sihirbazdır. Körmeysiñizmi, insannı ailesinden, evlâdından,
-          hızmetkârından ayırmaqta», dedi. Müşrikler bu sözlerni çoq begendiler ve Az.
-          Peyğamberge «sihirbaz» diye hitap etmege başladılar. Bu, Resul-ı Ekremge ziyade
+      - text: Soñ
+        cid: 1
+      - text: baqtı.
+        cid: 2
+      - text: >-
+          Soñ qaşlarını çattı, yüzüni ekşitti. Eñ soñunda kibrini yeñalmayıp, arqa çevirdi de:
+          «Bu (Qur'an) dedi, olsa-olsa (sihirbazlardan ögrenilip) naql etilgen bir tılsımdır.
+          Bu, insan sözünden başqa bir şey degil». (Rivayetke köre, Velid b. Muğiireniñ Az.
+          Peyğamber oquğan Qur'annı diñlegeninen, çoq tesirlengenini añlağan Qureyş müşrikleri
+          «Ey, vaah! dediler, Velid dininden döngen. Artıq oña baqıp, bütün Qureyş dininden
+          dönecek!». Bunıñ üzerine, qardaşınıñ oğlu Ebu Cehil Velidge barıp, ğururına
+          sığmaycaq sözlernen onı qandırdı. Soñ birlikte müşriklerniñ yanına keldiler. Velid
+          olarğa Az. Muhammed (s.a.)ge «mecnun», «kâhin», «şair» ve «yalancı» lağaplarınen
+          hitap etüvniñ yerli olmaycağını añlattı; niayet, uzundan uzadiya tüşünip-taşınğan
+          soñ: «Olğan-olacağı o bir sihirbazdır. Körmeysiñizmi, insannı ailesinden,
+          evlâdından, hızmetkârından ayırmaqta», dedi. Müşrikler bu sözlerni çoq begendiler ve
+          Az. Peyğamberge «sihirbaz» diye hitap etmege başladılar. Bu, Resul-ı Ekremge ziyade
           toqundı).
         cid: 0
   - verse: 22
     segments:
-      - text: >
+      - text: >-
           [21 ayetine baq.]
         cid: 0
   - verse: 23
     segments:
-      - text: >
+      - text: >-
           [21 ayetine baq.]
         cid: 0
   - verse: 24
     segments:
-      - text: >
+      - text: >-
           [21 ayetine baq.]
         cid: 0
   - verse: 25
     segments:
-      - text: >
+      - text: >-
           [21 ayetine baq.]
         cid: 0
   - verse: 26
     segments:
-      - text: >
-          Men onı seqarğa (ceennem tübine) soqacam.
+      - text: Men onı
+        cid: 1
+      - text: seqarğa
+        cid: 2
+      - text: (ceennem tübine)
         cid: 0
+      - text: soqacam.
+        cid: 1
   - verse: 27
     segments:
-      - text: >
-          Sen seqar nedir bilesiñmi?
-        cid: 0
+      - text: Sen
+        cid: 2
+      - text: seqar nedir
+        cid: 4
+      - text: bilesiñmi?
+        cid: 2
   - verse: 28
     segments:
-      - text: >
-          Em (bütün bedenni elâk eter, iç bir şey) qaldırmaz, em (eski alğa ketirip,
-          tekrar azap etüvden) vazgeçmez o.
+      - text: Em
+        cid: 2
+      - text: (bütün bedenni elâk eter, iç bir şey)
         cid: 0
+      - text: qaldırmaz,
+        cid: 2
+      - text: em
+        cid: 3
+      - text: (eski alğa ketirip, tekrar azap etüvden)
+        cid: 0
+      - text: vazgeçmez
+        cid: 4
+      - text: o.
+        cid: 1
   - verse: 29
     segments:
-      - text: >
-          İnsannıñ terisini qavurır.
-        cid: 0
+      - text: İnsannıñ terisini
+        cid: 2
+      - text: qavurır.
+        cid: 1
   - verse: 30
     segments:
-      - text: >
-          Üzerinde on doquz (muhafız melek) bar.
+      - text: Üzerinde
+        cid: 1
+      - text: >-
+          on
+        cid: 3
+      - text: doquz
+        cid: 2
+      - text: (muhafız melek)
         cid: 0
+      - text: bar.
+        cid: 1
   - verse: 31
     segments:
-      - text: >
-          Biz ceennemniñ işlerine baqmaq ile, ancaq meleklerni vazifelendirgendirmiz.
-          Olarnıñ sayısını da inkârcılar içün sadece bir imtian (vesilesi) yaptıq ki,
-          böyleliknen, özlerine kitap berilgenler yahşıca ögrensin, iman etkenlerniñ
-          imanını arttırsın; em özlerine kitap berilgenler, em mü'minler şübelenmesinler,
-          qalplerinde hastalıq (maraz) olğanlar ve kâfirler de: «Allah bu misalnen ne
-          demek istegen?», desinler. İşte, Allah böylece istegenini sapıqlıqta bıraqır,
-          istegenini doğru yolğa iriştirir. Rabbiñniñ ordularını özünden başqası bilmez.
-          Bu ise, insanlıq içün ancaq bir ögüttir.
+      - text: Biz
+        cid: 2
+      - text: ceennemniñ işlerine baqmaq
+        cid: 4
+      - text: ile,
+        cid: 44
+      - text: ancaq meleklerni vazifelendirgendirmiz.
+        cid: 6
+      - text: Olarnıñ sayısını da
+        cid: 9
+      - text: inkârcılar içün sadece bir imtian
+        cid: 13
+      - text: (vesilesi)
         cid: 0
+      - text: yaptıq ki,
+        cid: 8
+      - text: böyleliknen,
+        cid: 39
+      - text: özlerine
+        cid: 16
+      - text: kitap
+        cid: 17
+      - text: berilgenler
+        cid: 16
+      - text: yahşıca ögrensin,
+        cid: 14
+      - text: iman etkenlerniñ
+        cid: 20
+      - text: imanını arttırsın;
+        cid: 21
+      - text: em özlerine
+        cid: 16
+      - text: kitap
+        cid: 17
+      - text: berilgenler, em
+        cid: 16
+      - text: mü'minler
+        cid: 27
+      - text: şübelenmesinler,
+        cid: 23
+      - text: qalplerinde
+        cid: 31
+      - text: hastalıq
+        cid: 32
+      - text: (maraz)
+        cid: 0
+      - text: olğanlar
+        cid: 31
+      - text: ve
+        cid: 22
+      - text: >-
+          kâfirler de:
+        cid: 33
+      - text: «Allah
+        cid: 36
+      - text: bu
+        cid: 37
+      - text: misalnen
+        cid: 38
+      - text: ne
+        cid: 34
+      - text: demek istegen?»,
+        cid: 35
+      - text: desinler.
+        cid: 28
+      - text: İşte,
+        cid: 39
+      - text: Allah
+        cid: 41
+      - text: böylece
+        cid: 39
+      - text: istegenini sapıqlıqta bıraqır,
+        cid: 43
+      - text: istegenini
+        cid: 46
+      - text: doğru yolğa iriştirir.
+        cid: 44
+      - text: Rabbiñniñ
+        cid: 50
+      - text: ordularını özünden
+        cid: 49
+      - text: başqası
+        cid: 51
+      - text: bilmez.
+        cid: 48
+      - text: Bu ise,
+        cid: 54
+      - text: insanlıq içün
+        cid: 57
+      - text: ancaq bir ögüttir.
+        cid: 55
   - verse: 32
     segments:
-      - text: >
-          Yoq, yoq (ögüt almazlar). Ayğa ant olsun ki,
+      - text: Yoq, yoq
+        cid: 1
+      - text: (ögüt almazlar).
         cid: 0
+      - text: Ayğa ant olsun ki,
+        cid: 1
   - verse: 33
     segments:
-      - text: >
-          Dönüp ketmekte olğan gecege,
+      - text: Dönüp ketmekte
+        cid: 2
+      - text: olğan
         cid: 0
+      - text: gecege,
+        cid: 1
   - verse: 34
     segments:
-      - text: >
-          Ağarmaqta olğan sabağa ant olsun ki,
-        cid: 0
+      - text: Ağarmaqta olğan
+        cid: 2
+      - text: sabağa ant olsun ki,
+        cid: 1
   - verse: 35
     segments:
-      - text: >
-          O (ceennem), insanlıq içün, sizden ileri ketmek ya da keri qalmaq istegen
-          kimseler içün, büyük tenbiyeleyici musibetlerden biridir.
+      - text: O
+        cid: 1
+      - text: >-
+          (ceennem), insanlıq içün, sizden ileri ketmek ya da keri qalmaq istegen kimseler
+          içün,
         cid: 0
+      - text: büyük tenbiyeleyici musibetlerden
+        cid: 3
+      - text: biridir.
+        cid: 2
   - verse: 36
     segments:
-      - text: >
+      - text: >-
           [35 ayetine baq.]
         cid: 0
   - verse: 37
     segments:
-      - text: >
+      - text: >-
           [35 ayetine baq.]
         cid: 0
   - verse: 38
     segments:
-      - text: >
-          Er nefis (insan) qazanğanına nisbeten bir rehindir;
+      - text: Er
+        cid: 1
+      - text: nefis
+        cid: 2
+      - text: (insan)
         cid: 0
+      - text: qazanğanına nisbeten
+        cid: 3
+      - text: bir rehindir;
+        cid: 5
   - verse: 39
     segments:
-      - text: >
-          Ancaq sağdakiler istisna. («Sağdakiler» aqqında baq. 56/16-nıñ manası).
+      - text: Ancaq sağdakiler istisna.
+        cid: 3
+      - text: («Sağdakiler» aqqında baq. 56/16-nıñ manası).
         cid: 0
   - verse: 40
     segments:
-      - text: >
-          Olar cennetler içindedir. Günahkârlarğa: Sizni şu yaqıcı ateşke soqqan nedir?
-          diye uzaqtan-uzaqqa sorarlar.
+      - text: Olar cennetler
+        cid: 2
+      - text: içindedir.
+        cid: 1
+      - text: >-
+          Günahkârlarğa: Sizni şu yaqıcı ateşke soqqan nedir? diye
         cid: 0
+      - text: uzaqtan-uzaqqa sorarlar.
+        cid: 3
   - verse: 41
     segments:
-      - text: >
+      - text: >-
           [40 ayetine baq.]
         cid: 0
   - verse: 42
     segments:
-      - text: >
+      - text: >-
           [40 ayetine baq.]
         cid: 0
   - verse: 43
     segments:
-      - text: >
-          Olar böyle cevap berirler: Biz namaz qılğanlardan degil edik,
-        cid: 0
+      - text: >-
+          Olar böyle cevap berirler:
+        cid: 5
+      - text: Biz
+        cid: 2
+      - text: namaz qılğanlardan
+        cid: 5
+      - text: degil
+        cid: 2
+      - text: edik,
+        cid: 3
   - verse: 44
     segments:
-      - text: >
-          Yoqsulnı toyurmay edik,
-        cid: 0
+      - text: Yoqsulnı toyurmay
+        cid: 4
+      - text: edik,
+        cid: 2
   - verse: 45
     segments:
-      - text: >
-          (Batılğa) dalğanlarnen birlikte dala edik,
+      - text: (Batılğa)
         cid: 0
+      - text: dalğanlarnen
+        cid: 2
+      - text: birlikte
+        cid: 3
+      - text: dala
+        cid: 4
+      - text: edik,
+        cid: 2
   - verse: 46
     segments:
-      - text: >
-          Ceza kününi de yalan saya edik,
-        cid: 0
+      - text: Ceza
+        cid: 4
+      - text: kününi de
+        cid: 3
+      - text: yalan saya edik,
+        cid: 2
   - verse: 47
     segments:
-      - text: >
-          Soñunda bizge ölüm keldi çattı.
-        cid: 0
+      - text: Soñunda bizge
+        cid: 2
+      - text: ölüm keldi
+        cid: 3
+      - text: çattı.
+        cid: 2
   - verse: 48
     segments:
-      - text: >
-          Artıq şefaatçılarnıñ şefaatı olarğa fayda bermez.
-        cid: 0
+      - text: Artıq
+        cid: 1
+      - text: şefaatçılarnıñ
+        cid: 4
+      - text: şefaatı
+        cid: 3
+      - text: olarğa fayda bermez.
+        cid: 2
   - verse: 49
     segments:
-      - text: >
-          Böyle eken, olarğa ne ola ki, sanki arslandan ürkip, qaçqan kiyik eşekler kibi
-          (alâ) ögütten yüz çevireler?
+      - text: Böyle
         cid: 0
+      - text: eken, olarğa
+        cid: 2
+      - text: ne ola ki,
+        cid: 1
+      - text: sanki arslandan ürkip, qaçqan kiyik eşekler kibi (alâ)
+        cid: 0
+      - text: ögütten
+        cid: 3
+      - text: yüz çevireler?
+        cid: 5
   - verse: 50
     segments:
-      - text: >
+      - text: >-
           [49 ayetine baq.]
         cid: 0
   - verse: 51
     segments:
-      - text: >
+      - text: >-
           [49 ayetine baq.]
         cid: 0
   - verse: 52
     segments:
-      - text: >
-          Daa doğrusı, olardan er biri, özüne, (ögünde) açılğan saifeler (ilâhiy vahiy)
-          berilgenni istey.
+      - text: Daa doğrusı,
+        cid: 8
+      - text: olardan
+        cid: 5
+      - text: er biri,
+        cid: 3
+      - text: özüne,
+        cid: 6
+      - text: (ögünde)
         cid: 0
+      - text: açılğan
+        cid: 9
+      - text: saifeler
+        cid: 8
+      - text: (ilâhiy vahiy)
+        cid: 0
+      - text: berilgenni
+        cid: 7
+      - text: istey.
+        cid: 2
   - verse: 53
     segments:
-      - text: >
-          Yoq! Aslında olar ahiretten qorqmaylar.
-        cid: 0
+      - text: Yoq!
+        cid: 1
+      - text: Aslında olar
+        cid: 3
+      - text: ahiretten
+        cid: 5
+      - text: qorqmaylar.
+        cid: 4
   - verse: 54
     segments:
-      - text: >
-          Asla (tüşüngenleri kibi degil)! Bilsinler ki, bu, aqiqaten bir tenbiyedir!
+      - text: Asla
+        cid: 2
+      - text: (tüşüngenleri kibi degil)!
         cid: 0
+      - text: Bilsinler ki,
+        cid: 2
+      - text: bu, aqiqaten bir
+        cid: 3
+      - text: tenbiyedir!
+        cid: 1
   - verse: 55
     segments:
-      - text: >
-          İstegen ondan (tüşünip) ögüt alır.
+      - text: İstegen ondan
+        cid: 2
+      - text: (tüşünip)
         cid: 0
+      - text: ögüt alır.
+        cid: 3
   - verse: 56
     segments:
-      - text: >
-          Bunıñnen beraber, Allah tilemeden, olar ögüt alalmazlar. Saqınılmağa lâyıq olğan
-          da Odır, mağfiret saibi de Odır.
+      - text: Bunıñnen
         cid: 0
+      - text: beraber, Allah
+        cid: 6
+      - text: tilemeden,
+        cid: 4
+      - text: olar ögüt alalmazlar.
+        cid: 2
+      - text: Saqınılmağa lâyıq
+        cid: 11
+      - text: olğan da
+        cid: 0
+      - text: Odır, mağfiret saibi de Odır.
+        cid: 11

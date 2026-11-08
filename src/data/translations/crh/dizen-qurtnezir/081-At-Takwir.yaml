@@ -4,150 +4,233 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Küneş qatlanıp tüyurilgende,
-        cid: 0
+      - text: Küneş qatlanıp tüyurilgende,
+        cid: 2
   - verse: 2
     segments:
-      - text: >
-          Yıldızlar (qararıp) tökülgende,
+      - text: Yıldızlar
+        cid: 2
+      - text: (qararıp)
         cid: 0
+      - text: tökülgende,
+        cid: 2
   - verse: 3
     segments:
-      - text: >
-          Dağlar (sallanıp) yürütilgende,
+      - text: Dağlar
+        cid: 2
+      - text: (sallanıp)
         cid: 0
+      - text: yürütilgende,
+        cid: 3
   - verse: 4
     segments:
-      - text: >
-          Balalaycaq develer başları boş qoyup yiberilgende,
-        cid: 0
+      - text: Balalaycaq develer
+        cid: 2
+      - text: başları boş qoyup yiberilgende,
+        cid: 3
   - verse: 5
     segments:
-      - text: >
-          Vahşiy ayvanlar toplanıp, bir yerge ketirilgende,
-        cid: 0
+      - text: Vahşiy ayvanlar
+        cid: 2
+      - text: toplanıp, bir yerge ketirilgende,
+        cid: 3
   - verse: 6
     segments:
-      - text: >
-          Deñizler qaynatılğanda,
-        cid: 0
+      - text: Deñizler
+        cid: 2
+      - text: qaynatılğanda,
+        cid: 3
   - verse: 7
     segments:
-      - text: >
-          Ruhlar (bedenlernen) birleştirilgende,
+      - text: Ruhlar
+        cid: 2
+      - text: (bedenlernen)
         cid: 0
+      - text: birleştirilgende,
+        cid: 1
   - verse: 8
     segments:
-      - text: >
-          Tirileyin topraqqa kömülgen qızğa, angi günah sebebinen, öldürilgeni soralğanda,
+      - text: Tirileyin topraqqa kömülgen qızğa,
+        cid: 2
+      - text: angi günah sebebinen, öldürilgeni
         cid: 0
+      - text: soralğanda,
+        cid: 3
   - verse: 9
     segments:
-      - text: >
+      - text: >-
           [8 ayetine baq.]
         cid: 0
   - verse: 10
     segments:
-      - text: >
-          (Ameller yazılı olğan) defterler açılğanda,
+      - text: (Ameller yazılı olğan)
         cid: 0
+      - text: defterler
+        cid: 2
+      - text: açılğanda,
+        cid: 3
   - verse: 11
     segments:
-      - text: >
-          Kök yüzü sökülip alınğanda,
-        cid: 0
+      - text: Kök yüzü sökülip alınğanda,
+        cid: 2
   - verse: 12
     segments:
-      - text: >
-          Ceennem tutaştırılğanda ve cennet yaqlaştırılğanda,
+      - text: Ceennem tutaştırılğanda
+        cid: 2
+      - text: ve cennet yaqlaştırılğanda,
         cid: 0
   - verse: 13
     segments:
-      - text: >
+      - text: >-
           [12 ayetine baq.]
         cid: 0
   - verse: 14
     segments:
-      - text: >
-          İnsan neler ketirgenini bilecek.
+      - text: İnsan neler
         cid: 0
+      - text: ketirgenini bilecek.
+        cid: 1
   - verse: 15
     segments:
-      - text: >
-          Yoq! Aqıp ketken, bir ğayıp olup, bir etrafnı aydınlatqan yıldızlarğa ant olsun,
+      - text: Yoq! Aqıp
+        cid: 1
+      - text: ketken, bir
+        cid: 2
+      - text: ğayıp olup,
+        cid: 3
+      - text: bir etrafnı aydınlatqan yıldızlarğa ant olsun,
         cid: 0
   - verse: 16
     segments:
-      - text: >
+      - text: >-
           [15 ayetine baq.]
         cid: 0
   - verse: 17
     segments:
-      - text: >
-          Qararmağa yüz tutqanda, gecege ant olsun,
+      - text: Qararmağa yüz
         cid: 0
+      - text: tutqanda, gecege ant olsun,
+        cid: 1
   - verse: 18
     segments:
-      - text: >
-          Ağarmağa başlağanda, sabağa ant olsun ki,
-        cid: 0
+      - text: Ağarmağa
+        cid: 1
+      - text: başlağanda,
+        cid: 3
+      - text: sabağa ant olsun ki,
+        cid: 1
   - verse: 19
     segments:
-      - text: >
-          O (Qur'an), şübesiz degerli, küçlü ve Arşnıñ saibi (Allahnıñ) qatında itibarlı
-          bir elçi (Cebrail) ketirgen sözdir.
+      - text: O
+        cid: 1
+      - text: (Qur'an),
         cid: 0
+      - text: şübesiz
+        cid: 1
+      - text: degerli,
+        cid: 4
+      - text: küçlü ve Arşnıñ saibi (Allahnıñ) qatında itibarlı
+        cid: 0
+      - text: bir elçi
+        cid: 3
+      - text: (Cebrail)
+        cid: 0
+      - text: ketirgen
+        cid: 3
+      - text: sözdir.
+        cid: 2
   - verse: 20
     segments:
-      - text: >
+      - text: >-
           [19 ayetine baq.]
         cid: 0
   - verse: 21
     segments:
-      - text: >
-          O, o yerde itibarlı, işanılğan (bir elçi)dir.
+      - text: O, o
+        cid: 2
+      - text: yerde itibarlı,
+        cid: 3
+      - text: işanılğan
+        cid: 1
+      - text: (bir elçi)dir.
         cid: 0
   - verse: 22
     segments:
-      - text: >
-          Arqadaşıñız (Muhammed) de mecnun degildir.
+      - text: Arqadaşıñız
+        cid: 2
+      - text: (Muhammed)
         cid: 0
+      - text: de mecnun
+        cid: 2
+      - text: degildir.
+        cid: 1
   - verse: 23
     segments:
-      - text: >
-          Ant olsun ki, onı (Cebrailni) ap-açıq ufuqta körgendir.
+      - text: Ant olsun ki,
+        cid: 1
+      - text: onı
+        cid: 2
+      - text: (Cebrailni)
         cid: 0
+      - text: ap-açıq
+        cid: 4
+      - text: ufuqta
+        cid: 3
+      - text: körgendir.
+        cid: 2
   - verse: 24
     segments:
-      - text: >
-          O, ğaybnıñ bilgilerini (sizden) gizlemez.
+      - text: O,
+        cid: 2
+      - text: ğaybnıñ bilgilerini
+        cid: 4
+      - text: (sizden)
         cid: 0
+      - text: gizlemez.
+        cid: 4
   - verse: 25
     segments:
-      - text: >
-          O lânetlengen şeytannıñ sözü de degildir.
-        cid: 0
+      - text: O lânetlengen
+        cid: 2
+      - text: şeytannıñ
+        cid: 4
+      - text: sözü de
+        cid: 3
+      - text: degildir.
+        cid: 1
   - verse: 26
     segments:
-      - text: >
-          Al böyle eken, ne yerge barmaqtasıñız.
-        cid: 0
+      - text: Al böyle eken, ne yerge
+        cid: 2
+      - text: barmaqtasıñız.
+        cid: 1
   - verse: 27
     segments:
-      - text: >
-          O, er kes içün, sizden doğru yolda yürmek istegenler içün, bir ögüttir.
+      - text: O, er kes içün, sizden
+        cid: 2
+      - text: doğru yolda yürmek istegenler içün,
         cid: 0
+      - text: bir ögüttir.
+        cid: 4
   - verse: 28
     segments:
-      - text: >
+      - text: >-
           [27 ayetine baq.]
         cid: 0
   - verse: 29
     segments:
-      - text: >
-          Alemlerniñ Rabbi Allah istemegence, siz istep olamazsıñız. (Ayetteki «ğayb» sözü
-          - duyğu azalarınen idrak etilalmağan ve faqat inanılması kerek olğan iman
-          esaslarını içine almaqta. Allah Resulı olar aqqında saranlıqnen davranmağanı,
-          yani er angi bir şeyni gizlemegeni izaatlanğan).
+      - text: Alemlerniñ
+        cid: 8
+      - text: Rabbi
+        cid: 7
+      - text: Allah
+        cid: 6
+      - text: istemegence, siz
+        cid: 2
+      - text: istep olamazsıñız.
+        cid: 4
+      - text: >-
+          (Ayetteki «ğayb» sözü - duyğu azalarınen idrak etilalmağan ve faqat inanılması kerek
+          olğan iman esaslarını içine almaqta. Allah Resulı olar aqqında saranlıqnen
+          davranmağanı, yani er angi bir şeyni gizlemegeni izaatlanğan).
         cid: 0

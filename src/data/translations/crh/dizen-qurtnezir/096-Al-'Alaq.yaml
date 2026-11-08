@@ -4,104 +4,157 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Yaratqan Rabbiñniñ adınen oqu! O, insannı bir aşlanğan yımırtadan yarattı.
+      - text: Yaratqan
+        cid: 0
+      - text: Rabbiñniñ
+        cid: 3
+      - text: adınen
+        cid: 2
+      - text: oqu!
+        cid: 1
+      - text: O, insannı bir aşlanğan yımırtadan yarattı.
         cid: 0
   - verse: 2
     segments:
-      - text: >
+      - text: >-
           [1 ayetine baq.]
         cid: 0
   - verse: 3
     segments:
-      - text: >
-          Oqu! İnsanğa bilmegenlerini bildirgen, qalemnen (yazmaqnı) ögretken Rabbiñ eñ
-          büyük kerem saibidir.
+      - text: Oqu!
+        cid: 1
+      - text: İnsanğa bilmegenlerini bildirgen, qalemnen (yazmaqnı) ögretken
         cid: 0
+      - text: Rabbiñ
+        cid: 2
+      - text: eñ büyük kerem saibidir.
+        cid: 3
   - verse: 4
     segments:
-      - text: >
+      - text: >-
           [3 ayetine baq.]
         cid: 0
   - verse: 5
     segments:
-      - text: >
+      - text: >-
           [3 ayetine baq.]
         cid: 0
   - verse: 6
     segments:
-      - text: >
-          Aqiqat şu ki, insan özüni özüne yeterli körerek, adden aşar. Şübesiz, dönüş
-          Rabbiñedir.
+      - text: Aqiqat şu
+        cid: 0
+      - text: ki, insan özüni
+        cid: 3
+      - text: özüne yeterli körerek, adden aşar.
+        cid: 0
+      - text: Şübesiz,
+        cid: 2
+      - text: dönüş Rabbiñedir.
         cid: 0
   - verse: 7
     segments:
-      - text: >
+      - text: >-
           [6 ayetine baq.]
         cid: 0
   - verse: 8
     segments:
-      - text: >
+      - text: >-
           [6 ayetine baq.]
         cid: 0
   - verse: 9
     segments:
-      - text: >
-          Namaz qılğanda bir qulnı (Peyğamberni namazdan) men etkenni kördiñmi? (Bu
-          ayetler Peyğamberimizge namaz qılğanda sataşqan Ebu Cehil aqqında engen. O ve
+      - text: Namaz qılğanda bir qulnı (Peyğamberni namazdan)
+        cid: 0
+      - text: men etkenni
+        cid: 3
+      - text: kördiñmi?
+        cid: 1
+      - text: >-
+          (Bu ayetler Peyğamberimizge namaz qılğanda sataşqan Ebu Cehil aqqında engen. O ve
           oña beñzegenler aqqında böyle buyurılmaqta:)
         cid: 0
   - verse: 10
     segments:
-      - text: >
+      - text: >-
           [9 ayetine baq.]
         cid: 0
   - verse: 11
     segments:
-      - text: >
-          Ne dersiñ, o (Peyğamber) doğru yolda ise, yahut taqvanı emir etmekte ise!
+      - text: Ne
+        cid: 0
+      - text: dersiñ, o
+        cid: 5
+      - text: (Peyğamber)
+        cid: 0
+      - text: doğru yolda ise,
+        cid: 5
+      - text: yahut taqvanı emir etmekte ise!
         cid: 0
   - verse: 12
     segments:
-      - text: >
+      - text: >-
           [11 ayetine baq.]
         cid: 0
   - verse: 13
     segments:
-      - text: >
-          Ne dersiñ, o (men etken, Peyğambreni) yalanlamaqta ve doğru yoldan yüz
-          çevirmekte ise!
+      - text: Ne
         cid: 0
+      - text: dersiñ, o
+        cid: 3
+      - text: (men etken, Peyğambreni)
+        cid: 0
+      - text: yalanlamaqta
+        cid: 3
+      - text: ve doğru
+        cid: 0
+      - text: yoldan yüz çevirmekte ise!
+        cid: 4
   - verse: 14
     segments:
-      - text: >
-          (Bu adam) Allahnıñ, (yapqanlarını) körgenini bilmezmi!
+      - text: (Bu adam)
         cid: 0
+      - text: Allahnıñ,
+        cid: 4
+      - text: (yapqanlarını)
+        cid: 0
+      - text: körgenini
+        cid: 5
+      - text: bilmezmi!
+        cid: 1
   - verse: 15
     segments:
-      - text: >
-          Yoq, yoq! Eger vazgeçmese, der'al onı mañlayından (perçeminden), o yalancı,
-          günahkâr mañlaydan (perçemden) yaqalarmız (ceennemge atarmız). O, aman barıp,
-          meclisini (özüniñ tarafdarlarını) çağırsın. Biz de zebaniylerni çağıracaqmız.
-          Yoq! Oña uyma! Allahqa secde et ve (yalıñız Oña) yaqlaş!
+      - text: Yoq, yoq!
+        cid: 1
+      - text: Eger
+        cid: 2
+      - text: vazgeçmese, der'al onı mañlayından
+        cid: 3
+      - text: (perçeminden), o yalancı, günahkâr mañlaydan (perçemden)
+        cid: 0
+      - text: yaqalarmız
+        cid: 5
+      - text: >-
+          (ceennemge atarmız). O, aman barıp, meclisini (özüniñ tarafdarlarını) çağırsın. Biz
+          de zebaniylerni çağıracaqmız. Yoq! Oña uyma! Allahqa secde et ve (yalıñız Oña)
+          yaqlaş!
         cid: 0
   - verse: 16
     segments:
-      - text: >
+      - text: >-
           [15 ayetine baq.]
         cid: 0
   - verse: 17
     segments:
-      - text: >
+      - text: >-
           [15 ayetine baq.]
         cid: 0
   - verse: 18
     segments:
-      - text: >
+      - text: >-
           [15 ayetine baq.]
         cid: 0
   - verse: 19
     segments:
-      - text: >
+      - text: >-
           [15 ayetine baq.]
         cid: 0

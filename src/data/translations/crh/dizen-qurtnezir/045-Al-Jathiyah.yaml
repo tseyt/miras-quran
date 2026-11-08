@@ -4,261 +4,949 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Haa. Miim.
-        cid: 0
+      - text: Haa. Miim.
+        cid: 1
   - verse: 2
     segments:
-      - text: >
-          Kitap, aziz ve hakim olğan Allah tarafından endirilgendir.
+      - text: Kitap,
+        cid: 2
+      - text: aziz
+        cid: 5
+      - text: ve hakim olğan
         cid: 0
+      - text: Allah
+        cid: 4
+      - text: tarafından
+        cid: 3
+      - text: endirilgendir.
+        cid: 1
   - verse: 3
     segments:
-      - text: >
-          Şübesiz, köklerde ve yerde inanğanlar içün bir çoq ayetler bardır. (Bu ayetler
-          Allahnıñ barlığını, birligini ve qudretini köstergen deliller ve işaretlerdir).
+      - text: Şübesiz,
+        cid: 1
+      - text: köklerde
+        cid: 3
+      - text: ve yerde
+        cid: 4
+      - text: inanğanlar içün bir çoq ayetler
+        cid: 6
+      - text: bardır.
+        cid: 5
+      - text: >-
+          (Bu ayetler Allahnıñ barlığını, birligini ve qudretini köstergen deliller ve
+          işaretlerdir).
         cid: 0
   - verse: 4
     segments:
-      - text: >
-          Siziñ yaratılışıñızda ve (Allahnıñ) yer yüzünde yayğan canlılarında, kesen-kes
-          olaraq, inanğan bir toplum içün, ibret berici işaretler bar. (Bu ibret berici
-          işartelerniñ eñ belli misali insannıñ ana rahimine tüşüvinden, insan şekline
-          kelüvine qadar yaratılışnıñ er devrinde körülgen meraq doğurıcı ösüşlerdir. Buña
-          beñzegen misaller er canlıda mevcuttir).
+      - text: Siziñ yaratılışıñızda
+        cid: 2
+      - text: ve (Allahnıñ)
+        cid: 0
+      - text: yer yüzünde
+        cid: 6
+      - text: yayğan
+        cid: 4
+      - text: canlılarında,
+        cid: 5
+      - text: kesen-kes olaraq, inanğan bir toplum içün,
+        cid: 9
+      - text: ibret berici işaretler bar.
+        cid: 7
+      - text: >-
+          (Bu ibret berici işartelerniñ eñ belli misali insannıñ ana rahimine tüşüvinden,
+          insan şekline kelüvine qadar yaratılışnıñ er devrinde körülgen meraq doğurıcı
+          ösüşlerdir. Buña beñzegen misaller er canlıda mevcuttir).
         cid: 0
   - verse: 5
     segments:
-      - text: >
-          Geceniñ ve kündüzniñ deñişüvinde, Allahnıñ kökten endirgen rızqında (yağmurda)
-          ve ölüminden soñ, yerni onıñnen tiriltüvinde, rüzgârlarnı çeşit taraflardan
-          estirüvinde, aqlını qullanğan toplum içün, dersler bardır.
+      - text: Geceniñ
+        cid: 2
+      - text: ve kündüzniñ deñişüvinde,
+        cid: 3
+      - text: Allahnıñ
+        cid: 6
+      - text: kökten
+        cid: 8
+      - text: endirgen
+        cid: 5
+      - text: rızqında
+        cid: 10
+      - text: (yağmurda) ve
         cid: 0
+      - text: ölüminden
+        cid: 15
+      - text: soñ,
+        cid: 14
+      - text: yerni
+        cid: 13
+      - text: onıñnen
+        cid: 12
+      - text: tiriltüvinde,
+        cid: 11
+      - text: rüzgârlarnı
+        cid: 17
+      - text: çeşit taraflardan estirüvinde,
+        cid: 16
+      - text: aqlını qullanğan
+        cid: 20
+      - text: toplum içün, dersler
+        cid: 19
+      - text: bardır.
+        cid: 18
   - verse: 6
     segments:
-      - text: >
-          İşte, saña, kerçek olaraq oqudığımız bular, Allahnıñ ayetleridir. Artıq,
-          Allahtan ve Onıñ ayetlerinden soñ, angi sözge inanacaqlar?
-        cid: 0
+      - text: İşte,
+        cid: 1
+      - text: saña,
+        cid: 5
+      - text: kerçek
+        cid: 6
+      - text: olaraq oqudığımız
+        cid: 4
+      - text: bular,
+        cid: 2
+      - text: Allahnıñ
+        cid: 3
+      - text: ayetleridir.
+        cid: 2
+      - text: Artıq, Allahtan
+        cid: 10
+      - text: ve Onıñ ayetlerinden
+        cid: 11
+      - text: soñ,
+        cid: 9
+      - text: angi
+        cid: 7
+      - text: sözge
+        cid: 8
+      - text: inanacaqlar?
+        cid: 12
   - verse: 7
     segments:
-      - text: >
-          Vay alına, er yalancı ve günahkâr kişiniñ!
+      - text: Vay alına,
+        cid: 1
+      - text: er
+        cid: 2
+      - text: yalancı
+        cid: 3
+      - text: ve
         cid: 0
+      - text: günahkâr kişiniñ!
+        cid: 4
   - verse: 8
     segments:
-      - text: >
-          O, Allahnıñ oña oqulğan ayetlerini eşitir de, soñ büyüklik taslayaraq, sanki iç
-          olarnı eşitmegen kibi (küfürinde) tirelir. İşte, onı accı bir azap ile müjdele!
+      - text: O,
+        cid: 1
+      - text: Allahnıñ
+        cid: 3
+      - text: oña
+        cid: 5
+      - text: oqulğan
+        cid: 4
+      - text: ayetlerini
+        cid: 2
+      - text: eşitir de,
+        cid: 1
+      - text: soñ
+        cid: 6
+      - text: büyüklik taslayaraq,
+        cid: 8
+      - text: sanki iç
+        cid: 9
+      - text: olarnı
+        cid: 10
+      - text: eşitmegen kibi
+        cid: 1
+      - text: (küfürinde)
         cid: 0
+      - text: tirelir.
+        cid: 1
+      - text: İşte, onı
+        cid: 12
+      - text: accı
+        cid: 14
+      - text: bir azap ile
+        cid: 13
+      - text: müjdele!
+        cid: 12
   - verse: 9
     segments:
-      - text: >
-          (O) ayetlerimizden bir şey ögrengen vaqtında, olarnen alay eter. Olar içün
-          alçaltıcı bir azap bar!
+      - text: (O)
         cid: 0
+      - text: ayetlerimizden
+        cid: 3
+      - text: bir şey
+        cid: 5
+      - text: ögrengen vaqtında, olarnen
+        cid: 2
+      - text: alay eter.
+        cid: 7
+      - text: Olar içün
+        cid: 8
+      - text: alçaltıcı
+        cid: 11
+      - text: bir azap
+        cid: 10
+      - text: bar!
+        cid: 9
   - verse: 10
     segments:
-      - text: >
-          Artlarında da ceennem bar. Qazanğan şeyleri de, Allahnı bıraqıp, tutunğan
-          dostaları da, olarğa iç bir fayda bermez. Büyük azap olarğadır. (Ayetten
-          añlaşılğanına köre, dünyadaki malları, evlâtları ve işlerinen tabınğan putları
-          olarğa bir fayda ketiralmaycaq, azaplarından qorçalap olamaycaq).
+      - text: Artlarında
+        cid: 0
+      - text: da ceennem
+        cid: 3
+      - text: bar.
+        cid: 17
+      - text: Qazanğan
+        cid: 7
+      - text: şeyleri de,
+        cid: 9
+      - text: Allahnı bıraqıp, tutunğan dostaları da,
+        cid: 15
+      - text: olarğa iç bir fayda bermez.
+        cid: 17
+      - text: Büyük
+        cid: 19
+      - text: azap
+        cid: 18
+      - text: olarğadır.
+        cid: 17
+      - text: >-
+          (Ayetten añlaşılğanına köre, dünyadaki malları, evlâtları ve işlerinen tabınğan
+          putları olarğa bir fayda ketiralmaycaq, azaplarından qorçalap olamaycaq).
         cid: 0
   - verse: 11
     segments:
-      - text: >
-          İşte, bu Qur'an bir hidayettir. Rabbleriniñ ayetlerini inkâr etkenlerge
-          kelgende, olarğa eñ yamanından, elem berici bir azap bardır.
-        cid: 0
+      - text: İşte, bu Qur'an bir hidayettir.
+        cid: 1
+      - text: Rabbleriniñ
+        cid: 6
+      - text: ayetlerini
+        cid: 5
+      - text: inkâr etkenlerge kelgende,
+        cid: 4
+      - text: olarğa
+        cid: 7
+      - text: eñ yamanından,
+        cid: 10
+      - text: elem
+        cid: 11
+      - text: berici
+        cid: 10
+      - text: bir azap
+        cid: 8
+      - text: bardır.
+        cid: 7
   - verse: 12
     segments:
-      - text: >
-          Allah o (yüce) varlıqtır ki, emrinen, içinde gemilerniñ yaldavı ve lütf etip
-          bergen rızıqnı qıdıruvıñız içün ve şükür etersiñiz diye, deñizni sizge azır alğa
-          ketirgen.
+      - text: Allah
+        cid: 1
+      - text: o
+        cid: 2
+      - text: (yüce)
         cid: 0
+      - text: varlıqtır ki,
+        cid: 2
+      - text: emrinen,
+        cid: 9
+      - text: içinde
+        cid: 8
+      - text: gemilerniñ
+        cid: 7
+      - text: yaldavı
+        cid: 6
+      - text: ve
+        cid: 0
+      - text: lütf etip bergen
+        cid: 12
+      - text: rızıqnı
+        cid: 6
+      - text: qıdıruvıñız içün
+        cid: 7
+      - text: ve
+        cid: 0
+      - text: şükür etersiñiz
+        cid: 14
+      - text: diye,
+        cid: 10
+      - text: deñizni
+        cid: 5
+      - text: sizge azır alğa ketirgen.
+        cid: 4
   - verse: 13
     segments:
-      - text: >
-          O, köklerde ve yerde ne bar ise, episini öz qatından (bir lütfi olmaq üzre)
-          sizge boyun egdirgen. Elbette, bunda tüşüngen bir toplum içün ibretler bar.
+      - text: O, köklerde
+        cid: 5
+      - text: ve
         cid: 0
+      - text: yerde ne
+        cid: 8
+      - text: bar ise,
+        cid: 12
+      - text: episini
+        cid: 9
+      - text: öz qatından
+        cid: 10
+      - text: (bir lütfi olmaq üzre)
+        cid: 0
+      - text: sizge
+        cid: 2
+      - text: boyun egdirgen.
+        cid: 1
+      - text: Elbette,
+        cid: 11
+      - text: bunda
+        cid: 13
+      - text: tüşüngen
+        cid: 16
+      - text: bir toplum içün
+        cid: 15
+      - text: ibretler
+        cid: 14
+      - text: bar.
+        cid: 12
   - verse: 14
     segments:
-      - text: >
-          İman etkenlerge söyle: Allahnıñ (ceza) künleri kelecegini ümüt etmegenler
-          bağışlasınlar. Çünki, Allah er toplumnı yapqanına köre cazalandıracaq. (Bu
-          ayetni, cihad üküminden evel nazil oluvınen izaatlağan tefsircilernen beraber,
-          bu yerde esas maqsatnıñ mü'minlerniñ şahsiy çekişüvlerden uzaq turuvlarını
-          telqin etmek olğanı da bildirilgen).
+      - text: İman etkenlerge
+        cid: 3
+      - text: >-
+          söyle:
+        cid: 1
+      - text: Allahnıñ
+        cid: 9
+      - text: (ceza)
+        cid: 0
+      - text: künleri kelecegini
+        cid: 8
+      - text: ümüt etmegenler bağışlasınlar.
+        cid: 7
+      - text: Çünki, Allah
+        cid: 9
+      - text: er toplumnı
+        cid: 11
+      - text: yapqanına köre cazalandıracaq.
+        cid: 14
+      - text: >-
+          (Bu ayetni, cihad üküminden evel nazil oluvınen izaatlağan tefsircilernen beraber,
+          bu yerde esas maqsatnıñ mü'minlerniñ şahsiy çekişüvlerden uzaq turuvlarını telqin
+          etmek olğanı da bildirilgen).
         cid: 0
   - verse: 15
     segments:
-      - text: >
-          Kim yahşı iş yapar ise, faydası özünedir. Kim de yaman iş yapar ise, zararı kene
-          özünedir. Soñ Rabbiñizge döndürileceksiñiz.
-        cid: 0
+      - text: Kim
+        cid: 5
+      - text: yahşı iş
+        cid: 3
+      - text: yapar
+        cid: 2
+      - text: ise, faydası özünedir.
+        cid: 4
+      - text: Kim de
+        cid: 5
+      - text: yaman
+        cid: 6
+      - text: iş
+        cid: 3
+      - text: yapar ise,
+        cid: 6
+      - text: zararı kene özünedir.
+        cid: 7
+      - text: Soñ
+        cid: 8
+      - text: Rabbiñizge
+        cid: 10
+      - text: döndürileceksiñiz.
+        cid: 11
   - verse: 16
     segments:
-      - text: >
-          Ant olsun ki, biz İsrail oğullarına kitap, üküm ve peyğamberlik berdik. Olarnı
-          güzel rızıqlarnen besledik ve olarnı dünyalarğa üstün yaptıq. (Aqiqaten, İsrail
-          oğullarına Tevrat endirilgen, üküm ve akimiyetleri teminlengen, Musa ve Harun
-          (a.s.) kibi peyğamberler yollanılğan, böylece, zamanlarınıñ belli toplumı olğan
-          ediler).
+      - text: Ant olsun ki,
+        cid: 1
+      - text: biz
+        cid: 2
+      - text: İsrail
+        cid: 4
+      - text: oğullarına
+        cid: 3
+      - text: kitap,
+        cid: 5
+      - text: üküm
+        cid: 6
+      - text: ve peyğamberlik
+        cid: 7
+      - text: berdik.
+        cid: 2
+      - text: Olarnı
+        cid: 8
+      - text: güzel
+        cid: 9
+      - text: rızıqlarnen
+        cid: 10
+      - text: besledik ve olarnı dünyalarğa
+        cid: 8
+      - text: üstün yaptıq.
+        cid: 11
+      - text: >-
+          (Aqiqaten, İsrail oğullarına Tevrat endirilgen, üküm ve akimiyetleri teminlengen,
+          Musa ve Harun (a.s.) kibi peyğamberler yollanılğan, böylece, zamanlarınıñ belli
+          toplumı olğan ediler).
         cid: 0
   - verse: 17
     segments:
-      - text: >
-          Din mevzusında da olarğa açıq deliller berdik. Amma, olar özlerine ilim
-          kelgenden soñ, aralarındaki asedçilikleri sebebinden, ihtilâfqa tüştiler.
-          Şübesiz, Rabbiñ ihtilâfqa tüşken şeyleri aqqında qıyamet künü aralarında üküm
-          berecek.
+      - text: Din mevzusında
         cid: 0
+      - text: da olarğa
+        cid: 1
+      - text: açıq deliller
+        cid: 2
+      - text: berdik.
+        cid: 1
+      - text: Amma, olar
+        cid: 18
+      - text: özlerine
+        cid: 10
+      - text: ilim
+        cid: 12
+      - text: kelgenden
+        cid: 11
+      - text: soñ,
+        cid: 9
+      - text: aralarındaki
+        cid: 14
+      - text: asedçilikleri sebebinden,
+        cid: 13
+      - text: ihtilâfqa tüştiler.
+        cid: 24
+      - text: Şübesiz,
+        cid: 15
+      - text: Rabbiñ
+        cid: 16
+      - text: ihtilâfqa tüşken
+        cid: 24
+      - text: şeyleri
+        cid: 21
+      - text: aqqında
+        cid: 24
+      - text: qıyamet
+        cid: 20
+      - text: künü
+        cid: 19
+      - text: aralarında
+        cid: 14
+      - text: üküm berecek.
+        cid: 17
   - verse: 18
     segments:
-      - text: >
-          Soñunda da seni din mevzusında bir şeriat saibi yaptıq. Sen oña uy;
-          bilmegenlerniñ isteklerine uyma. (Qureyşniñ ileri kelgenleri Az. Peyğamberni
-          devamlı olaraq, atalarınıñ dinine dönmege çağıra ve bunda israr ete ediler.
-          Ayet-i kerime uyılacaq dinniñ İslâm olğanını ve başqa isteklerge qapılmamaq
-          kerekligini hatırlatmaqta).
+      - text: Soñunda da
+        cid: 1
+      - text: seni din mevzusında
+        cid: 2
+      - text: bir şeriat saibi yaptıq.
+        cid: 4
+      - text: Sen oña uy;
+        cid: 7
+      - text: bilmegenlerniñ isteklerine
+        cid: 12
+      - text: uyma.
+        cid: 9
+      - text: >-
+          (Qureyşniñ ileri kelgenleri Az. Peyğamberni devamlı olaraq, atalarınıñ dinine
+          dönmege çağıra ve bunda israr ete ediler. Ayet-i kerime uyılacaq dinniñ İslâm
+          olğanını ve başqa isteklerge qapılmamaq kerekligini hatırlatmaqta).
         cid: 0
   - verse: 19
     segments:
-      - text: >
-          Çünki, olar Allahqa nisbeten, saña iç bir fayda bermezler, doğrusı, zalımlar
-          bir-birileriniñ dostlarıdır: Allah da taqva saipleriniñ dostudır.
-        cid: 0
+      - text: Çünki, olar
+        cid: 1
+      - text: Allahqa nisbeten,
+        cid: 6
+      - text: saña iç bir fayda bermezler, doğrusı,
+        cid: 4
+      - text: zalımlar
+        cid: 9
+      - text: >-
+          bir-birileriniñ dostlarıdır:
+        cid: 10
+      - text: Allah da taqva saipleriniñ
+        cid: 13
+      - text: dostudır.
+        cid: 14
   - verse: 20
     segments:
-      - text: >
-          Bu (Qur'an), insanlar içün basiret nurları, kesen-kes olaraq inanğan bir toplum
-          içün hidayet ve rahmettir.
+      - text: Bu
+        cid: 1
+      - text: (Qur'an),
         cid: 0
+      - text: insanlar içün basiret nurları,
+        cid: 3
+      - text: kesen-kes olaraq inanğan bir toplum içün
+        cid: 7
+      - text: hidayet
+        cid: 4
+      - text: ve rahmettir.
+        cid: 5
   - verse: 21
     segments:
-      - text: >
-          Yoqsa, yamanlıq yapqanlar ölümlerinde ve sağlıqlarında olarnı, inanıp yahşı
-          ameller işlegen kimselernen bir tutacaqmız zan ettilermi? Ne fena üküm
-          bermekteler! (Buña köre, kâfirler dünyadaki ferahlarına rağmen, ahirette azapqa
-          oğraycaqlar, mü'minler de yahşı davranışlarınıñ qarşılığında saadetke
-          irişecekler).
+      - text: Yoqsa,
+        cid: 1
+      - text: yamanlıq
+        cid: 5
+      - text: yapqanlar
+        cid: 10
+      - text: ölümlerinde
+        cid: 14
+      - text: ve
+        cid: 0
+      - text: sağlıqlarında olarnı,
+        cid: 6
+      - text: inanıp
+        cid: 9
+      - text: yahşı ameller
+        cid: 11
+      - text: işlegen
+        cid: 4
+      - text: kimselernen bir tutacaqmız zan ettilermi?
+        cid: 3
+      - text: Ne fena
+        cid: 15
+      - text: üküm
+        cid: 16
+      - text: bermekteler!
+        cid: 17
+      - text: >-
+          (Buña köre, kâfirler dünyadaki ferahlarına rağmen, ahirette azapqa oğraycaqlar,
+          mü'minler de yahşı davranışlarınıñ qarşılığında saadetke irişecekler).
         cid: 0
   - verse: 22
     segments:
-      - text: >
-          Allah, köklerni ve yerni yerli-yerince yaratqan. Böylece, er kes qazançına köre
-          qarşılığını körer, olarğa aqsızlıq etilmez.
-        cid: 0
+      - text: Allah,
+        cid: 2
+      - text: köklerni
+        cid: 3
+      - text: ve yerni yerli-yerince
+        cid: 4
+      - text: yaratqan.
+        cid: 1
+      - text: Böylece, er kes
+        cid: 7
+      - text: qazançına köre qarşılığını körer,
+        cid: 10
+      - text: olarğa
+        cid: 11
+      - text: aqsızlıq etilmez.
+        cid: 13
   - verse: 23
     segments:
-      - text: >
-          Arzu ve avesini tañrı etken ve Allahnıñ (öz qatındaki) bir bilgige köre,
-          sapıtqan, qulağını ve qalbini müurlegen, közüniñ üstüne de perde çekken kimseni
-          kördiñmi? Şimdi onı Allahtan başqa kim doğru yolğa iriştire bilir? Alâ ibret
-          almaydaqsıñızmı?
+      - text: Arzu ve
         cid: 0
+      - text: avesini
+        cid: 5
+      - text: tañrı etken
+        cid: 4
+      - text: ve
+        cid: 0
+      - text: Allahnıñ
+        cid: 22
+      - text: (öz qatındaki)
+        cid: 0
+      - text: bir bilgige köre,
+        cid: 8
+      - text: sapıtqan, qulağını
+        cid: 6
+      - text: ve qalbini
+        cid: 13
+      - text: müurlegen,
+        cid: 10
+      - text: közüniñ
+        cid: 16
+      - text: üstüne de
+        cid: 15
+      - text: perde
+        cid: 17
+      - text: çekken
+        cid: 14
+      - text: kimseni
+        cid: 2
+      - text: kördiñmi?
+        cid: 1
+      - text: Şimdi onı
+        cid: 18
+      - text: Allahtan
+        cid: 22
+      - text: başqa
+        cid: 10
+      - text: kim
+        cid: 18
+      - text: doğru yolğa iriştire
+        cid: 19
+      - text: bilir?
+        cid: 4
+      - text: Alâ ibret almaydaqsıñızmı?
+        cid: 23
   - verse: 24
     segments:
-      - text: >
-          Dediler ki: Ayat, ancaq bu dünyada yaşağanımızdır. Ölürmiz ve yaşarmız. Bizni,
-          ancaq vaqıt elâk eter. Bu hususta olarnıñ iç bir bilgisi de yoqtır. Olar, sadece
-          zanğa köre üküm bermekteler. (Tirilmekni ve ahiret ayatını inkâr etken dehriyler
-          (materialistler), ölümni «dehr» denilgen uzun zamanğa ya da tabiatqa bağlayaraq,
-          ondan ğayrı ve üstündeki aqiqiy tesir eticisi Allahnı tanımağanlarını ifade
-          eterler. Bularğa köre, ölümni gece ve kündüz, yani vaqıt azırlar. Ruhlarnı alğan
-          bir ölüm melegi yoqtır, bütün vaqialar vaqıtqa esaslandırılır. Amma, olar bu
-          inançnı beslerken, vaqıttan başqa iç bir delilge saip degiller).
+      - text: >-
+          Dediler ki:
+        cid: 1
+      - text: Ayat,
+        cid: 5
+      - text: ancaq bu
+        cid: 15
+      - text: dünyada
+        cid: 6
+      - text: yaşağanımızdır.
+        cid: 8
+      - text: Ölürmiz
+        cid: 7
+      - text: ve yaşarmız.
+        cid: 8
+      - text: Bizni,
+        cid: 10
+      - text: ancaq vaqıt
+        cid: 11
+      - text: elâk eter.
+        cid: 10
+      - text: Bu hususta olarnıñ iç
+        cid: 15
+      - text: bir bilgisi de
+        cid: 17
+      - text: yoqtır.
+        cid: 13
+      - text: Olar,
+        cid: 19
+      - text: sadece
+        cid: 20
+      - text: zanğa köre üküm bermekteler.
+        cid: 21
+      - text: >-
+          (Tirilmekni ve ahiret ayatını inkâr etken dehriyler (materialistler), ölümni «dehr»
+          denilgen uzun zamanğa ya da tabiatqa bağlayaraq, ondan ğayrı ve üstündeki aqiqiy
+          tesir eticisi Allahnı tanımağanlarını ifade eterler. Bularğa köre, ölümni gece ve
+          kündüz, yani vaqıt azırlar. Ruhlarnı alğan bir ölüm melegi yoqtır, bütün vaqialar
+          vaqıtqa esaslandırılır. Amma, olar bu inançnı beslerken, vaqıttan başqa iç bir
+          delilge saip degiller).
         cid: 0
   - verse: 25
     segments:
-      - text: >
-          Olarğa açıq ayetlerimiz oqulğan vaqıtta: Doğru sözlü iseñiz, atalarımıznı
-          ketiriñ, deyüvlerinden başqa delilleri yoqtır.
-        cid: 0
+      - text: Olarğa
+        cid: 3
+      - text: açıq
+        cid: 5
+      - text: ayetlerimiz
+        cid: 4
+      - text: oqulğan
+        cid: 2
+      - text: >-
+          vaqıtta:
+        cid: 4
+      - text: Doğru sözlü
+        cid: 16
+      - text: iseñiz, atalarımıznı ketiriñ, deyüvlerinden
+        cid: 15
+      - text: başqa
+        cid: 9
+      - text: delilleri yoqtır.
+        cid: 8
   - verse: 26
     segments:
-      - text: >
-          De ki: Allah sizni tiriltir, soñ öldürir. Soñra sizni şübe doğurmağan qıyamet
-          kününde bir yerge toplar, faqat insanlarnıñ çoqu bilmezler.
-        cid: 0
+      - text: >-
+          De ki:
+        cid: 1
+      - text: Allah
+        cid: 2
+      - text: sizni tiriltir,
+        cid: 3
+      - text: soñ
+        cid: 4
+      - text: öldürir.
+        cid: 5
+      - text: Soñra
+        cid: 6
+      - text: sizni
+        cid: 5
+      - text: şübe doğurmağan
+        cid: 12
+      - text: qıyamet
+        cid: 10
+      - text: kününde bir yerge
+        cid: 9
+      - text: toplar,
+        cid: 7
+      - text: faqat
+        cid: 14
+      - text: insanlarnıñ
+        cid: 16
+      - text: çoqu
+        cid: 15
+      - text: bilmezler.
+        cid: 17
   - verse: 27
     segments:
-      - text: >
-          Köklerniñ ve yerniñ mülki Allahnıñdır. Qıyamet qopacaq künü bar ya, işte, o künü
-          batılğa sapqanlar ziyanğa oğraycaqlar.
-        cid: 0
+      - text: Köklerniñ
+        cid: 3
+      - text: ve yerniñ
+        cid: 4
+      - text: mülki
+        cid: 2
+      - text: Allahnıñdır.
+        cid: 1
+      - text: Qıyamet
+        cid: 7
+      - text: qopacaq
+        cid: 6
+      - text: künü bar ya, işte, o künü
+        cid: 8
+      - text: batılğa sapqanlar ziyanğa oğraycaqlar.
+        cid: 10
   - verse: 28
     segments:
-      - text: >
-          O künü er ümmetni, tiz çökken körersiñ. Er ümmet öz kitabına çağırılır. (Olarğa
-          böyle denilir:) «Bu kün, yapqanlarıñıznen cezalandırılacaqsıñız!». (Ayette
-          bildirilgeni kibi, er dinniñ bağlıları, Allahnıñ uzurına toplanacaq ve
+      - text: O künü
+        cid: 13
+      - text: er
+        cid: 2
+      - text: ümmetni, tiz çökken
+        cid: 3
+      - text: körersiñ.
+        cid: 1
+      - text: Er
+        cid: 5
+      - text: ümmet
+        cid: 6
+      - text: öz kitabına
+        cid: 8
+      - text: çağırılır.
+        cid: 7
+      - text: (Olarğa böyle denilir:) «Bu
+        cid: 0
+      - text: kün, yapqanlarıñıznen
+        cid: 14
+      - text: cezalandırılacaqsıñız!».
+        cid: 11
+      - text: >-
+          (Ayette bildirilgeni kibi, er dinniñ bağlıları, Allahnıñ uzurına toplanacaq ve
           davranışları yazılğan «amel defterleri» berilmek üzre, çağırılacaq, ayrıca
           yapqanlarınıñ qarşılığı da özlerine berilecek).
         cid: 0
   - verse: 29
     segments:
-      - text: >
-          «Bu, yüzüñizge qarşı aqiqatnı söylegen kitabımızdır. Çünki, biz yapqanlarıñıznı
-          qayd ete edik». (Amel defterni yazğan melekler insan davranışlarını başından
-          soñuna qadar qayd eterler. Ayette yazılğan bu amellerniñ insannıñ aleyhine
-          şaatlıq etecekleri haber berilmekte).
+      - text: «Bu, yüzüñizge
+        cid: 0
+      - text: qarşı aqiqatnı
+        cid: 5
+      - text: söylegen
+        cid: 3
+      - text: kitabımızdır.
+        cid: 2
+      - text: Çünki, biz
+        cid: 6
+      - text: yapqanlarıñıznı qayd ete edik».
+        cid: 11
+      - text: >-
+          (Amel defterni yazğan melekler insan davranışlarını başından soñuna qadar qayd
+          eterler. Ayette yazılğan bu amellerniñ insannıñ aleyhine şaatlıq etecekleri haber
+          berilmekte).
         cid: 0
   - verse: 30
     segments:
-      - text: >
-          İnanıp, yahşı işler yapqanlarğa kelgende, Rabbleri olarnı rahmetine qabul eter.
-          İşte, ap-açıq qurtulış budır.
-        cid: 0
+      - text: İnanıp,
+        cid: 3
+      - text: yahşı işler
+        cid: 5
+      - text: yapqanlarğa kelgende,
+        cid: 4
+      - text: Rabbleri
+        cid: 7
+      - text: olarnı
+        cid: 6
+      - text: rahmetine qabul eter.
+        cid: 9
+      - text: İşte,
+        cid: 10
+      - text: ap-açıq
+        cid: 13
+      - text: qurtulış
+        cid: 12
+      - text: budır.
+        cid: 11
   - verse: 31
     segments:
-      - text: >
-          Amma, inkâr etkenlerge kelgende, olarğa: Ayetlerim sizge oqulğan, siz de
-          büyüklenip qabaatlı bir toplum olğan ediñiz degilmi? denilir.
+      - text: Amma,
+        cid: 1
+      - text: inkâr
+        cid: 3
+      - text: etkenlerge
+        cid: 2
+      - text: >-
+          kelgende, olarğa:
+        cid: 1
+      - text: Ayetlerim
+        cid: 6
+      - text: sizge
+        cid: 8
+      - text: oqulğan,
+        cid: 7
+      - text: siz de büyüklenip qabaatlı
+        cid: 9
+      - text: bir toplum olğan
+        cid: 11
+      - text: ediñiz
+        cid: 5
+      - text: degilmi?
+        cid: 4
+      - text: denilir.
         cid: 0
   - verse: 32
     segments:
-      - text: >
-          «Allahnıñ vadesi kerçektir, qıyamet kününe şübe yoqtır», denilgen vaqıtta:
-          Qıyametniñ ne olğanını bilmeymiz, onıñ bir tahminden ibaret olğanını zan
-          etmektemiz; (onıñ aqqında) kesen-kes bir bilgi elde etken degilmiz, degen
-          ediñiz. (Ayette keçken vade tabiri, ölümden soñ tirilüv aqiqatı ile bağlı
-          olaraq, Allahnıñ bergen sözü şeklinde yorumlanğan).
+      - text: «Allahnıñ
+        cid: 5
+      - text: vadesi
+        cid: 4
+      - text: kerçektir,
+        cid: 6
+      - text: qıyamet kününe
+        cid: 7
+      - text: şübe
+        cid: 9
+      - text: yoqtır»,
+        cid: 8
+      - text: >-
+          denilgen vaqıtta:
+        cid: 2
+      - text: Qıyametniñ ne olğanını
+        cid: 7
+      - text: bilmeymiz, onıñ bir tahminden ibaret olğanını
+        cid: 12
+      - text: zan etmektemiz;
+        cid: 19
+      - text: (onıñ aqqında)
+        cid: 0
+      - text: kesen-kes
+        cid: 3
+      - text: bir bilgi elde etken
+        cid: 12
+      - text: degilmiz, degen ediñiz.
+        cid: 20
+      - text: >-
+          (Ayette keçken vade tabiri, ölümden soñ tirilüv aqiqatı ile bağlı olaraq, Allahnıñ
+          bergen sözü şeklinde yorumlanğan).
         cid: 0
   - verse: 33
     segments:
-      - text: >
-          Yapqan yamanlıqları olarğa körüngen, alay etip turğan şeyleri olarnı sarıp
-          alğan. (Ayet, kâfirlerniñ işlegenleri ahirette aşkâr olacağı ve alayğa alğan
-          azaplarınıñ aqiqatı olarnı sarıp, mahv eteceginden haber bermekte).
+      - text: Yapqan
+        cid: 5
+      - text: yamanlıqları
+        cid: 3
+      - text: olarğa
+        cid: 2
+      - text: körüngen,
+        cid: 1
+      - text: alay etip turğan
+        cid: 11
+      - text: şeyleri
+        cid: 4
+      - text: olarnı sarıp alğan.
+        cid: 7
+      - text: >-
+          (Ayet, kâfirlerniñ işlegenleri ahirette aşkâr olacağı ve alayğa alğan azaplarınıñ
+          aqiqatı olarnı sarıp, mahv eteceginden haber bermekte).
         cid: 0
   - verse: 34
     segments:
-      - text: >
-          Denilir ki: Bu künge qavuşacağıñıznı unutqanıñız kibi, biz de bugün sizni
-          unutırmız. Yeriñiz ateştir, yardımcılarıñız da yoqtır!
-        cid: 0
+      - text: >-
+          Denilir ki:
+        cid: 1
+      - text: Bu
+        cid: 8
+      - text: künge
+        cid: 7
+      - text: qavuşacağıñıznı
+        cid: 5
+      - text: unutqanıñız kibi,
+        cid: 3
+      - text: biz de
+        cid: 5
+      - text: bugün
+        cid: 2
+      - text: sizni
+        cid: 3
+      - text: unutırmız.
+        cid: 5
+      - text: Yeriñiz
+        cid: 9
+      - text: ateştir,
+        cid: 10
+      - text: yardımcılarıñız da
+        cid: 14
+      - text: yoqtır!
+        cid: 11
   - verse: 35
     segments:
-      - text: >
-          Bunıñ böyle oluv sebebi şudır: Siz Allahnıñ ayetlerini alayğa aldıñız, dünya
-          ayatı sizni aldattı. Artıq bugün ateşten çıqarılmaycaqlar ve olarnıñ (Allahnı)
-          hoşnut etüvleri de istenilmeycek. (Ayetten añlaşılğanına köre, azapnı
-          qazanğanlar, Qur'an-ı Kerimni alayğa alğanlar ve ahiret ayatını qabul
-          etmegenlerdir. Artıq bu vaziyette bularnıñ o künde tövbe ve itaatlarınıñ faydası
-          toqunmaycaq).
+      - text: >-
+          Bunıñ böyle oluv sebebi şudır:
+        cid: 1
+      - text: Siz
+        cid: 2
+      - text: Allahnıñ
+        cid: 5
+      - text: ayetlerini
+        cid: 4
+      - text: alayğa
+        cid: 6
+      - text: aldıñız,
+        cid: 7
+      - text: dünya
+        cid: 9
+      - text: ayatı
+        cid: 8
+      - text: sizni aldattı.
+        cid: 7
+      - text: Artıq bugün
+        cid: 10
+      - text: ateşten
+        cid: 13
+      - text: çıqarılmaycaqlar
+        cid: 12
+      - text: ve olarnıñ
+        cid: 14
+      - text: (Allahnı)
+        cid: 0
+      - text: hoşnut etüvleri de
+        cid: 14
+      - text: istenilmeycek.
+        cid: 16
+      - text: >-
+          (Ayetten añlaşılğanına köre, azapnı qazanğanlar, Qur'an-ı Kerimni alayğa alğanlar ve
+          ahiret ayatını qabul etmegenlerdir. Artıq bu vaziyette bularnıñ o künde tövbe ve
+          itaatlarınıñ faydası toqunmaycaq).
         cid: 0
   - verse: 36
     segments:
-      - text: >
-          Hamd köklerniñ Rabbi, yerniñ Rabbi, bütün alemlerniñ Rabbi olğan Allahqa
-          mahsustır.
-        cid: 0
+      - text: Hamd
+        cid: 2
+      - text: köklerniñ
+        cid: 4
+      - text: Rabbi,
+        cid: 5
+      - text: yerniñ
+        cid: 6
+      - text: Rabbi,
+        cid: 7
+      - text: bütün alemlerniñ
+        cid: 8
+      - text: Rabbi olğan
+        cid: 7
+      - text: Allahqa mahsustır.
+        cid: 1
   - verse: 37
     segments:
-      - text: >
-          Köklerde ve yerde azamet yalıñız Onıñdır. O, azizdir, hakimdir.
-        cid: 0
+      - text: Köklerde
+        cid: 4
+      - text: ve yerde azamet
+        cid: 5
+      - text: yalıñız Onıñdır.
+        cid: 1
+      - text: O,
+        cid: 6
+      - text: azizdir,
+        cid: 7
+      - text: hakimdir.
+        cid: 8

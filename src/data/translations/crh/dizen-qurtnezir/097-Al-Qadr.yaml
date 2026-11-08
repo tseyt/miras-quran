@@ -4,27 +4,61 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Biz onı (Qur'annı) Qadir gecesinde endirdik.
+      - text: Biz
+        cid: 1
+      - text: onı
+        cid: 2
+      - text: (Qur'annı)
         cid: 0
+      - text: Qadir
+        cid: 5
+      - text: gecesinde
+        cid: 3
+      - text: endirdik.
+        cid: 2
   - verse: 2
     segments:
-      - text: >
-          Qadir gecesiniñ ne olğanını sen bilesiñmi?
-        cid: 0
+      - text: Qadir
+        cid: 5
+      - text: gecesiniñ
+        cid: 4
+      - text: ne olğanını sen
+        cid: 3
+      - text: bilesiñmi?
+        cid: 2
   - verse: 3
     segments:
-      - text: >
-          Qadir gecesi biñ aydan hayırlıdır.
-        cid: 0
+      - text: Qadir
+        cid: 2
+      - text: gecesi
+        cid: 1
+      - text: biñ aydan
+        cid: 4
+      - text: hayırlıdır.
+        cid: 3
   - verse: 4
     segments:
-      - text: >
-          O gecede, Rabbleriniñ izninen, melekler ve Ruh (Cebrail), er iş içün ener
-          turarlar.
+      - text: O
         cid: 0
+      - text: gecede, Rabbleriniñ
+        cid: 6
+      - text: izninen,
+        cid: 5
+      - text: melekler
+        cid: 2
+      - text: ve Ruh
+        cid: 3
+      - text: (Cebrail),
+        cid: 0
+      - text: er
+        cid: 8
+      - text: iş içün ener turarlar.
+        cid: 9
   - verse: 5
     segments:
-      - text: >
-          O gece selâmetlik toludır. Ta fecrniñ doğuvına qadar.
-        cid: 0
+      - text: O gece
+        cid: 2
+      - text: selâmetlik toludır.
+        cid: 1
+      - text: Ta fecrniñ doğuvına qadar.
+        cid: 5

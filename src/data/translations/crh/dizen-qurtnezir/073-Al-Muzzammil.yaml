@@ -4,135 +4,397 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Ey, örtünip bürüngen (Resulım)! (İlk vahiy kelgenden soñ, Az. Peyğamber ilk kere
-          Cebrailni aslıy şeklinen körgen, vucudını bir ürküv ve titrev qaplağan. Doğru
-          evine barıp, qadını Az. Haticege: «Meni örtüñ» degen. İşte, bu vaqianıñ artından
-          Cebrail aleyhisselâm kene oña vahiynen kelgen ve Resul-ı Ekeremge şu şekilde
-          hitap etken).
+      - text: Ey,
+        cid: 1
+      - text: örtünip bürüngen
+        cid: 2
+      - text: >-
+          (Resulım)! (İlk vahiy kelgenden soñ, Az. Peyğamber ilk kere Cebrailni aslıy şeklinen
+          körgen, vucudını bir ürküv ve titrev qaplağan. Doğru evine barıp, qadını Az.
+          Haticege: «Meni örtüñ» degen. İşte, bu vaqianıñ artından Cebrail aleyhisselâm kene
+          oña vahiynen kelgen ve Resul-ı Ekeremge şu şekilde hitap etken).
         cid: 0
   - verse: 2
     segments:
-      - text: >
-          Bir azı istisna, geceleri qalq, namaz qıl (geceniñ) yarısını (qıl). Yahut bunı
-          biraz azalt, ya da çoqlaştır ve Qur'annı dane-dane oqu.
+      - text: Bir azı
+        cid: 0
+      - text: istisna, geceleri
+        cid: 2
+      - text: qalq, namaz qıl
+        cid: 1
+      - text: >-
+          (geceniñ) yarısını (qıl). Yahut bunı biraz azalt, ya da çoqlaştır ve Qur'annı
+          dane-dane oqu.
         cid: 0
   - verse: 3
     segments:
-      - text: >
+      - text: >-
           [2 ayetine baq.]
         cid: 0
   - verse: 4
     segments:
-      - text: >
+      - text: >-
           [2 ayetine baq.]
         cid: 0
   - verse: 5
     segments:
-      - text: >
-          Doğrusı, biz saña (taşıması) ağır bir söz vahiy etecekmiz.
+      - text: Doğrusı, biz
+        cid: 1
+      - text: saña
+        cid: 3
+      - text: (taşıması)
         cid: 0
+      - text: ağır
+        cid: 5
+      - text: bir söz vahiy etecekmiz.
+        cid: 4
   - verse: 6
     segments:
-      - text: >
-          Şübesiz, gece qalqışı - (yürek ve azalar arasında) tam bir uyuvğa ve sağlam bir
-          qıraatqa daa elverişlidir.
+      - text: Şübesiz,
+        cid: 1
+      - text: gece
+        cid: 3
+      - text: qalqışı -
+        cid: 2
+      - text: (yürek ve azalar arasında)
         cid: 0
+      - text: tam bir uyuvğa
+        cid: 2
+      - text: ve sağlam bir qıraatqa
+        cid: 7
+      - text: daa elverişlidir.
+        cid: 5
   - verse: 7
     segments:
-      - text: >
-          Zira, kündüz vaqıtı saña uzun bir meşğuliyet bar.
-        cid: 0
+      - text: Zira, kündüz vaqıtı
+        cid: 4
+      - text: saña
+        cid: 2
+      - text: uzun bir meşğuliyet
+        cid: 6
+      - text: bar.
+        cid: 2
   - verse: 8
     segments:
-      - text: >
-          Rabbiñniñ adını añ. Bütün barlığıñnen Oña yönel.
-        cid: 0
+      - text: Rabbiñniñ
+        cid: 3
+      - text: adını
+        cid: 2
+      - text: añ.
+        cid: 1
+      - text: Bütün barlığıñnen
+        cid: 6
+      - text: Oña
+        cid: 5
+      - text: yönel.
+        cid: 4
   - verse: 9
     segments:
-      - text: >
-          O, şarqnıñ da, ğarbnıñ da Rabbidir. Ondan başqa ilâh yoqtır. Öyle ise, yalıñız
-          onıñ imayesine sığın.
+      - text: O, şarqnıñ da, ğarbnıñ
         cid: 0
+      - text: da Rabbidir.
+        cid: 1
+      - text: Ondan
+        cid: 7
+      - text: başqa
+        cid: 6
+      - text: ilâh
+        cid: 5
+      - text: yoqtır.
+        cid: 4
+      - text: Öyle
+        cid: 0
+      - text: ise, yalıñız onıñ imayesine sığın.
+        cid: 8
   - verse: 10
     segments:
-      - text: >
-          Olarnıñ (müşriklerniñ) söylegenlerine qatlan ve olardan güzelliknen ayırıl.
+      - text: Olarnıñ (müşriklerniñ) söylegenlerine qatlan
         cid: 0
+      - text: ve olardan
+        cid: 5
+      - text: güzelliknen ayırıl.
+        cid: 7
   - verse: 11
     segments:
-      - text: >
-          Nimet içinde yaldağan o yalancılarnı maña bıraq ve olarğa biraz muhlet ber.
-        cid: 0
+      - text: Nimet içinde
+        cid: 4
+      - text: yaldağan o yalancılarnı maña
+        cid: 2
+      - text: bıraq
+        cid: 1
+      - text: ve olarğa
+        cid: 5
+      - text: biraz
+        cid: 6
+      - text: muhlet ber.
+        cid: 5
   - verse: 12
     segments:
-      - text: >
-          İç şübesiz, bizim nezdimizde (olar içün azırlanğan) moysalar, yaqıcı bir ateş,
-          boğazdan keçmez bir aşalacaq ve elem berici bir azap bar.
+      - text: İç şübesiz, bizim nezdimizde
+        cid: 1
+      - text: (olar içün azırlanğan)
         cid: 0
+      - text: moysalar, yaqıcı bir ateş,
+        cid: 1
+      - text: boğazdan keçmez bir aşalacaq ve elem berici bir azap
+        cid: 0
+      - text: bar.
+        cid: 2
   - verse: 13
     segments:
-      - text: >
+      - text: >-
           [12 ayetine baq.]
         cid: 0
   - verse: 14
     segments:
-      - text: >
-          O künü (qıyamet künü) yer yüzü ve dağlar sarsılır; dağlar çöküntinen aqıp ketken
-          qum obasına döner.
+      - text: O künü
+        cid: 1
+      - text: (qıyamet künü)
         cid: 0
+      - text: yer yüzü
+        cid: 3
+      - text: ve
+        cid: 0
+      - text: dağlar
+        cid: 6
+      - text: sarsılır;
+        cid: 2
+      - text: dağlar çöküntinen aqıp ketken qum obasına döner.
+        cid: 4
   - verse: 15
     segments:
-      - text: >
-          Nasıl Fıravunğa bir elçi yollağan olsaq, doğrusı, sizge de, aqqıñızda şaatlıq
-          etecek bir peyğamber yolladıq.
-        cid: 0
+      - text: Nasıl Fıravunğa
+        cid: 10
+      - text: bir elçi yollağan olsaq,
+        cid: 4
+      - text: doğrusı,
+        cid: 1
+      - text: sizge de, aqqıñızda şaatlıq etecek
+        cid: 3
+      - text: bir peyğamber
+        cid: 11
+      - text: yolladıq.
+        cid: 5
   - verse: 16
     segments:
-      - text: >
-          Amma, Fıravun o peyğamberge qarşı kelgen, biz de onı ağır ve çetin bir şekilde
-          esapqa çekken edik.
+      - text: Amma, Fıravun
+        cid: 2
+      - text: o peyğamberge
+        cid: 3
+      - text: qarşı kelgen,
+        cid: 1
+      - text: biz de onı
+        cid: 4
+      - text: ağır
+        cid: 6
+      - text: ve çetin bir şekilde esapqa çekken edik.
         cid: 0
   - verse: 17
     segments:
-      - text: >
-          Yahşı, inkâr etseñiz, balalarnı aq saçlı, ihtiyarlarğa çevirecek o künden
-          özüñizni nasıl qorçalay bileceksiñiz?
-        cid: 0
+      - text: Yahşı, inkâr etseñiz,
+        cid: 4
+      - text: balalarnı aq saçlı,
+        cid: 7
+      - text: ihtiyarlarğa çevirecek
+        cid: 8
+      - text: o künden özüñizni
+        cid: 5
+      - text: nasıl qorçalay bileceksiñiz?
+        cid: 1
   - verse: 18
     segments:
-      - text: >
-          Kök yüzü bile onıñnen (o künniñ deşetinen) yarılacq. Allahnıñ vadesi, mıtlaqa
-          yerine kelir.
+      - text: Kök yüzü bile
+        cid: 1
+      - text: onıñnen
+        cid: 3
+      - text: (o künniñ deşetinen)
         cid: 0
+      - text: yarılacq.
+        cid: 2
+      - text: Allahnıñ vadesi, mıtlaqa
+        cid: 5
+      - text: yerine kelir.
+        cid: 6
   - verse: 19
     segments:
-      - text: >
-          İşte, bu (añlatılğanlar), şübesiz bir ögüttir. Artıq kim istese, Rabbine
-          (barğan) bir yol tutar.
+      - text: İşte, bu
+        cid: 2
+      - text: (añlatılğanlar),
         cid: 0
+      - text: şübesiz
+        cid: 1
+      - text: bir ögüttir.
+        cid: 3
+      - text: Artıq kim
+        cid: 4
+      - text: istese,
+        cid: 5
+      - text: Rabbine
+        cid: 8
+      - text: (barğan)
+        cid: 0
+      - text: bir yol
+        cid: 9
+      - text: tutar.
+        cid: 6
   - verse: 20
     segments:
-      - text: >
-          (Resulım!) Seniñ geceniñ üçte ekisine yaqın qısmını, (bazan) yarısını, bazan da
-          (üçte birini) yatmadan (ibadetnen) keçirgeniñni ve yanıñda olğanlardan bir
-          toplulıqnıñ da, (böyle yapqanını) Rabbiñ, elbette bilmekte. Gece ve kündüzi
-          (içinde olup keçenlerni yahşıdan-yahşı) ölçep-biçken ancaq Allahtır. O, siziñ,
-          bunı sayalmaycağıñıznı bilgeni içün, sizni bağışladı. Artıq, Qur'andan
-          qolayıñızğa kelgenini oquñ. Allah bilmektedir ki, arañızda hastalar olacaq, bir
-          qısmıñız Allahnıñ lütfinden (rızıq) qıdırmaq üzre, yer yüzünde yol yürecek,
-          diger bir qısmıñız da, Allah yolunda cenkleşecek. O alda, Qur'andan qolayıñızğa
-          kelgenini oquñ. Namaznı qılıñ, zekâtnı beriñ, Allahqa goñül hoşluğınen ödünç
-          beriñ, özüñiz içün evelden (dünyada olğanda) ne yahşılıq azırlasıñız, Allah
-          qatında onı taparsıñız; em de daa üstün ve mükâfatça daa büyük olmaq üzre.
-          Allahtan mağfiret tileñ, şübesiz Allah çoq bağışlayıcı, çoq merhametlidir.
+      - text: (Resulım!)
+        cid: 0
+      - text: Seniñ geceniñ
+        cid: 9
+      - text: üçte ekisine yaqın qısmını,
+        cid: 7
+      - text: (bazan)
+        cid: 0
+      - text: yarısını, bazan da
+        cid: 10
+      - text: (üçte birini)
+        cid: 0
+      - text: yatmadan
+        cid: 10
+      - text: (ibadetnen)
+        cid: 0
+      - text: keçirgeniñni
+        cid: 10
+      - text: ve yanıñda
+        cid: 0
+      - text: olğanlardan bir toplulıqnıñ da,
+        cid: 12
+      - text: (böyle yapqanını)
+        cid: 0
+      - text: Rabbiñ,
+        cid: 2
+      - text: elbette
+        cid: 1
+      - text: bilmekte.
+        cid: 3
+      - text: Gece
+        cid: 18
+      - text: ve kündüzi
+        cid: 19
+      - text: (içinde olup keçenlerni yahşıdan-yahşı)
+        cid: 0
+      - text: ölçep-biçken
+        cid: 19
+      - text: ancaq Allahtır.
+        cid: 68
+      - text: O,
+        cid: 69
+      - text: siziñ, bunı sayalmaycağıñıznı
+        cid: 23
+      - text: bilgeni içün,
+        cid: 20
+      - text: sizni
+        cid: 25
+      - text: bağışladı.
+        cid: 77
+      - text: Artıq,
+        cid: 26
+      - text: Qur'andan qolayıñızğa kelgenini
+        cid: 30
+      - text: oquñ.
+        cid: 26
+      - text: Allah
+        cid: 76
+      - text: bilmektedir ki,
+        cid: 31
+      - text: arañızda
+        cid: 34
+      - text: hastalar olacaq, bir qısmıñız
+        cid: 35
+      - text: Allahnıñ
+        cid: 48
+      - text: lütfinden
+        cid: 41
+      - text: (rızıq)
+        cid: 0
+      - text: qıdırmaq üzre,
+        cid: 41
+      - text: yer yüzünde
+        cid: 39
+      - text: yol yürecek,
+        cid: 46
+      - text: diger bir qısmıñız da,
+        cid: 44
+      - text: Allah
+        cid: 16
+      - text: yolunda
+        cid: 46
+      - text: cenkleşecek.
+        cid: 45
+      - text: O
+        cid: 69
+      - text: alda,
+        cid: 45
+      - text: Qur'andan qolayıñızğa kelgenini
+        cid: 30
+      - text: oquñ.
+        cid: 49
+      - text: Namaznı
+        cid: 54
+      - text: qılıñ,
+        cid: 53
+      - text: zekâtnı
+        cid: 56
+      - text: beriñ,
+        cid: 55
+      - text: Allahqa goñül hoşluğınen
+        cid: 43
+      - text: ödünç
+        cid: 59
+      - text: beriñ, özüñiz içün
+        cid: 55
+      - text: evelden
+        cid: 63
+      - text: (dünyada olğanda)
+        cid: 0
+      - text: ne
+        cid: 63
+      - text: yahşılıq
+        cid: 60
+      - text: azırlasıñız,
+        cid: 6
+      - text: Allah
+        cid: 16
+      - text: qatında
+        cid: 67
+      - text: onı taparsıñız;
+        cid: 11
+      - text: em
+        cid: 0
+      - text: de daa üstün
+        cid: 12
+      - text: ve
+        cid: 0
+      - text: mükâfatça
+        cid: 72
+      - text: daa
+        cid: 12
+      - text: büyük olmaq üzre.
+        cid: 71
+      - text: Allahtan
+        cid: 74
+      - text: mağfiret tileñ,
+        cid: 73
+      - text: şübesiz
+        cid: 75
+      - text: Allah
+        cid: 16
+      - text: çoq
+        cid: 78
+      - text: bağışlayıcı,
+        cid: 77
+      - text: çoq merhametlidir.
+        cid: 78
+      - text: >-
           (Sahabe-i kiramnıñ bir qısmı Resul-ı Ekremge uyaraq, geceniñ müim bir qısmını
           ibadetnen keçire edi. Sabağa ne qadar qalğanını kestiralmağanı içün, muqaytlıq
-          noqtai nazarından, bütün gece ibadet etken ve ayaqları şişkenler bar edi.
-          Ümmet-i Muhammedniñ buña küç yetiştiralmaycağını bilgeni içün, Cenab-ı Haq bu
-          tarzda gece ibadetini olarğa farz qılmadı. Namazda Qur'an oqulğanından, bu yerde
-          gece namazınıñ micazen Qur'an oqumaq ile ifade etilgeni ve «qolayıñızğa kelgeni
-          qadar gece namazı qılıñ» manası közde tutulğanı bildirile. Ayetniñ soñki
-          qısmında, sağ olğanda yapılğan hayırlarnıñ ölüm soñuna bıraqılğan vasiyetke
-          baqqanda, daa savaplı olğanına işaret bulunğanı tefsirlerde ifade etilmekte).
+          noqtai nazarından, bütün gece ibadet etken ve ayaqları şişkenler bar edi. Ümmet-i
+          Muhammedniñ buña küç yetiştiralmaycağını bilgeni içün, Cenab-ı Haq bu tarzda gece
+          ibadetini olarğa farz qılmadı. Namazda Qur'an oqulğanından, bu yerde gece namazınıñ
+          micazen Qur'an oqumaq ile ifade etilgeni ve «qolayıñızğa kelgeni qadar gece namazı
+          qılıñ» manası közde tutulğanı bildirile. Ayetniñ soñki qısmında, sağ olğanda
+          yapılğan hayırlarnıñ ölüm soñuna bıraqılğan vasiyetke baqqanda, daa savaplı olğanına
+          işaret bulunğanı tefsirlerde ifade etilmekte).
         cid: 0

@@ -4,85 +4,331 @@ author: dizen-qurtnezir
 verses:
   - verse: 1
     segments:
-      - text: >
-          Köklerde ve yerde olğanlarnıñ episi mülkniñ saibi, eksiklikten uzaq, aziz ve
-          hakim olğan Allahnı tesbih eter.
+      - text: Köklerde
+        cid: 5
+      - text: ve
         cid: 0
+      - text: yerde
+        cid: 8
+      - text: olğanlarnıñ episi mülkniñ saibi, eksiklikten uzaq,
+        cid: 1
+      - text: aziz
+        cid: 11
+      - text: ve
+        cid: 0
+      - text: hakim olğan
+        cid: 12
+      - text: Allahnı
+        cid: 2
+      - text: tesbih eter.
+        cid: 1
   - verse: 2
     segments:
-      - text: >
-          Çünki, ümmiylerge aralarından, özlerine ayetlerini oquğan, olarnı temizlegen,
-          olarğa Kitapnı ve ikmetni ögretken bir Peyğamber yollağan Odır. Şübesiz, olar
-          evelden ap-açıq bir sapıqlıq içinde ediler.
-        cid: 0
+      - text: Çünki, ümmiylerge
+        cid: 5
+      - text: aralarından,
+        cid: 12
+      - text: özlerine
+        cid: 7
+      - text: ayetlerini
+        cid: 10
+      - text: oquğan,
+        cid: 8
+      - text: olarnı
+        cid: 11
+      - text: temizlegen, olarğa
+        cid: 12
+      - text: Kitapnı
+        cid: 13
+      - text: ve ikmetni
+        cid: 14
+      - text: ögretken
+        cid: 12
+      - text: bir Peyğamber yollağan Odır.
+        cid: 6
+      - text: Şübesiz, olar
+        cid: 16
+      - text: evelden
+        cid: 17
+      - text: ap-açıq
+        cid: 21
+      - text: bir sapıqlıq
+        cid: 20
+      - text: içinde ediler.
+        cid: 19
   - verse: 3
     segments:
-      - text: >
-          (Peyğamberni) mü'minlerden alâ olarğa qoşulmağan diger insanlarğa da
-          yollağandır. O, azizdir, hakimdir. (Az.Peyğamber araplardan başqa milletlerge de
-          Peyğamber olaraq yollanılğandır. Çünki, Peyğamberimizniñ peyğamberligi ve
-          risaleti umumiy ve devamiydir. O qıyametke qadar kelecek bütün insanlarğa
-          Peyğamber olaraq yollanılğan).
+      - text: (Peyğamberni) mü'minlerden
+        cid: 0
+      - text: alâ olarğa qoşulmağan
+        cid: 2
+      - text: diger insanlarğa da yollağandır.
+        cid: 1
+      - text: O,
+        cid: 6
+      - text: azizdir,
+        cid: 7
+      - text: hakimdir.
+        cid: 8
+      - text: >-
+          (Az.Peyğamber araplardan başqa milletlerge de Peyğamber olaraq yollanılğandır.
+          Çünki, Peyğamberimizniñ peyğamberligi ve risaleti umumiy ve devamiydir. O qıyametke
+          qadar kelecek bütün insanlarğa Peyğamber olaraq yollanılğan).
         cid: 0
   - verse: 4
     segments:
-      - text: >
-          Bu, Allahnıñ lütfidir. Onı istegenine berir. Allah büyük lütf saibidir.
-        cid: 0
+      - text: Bu,
+        cid: 1
+      - text: Allahnıñ
+        cid: 3
+      - text: lütfidir.
+        cid: 2
+      - text: Onı
+        cid: 4
+      - text: istegenine
+        cid: 6
+      - text: berir.
+        cid: 4
+      - text: Allah
+        cid: 7
+      - text: büyük
+        cid: 10
+      - text: lütf
+        cid: 9
+      - text: saibidir.
+        cid: 8
   - verse: 5
     segments:
-      - text: >
-          Tevratnen mesuliyetli tutılıp da, onen amel etmegenlerniñ vaziyeti, cıltlarnen
-          kitap yüklengen eşekniñ vaziyeti kibidir. Allahnıñ ayetlerini yalanlağan qavmnıñ
-          vaziyeti ne fenadır! Allah zalımlar toplulığını doğru yolğa qavuştırmaz. (Bu
-          teşbihten añlaşılğanı kibi, kitap insanlarğa amel etilüvi içün yollanılğan; aks
+      - text: Tevratnen mesuliyetli tutılıp da, onen amel etmegenlerniñ
+        cid: 4
+      - text: vaziyeti, cıltlarnen
+        cid: 8
+      - text: kitap
+        cid: 11
+      - text: yüklengen
+        cid: 2
+      - text: eşekniñ
+        cid: 9
+      - text: vaziyeti kibidir.
+        cid: 8
+      - text: Allahnıñ
+        cid: 18
+      - text: ayetlerini
+        cid: 17
+      - text: yalanlağan
+        cid: 15
+      - text: qavmnıñ
+        cid: 14
+      - text: vaziyeti
+        cid: 13
+      - text: ne fenadır!
+        cid: 12
+      - text: Allah
+        cid: 19
+      - text: zalımlar
+        cid: 23
+      - text: toplulığını
+        cid: 22
+      - text: doğru
+        cid: 20
+      - text: yolğa
+        cid: 21
+      - text: qavuştırmaz.
+        cid: 14
+      - text: >-
+          (Bu teşbihten añlaşılğanı kibi, kitap insanlarğa amel etilüvi içün yollanılğan; aks
           alda, yük oluvdan başqa bir fayda teminlemez).
         cid: 0
   - verse: 6
     segments:
-      - text: >
-          De ki: Ey, yeudiyler! Bütün insanlar degil de, yalıñız özüñiz Allahnıñ dostları
-          olğanıñıznı idda etmekte iseñiz, bunda da samimiy iseñiz, aydı, ölümni isteñ
-          (baqayıq)! («Biz Allahnıñ oğulları ve dostlarımız», degen yeudiylerden aman
-          ölümni arzu etüvleri istengen. Çünki, Allahnıñ dostları ahiretni üstün
-          körgenler. Ölüm ise, ahiretniñ başlanğıçıdır).
+      - text: >-
+          De ki:
+        cid: 1
+      - text: Ey, yeudiyler!
+        cid: 2
+      - text: Bütün insanlar
+        cid: 12
+      - text: degil de,
+        cid: 13
+      - text: yalıñız özüñiz
+        cid: 7
+      - text: Allahnıñ
+        cid: 9
+      - text: dostları olğanıñıznı idda etmekte
+        cid: 8
+      - text: iseñiz, bunda da
+        cid: 16
+      - text: samimiy
+        cid: 17
+      - text: iseñiz,
+        cid: 16
+      - text: aydı,
+        cid: 13
+      - text: ölümni isteñ
+        cid: 14
+      - text: >-
+          (baqayıq)! («Biz Allahnıñ oğulları ve dostlarımız», degen yeudiylerden aman ölümni
+          arzu etüvleri istengen. Çünki, Allahnıñ dostları ahiretni üstün körgenler. Ölüm ise,
+          ahiretniñ başlanğıçıdır).
         cid: 0
   - verse: 7
     segments:
-      - text: >
-          Amma olar, evelden yapqanları sebebinden, ölümni asla istemezler. Allah
-          zalımlarnı pek yahşı bilir. (Çünki, zalımlarnıñ işleri, inkâr ve isyan olğan.
-          Bularnı yapqanlar ölümni istep olamazlar).
+      - text: Amma olar,
+        cid: 0
+      - text: evelden yapqanları sebebinden, ölümni
+        cid: 5
+      - text: asla istemezler.
+        cid: 3
+      - text: Allah
+        cid: 7
+      - text: zalımlarnı pek yahşı
+        cid: 9
+      - text: bilir.
+        cid: 8
+      - text: >-
+          (Çünki, zalımlarnıñ işleri, inkâr ve isyan olğan. Bularnı yapqanlar ölümni istep
+          olamazlar).
         cid: 0
   - verse: 8
     segments:
-      - text: >
-          De ki: Siziñ ondan qaçtığıñız ölüm mıtlaqa sizni tapacaq. Soñra da, körülgenni
-          ve körülmegenni bilici Allahqa döndürileceksiñiz de, O sizge bütün
-          yapqanlarıñıznı haber berecek.
-        cid: 0
+      - text: >-
+          De ki:
+        cid: 1
+      - text: Siziñ ondan
+        cid: 6
+      - text: qaçtığıñız
+        cid: 4
+      - text: ölüm mıtlaqa
+        cid: 3
+      - text: sizni tapacaq.
+        cid: 8
+      - text: Soñra da,
+        cid: 9
+      - text: körülgenni
+        cid: 13
+      - text: ve körülmegenni bilici Allahqa
+        cid: 14
+      - text: döndürileceksiñiz de,
+        cid: 10
+      - text: O sizge
+        cid: 15
+      - text: bütün yapqanlarıñıznı
+        cid: 18
+      - text: haber berecek.
+        cid: 15
   - verse: 9
     segments:
-      - text: >
-          Ey, iman etkenler! Cuma künü namazğa çağırılğan (ezan oqulğan) vaqıtta, aman
-          Allahnı añmağa çapışıñ ve alış-verişni braqıñ. Eger bilmiş olsañız, elbette bu
-          siz içün daa hayırlıdır.
+      - text: Ey,
+        cid: 1
+      - text: iman etkenler!
+        cid: 3
+      - text: Cuma
+        cid: 9
+      - text: künü
+        cid: 7
+      - text: namazğa
+        cid: 6
+      - text: çağırılğan
+        cid: 5
+      - text: (ezan oqulğan)
         cid: 0
+      - text: vaqıtta,
+        cid: 5
+      - text: aman
+        cid: 4
+      - text: Allahnı
+        cid: 13
+      - text: añmağa çapışıñ
+        cid: 11
+      - text: ve
+        cid: 0
+      - text: alış-verişni braqıñ.
+        cid: 15
+      - text: Eger
+        cid: 19
+      - text: bilmiş olsañız, elbette
+        cid: 20
+      - text: bu
+        cid: 16
+      - text: siz içün
+        cid: 18
+      - text: daa hayırlıdır.
+        cid: 17
   - verse: 10
     segments:
-      - text: >
-          Namaz qılınğanınen, artıq yer yüzüne dağılıñ ve Allahnıñ lütfinden isteñ.
-          Allahnı çoq zikr etiñ; ümüt etilir ki, qurtulışqa irişirsiñiz.
+      - text: Namaz
+        cid: 3
+      - text: qılınğanınen,
+        cid: 11
+      - text: artıq
+        cid: 7
+      - text: yer yüzüne
+        cid: 6
+      - text: dağılıñ
+        cid: 4
+      - text: ve
         cid: 0
+      - text: Allahnıñ
+        cid: 10
+      - text: lütfinden
+        cid: 8
+      - text: isteñ.
+        cid: 7
+      - text: Allahnı
+        cid: 10
+      - text: çoq zikr etiñ;
+        cid: 13
+      - text: ümüt etilir ki,
+        cid: 14
+      - text: qurtulışqa irişirsiñiz.
+        cid: 15
   - verse: 11
     segments:
-      - text: >
-          Olar bir ticaret ve eglence körgen vaqıtlarında, aman dağılıp, oña barırlar ve
-          seni ayaqta bıraqırlar. De ki: Allahnıñ yanında bulunğanı, eglenceden ve
-          ticaretten daa faydalıdır. Allah rızıq bergenlerniñ eñ hayırlısıdır. (Rivayetke
-          köre, Medinede qıtlıq yaşanğan bir devirde Az.Peyğamber, cuma hutbesi oquğanda,
-          o yerden aşayt yüklü bir kervan keçe edi. Kervannıñ kelgenini bildirgen def
-          sesini eşitkeninen, er kes kervanğa çaptı, yalıñız on eki adam qaldı. Ayet bunıñ
-          üzerine nazil oldı, eski zamanlarda bir kervan kelgen vaqıtta oña nisbeten
-          quvanç kösterişi olmaq üzre, def çalınır edi).
+      - text: Olar bir ticaret
+        cid: 3
+      - text: ve
+        cid: 4
+      - text: eglence
+        cid: 5
+      - text: körgen vaqıtlarında,
+        cid: 2
+      - text: aman
+        cid: 1
+      - text: dağılıp,
+        cid: 6
+      - text: oña barırlar
+        cid: 7
+      - text: ve seni
+        cid: 8
+      - text: ayaqta
+        cid: 9
+      - text: bıraqırlar.
+        cid: 8
+      - text: >-
+          De ki:
+        cid: 10
+      - text: Allahnıñ
+        cid: 13
+      - text: yanında
+        cid: 12
+      - text: bulunğanı,
+        cid: 11
+      - text: eglenceden
+        cid: 15
+      - text: ve
+        cid: 0
+      - text: ticaretten daa faydalıdır.
+        cid: 18
+      - text: Allah
+        cid: 19
+      - text: rızıq bergenlerniñ
+        cid: 21
+      - text: eñ hayırlısıdır.
+        cid: 20
+      - text: >-
+          (Rivayetke köre, Medinede qıtlıq yaşanğan bir devirde Az.Peyğamber, cuma hutbesi
+          oquğanda, o yerden aşayt yüklü bir kervan keçe edi. Kervannıñ kelgenini bildirgen
+          def sesini eşitkeninen, er kes kervanğa çaptı, yalıñız on eki adam qaldı. Ayet bunıñ
+          üzerine nazil oldı, eski zamanlarda bir kervan kelgen vaqıtta oña nisbeten quvanç
+          kösterişi olmaq üzre, def çalınır edi).
         cid: 0
